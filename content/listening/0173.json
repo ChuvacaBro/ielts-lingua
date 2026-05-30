@@ -1,0 +1,350 @@
+{
+  "id": "0173",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0173.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 A B C D",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 22-25 Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 32-40 Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "ns 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "le the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman g",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "ation form using NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "ing NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "DS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Complete the registration form using NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Tow",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 A B C D 12. What must the students do as part of registration at the university? A Check the notice",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 A B C D 12. What must the students do as part of registration at the university? A Check the notice board i",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "noteCompletion",
+      "prompt": "the notes. Write NO MORE THAN THREE WORDS for each answer. (13) Funding • Must provide (14) I can support myself. • Services will depend on personal circumstances and di",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 14,
+      "type": "noteCompletion",
+      "prompt": "AN THREE WORDS for each answer. (13) Funding • Must provide (14) I can support myself. • Services will depend on personal circumstances and discretion of Bank Manager. Op",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "cretion of Bank Manager. Opening an account • Take with me: (15) and letter of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarante",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "h me: (15) and letter of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarantees cheques. Other services • Cashcard: (you can (18) c",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 17,
+      "type": "noteCompletion",
+      "prompt": "of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarantees cheques. Other services • Cashcard: (you can (18) cash at any time.) • Sw",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "ich guarantees cheques. Other services • Cashcard: (you can (18) cash at any time.) • Switch/Delta cards: (take the money (19) the account.) Overdraft • Must have (20) •S",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": "8) cash at any time.) • Switch/Delta cards: (take the money (19) the account.) Overdraft • Must have (20) •Sometimes must pay interest. Opening times • Most banks open un",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "s: (take the money (19) the account.) Overdraft • Must have (20) •Sometimes must pay interest. Opening times • Most banks open until (21) during the week. • Some open for",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "Questions 13-21 Complete the notes. Write NO MORE THAN THREE WORDS for each answer. (13) Funding • Must provide (14) I can",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-21"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "N THREE WORDS for each answer. FACTSHEET – Aluminium Cans • (22) produced every day in the US — more cans produced than nails or (23) • each can weighs 0.48 ounces — thin",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "uced every day in the US — more cans produced than nails or (23) • each can weighs 0.48 ounces — thinner than two (24) • can take more than 90 pounds of pressure per squa",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "ls or (23) • each can weighs 0.48 ounces — thinner than two (24) • can take more than 90 pounds of pressure per square inch — over (25) the pressure of a car tyre (26) (2",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 22-25 Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans • (22) p",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 29"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 31"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "r each answer. Purpose of the mini lecture: • To experience (32) • To find out about (33) The three strands of Sports Studies are: • Sports psychology • Sports (34) • Spo",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "the mini lecture: • To experience (32) • To find out about (33) The three strands of Sports Studies are: • Sports psychology • Sports (34) • Sports physiology • The psyc",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "strands of Sports Studies are: • Sports psychology • Sports (34) • Sports physiology • The psychologists work with The psychologists work with (35) They want to discover",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "y • The psychologists work with The psychologists work with (35) They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators wa",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "The psychologists work with (35) They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is als",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": ") They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "(36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 32-40 Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q32-40"
+    }
+  ],
+  "answerKey": {
+    "1": "C",
+    "2": "A",
+    "3": "B",
+    "4": "D",
+    "5": "D",
+    "6": "Julia Perkins",
+    "7": "15 Waratah Road",
+    "8": "Brisbane",
+    "9": "to be advised",
+    "10": "first year law",
+    "11": "C",
+    "12": "D",
+    "13": "hope street",
+    "14": "evidence",
+    "15": "passport",
+    "16": "current account",
+    "17": "chequebook",
+    "18": "withdraw",
+    "19": "directly from",
+    "20": "permission of bank",
+    "21": "4.30 to 5",
+    "22": "300 million",
+    "23": "paper clips",
+    "24": "magazine pages",
+    "25": "three times",
+    "26": "thicker",
+    "27": "label",
+    "28": "dome",
+    "29": "flange",
+    "30": "25%",
+    "31": "scored opening",
+    "32": "university lecture",
+    "33": "sports studies",
+    "34": "management",
+    "35": "top athletes",
+    "36": "makes winners",
+    "37": "market forces",
+    "38": "leisure activities",
+    "39": "entertainment",
+    "40": "exercise science"
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "id": "0087",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0087.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct letter A, B, C or D.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "w. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "e ONE WORD ONLY for each answer. Kangaroo lodge Address: on (7) Lane General information about hostel accommodation • Sheets are provided • Can hire a (8) • (9) is includ",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "out hostel accommodation • Sheets are provided • Can hire a (8) • (9) is included • A shared (10) is available Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "stel accommodation • Sheets are provided • Can hire a (8) • (9) is included • A shared (10) is available Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 7-10 Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on (7) Lane General",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter A, B, C or D. Anglia Sculpture Park 11. The land where the Sculpture Park is located was previously",
+      "options": [
+        {
+          "letter": "A",
+          "text": "completely covered by forest."
+        },
+        {
+          "letter": "B",
+          "text": "the site of a private house."
+        },
+        {
+          "letter": "C",
+          "text": "occupied by a factory."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What is unusual about the Anglia Sculpture Park?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Artists have made sculptures especially for it."
+        },
+        {
+          "letter": "B",
+          "text": "Some of its sculptures were donated by the artists."
+        },
+        {
+          "letter": "C",
+          "text": "It only shows contemporary sculptures."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "What is the theme of Joe Tremain’s ‘burnt’ sculptures?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the contrast between nature and urban life"
+        },
+        {
+          "letter": "B",
+          "text": "the effect of man on the environment"
+        },
+        {
+          "letter": "C",
+          "text": "the violence of nature"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The path by the Lower Lake",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is rather wet in some places."
+        },
+        {
+          "letter": "B",
+          "text": "has recently been repaired."
+        },
+        {
+          "letter": "C",
+          "text": "is difficult to walk on."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about the Visitor Centre?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is being enlarged at present."
+        },
+        {
+          "letter": "B",
+          "text": "It has received an international award."
+        },
+        {
+          "letter": "C",
+          "text": "It was designed by a Canadian architect."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Today, visitors can buy snacks and sandwiches",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at the kiosk."
+        },
+        {
+          "letter": "B",
+          "text": "in the Terrace Room."
+        },
+        {
+          "letter": "C",
+          "text": "at the Lower Lake Cafe."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-F next to",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. Marketing report 21. Why did Leo choose instant coffee as the topic for his marketing report?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He found plenty of material on the topic."
+        },
+        {
+          "letter": "B",
+          "text": "He had some practical experience in the area."
+        },
+        {
+          "letter": "C",
+          "text": "He had an idea of a brand he wanted to target."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Leo discovered that in Australia, recent technological developments",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are producing less healthy types of instant coffee."
+        },
+        {
+          "letter": "B",
+          "text": "are reducing the demand for instant coffee."
+        },
+        {
+          "letter": "C",
+          "text": "are improving the quality of instant coffee."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "What do the speakers agree about Leo’s table of coffee products?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It needs more explanation in the text."
+        },
+        {
+          "letter": "B",
+          "text": "It is factually inaccurate in some places."
+        },
+        {
+          "letter": "C",
+          "text": "It would be best to put this in the appendix."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What do they decide about the description of Shaffers coffee as a market follower?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leo needs to define his terms."
+        },
+        {
+          "letter": "B",
+          "text": "Leo needs to provide more evidence."
+        },
+        {
+          "letter": "C",
+          "text": "Leo needs to put it in a different section."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What does Anna say about originality in someone’s first marketing report?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clear analysis of data can be considered original."
+        },
+        {
+          "letter": "B",
+          "text": "Graphs and diagrams should be original, not copied."
+        },
+        {
+          "letter": "C",
+          "text": "Reports should contain some original data collected by the student."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "What difference between his school assignments and this report has surprised Leo?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not knowing the criteria for getting a good mark"
+        },
+        {
+          "letter": "B",
+          "text": "being required to produce work without assistance"
+        },
+        {
+          "letter": "C",
+          "text": "having to do a great deal of research"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "ort Executive summary • Give a brief overview including the (27) Problems • Link each problem to a (28) which explains it Implementation • Practical solutions to problems",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "erview including the (27) Problems • Link each problem to a (28) which explains it Implementation • Practical solutions to problems • Include details such as participants",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "lutions to problems • Include details such as participants, (29) and sequence • Section is often poorly done because of lack of (30) Conclusion • Don’t use new material h",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 27-30 Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing repo",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "duced from China • Their use was mainly to do with: o War o (31) (in plays and festivals) 17th century • Various features of (32) were shown in fireworks displays • Scien",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "(in plays and festivals) 17th century • Various features of (32) were shown in fireworks displays • Scientists were interested in using ideas from fireworks displays: o T",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "ted in using ideas from fireworks displays: o To make human (33) possible o To show the formation of (34) • London: o Scientists were distrustful at first o Later they in",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "s: o To make human (33) possible o To show the formation of (34) • London: o Scientists were distrustful at first o Later they investigated (35) uses of fireworks • St Pe",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "entists were distrustful at first o Later they investigated (35) uses of fireworks • St Petersburg: o Fireworks were seen as a work of (36) for people • Paris: o Displays",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "reworks • St Petersburg: o Fireworks were seen as a work of (36) for people • Paris: o Displays emphasized the power of the (37) o Scientists aimed to provide (38) 18th c",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "for people • Paris: o Displays emphasized the power of the (37) o Scientists aimed to provide (38) 18th century • Italian fireworks specialists became influential • Serv",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "hasized the power of the (37) o Scientists aimed to provide (38) 18th century • Italian fireworks specialists became influential • Servandoni’s fireworks display followed",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "vandoni’s fireworks display followed the same pattern as an (39) • The appeal of fireworks extended to the middle classes • Some displays demonstrated new scientific disc",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th cen",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "unfriendly",
+    "2": "noisy",
+    "3": "23.50",
+    "4": "insects",
+    "5": "bathrooms",
+    "6": "party",
+    "7": "Shadforth",
+    "8": "towel",
+    "9": "breakfast",
+    "10": "kitchen",
+    "11": "B",
+    "12": "A",
+    "13": "C",
+    "14": "B",
+    "15": "A",
+    "16": "A",
+    "17": "E",
+    "18": "C",
+    "19": "F",
+    "20": "A",
+    "21": "A",
+    "22": "B",
+    "23": "A",
+    "24": "B",
+    "25": "A",
+    "26": "A",
+    "27": "background",
+    "28": "theory",
+    "29": "costs",
+    "30": "time",
+    "31": "religions",
+    "32": "nature",
+    "33": "flight",
+    "34": "stars",
+    "35": "practical",
+    "36": "education",
+    "37": "king",
+    "38": "entertainment",
+    "39": "opera",
+    "40": "electricity"
+  }
+}

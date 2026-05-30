@@ -1,0 +1,411 @@
+{
+  "id": "0074",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0074.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Complete the sentences below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Complete the table below. Write NO MORE THAN TWO WORDS AND/OR NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "pic: lease for next year The total rent: Peter £110 & Jim £ (1) Car parking: in the (2) A place to buy things: (3) because Jim works there The fees they should share: (4)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "The total rent: Peter £110 & Jim £ (1) Car parking: in the (2) A place to buy things: (3) because Jim works there The fees they should share: (4) fees The appliances nee",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "& Jim £ (1) Car parking: in the (2) A place to buy things: (3) because Jim works there The fees they should share: (4) fees The appliances needed: the landlord will prov",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "gs: (3) because Jim works there The fees they should share: (4) fees The appliances needed: the landlord will provide the microwave The (5) is needed in the kitchen Peter",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "liances needed: the landlord will provide the microwave The (5) is needed in the kitchen Peter will bring some dining room and living room furniture Jim will buy a (6) at",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "g some dining room and living room furniture Jim will buy a (6) at the store Location of the telephone: in the (7) Move-in date: (8) Watching the game together: (9) What",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "ll buy a (6) at the store Location of the telephone: in the (7) Move-in date: (8) Watching the game together: (9) What Jim need to do before move-in: take (10) in the mor",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "e store Location of the telephone: in the (7) Move-in date: (8) Watching the game together: (9) What Jim need to do before move-in: take (10) in the morning Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "e: in the (7) Move-in date: (8) Watching the game together: (9) What Jim need to do before move-in: take (10) in the morning Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Plan for sharing accommodation The disc",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 11 and 12 Complete the sentences below. Write ONE WORD ONLY for each answer. 11. The program is made for trave",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 11 and 12 Complete the sentences below. Write ONE WORD ONLY for each answer. 11. The program is made for travelers to",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q13-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q13-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q13-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 13-16 What is the internship stipulation of each country below? Choose FOUR answers from the box and write the co",
+      "groupId": "q13-16"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter, A, B or C. 17. What should you do to get the Global Traveling Certificate?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Record activity every day."
+        },
+        {
+          "letter": "B",
+          "text": "Formal report."
+        },
+        {
+          "letter": "C",
+          "text": "Talk the experience with the assessor."
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "You can apply for the certificate",
+      "options": [
+        {
+          "letter": "A",
+          "text": "only after you come back."
+        },
+        {
+          "letter": "B",
+          "text": "while on the trip."
+        },
+        {
+          "letter": "C",
+          "text": "before you leave."
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "When should you pay the final installment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The day before you leave."
+        },
+        {
+          "letter": "B",
+          "text": "One month before you return."
+        },
+        {
+          "letter": "C",
+          "text": "Before you can get your plane ticket."
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "Before your application, you need",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to take a health check."
+        },
+        {
+          "letter": "B",
+          "text": "to attend the workshop."
+        },
+        {
+          "letter": "C",
+          "text": "to meet people with whom you will work."
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "Write NO MORE THAN TWO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN TWO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN TWO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "HAN TWO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "WO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "RDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "ND/OR NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "ER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-30 Complete the table below. Write NO MORE THAN TWO WORDS AND/OR NUMBER for each answer. (21) (22) (23) (24) (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "ONLY for each answer. The Gherkin Building Commissioned by: (31) firm called Foster and Partners. The features of its appearance: • Its shape is like a (32) • It can redu",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "ners. The features of its appearance: • Its shape is like a (32) • It can reduce the carbon (33) of the city. • It lets (34) pass through the building, both reducing heat",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "ance: • Its shape is like a (32) • It can reduce the carbon (33) of the city. • It lets (34) pass through the building, both reducing heating costs and brightening up the",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "(32) • It can reduce the carbon (33) of the city. • It lets (34) pass through the building, both reducing heating costs and brightening up the workspace. • One false stor",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "claimes that the exterior of the building is partly made of (35) Architectural concept: • links (36) with the workplace. • relies less on (37) for temperature control tha",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "lding is partly made of (35) Architectural concept: • links (36) with the workplace. • relies less on (37) for temperature control than other similar buildings. The featu",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "concept: • links (36) with the workplace. • relies less on (37) for temperature control than other similar buildings. The features of its interior: • The atria that let",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "ia that let fresh air pass through the interior are know as (38) • There is a place for entertainment called the (39) at the top of the building. The future of urban plan",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "now as (38) • There is a place for entertainment called the (39) at the top of the building. The future of urban planning and architecture: • It is likely that the entire",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. The Gherkin Building Commissioned by: (31) f",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "80",
+    "2": "garage",
+    "3": "supermarket",
+    "4": "petrol",
+    "5": "heater",
+    "6": "toaster",
+    "7": "kitchen",
+    "8": "1 June",
+    "9": "friday evening",
+    "10": "exam",
+    "11": "money",
+    "12": "school",
+    "13": "E",
+    "14": "C",
+    "15": "F",
+    "16": "A",
+    "17": "A",
+    "18": "A",
+    "19": "B",
+    "20": "A",
+    "21": "student loans",
+    "22": "finance officer",
+    "23": "smoking",
+    "24": "supermarket",
+    "25": "natural medicine",
+    "26": "careers office",
+    "27": "email attachment",
+    "28": "5 November",
+    "29": "data analysis",
+    "30": "presentation",
+    "31": "law",
+    "32": "cigar",
+    "33": "footprint",
+    "34": "light",
+    "35": "grass",
+    "36": "nature",
+    "37": "air-conditioning",
+    "38": "lungs",
+    "39": "clubroom",
+    "40": "city"
+  }
+}

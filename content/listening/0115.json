@@ -1,0 +1,410 @@
+{
+  "id": "0115",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0115.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Which situation matches each advice?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "g is done by sports science students, who are supervised by (1) with more experience. All staff have an enhanced police check and company training. They are also trained",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "police check and company training. They are also trained in (2) and there is a hospital nearby. Dominic will need warm clothing and changes of clothing in case of bad wea",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "bad weather. If weather is bad, everyone will move into the (3) of Wentmount School. Sessions – Morning, afternoon or both. Dominic can do both and make some new friends.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "up lunches. Group lunches – Basic starter, hot main course, (4) to finish with. Dominic will need his sports equipment that he wants to bring and some (5) for between mea",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "l need his sports equipment that he wants to bring and some (5) for between meals. Timings – Morning session – 9.30 am – 12 midday Afternoon session – 1.30 pm – (6) Child",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-6 Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sp",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letter A, B or C. 7. Dominic’s favorite sport is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cricket"
+        },
+        {
+          "letter": "B",
+          "text": "swimming"
+        },
+        {
+          "letter": "C",
+          "text": "football"
+        }
+      ],
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "multipleChoice",
+      "stem": "Mrs. Davis says that the instructors should know that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dominic’s legs are weak"
+        },
+        {
+          "letter": "B",
+          "text": "Dominic will have to go to hospital at the start of the summer"
+        },
+        {
+          "letter": "C",
+          "text": "Dominic broke his arm during the winter"
+        }
+      ],
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "The first week of the camp, Dominic will",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be picked up by his mother"
+        },
+        {
+          "letter": "B",
+          "text": "go home by bus"
+        },
+        {
+          "letter": "C",
+          "text": "walk home with friends"
+        }
+      ],
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "To keep Dominic’s reserved place on the sport camp, Mrs. Davis has to return the form",
+      "options": [
+        {
+          "letter": "A",
+          "text": "within two weeks"
+        },
+        {
+          "letter": "B",
+          "text": "the next day"
+        },
+        {
+          "letter": "C",
+          "text": "within a week"
+        }
+      ],
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 11-15 Which situation matches each advice? Choose your answer from the list below and write correct letter A-I ne",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 16. is what allows cell phone thieves to succeed. 17. Pickpockets like stealing in busy so be extra aware in t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "sentenceCompletion",
+      "prompt": "h answer. 16. is what allows cell phone thieves to succeed. 17. Pickpockets like stealing in busy so be extra aware in these places. 18. People leaving subway stations of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "sentenceCompletion",
+      "prompt": "ts like stealing in busy so be extra aware in these places. 18. People leaving subway stations often have their cell phones stolen when they look to see if they have a 19",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "sentenceCompletion",
+      "prompt": "eir cell phones stolen when they look to see if they have a 19. People should consult their to find out how to switch on the security features available on their cell pho",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 16-20 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 16. is what allows cell phone t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "ndustry The Kenyan flower industry is Kenya’s largest after (21) and tea has increased by 31% over the last 5 years. Originally started to contribute to British East Afri",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": ". Originally started to contribute to British East Africa’s (22) it continued to flourish after independence due to its geographical position and variety of climate condi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "climate conditions. Economic advantages, such as beneficial (23) have kept costs low and good logistics have been set up to service world flower markets. Labour and energ",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "rkets. Labour and energy costs are also low and there is no (24) on European exports from Kenya. Floriculture is Kenya’s 2nd highest foreign exchange earner and it genera",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Keny",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "notes below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "s below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "flowChartCompletion",
+      "prompt": "chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "flowChartCompletion",
+      "prompt": "t below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "flowChartCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "flowChartCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "flowChartCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "flowChartCompletion",
+      "prompt": "RE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 31-37 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "diagramLabel",
+      "prompt": "gram below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "diagramLabel",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "diagramLabel",
+      "prompt": "Questions 38-40 Label the diagram below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "coaches",
+    "2": "first aid",
+    "3": "sports complex",
+    "4": "fruit",
+    "5": "snacks",
+    "6": "4.30",
+    "7": "C",
+    "8": "C",
+    "9": "A",
+    "10": "A",
+    "11": "E",
+    "12": "D",
+    "13": "B",
+    "14": "A",
+    "15": "H",
+    "16": "opportunity",
+    "17": "locations",
+    "18": "signal",
+    "19": "(user) manual",
+    "20": "brand",
+    "21": "tourism",
+    "22": "budget",
+    "23": "(exchange) rates",
+    "24": "(import) duty",
+    "25": "taxes",
+    "26": "transportation",
+    "27": "quality",
+    "28": "biodiversity",
+    "29": "water",
+    "30": "pest control",
+    "31": "intervals",
+    "32": "moist soil",
+    "33": "leaves",
+    "34": "revenue",
+    "35": "machine",
+    "36": "loan",
+    "37": "protein",
+    "38": "holding tank",
+    "39": "slipstream",
+    "40": "coarse"
+  }
+}

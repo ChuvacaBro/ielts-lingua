@@ -1,0 +1,425 @@
+{
+  "id": "0136",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0136.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-3 Choose the correct letter A, B or C. 1. What total discount is Jonathon’s school being offered?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "25%"
+        },
+        {
+          "letter": "B",
+          "text": "50%"
+        },
+        {
+          "letter": "C",
+          "text": "65%"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "Where did Jonathon first want to take his students?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Madrid"
+        },
+        {
+          "letter": "B",
+          "text": "Barcelona"
+        },
+        {
+          "letter": "C",
+          "text": "Sainsbury"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What is the normal price of this tour?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£679"
+        },
+        {
+          "letter": "B",
+          "text": "£1261"
+        },
+        {
+          "letter": "C",
+          "text": "£1940"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "’s Travel Two main things the all-inclusive price covers: • (4) • (5) Extras also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client detai",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "vel Two main things the all-inclusive price covers: • (4) • (5) Extras also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: •",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "s also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 4",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "he all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 49 • Date of travel",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ur, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 49 • Date of travel – 7th April • Departure time – 7 am • Arrival time – 10.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "ime – 7 am • Arrival time – 10.30 am • Credit card number – (9) • Expiry date – 1 January 2015 • Total cost of booking – (10) £ Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 4-10 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "and 12 Choose the correct letter A, B or C. 11. What does the word ‘formula’ stand for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the rules drivers must respect"
+        },
+        {
+          "letter": "B",
+          "text": "the type of roads used for the races"
+        },
+        {
+          "letter": "C",
+          "text": "the way they drive"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "When did the first championship race take place?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1920"
+        },
+        {
+          "letter": "B",
+          "text": "1955"
+        },
+        {
+          "letter": "C",
+          "text": "1950"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 13-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "buy Bizz-Educators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "izz-Educators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": "ducators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "ors will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "ill be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "e taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official dec",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose THREE letters A-G. What THREE requirements are there for the takeover of Bizz Educators to go ahead?",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "nswer. Conserving energy at home • Carbon footprint is: the (31) of greenhouse gas emitted into the atmosphere by an individual as a result of his day-to-day activities •",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "vidual as a result of his day-to-day activities • More than (32) of all homes are not insulated Reasons to better insulate your home: • Fitting adequate insulation in the",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "er insulate your home: • Fitting adequate insulation in the (33) and outer walls of your home can reduce heating costs by as much as 25%. • The government offers (34) to",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ce heating costs by as much as 25%. • The government offers (34) to people who want to reinsulate their homes. • You will recoup your investment over a short period of ti",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ecoup your investment over a short period of time. Painting (35) walls in dark colors is bad idea because dark colors (36) heat. Replacing a normal light bulb with an ene",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "g (35) walls in dark colors is bad idea because dark colors (36) heat. Replacing a normal light bulb with an energy saving one could save you (37) over the lifetime of th",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "normal light bulb with an energy saving one could save you (37) over the lifetime of the bulb. If you have large windows in your home, you should close the (38) Erect (3",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "f you have large windows in your home, you should close the (38) Erect (39) to heat your water supply. People should continue recycling and composting their (40) to help",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "large windows in your home, you should close the (38) Erect (39) to heat your water supply. People should continue recycling and composting their (40) to help protect the",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "C",
+    "2": "A",
+    "3": "C",
+    "4": "flights",
+    "5": "(hotel) accommodation",
+    "6": "breakfast",
+    "7": "theatre tickets",
+    "8": "Jonathon.presley@sainsbury.com",
+    "9": "6676 6654 9743 1251",
+    "10": "£31234",
+    "11": "A",
+    "12": "C",
+    "13": "1957",
+    "14": "46",
+    "15": "multiple championship",
+    "16": "Monaco",
+    "17": "naturally gifted",
+    "18": "highest",
+    "19": "great rival",
+    "20": "greatest driver",
+    "21": "leader",
+    "22": "£500,000",
+    "23": "strategy",
+    "24": "projected profits",
+    "25": "takeover (bid)",
+    "26": "high risk",
+    "27": "board meeting",
+    "28": "A",
+    "29": "B",
+    "30": "E",
+    "31": "amount/ volume",
+    "32": "65%",
+    "33": "attic",
+    "34": "grants",
+    "35": "interior",
+    "36": "absorb",
+    "37": "£25",
+    "38": "curtains/ blinds",
+    "39": "solar panels",
+    "40": "waste"
+  }
+}

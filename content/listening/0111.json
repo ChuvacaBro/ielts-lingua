@@ -1,0 +1,484 @@
+{
+  "id": "0111",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0111.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-27 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-36 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "estionnaire Age of the interviewee – 19 Current occupation: (1) Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Privat",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "– 19 Current occupation: (1) Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Pu",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Public transport: take the (5)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "ears Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Public transport: take the (5) or a taxi Frequency of eating out: (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "e transport: on foot and by bike Public transport: take the (5) or a taxi Frequency of eating out: (6) Places for entertainment: the places people usually go to, such as",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "transport: take the (5) or a taxi Frequency of eating out: (6) Places for entertainment: the places people usually go to, such as some great (7) Other free time activity",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "inment: the places people usually go to, such as some great (7) Other free time activity: go to the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "such as some great (7) Other free time activity: go to the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": "the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time course: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency q",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. Tourism in the mining community 11. What does the speaker say about hard hats?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they must be worn in all areas"
+        },
+        {
+          "letter": "B",
+          "text": "a deposit is needed to borrow the hats"
+        },
+        {
+          "letter": "C",
+          "text": "they are available in all sizes"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about the outside area of the mine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the road is wet C the ground is uneven in some area D the road is being repaired 13. Visitors who have difficulty in going up and down A can ask for help"
+        },
+        {
+          "letter": "B",
+          "text": "have access to all areas"
+        },
+        {
+          "letter": "C",
+          "text": "can make use of ramp"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 13"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "What is prohibited everywhere?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "smoking"
+        },
+        {
+          "letter": "B",
+          "text": "taking photos"
+        },
+        {
+          "letter": "C",
+          "text": "using mobile phones"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about underground tunnels?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the well is lit"
+        },
+        {
+          "letter": "B",
+          "text": "the access is limited"
+        },
+        {
+          "letter": "C",
+          "text": "protective clothing is unnecessary"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 16-20 Label the map below. Write correct letter A-I next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "NUMBER for each answer. Whale survey Considerations: • The (21) should be carefully chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • De",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": ": • The (21) should be carefully chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) N",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "ly chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: •",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "f the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: • The (26) and appea",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "ity: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: • The (26) and appearance of whales • Scales: the (27) and species the poss",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "the appearance of (25) Need to evaluate or identify: • The (26) and appearance of whales • Scales: the (27) and species the possible age etc.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-27 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Consi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "pictures given according to different feature descriptions. 28. Sperm whale 29. Northern right whale 30. Minke whale Part 4:",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "ccording to different feature descriptions. 28. Sperm whale 29. Northern right whale 30. Minke whale Part 4:",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Match the following types of whales with the pictures given according to different feature descriptions. 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-36 Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company 31. Where did he get the shipping experience?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sea voyage"
+        },
+        {
+          "letter": "B",
+          "text": "family"
+        },
+        {
+          "letter": "C",
+          "text": "first job"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "The company experienced",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the immediately profitable business"
+        },
+        {
+          "letter": "B",
+          "text": "the business which dealt with one commodity"
+        },
+        {
+          "letter": "C",
+          "text": "the business world widely"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "Why did he want the mail contact?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "faster"
+        },
+        {
+          "letter": "B",
+          "text": "stronger"
+        },
+        {
+          "letter": "C",
+          "text": "more reliable"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "What did he do when he won the bid?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reduced the fleet of the ships"
+        },
+        {
+          "letter": "B",
+          "text": "opened a new company"
+        },
+        {
+          "letter": "C",
+          "text": "appointed a new British agent"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "Why did he choose Boston?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it was supported by the government"
+        },
+        {
+          "letter": "B",
+          "text": "it had a good business environment"
+        },
+        {
+          "letter": "C",
+          "text": "he once worked there"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 36,
+      "type": "multipleChoice",
+      "stem": "What could be revealed about the 1844 event?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boston had the biggest shipping company"
+        },
+        {
+          "letter": "B",
+          "text": "Boston was not a good location for port"
+        },
+        {
+          "letter": "C",
+          "text": "The US had bad weather conditions"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "e the sentences below. Write ONE WORD only for each answer. 37. He improved the sail safety by using communication. 38. were produced on the board, so passengers would no",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "er. 37. He improved the sail safety by using communication. 38. were produced on the board, so passengers would not feel uneasy during the journey. 39. Before 1912, shipp",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "rd, so passengers would not feel uneasy during the journey. 39. Before 1912, shipping companies paid more attention to the of the ships. 40. Afterwards, companies poured",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 37-40 Complete the sentences below. Write ONE WORD only for each answer. 37. He improved the sail safety by using",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "salesman",
+    "2": "9",
+    "3": "spring park",
+    "4": "apartment",
+    "5": "train",
+    "6": "once a month",
+    "7": "clubs",
+    "8": "cinema",
+    "9": "sailing",
+    "10": "japanese",
+    "11": "C",
+    "12": "A",
+    "13": "A",
+    "14": "A",
+    "15": "B",
+    "16": "D",
+    "17": "I",
+    "18": "H",
+    "19": "G",
+    "20": "E",
+    "21": "watching time",
+    "22": "calm",
+    "23": "weather",
+    "24": "100 meters",
+    "25": "fishing boats",
+    "26": "behavior",
+    "27": "group size",
+    "28": "B",
+    "29": "C",
+    "30": "A",
+    "31": "C",
+    "32": "A",
+    "33": "C",
+    "34": "B",
+    "35": "C",
+    "36": "B",
+    "37": "radio",
+    "38": "newspapers",
+    "39": "speed",
+    "40": "hotels"
+  }
+}

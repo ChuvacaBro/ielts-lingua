@@ -1,0 +1,466 @@
+{
+  "id": "0096",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0096.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 What comment does the manager make about each of the following steps in coffee processing?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Event booking form Date of event: 15th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "5th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "ails Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "s Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "te of event: 15th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering req",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ired: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": ": travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Eve",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 11-16 What comment does the manager make about each of the following steps in coffee processing? Choose SIX answe",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "questions 16-20. Description A needs additional staff B separates beans for different purposes C is an unnecessary step D i",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. 21. What gives Tim the idea for his dissertation proposal?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "his grandmother asked him to record her language"
+        },
+        {
+          "letter": "B",
+          "text": "he heard about a linguistic project he wanted to join"
+        },
+        {
+          "letter": "C",
+          "text": "he learned about conserving languages on his course"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "When talking about the impact of technology, Tim",
+      "options": [
+        {
+          "letter": "A",
+          "text": "points out a problem caused by its spread"
+        },
+        {
+          "letter": "B",
+          "text": "explains how it can be used to conserve language"
+        },
+        {
+          "letter": "C",
+          "text": "emphasizes its importance for communication"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Tim and his tutor decide that in the introduction to his dissertation he should discuss",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the impact of media on language"
+        },
+        {
+          "letter": "B",
+          "text": "how globalization has helped remote communities"
+        },
+        {
+          "letter": "C",
+          "text": "the reasons why he talks to his grandmother in English"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What does Tim say about documenting dying languages?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he believes writing a language down stops it from falling out of use"
+        },
+        {
+          "letter": "B",
+          "text": "he sees little point in trying to revive languages that are already dead"
+        },
+        {
+          "letter": "C",
+          "text": "he is unconvinced that his grandmother’s language can be saved"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Tim’s tutor explains to him that recording minority languages is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "something that schoolchildren can be involved in"
+        },
+        {
+          "letter": "B",
+          "text": "a way to allow future generations to experience them"
+        },
+        {
+          "letter": "C",
+          "text": "a useful tool for training language teachers"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "When talking about language and culture Tim",
+      "options": [
+        {
+          "letter": "A",
+          "text": "highlights why family traditions are important to him"
+        },
+        {
+          "letter": "B",
+          "text": "describes how the two subjects are linked together"
+        },
+        {
+          "letter": "C",
+          "text": "expresses a desire to learn about his family’s customs"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on? A writ",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on? A written lan",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take? A cov",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. 31. Humans first started tracking time",
+      "options": [
+        {
+          "letter": "A",
+          "text": "30,000 years ago"
+        },
+        {
+          "letter": "B",
+          "text": "25,000 years ago"
+        },
+        {
+          "letter": "C",
+          "text": "5,000 years ago"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Horizon tracking involved recording",
+      "options": [
+        {
+          "letter": "A",
+          "text": "where the sun rose and set"
+        },
+        {
+          "letter": "B",
+          "text": "the times of sunrise and sunset"
+        },
+        {
+          "letter": "C",
+          "text": "the length of the shortest day"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "Time measurement improved when",
+      "options": [
+        {
+          "letter": "A",
+          "text": "trees were planted on hill tops"
+        },
+        {
+          "letter": "B",
+          "text": "special constructions were erected"
+        },
+        {
+          "letter": "C",
+          "text": "people began living in larger groups"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "e the sentences below. Write ONE WORD only for each answer. 34. The first clocks worked by making a small hole in a and allowing water to drip out. 35. Sundials measured",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q34-36"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "by making a small hole in a and allowing water to drip out. 35. Sundials measured time by noting where the sun’s shadow fell on the marked on the dial. 36. Workers in Chi",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q34-36"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 34-36 Complete the sentences below. Write ONE WORD only for each answer. 34. The first clocks worked by making a",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q34-36"
+    },
+    {
+      "number": 37,
+      "type": "shortAnswer",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 37. What object made the wheels of a mechanical clock go round? 38. What invention created a problem with comm",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "shortAnswer",
+      "prompt": "What object made the wheels of a mechanical clock go round? 38. What invention created a problem with communities having different times? 39. In which year was a time sys",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "shortAnswer",
+      "prompt": "created a problem with communities having different times? 39. In which year was a time system for England nationally agreed? 40. Which building in Greenwich was chosen",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "shortAnswer",
+      "prompt": "Questions 37-40 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 37. What object",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "saturday",
+    "2": "11.30 pm",
+    "3": "(music) concert",
+    "4": "disabled",
+    "5": "sandwiches",
+    "6": "piano",
+    "7": "coach",
+    "8": "225",
+    "9": "JEZOWSKI",
+    "10": "07232855496",
+    "11": "F",
+    "12": "G",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "H",
+    "17": "C",
+    "18": "D",
+    "19": "B",
+    "20": "C",
+    "21": "C",
+    "22": "A",
+    "23": "A",
+    "24": "C",
+    "25": "B",
+    "26": "A",
+    "27": "B",
+    "28": "D",
+    "29": "B",
+    "30": "C",
+    "31": "C",
+    "32": "A",
+    "33": "B",
+    "34": "bucket",
+    "35": "lines",
+    "36": "smell",
+    "37": "weight",
+    "38": "railways",
+    "39": "1847",
+    "40": "observatory"
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "id": "0164",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0164.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Complete the sentences below using NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Complete the notes below using NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-36 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "ION Name: Jenny Chan Present address: Sea View Guest House, (1) Daytime phone number: 2237676 [Best lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupati",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "(1) Daytime phone number: 2237676 [Best lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupation while in UK: student General level of English: (4) Prefe",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "t lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupation while in UK: student General level of English: (4) Preferred location: in the (5) Special diet:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": ") Occupation while in UK: student General level of English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "nt General level of English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "f English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Prefer",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "(6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "quirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": "acilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICA",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "sentenceCompletion",
+      "prompt": "ntences below using NO MORE THAN TWO WORDS for each answer. 11. The next meeting of the soccer club will be in the in King’s Park on 2 July. 12. The first event is a 13.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "sentenceCompletion",
+      "prompt": "of the soccer club will be in the in King’s Park on 2 July. 12. The first event is a 13. At the final dinner, players receive",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 11-13 Complete the sentences below using NO MORE THAN TWO WORDS for each answer. 11. The next meeting of the socc",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "g NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-17"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-17"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-17"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "Questions 14-17 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-17"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "g NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 18-20 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Par",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "notes below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "w using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-24 Complete the notes below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "-27 Choose the correct letter, A, B or C. 25. What does Karin think the company will do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "look for private investors"
+        },
+        {
+          "letter": "B",
+          "text": "accept a takeover offer"
+        },
+        {
+          "letter": "C",
+          "text": "issue some new shares"
+        }
+      ],
+      "groupId": "q25-27"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "How does the tutor suggest the company can recover?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by appointing a new managing director"
+        },
+        {
+          "letter": "B",
+          "text": "by changing the way it is organised"
+        },
+        {
+          "letter": "C",
+          "text": "by closing some of its retail outlets"
+        }
+      ],
+      "groupId": "q25-27"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "The tutor wants Jason and Karin to produce a report which",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offers solutions to Box Telecom’s problems."
+        },
+        {
+          "letter": "B",
+          "text": "analyses the UK market."
+        },
+        {
+          "letter": "C",
+          "text": "compares different companies."
+        }
+      ],
+      "groupId": "q25-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Which opinion does each person express about Box Telecom? Choose your answers from the box and write the le",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-36 Choose the correct letter, A, B or C. 31. During the first week of term, students are invited to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be shown round the library by the librarian"
+        },
+        {
+          "letter": "B",
+          "text": "listen to descriptions of library resources"
+        },
+        {
+          "letter": "C",
+          "text": "do an intensive course in the computer centre"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "The speaker warns the students that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "internet materials can be unreliable"
+        },
+        {
+          "letter": "B",
+          "text": "downloaded information must be acknowledged"
+        },
+        {
+          "letter": "C",
+          "text": "computer access may be limited at times"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "The library is acquiring more CDs as a resource because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are a cheap source of information"
+        },
+        {
+          "letter": "B",
+          "text": "they take up very little space"
+        },
+        {
+          "letter": "C",
+          "text": "they are more up to date than the reference books"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "Students are encouraged to use journals online because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the articles do not need to be returned to the shelves"
+        },
+        {
+          "letter": "B",
+          "text": "reading online is cheaper than photocopying articles"
+        },
+        {
+          "letter": "C",
+          "text": "the stock of printed articles is to be reduced"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "Why might some students continue to use reference books?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they can be taken away from the library"
+        },
+        {
+          "letter": "B",
+          "text": "they provide information unavailable anywhere else"
+        },
+        {
+          "letter": "C",
+          "text": "they can be borrowed for an extended loan period"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 36,
+      "type": "multipleChoice",
+      "stem": "What is the responsibility of the training supervisor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to supervise and support library staff"
+        },
+        {
+          "letter": "B",
+          "text": "to provide orientation to the library facilities"
+        },
+        {
+          "letter": "C",
+          "text": "to identify needs and inform section managers"
+        }
+      ],
+      "groupId": "q31-36"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "Question 37",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Question 38",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Question 39",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 37-40 Which section of the university will help postgraduate students with their dissertations in the following w",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "14 hill road",
+    "2": "between 9 and 9.30",
+    "3": "1 year",
+    "4": "intermediate",
+    "5": "north-west",
+    "6": "vegetarian",
+    "7": "garden",
+    "8": "only guest",
+    "9": "100",
+    "10": "23 march",
+    "11": "clubhouse",
+    "12": "picnic",
+    "13": "prizes",
+    "14": "ten",
+    "15": "wednesday afternoons",
+    "16": "four",
+    "17": "sunday afternoons",
+    "18": "collect fees",
+    "19": "end newsletter",
+    "20": "supervise team",
+    "21": "sales",
+    "22": "competition",
+    "23": "interest rates",
+    "24": "training",
+    "25": "A",
+    "26": "B",
+    "27": "A",
+    "28": "C",
+    "29": "B",
+    "30": "D",
+    "31": "B",
+    "32": "A",
+    "33": "A",
+    "34": "C",
+    "35": "A",
+    "36": "B",
+    "37": "B",
+    "38": "A",
+    "39": "B",
+    "40": "C"
+  }
+}

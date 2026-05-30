@@ -1,0 +1,549 @@
+{
+  "id": "0073",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0073.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Choose the correct letter, A, B, or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Registration form Type of crime report: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglar",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Type of crime report: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of ap",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "port: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "na (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupan",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": ": (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost proper",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "mber of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost compu",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "es: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost computer: (9) Material of stol",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "nancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost computer: (9) Material of stolen purse: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": ") Details of lost property: Serial number of lost computer: (9) Material of stolen purse: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form T",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. What is the project that Mark and Gina want to start?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Business school requirements."
+        },
+        {
+          "letter": "B",
+          "text": "Directions to the business school."
+        },
+        {
+          "letter": "C",
+          "text": "Explaining the business school experience."
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Who is the target audience?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Business students."
+        },
+        {
+          "letter": "B",
+          "text": "Business school applicants."
+        },
+        {
+          "letter": "C",
+          "text": "Summer school attendees."
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "How will they convey the information?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summer course lecture."
+        },
+        {
+          "letter": "B",
+          "text": "Informational video."
+        },
+        {
+          "letter": "C",
+          "text": "Pamphlet in the mail."
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "They want to do this project because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "students worry about their studies."
+        },
+        {
+          "letter": "B",
+          "text": "they want to obtain a good grade."
+        },
+        {
+          "letter": "C",
+          "text": "they want to attract future business school applicants."
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter, A, B or C. 21. The subjects in questionnaire are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tourists in the hotel in this area."
+        },
+        {
+          "letter": "B",
+          "text": "local residents."
+        },
+        {
+          "letter": "C",
+          "text": "people who are living in this area."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The results of the questionnaire should be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "directly entered into the computer."
+        },
+        {
+          "letter": "B",
+          "text": "scored by hand."
+        },
+        {
+          "letter": "C",
+          "text": "submitted directly to Professor Curran."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Why should John give a copy of plans to the professor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To receive a good grade."
+        },
+        {
+          "letter": "B",
+          "text": "To get advice."
+        },
+        {
+          "letter": "C",
+          "text": "To earn high praise."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "How will the instructions be presented?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Given by a group representative."
+        },
+        {
+          "letter": "B",
+          "text": "Given by all members of the group."
+        },
+        {
+          "letter": "C",
+          "text": "Given by the professor."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What does Dani suggest to John when those subjects receive the questionnaire?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Divide into 2 part to argue."
+        },
+        {
+          "letter": "B",
+          "text": "Focus on the opinion of the interviewees."
+        },
+        {
+          "letter": "C",
+          "text": "Take consideration of both sides."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "Why is this project particularly important to John?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "To earn respect from professors in the department."
+        },
+        {
+          "letter": "B",
+          "text": "To raise his grade."
+        },
+        {
+          "letter": "C",
+          "text": "To impress his professor."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-35 Choose the correct letter, A, B, or C. 31. Why did the lecturer choose to focus on the Pleasanton Town Market?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was the first ever Town Market."
+        },
+        {
+          "letter": "B",
+          "text": "It has been covered extensively in local history classes."
+        },
+        {
+          "letter": "C",
+          "text": "It is often mentioned in some literature of the library."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "The Town Market originally made a large profit selling",
+      "options": [
+        {
+          "letter": "A",
+          "text": "handcrafts."
+        },
+        {
+          "letter": "B",
+          "text": "vegetables."
+        },
+        {
+          "letter": "C",
+          "text": "animals."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "The money that the marketers made contributes to local",
+      "options": [
+        {
+          "letter": "A",
+          "text": "reconstruction."
+        },
+        {
+          "letter": "B",
+          "text": "development."
+        },
+        {
+          "letter": "C",
+          "text": "defense."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "Market sales plummeted due to lack of viable",
+      "options": [
+        {
+          "letter": "A",
+          "text": "agriculture."
+        },
+        {
+          "letter": "B",
+          "text": "transport."
+        },
+        {
+          "letter": "C",
+          "text": "city planning."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "Major John C. Wiley decided the Clock tower would be used as a ____________ in the early stages of the uprising.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "clock"
+        },
+        {
+          "letter": "B",
+          "text": "grounds for battle"
+        },
+        {
+          "letter": "C",
+          "text": "jail"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "tableCompletion",
+      "prompt": "table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "tableCompletion",
+      "prompt": "below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "tableCompletion",
+      "prompt": "Questions 36-40 Complete the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Grieg",
+    "2": "March 15",
+    "3": "Ellendale",
+    "4": "W5 2AT",
+    "5": "0",
+    "6": "8 months",
+    "7": "1",
+    "8": "back door",
+    "9": "G4168770",
+    "10": "silver-colored cloth",
+    "11": "C",
+    "12": "B",
+    "13": "B",
+    "14": "A",
+    "15": "teaching methods",
+    "16": "accommodation",
+    "17": "flats",
+    "18": "disco",
+    "19": "international evening",
+    "20": "two minutes",
+    "21": "C",
+    "22": "A",
+    "23": "B",
+    "24": "A",
+    "25": "C",
+    "26": "A",
+    "27": "E",
+    "28": "D",
+    "29": "A",
+    "30": "B",
+    "31": "C",
+    "32": "C",
+    "33": "B",
+    "34": "B",
+    "35": "C",
+    "36": "market",
+    "37": "interviews",
+    "38": "useless",
+    "39": "photographs",
+    "40": "crime"
+  }
+}

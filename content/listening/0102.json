@@ -1,0 +1,423 @@
+{
+  "id": "0102",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-20 Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-3 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 4 and 5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 :",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q4-5"
+    },
+    {
+      "number": 5,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 4 and 5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 : Beetle",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q4-5"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letter A, B or C. 6. The cane toad originated in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Central America"
+        },
+        {
+          "letter": "B",
+          "text": "Hawaii"
+        },
+        {
+          "letter": "C",
+          "text": "Australia"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "In Australia, the toads",
+      "options": [
+        {
+          "letter": "A",
+          "text": "grew extremely large"
+        },
+        {
+          "letter": "B",
+          "text": "multiplied in number"
+        },
+        {
+          "letter": "C",
+          "text": "ate the cane beetles"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "multipleChoice",
+      "stem": "The farmers’ plan failed because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "there were too many beetles"
+        },
+        {
+          "letter": "B",
+          "text": "their own research was faulty"
+        },
+        {
+          "letter": "C",
+          "text": "they believed the reports they read"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "The sugar cane industry",
+      "options": [
+        {
+          "letter": "A",
+          "text": "thrives today"
+        },
+        {
+          "letter": "B",
+          "text": "has died out in some areas"
+        },
+        {
+          "letter": "C",
+          "text": "survives alongside the beetle"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "The second lesson to be learned from this story is that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the environment is constantly at risk"
+        },
+        {
+          "letter": "B",
+          "text": "first hand research is not always necessary"
+        },
+        {
+          "letter": "C",
+          "text": "caution is necessary when dealing with nature"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "ER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 11-20 Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 21-25 What opinion is expressed about each dissertation? Choose your answers from the list below and write the le",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "flowChartCompletion",
+      "prompt": "__to Dr. Forbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "flowChartCompletion",
+      "prompt": "Dr. Forbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "flowChartCompletion",
+      "prompt": "orbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "flowChartCompletion",
+      "prompt": "Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 26-30 Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 31. Rival cameras were claimed to less than the Cinematographe. 32. In Russia, on one occasion, the Cinematogr",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "Rival cameras were claimed to less than the Cinematographe. 32. In Russia, on one occasion, the Cinematographe was suspected of being a 33. Early filming in Russia led to",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "n one occasion, the Cinematographe was suspected of being a 33. Early filming in Russia led to the creation of a new approach to 34. One problem for historians is not kno",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "filming in Russia led to the creation of a new approach to 34. One problem for historians is not knowing whether early equipment as it was claimed. 35. Marey encountered",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "s is not knowing whether early equipment as it was claimed. 35. Marey encountered difficulties achieving the of strips of photographic paper. 36. The of the comic strip i",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "difficulties achieving the of strips of photographic paper. 36. The of the comic strip influenced the way films were planned. 37. Documentaries used shots before fiction",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "e of the comic strip influenced the way films were planned. 37. Documentaries used shots before fiction films did. 38. The popularity of films led to increased numbers of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "ned. 37. Documentaries used shots before fiction films did. 38. The popularity of films led to increased numbers of shots. 39. When filming the screen might be divided. 4",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "The popularity of films led to increased numbers of shots. 39. When filming the screen might be divided. 40. As films became more complex became an important part of fil",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 31. Rival cameras were claimed",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "rabbit",
+    "2": "(fox) hunting",
+    "3": "cane farmers",
+    "4": "roots",
+    "5": "dies",
+    "6": "A",
+    "7": "B",
+    "8": "C",
+    "9": "A",
+    "10": "C",
+    "11": "2.30/ 7.30 pm",
+    "12": "CD",
+    "13": "separate programme",
+    "14": "dance festival",
+    "15": "4 continents",
+    "16": "14-20 March",
+    "17": "love and hope",
+    "18": "producer",
+    "19": "singing competition",
+    "20": "shown on TV",
+    "21": "B",
+    "22": "I",
+    "23": "D",
+    "24": "F",
+    "25": "A",
+    "26": "large private houses",
+    "27": "window designs",
+    "28": "typical furniture",
+    "29": "outline plan",
+    "30": "references",
+    "31": "shake",
+    "32": "bomb",
+    "33": "journalism",
+    "34": "functioned",
+    "35": "regular movement",
+    "36": "structure",
+    "37": "travelling",
+    "38": "chase",
+    "39": "telephone conversations",
+    "40": "editing"
+  }
+}

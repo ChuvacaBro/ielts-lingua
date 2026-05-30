@@ -1,0 +1,335 @@
+{
+  "id": "0169",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0169.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 1. The respondent works in A the professions B business C other",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Circle FOUR letters A-G",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Circle the correct letters A-C",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "Questions 1-4 1. The respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,000",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "he respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,000 a year B £ 15,000-35,000 a year C over £35,000 a year 3. The re",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "5,000 a year B £ 15,000-35,000 a year C over £35,000 a year 3. The respondent watched TV for A relaxation B entertainment C information 4. Every day the respondent watche",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "Questions 1-4 1. The respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,0",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 5-7 Choose TWO letters A-E 5. The respondent mainly watches TV A in the early morning B around midday C in the afternoon D in the early e",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "midday C in the afternoon D in the early evening E at night 6. On the new channel the respondent would like to see more A children’s programmes B documentaries C local se",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Questions 5-7 Choose TWO letters A-E 5. The respondent mainly watches TV A in the early morning B around midday C in the a",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 8-10 Circle the correct letter A-C 8. The respondent feels that adverts should occur only A 10 minutes B 15 minutes C 20 minutes 9. The responden",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "ts should occur only A 10 minutes B 15 minutes C 20 minutes 9. The respondent would like to attend special promotions if A expenses are paid B he is invited specially C t",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 8-10 Circle the correct letter A-C 8. The respondent feels that adverts should occur only A 10 minutes B 15 minu",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 11-14 Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker? A raising money fo",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 15 and 16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union? A immigra",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 15 and 16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union? A immigration B",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 17-20 Write the appropriate letters A-C against",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "BER for each answer. DISSERTATION INFORMATION Hand-in-date: (21) Length: (22) to Extra programme offered on: (23)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "answer. DISSERTATION INFORMATION Hand-in-date: (21) Length: (22) to Extra programme offered on: (23)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-23 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. DISSERTATION INFORMAT",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "no strong opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "rong opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 What is Dr Simon’s opinions on the following points? Tick column A if he is in favour Tick column B if he h",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "Questions 31-37 Circle the correct letters A-C 31. The driest continent is A Australia B Africa C Antarctica 32. The evaporation rate in Australia is A lower",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": ". The driest continent is A Australia B Africa C Antarctica 32. The evaporation rate in Australia is A lower than Africa B higher than Africa C about the same as Africa 3",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "than Africa B higher than Africa C about the same as Africa 33. Rainfall in Australia hardly penetrates the soil because A the soil is too hard B the soil is too hot C pl",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "e soil is too hard B the soil is too hot C plants use it up 34. In sandy soils water can A evaporate quickly B seep down to rock C wash the soil away 35. Water is mainly",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "evaporate quickly B seep down to rock C wash the soil away 35. Water is mainly pumped up for A people to drink B animals to drink C watering crops 36. Natural springs ar",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "p for A people to drink B animals to drink C watering crops 36. Natural springs are located A in unexplored parts of Australia B quite commonly over all Australia C in a",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "Questions 31-37 Circle the correct letters A-C 31. The driest continent is A Australia B Africa C Antarctica 32. The evapor",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Question 38",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Question 39",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 38-40 Circle THREE letters A-E Which THREE of the following uses of dam water are mentioned? A providing water fo",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "B",
+    "2": "C",
+    "3": "A",
+    "4": "B",
+    "5": [
+      "A",
+      "E"
+    ],
+    "6": [
+      "A",
+      "C"
+    ],
+    "7": [
+      "C",
+      "E"
+    ],
+    "8": "B",
+    "9": "C",
+    "10": "B",
+    "11": "A",
+    "12": "C",
+    "13": "E",
+    "14": "G",
+    "15": "B",
+    "16": "E",
+    "17": "C",
+    "18": "A",
+    "19": "A",
+    "20": "B",
+    "21": "21 May",
+    "22": "18000-20000",
+    "23": "research methods",
+    "24": "plan",
+    "25": "research",
+    "26": "march to may",
+    "27": "A",
+    "28": "A",
+    "29": "C",
+    "30": "B",
+    "31": "C",
+    "32": "B",
+    "33": "C",
+    "34": "B",
+    "35": "B",
+    "36": "C",
+    "37": "A",
+    "38": "B",
+    "39": "D",
+    "40": "E"
+  }
+}

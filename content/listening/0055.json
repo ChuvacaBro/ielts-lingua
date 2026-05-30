@@ -1,0 +1,449 @@
+{
+  "id": "0055",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0055.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-8 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Label the plan below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "for each answer. Country of destination: Ireland Name: Tim (1) Address to be collected from: (2) University, Town: Brighton Postcode: (3) Size of container: length – 2.3",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "nation: Ireland Name: Tim (1) Address to be collected from: (2) University, Town: Brighton Postcode: (3) Size of container: length – 2.3 m, width – (4) , depth – (5) Cont",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "be collected from: (2) University, Town: Brighton Postcode: (3) Size of container: length – 2.3 m, width – (4) , depth – (5) Contents books: (6) and (7) Total estimated v",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "on Postcode: (3) Size of container: length – 2.3 m, width – (4) , depth – (5) Contents books: (6) and (7) Total estimated value: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "3) Size of container: length – 2.3 m, width – (4) , depth – (5) Contents books: (6) and (7) Total estimated value: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": ": length – 2.3 m, width – (4) , depth – (5) Contents books: (6) and (7) Total estimated value: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "– 2.3 m, width – (4) , depth – (5) Contents books: (6) and (7) Total estimated value: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 1-8 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Country of destination: Ireland Name: Tim (1",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "and 10 Choose the correct letter A, B or C. 9. What is the minimum recommended cover by the agency?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "premium"
+        },
+        {
+          "letter": "B",
+          "text": "standard"
+        },
+        {
+          "letter": "C",
+          "text": "economy"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "Where does the customer want the goods delivered?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "port"
+        },
+        {
+          "letter": "B",
+          "text": "home"
+        },
+        {
+          "letter": "C",
+          "text": "business"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "mapPlanLabelling",
+      "prompt": "plan below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "mapPlanLabelling",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "mapPlanLabelling",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "mapPlanLabelling",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 11-15 Label the plan below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 What does the tour guide tell her tour group about each of the following places on the day’s itinerary. Wri",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "sentenceCompletion",
+      "prompt": "es are used in laser devices and are found in many consumer (21) The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "sentenceCompletion",
+      "prompt": "(21) The purpose of the project is to design a functional, (22) and beneficial consumer product. The gyroscopic exercise ball can be set in motion by movements of the (2",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "sentenceCompletion",
+      "prompt": "opic exercise ball can be set in motion by movements of the (23) and wrist together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. Th",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "sentenceCompletion",
+      "prompt": "together in sync. The gyroscopic ball could help people in (24) who have lower are injuries. The product could also be aimed at (25) for whom lower arm strength is very",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 21-25 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Gyroscopes are used in laser",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 26-30 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-35 Choose the correct letter A, B or C. 31. Speakers have to know",
+      "options": [
+        {
+          "letter": "A",
+          "text": "their material"
+        },
+        {
+          "letter": "B",
+          "text": "their audience"
+        },
+        {
+          "letter": "C",
+          "text": "their limitations"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Experienced speakers",
+      "options": [
+        {
+          "letter": "A",
+          "text": "always try to wing it"
+        },
+        {
+          "letter": "B",
+          "text": "never arrive unprepared"
+        },
+        {
+          "letter": "C",
+          "text": "give the best presentations"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "You should always rehearse",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with friends who can advise you"
+        },
+        {
+          "letter": "B",
+          "text": "with all the equipment you plan on using"
+        },
+        {
+          "letter": "C",
+          "text": "more than once"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "It is a good idea to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be discreet with you audience"
+        },
+        {
+          "letter": "B",
+          "text": "meet your fans"
+        },
+        {
+          "letter": "C",
+          "text": "meet and welcome your audience"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "Taking a few deep breaths before you begin",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will stop you having a panic attack"
+        },
+        {
+          "letter": "B",
+          "text": "will guarantee that you feel more relaxed"
+        },
+        {
+          "letter": "C",
+          "text": "will help turn your tension into enthusiasm"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "low. Write NO MORE THAN TWO WORDS for each answer. • Try to (36) yourself making a speech and imagine your voice loud and confident • Even if you make mistakes avoid maki",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "loud and confident • Even if you make mistakes avoid making (37) • Pay attention to your (38) your words carry less meaning than your delivery • People usually remember l",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "you make mistakes avoid making (37) • Pay attention to your (38) your words carry less meaning than your delivery • People usually remember less than (39) of what they he",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "ning than your delivery • People usually remember less than (39) of what they hear • Be (40) about yourself; You don’t become a perfect speaker overnight",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 36-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. • Try to (36) yourself making a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Lafferty",
+    "2": "Abbeyfield",
+    "3": "BR89P3",
+    "4": "1.25 m",
+    "5": "1.20 m",
+    "6": "music albums",
+    "7": "stationery",
+    "8": "£3,000",
+    "9": "B",
+    "10": "B",
+    "11": "gift shop",
+    "12": "art gallery",
+    "13": "main exhibition centre",
+    "14": "3D theatre",
+    "15": "modern art studio",
+    "16": "B",
+    "17": "A",
+    "18": "C",
+    "19": "A",
+    "20": "B",
+    "21": "appliances",
+    "22": "practical",
+    "23": "lower arm",
+    "24": "rehabilitation",
+    "25": "high performance athletes",
+    "26": "£1500",
+    "27": "2",
+    "28": "15",
+    "29": "5 recovery patients",
+    "30": "gym members",
+    "31": "A",
+    "32": "B",
+    "33": "B",
+    "34": "C",
+    "35": "C",
+    "36": "visualise",
+    "37": "apologies",
+    "38": "body language",
+    "39": "25%",
+    "40": "realistic"
+  }
+}

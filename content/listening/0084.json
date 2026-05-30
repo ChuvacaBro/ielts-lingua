@@ -1,0 +1,403 @@
+{
+  "id": "0084",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0084.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose TWO letters A-E.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter; A, B or C",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "e the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "e table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "ble below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "w. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "sentenceCompletion",
+      "prompt": "e the sentences below. Write ONE WORD ONLY for each answer. 7. The watercolours class suits people who are 8. To find out about the Maori language class, contact Jason 9.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "each answer. 7. The watercolours class suits people who are 8. To find out about the Maori language class, contact Jason 9. For the photography class, check the for the c",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": ". To find out about the Maori language class, contact Jason 9. For the photography class, check the for the camera. 10. There is a trip to a local in the final week of th",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 7-10 Complete the sentences below. Write ONE WORD ONLY for each answer. 7. The watercolours class suits people w",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO tasks will the volunteers in group A be responsible for? A . widen",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO tasks will the volunteers in group A be responsible for? A . widening pat",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO items should volunteers in group A bring with them? A . food and w",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO items should volunteers in group A bring with them? A . food and water B",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 15",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 15-20 Label the plan below. Write the correct letter A-I next of",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter; A, B or C Food Waste 21. What point does Robert make about the 2013 study in Britain?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". It focused more on packaging than wasted food."
+        },
+        {
+          "letter": "B",
+          "text": ". It proved that households produced more waste than restaurants."
+        },
+        {
+          "letter": "C",
+          "text": ". It included liquid waste as well as solid waste."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The speakers agree that food waste reports should emphasise the connection between carbon dioxide emissions and",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". food production."
+        },
+        {
+          "letter": "B",
+          "text": ". transport of food to landfill sites."
+        },
+        {
+          "letter": "C",
+          "text": ". distribution of food products."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Television programmes now tend to focus on",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". the nutritional value of food products."
+        },
+        {
+          "letter": "B",
+          "text": ". the origin of food products."
+        },
+        {
+          "letter": "C",
+          "text": ". the chemicals found in food products."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "For Anna, the most significant point about food waste is",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". the moral aspect."
+        },
+        {
+          "letter": "B",
+          "text": ". the environmental impact."
+        },
+        {
+          "letter": "C",
+          "text": ". the economic effect."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Anna and Robert decide to begin their presentation by",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". handing out a questionnaire."
+        },
+        {
+          "letter": "B",
+          "text": ". providing statistical evidence."
+        },
+        {
+          "letter": "C",
+          "text": ". showing images of wasted food."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26-30 What advantage do the speakers identify for each of the following projects? Choose FIVE answers from the bo",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "e priests who made the kites had rules for size and scale • (31) was not allowed during a kite’s preparation Kites: • Often represented a god, a bird or a (32) • Had fram",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "s preparation Kites: • Often represented a god, a bird or a (32) • Had frames that were decorated with grasses and (33) • Had a line of noisy (34) attached to them. • Cou",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "or a (32) • Had frames that were decorated with grasses and (33) • Had a line of noisy (34) attached to them. • Could be triangular, rectangular or (35) shaped. • Had pat",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "were decorated with grasses and (33) • Had a line of noisy (34) attached to them. • Could be triangular, rectangular or (35) shaped. • Had patterns made from clay mixed",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "34) attached to them. • Could be triangular, rectangular or (35) shaped. • Had patterns made from clay mixed with (36) oil. • Sometimes had human head masks with (37) and",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "ar or (35) shaped. • Had patterns made from clay mixed with (36) oil. • Sometimes had human head masks with (37) and a tattoo. Purpose and function of kites: • A way of s",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "mixed with (36) oil. • Sometimes had human head masks with (37) and a tattoo. Purpose and function of kites: • A way of sending (38) to the gods • A way of telling other",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "a tattoo. Purpose and function of kites: • A way of sending (38) to the gods • A way of telling other villages that a (39) was necessary • A means of (40) if enemies were",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "g (38) to the gods • A way of telling other villages that a (39) was necessary • A means of (40) if enemies were coming.",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD for each answer. Kite making by the Maori people of New Zealand Ma",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "7.30",
+    "2": "pencils",
+    "3": "top",
+    "4": "August",
+    "5": "instructions",
+    "6": "55",
+    "7": "beginners",
+    "8": "Kahui",
+    "9": "battery",
+    "10": "show",
+    "11": "B",
+    "12": "E",
+    "13": "B",
+    "14": "C",
+    "15": "G",
+    "16": "I",
+    "17": "B",
+    "18": "E",
+    "19": "C",
+    "20": "A",
+    "21": "C",
+    "22": "A",
+    "23": "B",
+    "24": "C",
+    "25": "A",
+    "26": "G",
+    "27": "A",
+    "28": "D",
+    "29": "C",
+    "30": "E",
+    "31": "food",
+    "32": "hero",
+    "33": "feathers",
+    "34": "shells",
+    "35": "diamond",
+    "36": "shark",
+    "37": "teeth",
+    "38": "messages",
+    "39": "meeting",
+    "40": "escape"
+  }
+}

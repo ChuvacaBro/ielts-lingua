@@ -1,0 +1,450 @@
+{
+  "id": "0146",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0146.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Complete the table below. Write NO MORE THAN THREE WORDS.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "ORMATION Type of accommodation: hall of residence Name: Anu (1) Date of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Pref",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "commodation: hall of residence Name: Anu (1) Date of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Preferred catering arra",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "ate of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Preferred catering arrangement: half board Special dietary requiremen",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "India Course of study: (3) Number of years planned in hall: (4) Preferred catering arrangement: half board Special dietary requirements: no (5) (red) Preferred room type:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "ng arrangement: half board Special dietary requirements: no (5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "ry requirements: no (5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to be with other students who are (8) To li",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "(5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to be with other students who are (8) To live outside the (9)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "rities in choice of hall: to be with other students who are (8) To live outside the (9) To have a (10) area for socializing Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": ": to be with other students who are (8) To live outside the (9) To have a (10) area for socializing Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accomm",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "tableCompletion",
+      "prompt": "3 Complete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "Questions 11-13 Complete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter, A, B or C. Longfield Park 14. As part of Monday’s activity, visitors will",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prepare food with herbs"
+        },
+        {
+          "letter": "B",
+          "text": "meet a well-known herbalist"
+        },
+        {
+          "letter": "C",
+          "text": "dye cloth with herbs"
+        }
+      ],
+      "groupId": "q14-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "For the activity on Wednesday,",
+      "options": [
+        {
+          "letter": "A",
+          "text": "only group bookings are accepted"
+        },
+        {
+          "letter": "B",
+          "text": "visitors should book in advance"
+        },
+        {
+          "letter": "C",
+          "text": "attendance is free"
+        }
+      ],
+      "groupId": "q14-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "For the activity on Saturday, visitors should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "come in suitable clothing"
+        },
+        {
+          "letter": "B",
+          "text": "make sure they are able to stay for the whole day"
+        },
+        {
+          "letter": "C",
+          "text": "tell the rangers before the event what they wish to do"
+        }
+      ],
+      "groupId": "q14-16"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-I next to",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-24 Choose the correct letter, A, B or C. Self-Access Centre 21. Students want to keep the Self-Access Centre because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they enjoy the variety of equipment"
+        },
+        {
+          "letter": "B",
+          "text": "they like being able to work on their own"
+        },
+        {
+          "letter": "C",
+          "text": "it is an important part of their studies"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Some teachers would prefer to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "close the Self-Access Centre"
+        },
+        {
+          "letter": "B",
+          "text": "move the Self-Access Centre elsewhere"
+        },
+        {
+          "letter": "C",
+          "text": "restrict access to the Self-Access Centre"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The students’ main concern about using the library would be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the size of the library"
+        },
+        {
+          "letter": "B",
+          "text": "difficulty in getting help"
+        },
+        {
+          "letter": "C",
+          "text": "the lack of materials"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "The Director of Studies is concerned about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the cost of upgrading the centre"
+        },
+        {
+          "letter": "B",
+          "text": "the lack of space in the centre"
+        },
+        {
+          "letter": "C",
+          "text": "the difficulty in supervising the centre"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "e computers to create more space Resources The level of the (25) materials, in particular, should be more clearly shown. Update the (26) collection. Buy some (27) and div",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "ls, in particular, should be more clearly shown. Update the (26) collection. Buy some (27) and divide them up. Use of the room Speak to the teachers and organize a (28) f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "be more clearly shown. Update the (26) collection. Buy some (27) and divide them up. Use of the room Speak to the teachers and organize a (28) for supervising the centre.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "em up. Use of the room Speak to the teachers and organize a (28) for supervising the centre. Install an (29) Restrict personal use of (30) on computers. Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "and organize a (28) for supervising the centre. Install an (29) Restrict personal use of (30) on computers. Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 25-30 Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "stions 31-40 Complete the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "s 31-40 Complete the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "40 Complete the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "mplete the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "e the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "s below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "ow. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "rite ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Bhatt",
+    "2": "31 March",
+    "3": "nursing",
+    "4": "2",
+    "5": "meat",
+    "6": "bedsit",
+    "7": "theatre",
+    "8": "mature/ older",
+    "9": "town",
+    "10": "shared",
+    "11": "trees",
+    "12": "Friday/ Sunday",
+    "13": "farm",
+    "14": "C",
+    "15": "B",
+    "16": "A",
+    "17": "A",
+    "18": "I",
+    "19": "F",
+    "20": "E",
+    "21": "C",
+    "22": "B",
+    "23": "B",
+    "24": "C",
+    "25": "reading",
+    "26": "CD",
+    "27": "workbooks",
+    "28": "timetable",
+    "29": "alarm",
+    "30": "emails",
+    "31": "central",
+    "32": "conversations",
+    "33": "effectively",
+    "34": "risks",
+    "35": "levels",
+    "36": "descriptions",
+    "37": "technical",
+    "38": "change",
+    "39": "responsibility",
+    "40": "flexible"
+  }
+}

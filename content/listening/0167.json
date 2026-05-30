@@ -1,0 +1,595 @@
+{
+  "id": "0167",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0167.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Choose the correct letter, A. B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "ST FORM Name: Sara Lim Age: 23 Length of time in Australia: (1) Present address: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "gth of time in Australia: (1) Present address: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required from: (4) 7th September",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "ress: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required from: (4) 7th September",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "Questions 1-4 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST F",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "-7 Choose the correct letter, A, B or C 5. Sara requires a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "single room"
+        },
+        {
+          "letter": "B",
+          "text": "twin room"
+        },
+        {
+          "letter": "C",
+          "text": "triple room"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "She would prefer to live with a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "family"
+        },
+        {
+          "letter": "B",
+          "text": "single person"
+        },
+        {
+          "letter": "C",
+          "text": "couple"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "She would like to live in a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "flat"
+        },
+        {
+          "letter": "B",
+          "text": "house"
+        },
+        {
+          "letter": "C",
+          "text": "studio apartment"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "ntences below. Write NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She needs to pay the rent by cash or cheque on a basis. 10. She needs to pay her part",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She needs to pay the rent by cash or cheque on a basis. 10. She needs to pay her part of the bill Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 8-10 Complete the sentences below. Write NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She need",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter, A, B or C. 11. When is this year’s festival being held?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-13 January"
+        },
+        {
+          "letter": "B",
+          "text": "5-17 January"
+        },
+        {
+          "letter": "C",
+          "text": "25-31 January"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What will the reviewer concentrate on today?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "theatre"
+        },
+        {
+          "letter": "B",
+          "text": "dance"
+        },
+        {
+          "letter": "C",
+          "text": "exhibitions"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "How many circuses are there in the festival?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one"
+        },
+        {
+          "letter": "B",
+          "text": "two"
+        },
+        {
+          "letter": "C",
+          "text": "several"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Where does Circus Romano perform?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in a theatre"
+        },
+        {
+          "letter": "B",
+          "text": "in a tent"
+        },
+        {
+          "letter": "C",
+          "text": "in a stadium"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "otes below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "noteCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": "MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Questions 15-20 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Par",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter,",
+      "options": [
+        {
+          "letter": "A",
+          "text": "B or C. 21. The man wants information on courses for A people going back to college"
+        },
+        {
+          "letter": "B",
+          "text": "postgraduate students"
+        },
+        {
+          "letter": "C",
+          "text": "business executives"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The ‘Study for Success’ seminar lasts for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one day"
+        },
+        {
+          "letter": "B",
+          "text": "two days"
+        },
+        {
+          "letter": "C",
+          "text": "three days"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "In the seminar the work on writing aims to improve",
+      "options": [
+        {
+          "letter": "A",
+          "text": "confidence"
+        },
+        {
+          "letter": "B",
+          "text": "speed"
+        },
+        {
+          "letter": "C",
+          "text": "clarity"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "Reading sessions help students to read",
+      "options": [
+        {
+          "letter": "A",
+          "text": "analytically"
+        },
+        {
+          "letter": "B",
+          "text": "as fast as possible"
+        },
+        {
+          "letter": "C",
+          "text": "thoroughly"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The seminar tries to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prepare learners physically"
+        },
+        {
+          "letter": "B",
+          "text": "encourage interest in learning"
+        },
+        {
+          "letter": "C",
+          "text": "develop literacy skills"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "A key component of the course is learning how to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use time effectively"
+        },
+        {
+          "letter": "B",
+          "text": "stay healthy"
+        },
+        {
+          "letter": "C",
+          "text": "select appropriate materials"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "Students who want to do the ‘Study for Success’ seminar should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "register with the Faculty Office"
+        },
+        {
+          "letter": "B",
+          "text": "contact their Course Convenor"
+        },
+        {
+          "letter": "C",
+          "text": "reserve a place in advance"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "The ‘Learning Skills for University Study’ course takes place on",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday, Wednesday and Friday"
+        },
+        {
+          "letter": "B",
+          "text": "Monday, Tuesday and Wednesday"
+        },
+        {
+          "letter": "C",
+          "text": "Monday, Thursday and Friday"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "A feature of this course is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a physical training component"
+        },
+        {
+          "letter": "B",
+          "text": "advice on coping with stress"
+        },
+        {
+          "letter": "C",
+          "text": "a detailed weekly planner"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "The man chooses the ‘Study for Success’ seminar because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he is over forty"
+        },
+        {
+          "letter": "B",
+          "text": "he wants to start at the beginning"
+        },
+        {
+          "letter": "C",
+          "text": "he seeks to revise his skills"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 and 32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Buildi",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 and 32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Building Proc",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "Questions 33-37 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Question 38 Choose TWO letters A-G. 38. Which TWO facilities did the students request in the new Union building? A a li",
+      "groupId": "q38-38"
+    },
+    {
+      "number": 39,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letters A, B and C. 39. Which argument was used AGAINST having a drama theatre?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It would be expensive and no students would use it"
+        },
+        {
+          "letter": "B",
+          "text": "It would be a poor use of resources because only a minority would use it"
+        },
+        {
+          "letter": "C",
+          "text": "It could not accommodate large production of plays"
+        }
+      ],
+      "groupId": "q39-39"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Question 40 Choose TWO letters A-F. 40. Which TWO security measures have been requested? A closed circuit TV B show Uni",
+      "groupId": "q40-40"
+    }
+  ],
+  "answerKey": {
+    "1": "1.5 year",
+    "2": "forest",
+    "3": "academic",
+    "4": "thursday",
+    "5": "B",
+    "6": "B",
+    "7": "A",
+    "8": "deposit",
+    "9": "monthly",
+    "10": "telephone",
+    "11": "C",
+    "12": "A",
+    "13": "C",
+    "14": "B",
+    "15": "lights",
+    "16": "adults",
+    "17": "studio theatre",
+    "18": "whole family",
+    "19": "city gardens",
+    "20": "young children",
+    "21": "A",
+    "22": "B",
+    "23": "C",
+    "24": "A",
+    "25": "B",
+    "26": "A",
+    "27": "C",
+    "28": "B",
+    "29": "B",
+    "30": "B",
+    "31": "questionnaire",
+    "32": "about 2000",
+    "33": "education",
+    "34": "halls of residence",
+    "35": "traffic and parking",
+    "36": "lecture rooms",
+    "37": "facilities",
+    "38": "D and F",
+    "39": "B",
+    "40": "A and C"
+  }
+}

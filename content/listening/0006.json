@@ -1,0 +1,419 @@
+{
+  "id": "0006",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the form below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Complete the plan below. Write the correct letter from the list A-H next to questions 21-24.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "MORE THAN TWO WORDS for each answer. Requisition form Item: (1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "ion form Item: (1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Na",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "(1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "ons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item: (1) For: Accou",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "le below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 7-10 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. 11. Arthur Island’s summer population is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7000"
+        },
+        {
+          "letter": "B",
+          "text": "17000"
+        },
+        {
+          "letter": "C",
+          "text": "22000"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The new bridge was completed in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1971"
+        },
+        {
+          "letter": "B",
+          "text": "1972"
+        },
+        {
+          "letter": "C",
+          "text": "1974"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The island is particularly well known for its",
+      "options": [
+        {
+          "letter": "A",
+          "text": "motor racing"
+        },
+        {
+          "letter": "B",
+          "text": "seafood"
+        },
+        {
+          "letter": "C",
+          "text": "native wildlife"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "There will be a stop-off at a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "worm farm"
+        },
+        {
+          "letter": "B",
+          "text": "wildlife sanctuary"
+        },
+        {
+          "letter": "C",
+          "text": "scenic lookout"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "The tour price includes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the wildlife park’s entrance fee"
+        },
+        {
+          "letter": "B",
+          "text": "a meal at Reggie’s restaurant"
+        },
+        {
+          "letter": "C",
+          "text": "tea and biscuits on the bus"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 16-20 Label the map below. Write the correct letter A-G next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 21-24 Complete the plan below. Write the correct letter from the list A-H next to",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "of the flyer. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "e flyer. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "er. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer. (25)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "he sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Movies are very influential because of their 32. In crime movies, the message given is that crime has 33.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "ch answer. 31. Movies are very influential because of their 32. In crime movies, the message given is that crime has 33. American movies are graded by a 34. Violence is a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "ir 32. In crime movies, the message given is that crime has 33. American movies are graded by a 34. Violence is allowed in war movies which are",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-34 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Movies are very influential becau",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ach answer. – for general audience – designed for the whole (35) ________ – stronger than PG rating – allows movies to show real (37) ________ – can maximize (38) _______",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "_ – such movies made and shown by people (40) ________ (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "____ – stronger than PG rating – allows movies to show real (37) ________ – can maximize (38) ________ – for a restricted audience – has stronger scenes – some scenes are",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "g – allows movies to show real (37) ________ – can maximize (38) ________ – for a restricted audience – has stronger scenes – some scenes are especially (39) ________ – s",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "audience – has stronger scenes – some scenes are especially (39) ________ – such movies made and shown by people (40) ________ (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 35-40 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    }
+  ],
+  "answerKey": {
+    "1": "(photo) copier",
+    "2": "on going",
+    "3": "immediately",
+    "4": "original broken",
+    "5": "more functions",
+    "6": "Mike Greene",
+    "7": "fax machines",
+    "8": "headphones",
+    "9": "mobile phones",
+    "10": "(new) mouses",
+    "11": "C",
+    "12": "C",
+    "13": "B",
+    "14": "A",
+    "15": "C",
+    "16": "C",
+    "17": "G",
+    "18": "A",
+    "19": "F",
+    "20": "D",
+    "21": "F",
+    "22": "H",
+    "23": "E",
+    "24": "B",
+    "25": "colored paper",
+    "26": "easy money",
+    "27": "limit",
+    "28": "signature",
+    "29": "department stamp",
+    "30": "contact details",
+    "31": "popularity",
+    "32": "bad outcomes",
+    "33": "trade association",
+    "34": "realistic",
+    "35": "community",
+    "36": "scary scenes",
+    "37": "society",
+    "38": "viewership",
+    "39": "graphic",
+    "40": "independent"
+  }
+}

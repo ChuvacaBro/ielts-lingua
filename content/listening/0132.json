@@ -1,0 +1,399 @@
+{
+  "id": "0132",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0132.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 1. Cheapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of pro",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "NUMBER for each answer. 1. Cheapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of properties available on",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "eapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of properties available on",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 1. Cheapest propert",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "ncluded for free with every property for rent from Easylet? (5) (6) (7) A heating bills B kitchen equipment C plates and glasses D sheets and towels E telephone F televis",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "ded for free with every property for rent from Easylet? (5) (6) (7) A heating bills B kitchen equipment C plates and glasses D sheets and towels E telephone F television",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Questions 5-7 Choose THREE letters A-G. Which THREE things are included for free with every property for rent from Easylet",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 8",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 9",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 8-10 Label the map below. Write the correct letter A-H next to",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "sentenceCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. The Hotel 11. You must book in advance. 12. There are some interesting in the lounge. Activities 13. The visit to the ha",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "sentenceCompletion",
+      "prompt": "DS for each answer. The Hotel 11. You must book in advance. 12. There are some interesting in the lounge. Activities 13. The visit to the has been cancelled. 14. There wi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "sentenceCompletion",
+      "prompt": "e. 12. There are some interesting in the lounge. Activities 13. The visit to the has been cancelled. 14. There will be a talk about from the area on Saturday. 15. The vis",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "sentenceCompletion",
+      "prompt": "lounge. Activities 13. The visit to the has been cancelled. 14. There will be a talk about from the area on Saturday. 15. The visit to the will take place on Saturday. 16",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "sentenceCompletion",
+      "prompt": ". 14. There will be a talk about from the area on Saturday. 15. The visit to the will take place on Saturday. 16. There is a collection of in the art gallery.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 11-16 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel 11. You must book in",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-I next to",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-24 Choose the correct letter A, B or C. 21. How old are the students of the nursing program?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are teenagers"
+        },
+        {
+          "letter": "B",
+          "text": "they are in their twenties"
+        },
+        {
+          "letter": "C",
+          "text": "they belong to different age groups"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What do the speakers say about the group project?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it helps to improve relationship among different classmates"
+        },
+        {
+          "letter": "B",
+          "text": "it helps to develop problem solving skills"
+        },
+        {
+          "letter": "C",
+          "text": "it provides supportive learning environment"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Which part of the program surprised Paul?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "there is a number of essay to write"
+        },
+        {
+          "letter": "B",
+          "text": "there is a lot of practical work"
+        },
+        {
+          "letter": "C",
+          "text": "there is internship provided"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What do they feel about learning law?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is essential training"
+        },
+        {
+          "letter": "B",
+          "text": "it is too theoretical"
+        },
+        {
+          "letter": "C",
+          "text": "it takes up too much time"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "otes below. Write NO MORE THAN THREE WORDS for each answer. 31. Although it is called wild, most varieties of wild rice are 32. Wild rice is mostly found in lakes that ha",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "Although it is called wild, most varieties of wild rice are 32. Wild rice is mostly found in lakes that have water. 33. Wild rice was gathered by Indians before any ever",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "are 32. Wild rice is mostly found in lakes that have water. 33. Wild rice was gathered by Indians before any ever arrived. 34. Early visitors thought that wild rice had g",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-34 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. 31. Although it is called wild, m",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q35-37"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q35-37"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "Questions 35-37 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q35-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "ch answer. Buying wild rice: Fact Sheet You need to harvest (38) pounds of seed to yield 1 pound of wild rice. Wild rice on the market that is harvested by (39) is slowly",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "of wild rice. Wild rice on the market that is harvested by (39) is slowly being pushed. (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 38-40 Complete the fact sheet below. Write NO MORE THAN THREE WORDS for each answer. Buying wild rice: Fact Sheet",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "90",
+    "2": "8 months",
+    "3": "4 pm",
+    "4": "Internet",
+    "5": "B",
+    "6": "F",
+    "7": "G",
+    "8": "B",
+    "9": "H",
+    "10": "E",
+    "11": "breakfast",
+    "12": "paintings",
+    "13": "castle",
+    "14": "famous people",
+    "15": "antiques show",
+    "16": "old postcards",
+    "17": "E",
+    "18": "F",
+    "19": "A",
+    "20": "D",
+    "21": "C",
+    "22": "A",
+    "23": "A",
+    "24": "A",
+    "25": "E",
+    "26": "G",
+    "27": "C",
+    "28": "A",
+    "29": "B",
+    "30": "H",
+    "31": "cultivated",
+    "32": "fresh",
+    "33": "explorers",
+    "34": "strength, hardiness",
+    "35": "blown",
+    "36": "too green",
+    "37": "fall off",
+    "38": "three",
+    "39": "hand",
+    "40": "airboat"
+  }
+}

@@ -1,0 +1,417 @@
+{
+  "id": "0011",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0011.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Answer the questions below. Choose the correct letter, A, B, or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Complete the information below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Complete the chart with information about the black bear. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "ORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "DS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "ND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "R A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 1-10 Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Answer the questions below. Choose the correct letter, A, B, or C. 11. The fair will take place at the",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fairgrounds"
+        },
+        {
+          "letter": "B",
+          "text": "Park"
+        },
+        {
+          "letter": "C",
+          "text": "School"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The fair will begin on Friday",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Morning"
+        },
+        {
+          "letter": "B",
+          "text": "Afternoon"
+        },
+        {
+          "letter": "C",
+          "text": "Evening"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The fair will begin with a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parade"
+        },
+        {
+          "letter": "B",
+          "text": "Dance performance"
+        },
+        {
+          "letter": "C",
+          "text": "Speech by the major"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 14"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "e table below. Write NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "le below. Write NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "low. Write NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "Write NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN ONE WORD for each answer. (15) (16) (17) (18) (19) (20) Part 3",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "you get academic credit for work experience First, read the (21) Find courses that match your work experience. Then write (22) of your work experience. Submit that togeth",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "1) Find courses that match your work experience. Then write (22) of your work experience. Submit that together with a letter from your (23) to the university admissions o",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 21-23 Complete the information below. Write NO MORE THAN TWO WORDS for each answer. How you get academic credit f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 24-28 Where can the items listed below be found? A admissions office B counseling center C library Write the corr",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "and 30 Choose the correct letters, A, B, or C. 29. What are full-time students eligible for?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Discounted books"
+        },
+        {
+          "letter": "B",
+          "text": "The work-study program"
+        },
+        {
+          "letter": "C",
+          "text": "A free bus pass"
+        }
+      ],
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "How can a student get financial assistance?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speak with a counselor"
+        },
+        {
+          "letter": "B",
+          "text": "Apply to the admissions office"
+        },
+        {
+          "letter": "C",
+          "text": "Make arrangements with a bank"
+        }
+      ],
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "O MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "E THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "N TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "Questions 31-35 Complete the chart with information about the black bear. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "bears. Write В if it is a characteristic of grizzly bears. 36. Has a patch of light fur on its chest 37. Weighs 225 kilos 38. Has a shoulder hump 39. Has pointed ears 40",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "of grizzly bears. 36. Has a patch of light fur on its chest 37. Weighs 225 kilos 38. Has a shoulder hump 39. Has pointed ears 40. Has shorter claws",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Has a patch of light fur on its chest 37. Weighs 225 kilos 38. Has a shoulder hump 39. Has pointed ears 40. Has shorter claws",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "r on its chest 37. Weighs 225 kilos 38. Has a shoulder hump 39. Has pointed ears 40. Has shorter claws",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 36-40 Which characteristics fit black bears and which fit grizzly bears? Write A if it is a characteristic оf bla",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Kramer",
+    "2": "58",
+    "3": "residential",
+    "4": "office manager",
+    "5": "6375559014",
+    "6": "nine years",
+    "7": "long distance",
+    "8": "internet",
+    "9": "friday",
+    "10": "morning",
+    "11": "B",
+    "12": "C",
+    "13": "B",
+    "14": "A",
+    "15": "clown",
+    "16": "concert",
+    "17": "singing",
+    "18": "international",
+    "19": "games",
+    "20": "crafts",
+    "21": "university catalog",
+    "22": "a summary",
+    "23": "work supervisor",
+    "24": "C",
+    "25": "A",
+    "26": "B",
+    "27": "A",
+    "28": "C",
+    "29": "B",
+    "30": "A",
+    "31": "forested area",
+    "32": "plant foods",
+    "33": "insects/ fish",
+    "34": "the winter",
+    "35": "25 years",
+    "36": "A",
+    "37": "B",
+    "38": "B",
+    "39": "A",
+    "40": "A"
+  }
+}

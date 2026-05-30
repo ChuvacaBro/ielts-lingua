@@ -1,0 +1,510 @@
+{
+  "id": "0076",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0076.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Complete the notes below. Write ONE WORD AND/ OF A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 What is customer’s attitude towards the following services?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "answer. Complaint to the airport Name: Jack Dawson Address: (1) road, Exeter Postcode: (2) Telephone: work: (3) Home: 798662",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "rport Name: Jack Dawson Address: (1) road, Exeter Postcode: (2) Telephone: work: (3) Home: 798662",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-3 Complete the notes below. Write ONE WORD AND/ OF A NUMBER for each answer. Complaint to the airport Name: Ja",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "-6 Choose the correct letter A, B or C. 4. What aspect of the flight does the man complain about?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "punctuality"
+        },
+        {
+          "letter": "B",
+          "text": "legroom"
+        },
+        {
+          "letter": "C",
+          "text": "temperature"
+        }
+      ],
+      "groupId": "q4-6"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "What does the main think about the food served during the flight?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is not enough to eat"
+        },
+        {
+          "letter": "B",
+          "text": "it is expensive"
+        },
+        {
+          "letter": "C",
+          "text": "it has a bad taste"
+        }
+      ],
+      "groupId": "q4-6"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "What does the man think of the service of the staff?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "satisfied"
+        },
+        {
+          "letter": "B",
+          "text": "long wait"
+        },
+        {
+          "letter": "C",
+          "text": "bad attitude"
+        }
+      ],
+      "groupId": "q4-6"
+    },
+    {
+      "number": 7,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 7. The man felt satisfied with because it was quick. 8. During the flight facilities helped him distract from",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "nswer. 7. The man felt satisfied with because it was quick. 8. During the flight facilities helped him distract from other poor quality of the service. 9. As a gift a 20%",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "helped him distract from other poor quality of the service. 9. As a gift a 20% discount on the fees will be offered. 10. The flight company also offers the man a worth £2",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 7-10 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 7. The man felt satisfied with",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 11-16 What is customer’s attitude towards the following services? Write the correct letter A, B or C next to",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter A, B or C. 17. What is the problem of the public transport?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "traffic jams"
+        },
+        {
+          "letter": "B",
+          "text": "pedestrian safety"
+        },
+        {
+          "letter": "C",
+          "text": "low efficiency"
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "According to the speaker what is true about the transportation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "buses are easy to find"
+        },
+        {
+          "letter": "B",
+          "text": "taxis are punctual"
+        },
+        {
+          "letter": "C",
+          "text": "airplanes are unaffordable"
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "According to the speaker what is true about the bus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "passengers occasionally spend more than half an hour waiting for it"
+        },
+        {
+          "letter": "B",
+          "text": "it is sometimes overcrowded"
+        },
+        {
+          "letter": "C",
+          "text": "it is often dirty"
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "What is the existing situation about the price of bus tickets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is fluctuating severely"
+        },
+        {
+          "letter": "B",
+          "text": "it is declining"
+        },
+        {
+          "letter": "C",
+          "text": "it needs to be increased"
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter A, B or C. 21. What was the most difficult problem when the company was founded?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "no clear objectives"
+        },
+        {
+          "letter": "B",
+          "text": "no formal structures"
+        },
+        {
+          "letter": "C",
+          "text": "no perfect premises"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What is the staff unsatisfied with?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the type of work"
+        },
+        {
+          "letter": "B",
+          "text": "the work assignment"
+        },
+        {
+          "letter": "C",
+          "text": "the feeling of appreciation"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "What was the problem of the manager?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he had a lot of tasks to do"
+        },
+        {
+          "letter": "B",
+          "text": "he employed too many people and let them go then"
+        },
+        {
+          "letter": "C",
+          "text": "he always made decisions by himself"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What does the staff think of the new manager of the company?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are delighted to see that the meeting time is shorter"
+        },
+        {
+          "letter": "B",
+          "text": "they feel annoyed toward him"
+        },
+        {
+          "letter": "C",
+          "text": "they are amazed that he had done it well"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What achievement has the organization made already?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "children were involved in painting the entrance area"
+        },
+        {
+          "letter": "B",
+          "text": "there was no particular achievement"
+        },
+        {
+          "letter": "C",
+          "text": "it built a local primary school"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "re have been many problems with employment, but there is no (26) He needs to find a venue for financial training. It is very hard to run an organisation and the (27) is o",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "summaryCompletion",
+      "prompt": "al training. It is very hard to run an organisation and the (27) is of great importance to staying organised. To enhance the organisation skills, there is a section on (2",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "summaryCompletion",
+      "prompt": ". To enhance the organisation skills, there is a section on (28) in the library where some valuable books can be found. In addition, the library contains some useful reso",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "summaryCompletion",
+      "prompt": "f documentaries on personal organisation, the literature on (29) , and the articles on the (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "summaryCompletion",
+      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Major problems of a company Sin",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "TECTURE • Cases and examples are from practice conducted in (31) as well as rural areas. Acid rain • The chemicals have devastating effects on the architecture. • The gov",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "uce the negative effects. • Funds have been received from a (32) • (33) experience lower levels of acid in damaging pollutants. • In recent years, Alter Project focuses o",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "negative effects. • Funds have been received from a (32) • (33) experience lower levels of acid in damaging pollutants. • In recent years, Alter Project focuses on the b",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ecent years, Alter Project focuses on the buildings made of (34) Pollution • One of the main sources of pollution is from the construction industry. • (35) is used to red",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "n sources of pollution is from the construction industry. • (35) is used to reduce pollution in Sky Tower. • Construction is affected by the increased (36) in winter. • H",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "n in Sky Tower. • Construction is affected by the increased (36) in winter. • Humidity affects the (37) buildings whose grain can be condensed by moisture from the air. B",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ted by the increased (36) in winter. • Humidity affects the (37) buildings whose grain can be condensed by moisture from the air. Building & Technology • Ground condition",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "Ground conditions can be a problem when the density of the (38) is wrong. • Architects can now monitor the (39) of buildings. • The government should make (40) for the a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "sity of the (38) is wrong. • Architects can now monitor the (39) of buildings. • The government should make (40) for the architects.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. CLIMATE AND ARCHITECTURE • Cases an",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "33 hillcrest",
+    "2": "AL698GQ",
+    "3": "754688",
+    "4": "C",
+    "5": "A",
+    "6": "B",
+    "7": "security",
+    "8": "entertainment",
+    "9": "hotel",
+    "10": "phone card",
+    "11": "C",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "A",
+    "16": "B",
+    "17": "C",
+    "18": "B",
+    "19": "A",
+    "20": "B",
+    "21": "B",
+    "22": "B",
+    "23": "C",
+    "24": "C",
+    "25": "A",
+    "26": "solution",
+    "27": "role of motivation",
+    "28": "culture",
+    "29": "management of change",
+    "30": "nature of volunteering",
+    "31": "cities",
+    "32": "bank",
+    "33": "skyscrapers",
+    "34": "stone",
+    "35": "recycled glass",
+    "36": "rainfall",
+    "37": "wooden",
+    "38": "soil",
+    "39": "movement",
+    "40": "guidelines"
+  }
+}

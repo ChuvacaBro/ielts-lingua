@@ -1,0 +1,398 @@
+{
+  "id": "0161",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0161.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-19 Complete the table below. Write NO MORE THAN THREE WORDS.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose the correct letter A, B and C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "h experience Holiday length: 2 days Type of transportation: (1) Maximum group size: (2) Next tour date: (3) Hotel name: (4) The",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "AGENCY Holiday name: Whale watch experience Holiday length: 2 days Type of transportation: (1) Maximum group size: (2) Next tour date: (3) Hotel name: (4) The",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "transportation: (1) Maximum group size: (2) Next tour date: (3) Hotel name: (4) The",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. DREAMTIME TRAVEL AGENCY Holiday name: Wh",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 5 and 6 Choose TWO letters A-E. Which TWO things are included in the price of the tour? A fishing trip B guide",
+      "groupId": "q5-6"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Questions 5 and 6 Choose TWO letters A-E. Which TWO things are included in the price of the tour? A fishing trip B guided bush",
+      "groupId": "q5-6"
+    },
+    {
+      "number": 7,
+      "type": "sentenceCompletion",
+      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 7. The tour costs $ 8. Bookings must be made no later than days in advance. 9. A deposit is required. 10. The",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "WORDS AND/OR A NUMBER for each answer. 7. The tour costs $ 8. Bookings must be made no later than days in advance. 9. A deposit is required. 10. The customer’s reference",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "s $ 8. Bookings must be made no later than days in advance. 9. A deposit is required. 10. The customer’s reference number is Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 7-10 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 7. The tour c",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "tableCompletion",
+      "prompt": "9 Complete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 12,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "w. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "ite NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "O MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "Questions 11-19 Complete the table below. Write NO MORE THAN THREE WORDS. (11) (12) (13) (14) (15) (16) (17) (18) (19)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-19"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Question 20 Complete the notes below. Write ONE WORD ONLY for the answer. • Metal should not be rusted or bent • Edges",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q20-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-23 Choose the correct letter A, B and C. 21. Andrew has worked at the hospital for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "two years"
+        },
+        {
+          "letter": "B",
+          "text": "three years"
+        },
+        {
+          "letter": "C",
+          "text": "five years"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "During the course Andrew’s employers will pay",
+      "options": [
+        {
+          "letter": "A",
+          "text": "his fees"
+        },
+        {
+          "letter": "B",
+          "text": "his living costs"
+        },
+        {
+          "letter": "C",
+          "text": "his salary"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The part-time course lasts for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one whole year"
+        },
+        {
+          "letter": "B",
+          "text": "18 months"
+        },
+        {
+          "letter": "C",
+          "text": "two years"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A—E. What TWO types of coursework are required each month on the part-time course",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A—E. What TWO types of coursework are required each month on the part-time course? A a c",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "OR A NUMBER for each answer. Modular Courses Students study (26) during each module. A module takes (27) and the work is very (28) To get a Diploma each student has to st",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "summaryCompletion",
+      "prompt": "rses Students study (26) during each module. A module takes (27) and the work is very (28) To get a Diploma each student has to study (29) and then work on (30) in depth.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "summaryCompletion",
+      "prompt": "uring each module. A module takes (27) and the work is very (28) To get a Diploma each student has to study (29) and then work on (30) in depth. Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "summaryCompletion",
+      "prompt": "ork is very (28) To get a Diploma each student has to study (29) and then work on (30) in depth. Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "summaryCompletion",
+      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Modular Courses",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 31. According to George Bernard Shaw, men are supposed to understand economics and finance. 32. However, women",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "Shaw, men are supposed to understand economics and finance. 32. However, women are more prepared to about them. 33. Women tend to save for and a house. 34. Men tend to sa",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "inance. 32. However, women are more prepared to about them. 33. Women tend to save for and a house. 34. Men tend to save for and for retirement. 35. Women who are left al",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "ared to about them. 33. Women tend to save for and a house. 34. Men tend to save for and for retirement. 35. Women who are left alone may have to pay for when they are ol",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-35 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. According to George Berna",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "t many women only think about their financial future when a (36) occurs. This is the worst time to make decisions. It is best for women to start thinking about pensions w",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "men to start thinking about pensions when they are in their (37) A good way for women to develop their (38) in dealing with financial affairs would be to attend classes i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "hey are in their (37) A good way for women to develop their (38) in dealing with financial affairs would be to attend classes in (39) When investing in stocks and shares,",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "ealing with financial affairs would be to attend classes in (39) When investing in stocks and shares, it is suggested that women should put a high proportion of their sav",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 36-40 Complete the summary below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Saving for the",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "by minibus",
+    "2": "15",
+    "3": "april 18",
+    "4": "palisades",
+    "5": "B",
+    "6": "D",
+    "7": "280",
+    "8": "14",
+    "9": "20%",
+    "10": "39745T",
+    "11": "move around",
+    "12": "brakes",
+    "13": "fingers",
+    "14": "satisfactory",
+    "15": "put together",
+    "16": "too wide",
+    "17": "dangerous",
+    "18": "wheels",
+    "19": "best buy",
+    "20": "sharp",
+    "21": "B",
+    "22": "A",
+    "23": "C",
+    "24": "B",
+    "25": "D",
+    "26": "full-time",
+    "27": "one term",
+    "28": "intensive",
+    "29": "two modules",
+    "30": "one topic",
+    "31": "politics",
+    "32": "learn",
+    "33": "children’s education",
+    "34": "a car",
+    "35": "nursing care",
+    "36": "crisis",
+    "37": "early twenties",
+    "38": "confidence",
+    "39": "money management",
+    "40": "low-risk investments"
+  }
+}

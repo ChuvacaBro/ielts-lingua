@@ -1,0 +1,457 @@
+{
+  "id": "0144",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0144.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the notes below. Write ONE WORD ONLY.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose TWO letters, A-E.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Customer heard about Thorndyke’s from a friend Name: Edith (1) Address: Flat 4, (2) Park Flats, (Behind the (3) ) Phone number: 875934 Best time to contact customer: dur",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Thorndyke’s from a friend Name: Edith (1) Address: Flat 4, (2) Park Flats, (Behind the (3) ) Phone number: 875934 Best time to contact customer: during the (4) Where to",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "ame: Edith (1) Address: Flat 4, (2) Park Flats, (Behind the (3) ) Phone number: 875934 Best time to contact customer: during the (4) Where to park: opposite entrance next",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "ne number: 875934 Best time to contact customer: during the (4) Where to park: opposite entrance next to the (5) Need full quote showing all the jobs and the (6)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "during the (4) Where to park: opposite entrance next to the (5) Need full quote showing all the jobs and the (6)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-6 Complete the notes below. Write ONE WORD ONLY. THORNDYKE’S BUILDERS Customer heard about Thorndyke’s from a",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "estions 7-10 Complete the table below. Write ONE WORD ONLY. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "ons 7-10 Complete the table below. Write ONE WORD ONLY. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "7-10 Complete the table below. Write ONE WORD ONLY. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. MANHAM PORT 11. Why did a port originally develop at Manham?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was safe from enemy attack"
+        },
+        {
+          "letter": "B",
+          "text": "It was convenient for river transport"
+        },
+        {
+          "letter": "C",
+          "text": "It had a good position on the sea coast"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What caused Manham’s sudden expansion during the Industrial Revolution?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the improvement in mining techniques"
+        },
+        {
+          "letter": "B",
+          "text": "the increase in demand for metals"
+        },
+        {
+          "letter": "C",
+          "text": "the discovery of tin in the area"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Why did rocks have to be sent away from Manham to be processed?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shortage of fuel"
+        },
+        {
+          "letter": "B",
+          "text": "poor transport systems"
+        },
+        {
+          "letter": "C",
+          "text": "lack of skills among local people"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "What happened when the port declined in the twentieth century?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The workers went away"
+        },
+        {
+          "letter": "B",
+          "text": "Traditional skills were lost"
+        },
+        {
+          "letter": "C",
+          "text": "Buildings were used for new purposes"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "What did the Manham Trust hope to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "discover the location of the original port"
+        },
+        {
+          "letter": "B",
+          "text": "provide jobs for the unemployed"
+        },
+        {
+          "letter": "C",
+          "text": "rebuild the port complex"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "-20 Complete the notes below. Write NO MORE THAN TWO WORDS. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "noteCompletion",
+      "prompt": "omplete the notes below. Write NO MORE THAN TWO WORDS. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "te the notes below. Write NO MORE THAN TWO WORDS. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": "e notes below. Write NO MORE THAN TWO WORDS. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Questions 16-20 Complete the notes below. Write NO MORE THAN TWO WORDS. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO skills did Laura improve as a result of her work placement? A com",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO skills did Laura improve as a result of her work placement? A communicat",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO immediate benefits did the company get from Laura’s work placemen",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO immediate benefits did the company get from Laura’s work placement? A up",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 What source of information should Tim use at each of the following stages of the work placement? Choose SIX",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. Nanotechnology: technology on a small scale 31. The speaker says that one problem with nanotechnology is that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it could threaten our way of life"
+        },
+        {
+          "letter": "B",
+          "text": "it could be used to spy on people"
+        },
+        {
+          "letter": "C",
+          "text": "it is misunderstood by the public"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "According to the speaker, some scientists believe that nano-particles",
+      "options": [
+        {
+          "letter": "A",
+          "text": "should be restricted to secure environments"
+        },
+        {
+          "letter": "B",
+          "text": "should be used with more caution"
+        },
+        {
+          "letter": "C",
+          "text": "should only be developed for essential products"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "In the speaker’s opinion, research into nanotechnology",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has yet to win popular support"
+        },
+        {
+          "letter": "B",
+          "text": "could be seen as unethical"
+        },
+        {
+          "letter": "C",
+          "text": "ought to be continued"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "rt • Nanotechnology could allow the development of stronger (34) • Planes would be much lighter in weight. • (35) travel will be made available to the masses. Technology",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "f stronger (34) • Planes would be much lighter in weight. • (35) travel will be made available to the masses. Technology • Computers will be even smaller, faster, and wil",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "uters will be even smaller, faster, and will have a greater (36) • (37) energy will become more affordable. The Environment • Nano-robots could rebuild the ozone layer. •",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ill be even smaller, faster, and will have a greater (36) • (37) energy will become more affordable. The Environment • Nano-robots could rebuild the ozone layer. • Pollut",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "-robots could rebuild the ozone layer. • Pollutants such as (38) could be removed from water more easily. • There will be no (39) from manufacturing. Health and Medicine",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "could be removed from water more easily. • There will be no (39) from manufacturing. Health and Medicine • New methods of food production could eradicate famine. • Analys",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 34-40 Complete the notes below. Write ONE WORD ONLY. Uses of Nanotechnology Transport • Nanotechnology could allo",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Pargetter",
+    "2": "east",
+    "3": "library",
+    "4": "mornings",
+    "5": "postbox",
+    "6": "prices",
+    "7": "glass",
+    "8": "cooker",
+    "9": "week",
+    "10": "fence",
+    "11": "B",
+    "12": "B",
+    "13": "A",
+    "14": "A",
+    "15": "C",
+    "16": "trains",
+    "17": "dark",
+    "18": "games",
+    "19": "guided tours",
+    "20": "ladders",
+    "21": "A",
+    "22": "E",
+    "23": "B",
+    "24": "C",
+    "25": "D",
+    "26": "F",
+    "27": "G",
+    "28": "B",
+    "29": "E",
+    "30": "C",
+    "31": "C",
+    "32": "B",
+    "33": "C",
+    "34": "metals",
+    "35": "space",
+    "36": "memory",
+    "37": "solar",
+    "38": "oil",
+    "39": "waste",
+    "40": "tests"
+  }
+}

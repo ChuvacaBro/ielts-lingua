@@ -1,0 +1,457 @@
+{
+  "id": "0124",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0124.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1 and 2 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Fill in the blanks with NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "and 2 Choose the correct letter A, B or C. 1. Where do they plan to travel?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the coast"
+        },
+        {
+          "letter": "B",
+          "text": "the mountains"
+        },
+        {
+          "letter": "C",
+          "text": "Sydney D the desert"
+        }
+      ],
+      "groupId": "q1-2"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "Where do they plan to stay during the holiday?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a motel"
+        },
+        {
+          "letter": "B",
+          "text": "a hotel"
+        },
+        {
+          "letter": "C",
+          "text": "a youth hostel D a holiday house"
+        }
+      ],
+      "groupId": "q1-2"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "Question 3 Choose THREE letters A-E. 3. What will they take with them? A mosquito net B insect repellent C think coats",
+      "groupId": "q3-3"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "and 5 Choose the correct letter A-D or A-C. 4. How much money do they need for the tour?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "$480"
+        },
+        {
+          "letter": "B",
+          "text": "$490"
+        },
+        {
+          "letter": "C",
+          "text": "$500 D $300"
+        }
+      ],
+      "groupId": "q4-5"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "How will they pay the house fee?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with the traveler’s cheque"
+        },
+        {
+          "letter": "B",
+          "text": "with the credit card"
+        },
+        {
+          "letter": "C",
+          "text": "with the saving card"
+        }
+      ],
+      "groupId": "q4-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "ng questions with NO MORE THAN THREE WORDS for each answer. 6. When will they depart for the holiday? 7. Where is the place they are going to stay located? 8. Why do many",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "for each answer. 6. When will they depart for the holiday? 7. Where is the place they are going to stay located? 8. Why do many tourists go to this place? Which TWO thin",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "iday? 7. Where is the place they are going to stay located? 8. Why do many tourists go to this place? Which TWO things in the bushes should they be careful about? (9) (10",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "hich TWO things in the bushes should they be careful about? (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Answer the following questions with NO MORE THAN THREE WORDS for each answer. 6. When will they depart for",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "y cafes, Brisbane also offers artistic atmosphere with many (11) and Being established in (12) , Brisbane has become the third biggest city. In 1988, Brisbane held the (1",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "artistic atmosphere with many (11) and Being established in (12) , Brisbane has become the third biggest city. In 1988, Brisbane held the (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 11-13 Fill in the blanks with NO MORE THAN THREE WORDS for each answer. Facts about Brisbane Besides sunny cafes,",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "in the table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "e table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 14-16 Fill in the table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "in the table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "e table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "le with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 17-20 Fill in the table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-23 Choose the correct letter A, B or C. 21. What does George have to do next?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get the results of the survey back"
+        },
+        {
+          "letter": "B",
+          "text": "draw the results of the survey"
+        },
+        {
+          "letter": "C",
+          "text": "make some conclusions"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What is Anna’s market research project on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "violence on television"
+        },
+        {
+          "letter": "B",
+          "text": "transportation in the city"
+        },
+        {
+          "letter": "C",
+          "text": "the history of transportation"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "What did the results of George’s survey show?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "everyone thinks there is too much violence on TV"
+        },
+        {
+          "letter": "B",
+          "text": "most people think there is too much violence on TV"
+        },
+        {
+          "letter": "C",
+          "text": "there is no real agreement on the amount of violence"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "summaryCompletion",
+      "prompt": "h answer. Children might see the heroes of violent films as (24) So most people think that violent programs should only be shown after 10 pm. However, there is a (25) who",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 25,
+      "type": "summaryCompletion",
+      "prompt": "grams should only be shown after 10 pm. However, there is a (25) who feel that violent films should be banned. Although new broadcasts are violent, people felt they shoul",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "Questions 24-26 Complete the summary. Write NO MORE THAN THREE WORDS for each answer. Children might see the heroes of viol",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER. 27. How many questionnaires did George get back? 28. Anna says George’s survey does not represent? 29. Where i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "A NUMBER. 27. How many questionnaires did George get back? 28. Anna says George’s survey does not represent? 29. Where is Anna going to interview her respondents? 30. Wh",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "get back? 28. Anna says George’s survey does not represent? 29. Where is Anna going to interview her respondents? 30. What is the best type of questions for a good questi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER. 27. How many questionnaires did George ge",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "ach answer. Adventure Classes A particular program: combine (31) and real life exploration Purpose: make students aware of international communication and (32) (33) (34)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "ose: make students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "make students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "nts aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "ware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "ternational communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "tional communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 31-40 Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A parti",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "B",
+    "2": "D",
+    "3": [
+      "B",
+      "D",
+      "E"
+    ],
+    "4": "C",
+    "5": "B",
+    "6": "14 April",
+    "7": "opposite rainforest park",
+    "8": "bush walking",
+    "9": "(venomous) snakes",
+    "10": "(irritation) plants",
+    "11": "museums, art galleries",
+    "12": "1842",
+    "13": "world expo",
+    "14": "comedy",
+    "15": "arts",
+    "16": "races",
+    "17": "weekend market",
+    "18": "hold, feed",
+    "19": "sunset cruise",
+    "20": "hiking, camping",
+    "21": "C",
+    "22": "B",
+    "23": "B",
+    "24": "role models",
+    "25": "minority of people",
+    "26": "reality/ real",
+    "27": "70",
+    "28": "public",
+    "29": "shopping mall",
+    "30": "multiple choice (questions)",
+    "31": "textbook learning",
+    "32": "global environment",
+    "33": "coral",
+    "34": "study tour",
+    "35": "6",
+    "36": "wild life management",
+    "37": "camp",
+    "38": "4,950",
+    "39": "ocean research",
+    "40": "operates"
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "id": "0052",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0052.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. IMA RENTAL AGENCY Name: Don Cheste",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. IMA RENTAL AGENCY Name: Don Chester Addr",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "Question 3",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "Question 4",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "Question 5",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "Question 6",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "Question 7",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Question 8",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "Question 9",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 3-10 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. For",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose correct letter A, B or C. 11. At the Wildlife Haven there are not any A telephones or radios",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose correct letter A, B or C. 11. At the Wildlife Haven there are not any A telephones or radios B radio",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "Questions 13-15 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "clothing does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "hing does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter A, B or C. 21. The counselor says he can",
+      "options": [
+        {
+          "letter": "A",
+          "text": "provide sleeping pills"
+        },
+        {
+          "letter": "B",
+          "text": "discuss the problem"
+        },
+        {
+          "letter": "C",
+          "text": "only see medical students"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The counselor says that new students",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lack self-discipline"
+        },
+        {
+          "letter": "B",
+          "text": "are expected to work more on their own"
+        },
+        {
+          "letter": "C",
+          "text": "are usually not able to cope"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Bill complains that the library",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is not open at the right times"
+        },
+        {
+          "letter": "B",
+          "text": "has too few resources"
+        },
+        {
+          "letter": "C",
+          "text": "is too noisy"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "The counselor suggests to Bill that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "most other students are able to cope"
+        },
+        {
+          "letter": "B",
+          "text": "he needs to find new places to work"
+        },
+        {
+          "letter": "C",
+          "text": "he needs to plan more"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Before being able to help Bill the counselor need",
+      "options": [
+        {
+          "letter": "A",
+          "text": "make a further appointment"
+        },
+        {
+          "letter": "B",
+          "text": "talk with his medical friend"
+        },
+        {
+          "letter": "C",
+          "text": "get more information from him"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "stions • Check the importance of each question towards your (26) Answering • Understand the (27) • (28) the question Reviewing • Check your answers for (29) • Look for (3",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "each question towards your (26) Answering • Understand the (27) • (28) the question Reviewing • Check your answers for (29) • Look for (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "uestion towards your (26) Answering • Understand the (27) • (28) the question Reviewing • Check your answers for (29) • Look for (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "(27) • (28) the question Reviewing • Check your answers for (29) • Look for (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Organizing • Allocate time to ans",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-35 Choose the correct letter A, B or C. 31. Jim was first interested in the subject because of something",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he had experienced"
+        },
+        {
+          "letter": "B",
+          "text": "he had heard"
+        },
+        {
+          "letter": "C",
+          "text": "he had witnessed"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "The main research method was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "interviews"
+        },
+        {
+          "letter": "B",
+          "text": "observation"
+        },
+        {
+          "letter": "C",
+          "text": "questionnaires"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "Which pie chart shows the proportion of men and women respondents?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "B. C. 34. How many respondents were there? A 50-100"
+        },
+        {
+          "letter": "B",
+          "text": "100-150"
+        },
+        {
+          "letter": "C",
+          "text": "150-200"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 34"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "The most common type of problem involved",
+      "options": [
+        {
+          "letter": "A",
+          "text": "water movement"
+        },
+        {
+          "letter": "B",
+          "text": "verbal abuse"
+        },
+        {
+          "letter": "C",
+          "text": "noise"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "t was mainly men Tick column C if it was both men and women (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "mainly men Tick column C if it was both men and women (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "ly men Tick column C if it was both men and women (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "n Tick column C if it was both men and women (36) (37) (38) (39) (40)",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 36-40 Which group gave the following advice? Tick column A if it was mainly women Tick column B if it was mainly",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "18 ruby lane",
+    "2": "24 May",
+    "3": "broken switch",
+    "4": "C",
+    "5": "no blinds",
+    "6": "front door lock",
+    "7": "A",
+    "8": "shower curtain",
+    "9": "B",
+    "10": "2pm and 6pm",
+    "11": "B",
+    "12": "C",
+    "13": "walking tracks",
+    "14": "7",
+    "15": "waterfall walk",
+    "16": "footwear",
+    "17": "socks",
+    "18": "hat",
+    "19": "spiders",
+    "20": "wild berries",
+    "21": "B",
+    "22": "B",
+    "23": "A",
+    "24": "C",
+    "25": "C",
+    "26": "total mark",
+    "27": "question",
+    "28": "address",
+    "29": "content",
+    "30": "errors",
+    "31": "B",
+    "32": "A",
+    "33": "C",
+    "34": "B",
+    "35": "C",
+    "36": "B",
+    "37": "A",
+    "38": "C",
+    "39": "B",
+    "40": "C"
+  }
+}

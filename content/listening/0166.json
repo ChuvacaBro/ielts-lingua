@@ -1,0 +1,567 @@
+{
+  "id": "0166",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0166.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-20 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Choose the correct letter A, B and C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-5 Choose the correct letter, A, B or C. 1. What does Peter want to drink?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tea"
+        },
+        {
+          "letter": "B",
+          "text": "coffee"
+        },
+        {
+          "letter": "C",
+          "text": "a cold drink"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "What caused Peter problems at the bank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The exchange rate was down"
+        },
+        {
+          "letter": "B",
+          "text": "He was late"
+        },
+        {
+          "letter": "C",
+          "text": "The computers weren’t working"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "Who did Peter talk to at the bank?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "an old friend"
+        },
+        {
+          "letter": "B",
+          "text": "an American man"
+        },
+        {
+          "letter": "C",
+          "text": "a German man"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "Henry gave Peter a map of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the city"
+        },
+        {
+          "letter": "B",
+          "text": "the bus routes"
+        },
+        {
+          "letter": "C",
+          "text": "the train system"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "What do Peter and Sally decide to order?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "food and drinks"
+        },
+        {
+          "letter": "B",
+          "text": "just food"
+        },
+        {
+          "letter": "C",
+          "text": "just drinks"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "al Castle Gardens Markets Tourist attractions open all day: (6) and Gardens Tourist attractions NOT open on Mondays: (7) and Castle Tourist attractions which have free en",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "y: (6) and Gardens Tourist attractions NOT open on Mondays: (7) and Castle Tourist attractions which have free entry: (8) and Markets",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "Questions 6-8 Complete the notes below using words from the options given below. Art gallery Cathedral Castle Gardens Mark",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 9 and 10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 9. The first place Pete",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 9 and 10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 9. The first place Peter and",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter A, B or C. 11. The Counselling Service may contact tutors if",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are too slow in marking assignments"
+        },
+        {
+          "letter": "B",
+          "text": "they give students a lot of work"
+        },
+        {
+          "letter": "C",
+          "text": "they don’t inform students about their progress"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Stress may be caused by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "new teachers"
+        },
+        {
+          "letter": "B",
+          "text": "time pressure"
+        },
+        {
+          "letter": "C",
+          "text": "unfamiliar subject matter"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "International students may find stress difficult to handle because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they lack support from family and friends"
+        },
+        {
+          "letter": "B",
+          "text": "they don’t have time to make new friends"
+        },
+        {
+          "letter": "C",
+          "text": "they find it difficult to socialise"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "A personal crisis may be caused by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "studying for too long overseas"
+        },
+        {
+          "letter": "B",
+          "text": "business problems in the student’s own country"
+        },
+        {
+          "letter": "C",
+          "text": "disruptions to personal relationships"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "Students may lose self-esteem if",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they have to change courses"
+        },
+        {
+          "letter": "B",
+          "text": "they don’t complete a course"
+        },
+        {
+          "letter": "C",
+          "text": "their family puts too much pressure on them"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Students should consult Glenda Roberts if",
+      "options": [
+        {
+          "letter": "A",
+          "text": "their general health is poor"
+        },
+        {
+          "letter": "B",
+          "text": "their diet is too strict"
+        },
+        {
+          "letter": "C",
+          "text": "they can’t eat the local food"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "Students in financial difficulties can receive",
+      "options": [
+        {
+          "letter": "A",
+          "text": "assistance to buy books"
+        },
+        {
+          "letter": "B",
+          "text": "a loan to pay their course fees"
+        },
+        {
+          "letter": "C",
+          "text": "a no-interest loan to cover study expenses"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "Loans are also available to students who",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can’t pay their rent"
+        },
+        {
+          "letter": "B",
+          "text": "need to buy furniture"
+        },
+        {
+          "letter": "C",
+          "text": "can’t cover their living expenses"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "The number of students counselled by the service last year was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "214"
+        },
+        {
+          "letter": "B",
+          "text": "240"
+        },
+        {
+          "letter": "C",
+          "text": "2,600"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "The speaker thinks the Counselling Service",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has been effective in spite of staff shortages"
+        },
+        {
+          "letter": "B",
+          "text": "in under used by students"
+        },
+        {
+          "letter": "C",
+          "text": "has suffered badly because of staff cuts"
+        }
+      ],
+      "groupId": "q11-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "F ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of (21) in social science research Number of words: (22) Part 2 Small scale study: Choose one method Gather data",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "methods of (21) in social science research Number of words: (22) Part 2 Small scale study: Choose one method Gather data from at least (23) subjects Part 3 Report on stud",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "ll scale study: Choose one method Gather data from at least (23) subjects Part 3 Report on study: Number of words: (24)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-24 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT P",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the s",
+      "groupId": "q25-26"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the students",
+      "groupId": "q25-26"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "e NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 27-30 Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Pa",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "and 32 Choose the correct letter A, B and C. 31. Corporate crime is generally committed",
+      "options": [
+        {
+          "letter": "A",
+          "text": "against individuals"
+        },
+        {
+          "letter": "B",
+          "text": "by groups"
+        },
+        {
+          "letter": "C",
+          "text": "for companies"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Corporate crime does NOT include",
+      "options": [
+        {
+          "letter": "A",
+          "text": "employees stealing from their company"
+        },
+        {
+          "letter": "B",
+          "text": "unintentional crime by employees"
+        },
+        {
+          "letter": "C",
+          "text": "fraud resulting from company policy"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "for each answer. Corporate crime has been ignored by: • The (33) e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "orporate crime has been ignored by: • The (33) e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional crime • Victims of",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional crime • Victims often (36) Effects: • Economic costs o May appear",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "Less human interest than conventional crime • Victims often (36) Effects: • Economic costs o May appear unimportant to (37) o Can make large (38) for company",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "(36) Effects: • Economic costs o May appear unimportant to (37) o Can make large (38) for company",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "Questions 33-38 Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has be",
+      "groupId": "q33-38"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which A was no-one’s faul",
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which A was no-one’s fault B was",
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "C",
+    "2": "C",
+    "3": "B",
+    "4": "B",
+    "5": "A",
+    "6": "cathedral",
+    "7": "markets",
+    "8": "garden",
+    "9": "art gallery",
+    "10": "climb the tower",
+    "11": "C",
+    "12": "B",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "C",
+    "17": "A",
+    "18": "B",
+    "19": "B",
+    "20": "A",
+    "21": "collecting data",
+    "22": "1500",
+    "23": "5",
+    "24": "3000-4000",
+    "25": "B",
+    "26": "C",
+    "27": "Mehta",
+    "28": "survey research",
+    "29": "London University",
+    "30": "1988",
+    "31": "C",
+    "32": "A",
+    "33": "mass media",
+    "34": "academic circles",
+    "35": "specialist knowledge",
+    "36": "unaware",
+    "37": "individual customers",
+    "38": "illegal profits",
+    "39": "D",
+    "40": "E"
+  }
+}

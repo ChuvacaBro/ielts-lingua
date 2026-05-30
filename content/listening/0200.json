@@ -1,0 +1,447 @@
+{
+  "id": "0200",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0200.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose TWO letters, A-E.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "ONLY for each answer. First day at work Name of supervisor: (1) Where to leave coat and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Loc",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "rk Name of supervisor: (1) Where to leave coat and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supe",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "at and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-6 Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of su",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "Question 7",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Question 8",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "Question 9",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY for each answer. Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz m",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz mention?",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners? A doing two runs a week",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners? A doing two runs a week B runni",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q15-18"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q15-18"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q15-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 15-18 What reason prevented each of the following members of the Compton Park Runners Club from joining until rec",
+      "groupId": "q15-18"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "and 20 Choose the correct letter, A, B or C. 19. What does Liz say about running her first marathon?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It had always been her ambition."
+        },
+        {
+          "letter": "B",
+          "text": "Her husband persuaded her to do it."
+        },
+        {
+          "letter": "C",
+          "text": "She nearly gave up before the end."
+        }
+      ],
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "Liz says new runners should sign up for a race",
+      "options": [
+        {
+          "letter": "A",
+          "text": "every six months."
+        },
+        {
+          "letter": "B",
+          "text": "within a few weeks of taking up running."
+        },
+        {
+          "letter": "C",
+          "text": "after completing several practice runs."
+        }
+      ],
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter, A, B or C. 21. Kieran thinks the packing advice given by Jane’s grandfather is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "common sense."
+        },
+        {
+          "letter": "B",
+          "text": "hard to follow."
+        },
+        {
+          "letter": "C",
+          "text": "over-protective."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "How does Jane feel about the books her grandfather has given her?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are not worth keeping."
+        },
+        {
+          "letter": "B",
+          "text": "They should go to a collector."
+        },
+        {
+          "letter": "C",
+          "text": "They have sentimental value for her,"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Jane and Kieran agree that hardback books should be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "put out on display."
+        },
+        {
+          "letter": "B",
+          "text": "given as gifts to visitors."
+        },
+        {
+          "letter": "C",
+          "text": "more attractively designed."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "While talking about taking a book from a shelf, Jane",
+      "options": [
+        {
+          "letter": "A",
+          "text": "describes the mistakes other people make doing it."
+        },
+        {
+          "letter": "B",
+          "text": "reflects on a significant childhood experience."
+        },
+        {
+          "letter": "C",
+          "text": "explains why some books are easier to remove than others."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What do Jane and Kieran suggest about new books?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Their parents liked buying them as presents."
+        },
+        {
+          "letter": "B",
+          "text": "They would like to buy more of them."
+        },
+        {
+          "letter": "C",
+          "text": "Not everyone can afford them."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26-30 Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers fr",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "species • not include invasive species because of possible (31) with native species • aim to capture carbon, protect the environment and provide sustainable sources of (",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "protect the environment and provide sustainable sources of (32) for local people • use tree seeds with a high genetic diversity to increase resistance to (33) and climat",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "eds with a high genetic diversity to increase resistance to (33) and climate change • plant trees on previously forested land which is in a bad condition, not select land",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "in a bad condition, not select land which is being used for (34) Large-scale reforestation projects • Base planning decisions on information from accurate (35) • Drones a",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ects • Base planning decisions on information from accurate (35) • Drones are useful for identifying areas in Brazil which are endangered by keeping (36) and illegal logg",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "identifying areas in Brazil which are endangered by keeping (36) and illegal logging. Lampang Province, Northern Thailand • A forest was restored in an area damaged by mi",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ant for o supporting many wildlife species o increasing the (37) of recovery by attracting animals and birds, e.g., (38) were soon attracted to the area. Involving local",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "the (37) of recovery by attracting animals and birds, e.g., (38) were soon attracted to the area. Involving local communities • Destruction of mangrove forests in Madagas",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "dagascar made it difficult for people to make a living from (39) • The mangrove reforestation project: o provided employment for local people o restored a healthy ecosyst",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Kaeden",
+    "2": "Locker(s)",
+    "3": "Passport",
+    "4": "Uniform",
+    "5": "Third/3rd",
+    "6": "0412665903",
+    "7": "Yellow",
+    "8": "Plastic",
+    "9": "Ice",
+    "10": "Gloves",
+    "11": [
+      "C",
+      "E"
+    ],
+    "12": [
+      "C",
+      "E"
+    ],
+    "13": [
+      "A",
+      "D"
+    ],
+    "14": [
+      "A",
+      "D"
+    ],
+    "15": "A",
+    "16": "B",
+    "17": "C",
+    "18": "A",
+    "19": "C",
+    "20": "B",
+    "21": "A",
+    "22": "C",
+    "23": "A",
+    "24": "B",
+    "25": "C",
+    "26": "D",
+    "27": "F",
+    "28": "A",
+    "29": "C",
+    "30": "G",
+    "31": "Competition",
+    "32": "Food",
+    "33": "Disease",
+    "34": "Agriculture",
+    "35": "Maps",
+    "36": "Cattle",
+    "37": "Speed",
+    "38": "Monkeys",
+    "39": "Fishing",
+    "40": "Flooding"
+  }
+}

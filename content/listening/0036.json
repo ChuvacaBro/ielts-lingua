@@ -1,0 +1,472 @@
+{
+  "id": "0036",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0036.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Map the places and write correct letter next to questions 11-15.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The caller wo",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The caller works as",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "REE WORDS AND/ OR A NUMBER for each answer. Name of client: (3) Address: Down Language School, Down House, (4) Brighton Contact number: (5) to be contacted on 01273512634",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "e of client: (3) Address: Down Language School, Down House, (4) Brighton Contact number: (5) to be contacted on 01273512634 Pick-up time: (6) Return time: (7) Purpose of",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "n Language School, Down House, (4) Brighton Contact number: (5) to be contacted on 01273512634 Pick-up time: (6) Return time: (7) Purpose of hire: visit to Stonehenge and",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "ct number: (5) to be contacted on 01273512634 Pick-up time: (6) Return time: (7) Purpose of hire: visit to Stonehenge and (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "be contacted on 01273512634 Pick-up time: (6) Return time: (7) Purpose of hire: visit to Stonehenge and (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "Questions 3-8 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Name of client: (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q3-8"
+    },
+    {
+      "number": 9,
+      "type": "shortAnswer",
+      "prompt": "Questions 9 and 10 Answer the questions below using NO MORE THAN THREE WORDS for each answer. 9. What does the cost of h",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "shortAnswer",
+      "prompt": "Questions 9 and 10 Answer the questions below using NO MORE THAN THREE WORDS for each answer. 9. What does the cost of hiring",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 11-15 Map the places and write correct letter next to",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 16-18 Which THREE activities or events do you need to pay to get in? Choose THREE letters A-F. A museum B castle",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 19,
+      "type": "shortAnswer",
+      "prompt": "Questions 19 and 20 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 19. How o",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "shortAnswer",
+      "prompt": "Questions 19 and 20 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 19. How often is",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. 21. Before giving his presentation Paul is worried about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "choosing what information to use"
+        },
+        {
+          "letter": "B",
+          "text": "not remembering what to say"
+        },
+        {
+          "letter": "C",
+          "text": "organizing the projection equipment"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Paul’s friends advise him not to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "speak about popular periods"
+        },
+        {
+          "letter": "B",
+          "text": "talk at length about art history"
+        },
+        {
+          "letter": "C",
+          "text": "speak too quickly in the presentation"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Why does Paul like the idea of the timeline?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it will be visually pleasing"
+        },
+        {
+          "letter": "B",
+          "text": "it will save some time"
+        },
+        {
+          "letter": "C",
+          "text": "it will keep him focused"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "Paul is going to show famous works of art to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "show people that he has good taste"
+        },
+        {
+          "letter": "B",
+          "text": "make people think about what counts as art"
+        },
+        {
+          "letter": "C",
+          "text": "prove that modern art is not as good as classic art"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Paul wants his presentation to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "change personal opinions"
+        },
+        {
+          "letter": "B",
+          "text": "create a big fight"
+        },
+        {
+          "letter": "C",
+          "text": "start an exciting debate"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "What does Isabel say about modern artists?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are skillful"
+        },
+        {
+          "letter": "B",
+          "text": "they paint like children"
+        },
+        {
+          "letter": "C",
+          "text": "they have a sense of freedom"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "h answer. Tips to find pictures • Go to fine art section in (27) • Ask (28) for access to slide bank • If not, use the (29) • Find pictures using a (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "ips to find pictures • Go to fine art section in (27) • Ask (28) for access to slide bank • If not, use the (29) • Find pictures using a (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "(27) • Ask (28) for access to slide bank • If not, use the (29) • Find pictures using a (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 27-30 Complete the notes below using NO MORE THAN TWO WORDS for each answer. Tips to find pictures • Go to fine a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. 31. What does the speaker say about newspapers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they never report developments in science accurately"
+        },
+        {
+          "letter": "B",
+          "text": "he became interested in his subject because of a newspaper report"
+        },
+        {
+          "letter": "C",
+          "text": "they only report developments in renewable energy technology"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "What significant event took place in 1956?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "scientists discovered a new source of energy"
+        },
+        {
+          "letter": "B",
+          "text": "a new type of power station came into service"
+        },
+        {
+          "letter": "C",
+          "text": "Helium was first produced from hydrogen"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "What does the speaker consider to be the main problem with nuclear fusion?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "irresponsible scientists make false claims on the subject"
+        },
+        {
+          "letter": "B",
+          "text": "it takes too long to produce the required reaction"
+        },
+        {
+          "letter": "C",
+          "text": "the reaction has not produced usable quantities of energy"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 34. Tem",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 34. Temperatur",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "r at extremely high temperatures and pressures. A number of (36) will suspend the fuel so that it does not come into contact with the sides of the (37) Another one will r",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "so that it does not come into contact with the sides of the (37) Another one will raise the temperature of the fuel pellet to that required to start the (38) Extra energy",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "emperature of the fuel pellet to that required to start the (38) Extra energy released in this process will be used to produce (39) that can be used to generate electrici",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "tra energy released in this process will be used to produce (39) that can be used to generate electricity. It is believed that the amount of energy that can be produced f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 36-40 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In order for nuclear fusion to pr",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "34",
+    "2": "on monday",
+    "3": "Paul Scott",
+    "4": "hill street",
+    "5": "school secretary",
+    "6": "7.30",
+    "7": "11 pm",
+    "8": "bath",
+    "9": "tax and insurance",
+    "10": "school accountant",
+    "11": "F",
+    "12": "G",
+    "13": "D",
+    "14": "B",
+    "15": "H",
+    "16": "B",
+    "17": "C",
+    "18": "E",
+    "19": "every year",
+    "20": "elderly people",
+    "21": "A",
+    "22": "B",
+    "23": "B",
+    "24": "B",
+    "25": "C",
+    "26": "C",
+    "27": "library",
+    "28": "staff",
+    "29": "computers",
+    "30": "search engine",
+    "31": "B",
+    "32": "B",
+    "33": "C",
+    "34": "100 million",
+    "35": "fusion reactor",
+    "36": "lasers",
+    "37": "reactor",
+    "38": "reaction",
+    "39": "steam",
+    "40": "1 kg"
+  }
+}

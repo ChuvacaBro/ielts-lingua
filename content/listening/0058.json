@@ -1,0 +1,385 @@
+{
+  "id": "0058",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Choose THREE letters B-H.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Question 11-13 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Question 21",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "Question 1",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "Question 2",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "Questions 1-3 Choose THREE letters B-H. Which THREE other activities does the customer want to do? A visit family B save m",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-7"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "STOMER’S DETAILS Name: Su Minx Lee Address: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-7"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "ddress: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-7"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "Questions 4-7 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-7"
+    },
+    {
+      "number": 8,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 8",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 9",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 8-10 Label the map below. Write the correct letter A-G next to",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "sentenceCompletion",
+      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 11. are often known by their famous bridges. 12. The speaker compares a bridge to a cathedral or 13. Sydney Ha",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "sentenceCompletion",
+      "prompt": "r each answer. 11. are often known by their famous bridges. 12. The speaker compares a bridge to a cathedral or 13. Sydney Harbour Bridge is nicknamed",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "sentenceCompletion",
+      "prompt": "Question 11-13 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 11. are often known by their",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "formCompletion",
+      "prompt": "lved: – knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 15,
+      "type": "formCompletion",
+      "prompt": "– knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 16,
+      "type": "formCompletion",
+      "prompt": "ith engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 17,
+      "type": "formCompletion",
+      "prompt": "g down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 18,
+      "type": "formCompletion",
+      "prompt": "Questions 14-18 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed wi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. Ho",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. How long",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21 21. Which graph shows the distribution of animals painted on the caves? (22) (23) (24) (25) (26) (27)",
+      "groupId": "q21-21"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 27"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 28. The cave was closed in 1963 because.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the tourists had drawn pictures on the walls"
+        },
+        {
+          "letter": "B",
+          "text": "the air was harming the rock art"
+        },
+        {
+          "letter": "C",
+          "text": "so few people were visiting the site"
+        }
+      ],
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "How does David feel about the closure of the cave?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He agrees with the decision"
+        },
+        {
+          "letter": "B",
+          "text": "He thinks it was a bad idea"
+        },
+        {
+          "letter": "C",
+          "text": "He has no views on the matter"
+        }
+      ],
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "How can people enjoy the drawings today?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The government has re-opened the cave"
+        },
+        {
+          "letter": "B",
+          "text": "The drawings have been photographed"
+        },
+        {
+          "letter": "C",
+          "text": "A replica of the cave has been built"
+        }
+      ],
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32. Write NO MORE THAN THREE WORDS for each answer. What is marketing? (31) and represent only two aspe",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32. Write NO MORE THAN THREE WORDS for each answer. What is marketing? (31) and represent only two aspects of",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "e chart below. Write NO MORE THAN TWO WORDS for each answer (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-34"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "Questions 33-34 Complete the chart below. Write NO MORE THAN TWO WORDS for each answer (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-34"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "Question 35",
+      "groupId": "q35-38"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "Question 36",
+      "groupId": "q35-38"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "Question 37",
+      "groupId": "q35-38"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Questions 35-38 Which market research method is used by each of these businesses? Write the correct letters A-C next to",
+      "groupId": "q35-38"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "for each answer. – poor – good – (40) ________ – unhappy – (39) ________ – delighted (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 39-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. – poor – good – (40) ________ – u",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "D",
+    "2": "E",
+    "3": "H",
+    "4": "29 Loch Street",
+    "5": "558992",
+    "6": "Saturday 1 May",
+    "7": "8 weeks",
+    "8": "A",
+    "9": "E",
+    "10": "D",
+    "11": "cities",
+    "12": "palace",
+    "13": "coat hanger",
+    "14": "state/ government",
+    "15": "1924",
+    "16": "800 houses",
+    "17": "9.5 million",
+    "18": "horse",
+    "19": "2.3 km",
+    "20": "ship",
+    "21": "A",
+    "22": "H",
+    "23": "D",
+    "24": "E",
+    "25": "A",
+    "26": "painted gallery",
+    "27": "main gallery",
+    "28": "B",
+    "29": "A",
+    "30": "C",
+    "31": "selling and advertising",
+    "32": "making money",
+    "33": "warmth and safety",
+    "34": "individual",
+    "35": "C",
+    "36": "A",
+    "37": "B",
+    "38": "A",
+    "39": "satisfies",
+    "40": "better than expected"
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "id": "0178",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0178.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1 – 7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 What information does the speaker give about each of the following excursions?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 – 25",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 – 7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel r",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "s a gallery suitable for musicians – can go out and see the (2) in pots on the terrace – terrace has a view of a group of (3) Carlton Room – number of people who can sit",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": ") in pots on the terrace – terrace has a view of a group of (3) Carlton Room – number of people who can sit down to eat: 110 – has a (4) – view of the lake Options Master",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "oom – number of people who can sit down to eat: 110 – has a (4) – view of the lake Options Master of Ceremonies: – can give a (5) while people are eating – will provide (",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "view of the lake Options Master of Ceremonies: – can give a (5) while people are eating – will provide (6) if there are any problems Accommodation: in hotel rooms or (7)",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "es: – can give a (5) while people are eating – will provide (6) if there are any problems Accommodation: in hotel rooms or (7)",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 – 7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 8 – 10 What is said about using each of the following hotel facilities? Choose THREE answers from the box and",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Question 9",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 8 – 10 What is said about using each of the following hotel facilities? Choose THREE answers from the box and writ",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 11-16 What information does the speaker give about each of the following excursions? Choose SIX answers from the",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Fa",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Favourite",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast? A Visitors ca",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast? A Visitors can dance",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "– 25 Choose the correct letter A, B or C. 21 What does Trevor find interesting about the purpose of children’s literature?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the fact that authors may not realise what values they’re teaching"
+        },
+        {
+          "letter": "B",
+          "text": "the fact that literature can be entertaining and educational at the same time"
+        },
+        {
+          "letter": "C",
+          "text": "the fact that adults expect children to imitate characters in literature 22 Trevor says the module about the purpose of children’s literature made him A analyse some of the stories that his niece reads. B wonder how far popularity reflects good quality. C decide to start writing some children’s stories. 23 Stephanie is interested in the Pictures module because A she intends to become an illustrator. B she can remember beautiful illustrations from her childhood. C she believes illustrations are more important than words. 24 Trevor and Stephanie agree that comics A are inferior to books. B have the potential for being useful. C discourage children from using their imagination. 25 With regard to books aimed at only boys or only girls, Trevor was surprised A how long the distinction had gone unquestioned. B how few books were aimed at both girls and boys. C how many children enjoyed books intended for the opposite sex."
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 26 – 30 What comment is made about each of these stories? Choose FIVE answers from the box and write the corre",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26 – 30 What comment is made about each of these stories? Choose FIVE answers from the box and write the correct le",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and anc",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "found on the seabed • research carried out into structures, (32) and human remains TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs) • used in the oil industry, e.g. to m",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "ER VEHICLES (AUVs) • used in the oil industry, e.g. to make (33) • problems: they were expensive and (34) LATEST AUVs • much easier to use, relatively cheap, sophisticate",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "stry, e.g. to make (33) • problems: they were expensive and (34) LATEST AUVs • much easier to use, relatively cheap, sophisticated Tests: • Marzamemi, Sicily: found ancie",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ancient Roman ships carrying architectural elements made of (35) Underwater internet: • (36) is used for short distance communication, acoustic waves for long distance •",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "architectural elements made of (35) Underwater internet: • (36) is used for short distance communication, acoustic waves for long distance • plans for communication with",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "atellite • AUV can send data to another AUV that has better (37) , for example Planned research in Gulf of Baratti: • to find out more about wrecks of ancient Roman ships",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "out wrecks of ancient Roman ships, including – one carrying (38) supplies; tablets may have been used for cleaning the (39) – others carrying containers of olive oil or (",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "(38) supplies; tablets may have been used for cleaning the (39) – others carrying containers of olive oil or (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "85",
+    "2": "roses",
+    "3": "trees",
+    "4": "stage",
+    "5": "speech",
+    "6": "support",
+    "7": "cabins",
+    "8": "C",
+    "9": "A",
+    "10": "B",
+    "11": "G",
+    "12": "D",
+    "13": "A",
+    "14": "E",
+    "15": "F",
+    "16": "B",
+    "17": "B",
+    "18": "D (in any order)",
+    "19": "A",
+    "20": "D (in any order)",
+    "21": "A",
+    "22": "C",
+    "23": "A",
+    "24": "B",
+    "25": "B",
+    "26": "F",
+    "27": "E",
+    "28": "C",
+    "29": "B",
+    "30": "G",
+    "31": "spring",
+    "32": "tools",
+    "33": "maps",
+    "34": "heavy",
+    "35": "marble",
+    "36": "light",
+    "37": "cameras",
+    "38": "medical",
+    "39": "eyes",
+    "40": "wine"
+  }
+}

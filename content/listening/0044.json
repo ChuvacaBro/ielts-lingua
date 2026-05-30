@@ -1,0 +1,369 @@
+{
+  "id": "0044",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0044.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Question 1 Complete the sentence below. Write NO MORE THAN TWO WORDS.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Complete the following sentences with NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose TWO letters A-E.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "sentenceCompletion",
+      "prompt": "Question 1 Complete the sentence below. Write NO MORE THAN TWO WORDS. Mr. White is a personnel manager 1. Ms. Jones got",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-1"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "answer. Personal details of applicant Full name: Penny Ann (2) Citizenship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q2-5"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "details of applicant Full name: Penny Ann (2) Citizenship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email address: jenny27@",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q2-5"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "nship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email address: jenny27@hotmail.com",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q2-5"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 2-5 Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q2-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Question 6 Complete the following sentence with THREE WORDS. 6. Ms Jones has a degree in",
+      "groupId": "q6-6"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letter A-C. 7. Ms Jones says",
+      "options": [
+        {
+          "letter": "A",
+          "text": "her major would help her satisfy various interests"
+        },
+        {
+          "letter": "B",
+          "text": "she was not at first interested in the health field"
+        },
+        {
+          "letter": "C",
+          "text": "her parents helped her to select her major"
+        }
+      ],
+      "groupId": "q7-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "stions 8-10 Write NO MORE THAN THREE WORDS for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr White call companies’ threats of job losses? 10. What",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "S for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr White call companies’ threats of job losses? 10. What does Ms Jones say can help companies red",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 8-10 Write NO MORE THAN THREE WORDS for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr Wh",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "tress will first tell her visitors about her kindergarten’s (11) and (12) Maria Montessori is an (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "l first tell her visitors about her kindergarten’s (11) and (12) Maria Montessori is an (13)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 11-13 Complete the following sentences with NO MORE THAN THREE WORDS for each answer. The headmistress will first",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "ing with toys and other things can help children to develop (14) She says things like (15) and (16) should be seen as valuable resources.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "ings can help children to develop (14) She says things like (15) and (16) should be seen as valuable resources.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 14-16 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The headmistress says playing",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the (17) and B is the (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the (17) and B is the (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 19. The headmistress",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 19. The headmistress says g",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Why was Jill late? A she was busy doing something for Harry and Bob B she ne",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Why was Jill late? A she was busy doing something for Harry and Bob B she needed to",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Answer the following questions in NO MORE THAN THREE WORDS. 23. Where does Jill say Bob and Harry go every night? 24. What does Jill say Bob and Harry should do first? 25",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q23-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "ORDS. 23. Where does Jill say Bob and Harry go every night? 24. What does Jill say Bob and Harry should do first? 25. What does Jill consider her suggestions as?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q23-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 23-25 Answer the following questions in NO MORE THAN THREE WORDS. 23. Where does Jill say Bob and Harry go every",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q23-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "h answer. For a few weeks, Jill wants Harry and Bob to stop (26) and (27) Jill wants the other two to (28) timetable as soon as she leaves them.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-28"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "For a few weeks, Jill wants Harry and Bob to stop (26) and (27) Jill wants the other two to (28) timetable as soon as she leaves them.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 26-28 Complete the following sentences with NO MORE THAN THREE WORDS for each answer. For a few weeks, Jill wants",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 29-30 Choose TWO letters A-F. Jill says A the time for reviewing is limited B when reviewing, it is best to take",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "OR A NUMBER for each answer. Data collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with in",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": ". Data collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with income over £50,000: (34) No.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "a collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with income over £50,000: (34) No. of f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "d income: £83,000 No. of families with income over £50,000: (34) No. of families surveyed: (35)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "Questions 31-35 Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "ed in the second and third years after the school opens are (36) and (37) And one of the most important facilities required by most parents is a (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "second and third years after the school opens are (36) and (37) And one of the most important facilities required by most parents is a (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 36-38 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Two types of facilities that ar",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Choose TWO letters A-E. According to the talk which of the following are right? A the club does not",
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Choose TWO letters A-E. According to the talk which of the following are right? A the club does not need a",
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "by bus",
+    "2": "Jones",
+    "3": "Britosh",
+    "4": "rose gardens",
+    "5": "7984865",
+    "6": "public health management",
+    "7": "A",
+    "8": "US",
+    "9": "political hot potato",
+    "10": "adopting cleaner technologies",
+    "11": "philosophy of education",
+    "12": "teaching principles",
+    "13": "educator and doctor",
+    "14": "abstract ideas",
+    "15": "waste",
+    "16": "soil",
+    "17": "dining hall",
+    "18": "classroom block",
+    "19": "healthy development",
+    "20": "blankets",
+    "21": "A",
+    "22": "E",
+    "23": "the bar",
+    "24": "organise their time",
+    "25": "basic stuff",
+    "26": "going to parties",
+    "27": "drinking",
+    "28": "write down",
+    "29": "A",
+    "30": "B",
+    "31": "green forest",
+    "32": "7500",
+    "33": "population",
+    "34": "3200",
+    "35": "320",
+    "36": "classrooms",
+    "37": "residences",
+    "38": "language lab",
+    "39": "C",
+    "40": "E"
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "id": "0061",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0061.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-12 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "WORDS. Customer details: • They will be coming to London on (1) • He’s going with his sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "oming to London on (1) • He’s going with his sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "s sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and finish at (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and finish at (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Question 6",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Question 7",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 6-8 Choose TWO letters A-G. Which three places does the tourist decide he’s likely to see? A Buckingham Palace B",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letter A, B or C. 9. How will the tourist buy the tickets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "By phone"
+        },
+        {
+          "letter": "B",
+          "text": "Online"
+        },
+        {
+          "letter": "C",
+          "text": "On the bus"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "How long before he leaves should he buy his tickets?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 week"
+        },
+        {
+          "letter": "B",
+          "text": "6 weeks"
+        },
+        {
+          "letter": "C",
+          "text": "3 months"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-12 Choose the correct letter A, B or C. 11. Each day, pandas need to eat:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very little nutrition"
+        },
+        {
+          "letter": "B",
+          "text": "12-38 kg of bamboo"
+        },
+        {
+          "letter": "C",
+          "text": "330 pounds of bamboo"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "If pandas are cared for away from the wild, they can live for approximately:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 months"
+        },
+        {
+          "letter": "B",
+          "text": "14-20 years"
+        },
+        {
+          "letter": "C",
+          "text": "30 years"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13-14 Choose TWO letters A-E. Select two things that are endangering pandas: A Public awareness B Ecotourism C Po",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "ons 15-16 Write NO MORE THAN THREE WORDS AND / OR A NUMBER. 15. What proportion of the panda population in China is protected by reserves? 16. What did the WWF create whi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 15-16 Write NO MORE THAN THREE WORDS AND / OR A NUMBER. 15. What proportion of the panda population in China is p",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 – 20 Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "extremely (17) to look after • They have a diet that is not (18) • They get sick easily and are hard to breed Reasons that pandas should not be allowed to die out: • They",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "uld not be allowed to die out: • They are in danger because (19) are damaging the forests • We should protect their homes because other animals live there • The number of",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 17 – 20 Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extr",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "and 22 Choose the correct letter A, B or C. 21. What is the problem that the students are having with the project?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The readings are too difficult"
+        },
+        {
+          "letter": "B",
+          "text": "The readings are not interesting"
+        },
+        {
+          "letter": "C",
+          "text": "The project is taking too long"
+        }
+      ],
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "When can extensions be granted?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Problems with planning"
+        },
+        {
+          "letter": "B",
+          "text": "Illness or accidents"
+        },
+        {
+          "letter": "C",
+          "text": "Scheduling issues"
+        }
+      ],
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q23-27"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q23-27"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q23-27"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q23-27"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Questions 23-27 Choose your answers from the box and write the letters A–G next to",
+      "groupId": "q23-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose your answers from the box and write the letters A-F next to",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "Behavior or dolphins • almost 40 species of dolphin • found (31) • usually in shallower seas • carnivores SOCIALISING • very sociable and live in pods • super-pods may ha",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "y sociable and live in pods • super-pods may have more than (32) dolphins • have strong social bonds • help other animals – Moko helped a whale and calf escape from (33)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "lp other animals – Moko helped a whale and calf escape from (33) • have been known to assist swimmers CULTURE • discovered in May 2005 that young bottlenose dolphins lear",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "covered in May 2005 that young bottlenose dolphins learn to (34) • dolphins pass knowledge from mothers to daughters, whereas primates pass to (35) AGGRESSION • dolphins",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "owledge from mothers to daughters, whereas primates pass to (35) AGGRESSION • dolphins may be aggressive towards each other • Like humans, this is due to disagreements ov",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "each other • Like humans, this is due to disagreements over (36) and competition for females • Infanticide sometimes occurs and the killing of porpoises FOOD • dolphins h",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "lphins have a variety of feeding methods, some of which are (37) to one population • methods include: o herding o corralling o (38) or strand feeding o whacking fish with",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "one population • methods include: o herding o corralling o (38) or strand feeding o whacking fish with their flukes PLAYING • have a variety of playful activities • comm",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "ll animal include: o carrying it along o passing it along o (39) away from another dolphin throwing it out the water • may harass other animals • playful behaviour may in",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolph",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "10 July",
+    "2": "parents",
+    "3": "29",
+    "4": "14",
+    "5": "6 pm",
+    "6": "B",
+    "7": "D",
+    "8": "G",
+    "9": "B",
+    "10": "A",
+    "11": "B",
+    "12": "C",
+    "13": "C",
+    "14": "E",
+    "15": "61%",
+    "16": "logo",
+    "17": "expensive",
+    "18": "nutritious",
+    "19": "humans",
+    "20": "increasing",
+    "21": "C",
+    "22": "B",
+    "23": "B",
+    "24": "A",
+    "25": "D",
+    "26": "F",
+    "27": "C",
+    "28": "F",
+    "29": "E",
+    "30": "D",
+    "31": "worldwide",
+    "32": "1000",
+    "33": "shallow water",
+    "34": "use tools",
+    "35": "both sexes",
+    "36": "companions",
+    "37": "exclusive",
+    "38": "beach",
+    "39": "taking it",
+    "40": "species"
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "id": "0013",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0013.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "ach answer. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "answer. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "er. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "et accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation i",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Question 7",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Question 8",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Question 9",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 7-10 Who wants to do each of the activities below? A only Jacinta B only Lewis C both Jacinta and Lewis Write th",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. Jack says that in London these days many people",
+      "options": [
+        {
+          "letter": "A",
+          "text": "see cycling as a foolish activity"
+        },
+        {
+          "letter": "B",
+          "text": "have on experience of cycling"
+        },
+        {
+          "letter": "C",
+          "text": "take too many risks when cycling"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "If people want to cycle to school or work, CitiCyclist helps them by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "giving cycling lessons on the route they take."
+        },
+        {
+          "letter": "B",
+          "text": "advising them on the safest route to choose."
+        },
+        {
+          "letter": "C",
+          "text": "teaching them basic skills on quiet roads first. 13 Jack works with some advanced cyclists who want to develop A international competitive riding skills. B knowledge of advanced equipment. C confidence in complex road systems. 14 CitiCyclist supports the view that cyclists should A have separate sections of the road from motor traffic. B always wear protective clothing when cycling. C know how to ride confidently on busy roads."
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "s services. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "vices. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 15-17 List THREE types of organizations for which CitiCyclist provides services. Write NO MORE THAN THREE WORDS f",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "for each answer. Website address: citicyclist.co.uk Phone: (18) Cost (single person): (19) per person Usual length of course: (20) except complete beginners) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": "ddress: citicyclist.co.uk Phone: (18) Cost (single person): (19) per person Usual length of course: (20) except complete beginners) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Questions 18-20 Complete the notes below. Write NO MORE THAN THREE WORDS AND OR A NUMBER for each answer. Website address:",
+      "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "shortAnswer",
+      "prompt": "ions below. Write NO MORE THAN THREE WORDS for each answer. 21. What do Sharon and Xiao Li agree was the strongest aspect of their presentation? 22. Which part of their p",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "shortAnswer",
+      "prompt": "ao Li agree was the strongest aspect of their presentation? 22. Which part of their presentation was Xiao Li least happy with? 23. Which section does Sharon feel they sho",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "shortAnswer",
+      "prompt": "Questions 21-23 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer. 21. What do Sharon and Xiao Li",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "-27 Choose the correct letters A-C. 24. Sharon and Xiao Li were surprised when the class said",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they spoke too quickly."
+        },
+        {
+          "letter": "B",
+          "text": "they included too much information."
+        },
+        {
+          "letter": "C",
+          "text": "their talk was not well organised."
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The class gave Sharon and Xiao Li conflicting feedback on their",
+      "options": [
+        {
+          "letter": "A",
+          "text": "timing."
+        },
+        {
+          "letter": "B",
+          "text": "use of visuals."
+        },
+        {
+          "letter": "C",
+          "text": "use of eye contact."
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "The class thought that the presentation was different from the others because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the analysis was more detailed."
+        },
+        {
+          "letter": "B",
+          "text": "the data collection was more wide-ranging."
+        },
+        {
+          "letter": "C",
+          "text": "the background reading was more extensive"
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 27"
+    },
+    {
+      "number": 28,
+      "type": "sentenceCompletion",
+      "prompt": "rite ONE WORD ONLY for each answer. The tutor says that the (28) of the presentation seemed rather sudden. The tutor praises the students’ discussion of the (29) of their",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "sentenceCompletion",
+      "prompt": "r sudden. The tutor praises the students’ discussion of the (29) of their results. The tutor suggests that they could extend the (30) review in their report. Part 4:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 28-30 Complete the sentences below. Write ONE WORD ONLY for each answer. The tutor says that the (28) of the pres",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "World Health Organisation says a healthy city must • have a (31) and environment. • meet the (32) of all its inhabitants. • provide easily accessible health services. • e",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "healthy city must • have a (31) and environment. • meet the (32) of all its inhabitants. • provide easily accessible health services. • encourage ordinary people to take",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. The World Health Organisation say",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "tableCompletion",
+      "prompt": "THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "tableCompletion",
+      "prompt": "Questions 34-40 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "19.75",
+    "2": "theme",
+    "3": "quiet",
+    "4": "children",
+    "5": "breakfast",
+    "6": "sky-dive",
+    "7": "A",
+    "8": "C",
+    "9": "B",
+    "10": "C",
+    "11": "B",
+    "12": "A",
+    "13": "C",
+    "14": "C",
+    "15": "schools",
+    "16": "local councils",
+    "17": "companies",
+    "18": "02075624028",
+    "19": "27.50",
+    "20": "3 hours",
+    "21": "technique",
+    "22": "questions",
+    "23": "solutions",
+    "24": "A",
+    "25": "B",
+    "26": "B",
+    "27": "C",
+    "28": "end(ing)",
+    "29": "limitation",
+    "30": "literature",
+    "31": "clean and safe",
+    "32": "basic needs",
+    "33": "local government",
+    "34": "residents",
+    "35": "economic",
+    "36": "secondary schools",
+    "37": "films",
+    "38": "women’s centre",
+    "39": "skills",
+    "40": "status"
+  }
+}

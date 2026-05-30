@@ -1,0 +1,467 @@
+{
+  "id": "0138",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0138.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-8 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-17 According to the speaker, when did the following happen?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "ers – Customer Booking Form Event: Party Customer name: Mr. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of gu",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "ent: Party Customer name: Mr. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Sh",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": ") Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "r. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number o",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "swers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": ") Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "Questions 1-8 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Cu",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "and 10 Choose the correct letter A, B or C. 9. The man decided to book",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a three course meal"
+        },
+        {
+          "letter": "B",
+          "text": "a buffet"
+        },
+        {
+          "letter": "C",
+          "text": "a banquet"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "The man will have to pay",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£750 tomorrow"
+        },
+        {
+          "letter": "B",
+          "text": "£100 per head"
+        },
+        {
+          "letter": "C",
+          "text": "£1500 on the day of the party"
+        }
+      ],
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 11-17 According to the speaker, when did the following happen? Write the correct letter A, B or C next to",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 18,
+      "type": "sentenceCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 18. Up to people attend garden parties at the palace each year. 19. The garden contains more than species of w",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "sentenceCompletion",
+      "prompt": "Up to people attend garden parties at the palace each year. 19. The garden contains more than species of wild flower. 20. The public can visit the nineteen in August or S",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 18. Up to peop",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "shortAnswer",
+      "prompt": "ions below. Write NO MORE THAN THREE WORDS for each answer. 21. What aspect of history is it important to learn something from? 22. What do we also need to know about our",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "shortAnswer",
+      "prompt": "aspect of history is it important to learn something from? 22. What do we also need to know about our ancestors? 23. Where are transferable skills useful? 24. What kind",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "shortAnswer",
+      "prompt": "from? 22. What do we also need to know about our ancestors? 23. Where are transferable skills useful? 24. What kind of approach to learning does social science use?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "shortAnswer",
+      "prompt": "Questions 21-24 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer. 21. What aspect of history is i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 What is said each of these subjects studied on a social studies course? Choose your answers from the list b",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-37 Choose the correct letter A, B or C. 31. Students should complete their work on the 1950s",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if they want to be allowed to continue attending lectures"
+        },
+        {
+          "letter": "B",
+          "text": "because they will appreciate the information about the 1960s more"
+        },
+        {
+          "letter": "C",
+          "text": "otherwise they face the possibility of being failed for their coursework"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "According to the lecturer, the ‘baby boom’ happened",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because of relaxed attitudes in the sixties"
+        },
+        {
+          "letter": "B",
+          "text": "during a time of war"
+        },
+        {
+          "letter": "C",
+          "text": "because people felt more secure"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "In the sixties the USA had 70 million",
+      "options": [
+        {
+          "letter": "A",
+          "text": "teenagers"
+        },
+        {
+          "letter": "B",
+          "text": "babies"
+        },
+        {
+          "letter": "C",
+          "text": "adults"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "According to the lecturer, compared to the 1950s, the 1960s were",
+      "options": [
+        {
+          "letter": "A",
+          "text": "less conservative"
+        },
+        {
+          "letter": "B",
+          "text": "more conservative"
+        },
+        {
+          "letter": "C",
+          "text": "just as conservative"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "According to the lecturer, literature changed the way women",
+      "options": [
+        {
+          "letter": "A",
+          "text": "over 40 were treated by society"
+        },
+        {
+          "letter": "B",
+          "text": "viewed issues of race in society"
+        },
+        {
+          "letter": "C",
+          "text": "felt about their roles in society"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "multipleChoice",
+      "stem": "The rate of crime in the sixties",
+      "options": [
+        {
+          "letter": "A",
+          "text": "rose 9% during the decade"
+        },
+        {
+          "letter": "B",
+          "text": "was 9 times higher than in the fifties"
+        },
+        {
+          "letter": "C",
+          "text": "was 9 times lower than in the fifties"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "multipleChoice",
+      "stem": "What happened at the start of the 1960s?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the first heart transplant"
+        },
+        {
+          "letter": "B",
+          "text": "the introduction of the internet"
+        },
+        {
+          "letter": "C",
+          "text": "the invention of lasers"
+        }
+      ],
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "October, 1962, US President Kennedy met advisers to discuss (38) which proved that the Cubans were installing nuclear missiles, presumably to use against the US. Kennedy",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "further weapons into Cuba; or to attack Cuba. Kennedy chose (39) option, which prevented the build up of more missiles and led to the withdrawal of the existing ones. Mos",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 38-40 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In October, 1962, US President Ke",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Sanders",
+    "2": "4456786",
+    "3": "leave a message",
+    "4": "50",
+    "5": "25 June",
+    "6": "round",
+    "7": "large",
+    "8": "5",
+    "9": "B",
+    "10": "A",
+    "11": "B",
+    "12": "C",
+    "13": "C",
+    "14": "A",
+    "15": "A",
+    "16": "A",
+    "17": "B",
+    "18": "8000",
+    "19": "350",
+    "20": "state rooms",
+    "21": "(our) past mistakes",
+    "22": "what they thought",
+    "23": "in a job",
+    "24": "flexible and adaptable",
+    "25": "F",
+    "26": "C",
+    "27": "A",
+    "28": "H",
+    "29": "E",
+    "30": "G",
+    "31": "B",
+    "32": "C",
+    "33": "A",
+    "34": "A",
+    "35": "C",
+    "36": "B",
+    "37": "C",
+    "38": "(photographic) evidence",
+    "39": "second",
+    "40": "(nuclear) war"
+  }
+}

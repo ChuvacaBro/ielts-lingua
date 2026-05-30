@@ -1,0 +1,401 @@
+{
+  "id": "0042",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0042.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-2 Choose TWO letters A-E.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose TWO letters A-E.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "Question 1",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "Questions 1-2 Choose TWO letters A-E. Annie’s mother A has arthritis B is pleased with her new medicine C can hardly move",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letter A-C 3. Bud’s uncle",
+      "options": [
+        {
+          "letter": "A",
+          "text": "works at a hospital"
+        },
+        {
+          "letter": "B",
+          "text": "will help Annie’s father get a cheap operation"
+        },
+        {
+          "letter": "C",
+          "text": "knows some medical staff"
+        }
+      ],
+      "groupId": "q3-3"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "Questions 4 and 5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are find",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q4-5"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 4 and 5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are finding it",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q4-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Bud’s cousin A is called Mary B met Annie at Annie’s party C works at a hotel",
+      "groupId": "q6-7"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Bud’s cousin A is called Mary B met Annie at Annie’s party C works at a hotel D want",
+      "groupId": "q6-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 8 and 9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a (8)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q8-9"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Questions 8 and 9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a (8) to bui",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q8-9"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Question 10 Answer the question in ONE WORD AND/ OR A NUMBER. 10. How many years have Bud’s parents been married? Part",
+      "groupId": "q10-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says peopl",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says people want",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should sav",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should save A dep",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15 Write NO MORE THAN THREE WORDS for your answer. What does the manager say you should do if you have nearly",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 16 and 17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. 16. The manager refer",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-17"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 16 and 17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. 16. The manager refers to ke",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-17"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 18-20 Select the correct letter A-F and write next to the",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which statements are correct? A Bill and Jane made a video documentary on ho",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which statements are correct? A Bill and Jane made a video documentary on homeless",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23 Complete the following sentence with ONE WORD ONLY. 23. Prof. Edwards thinks he should start his video cour",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q23-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Prof. Edwards say A his students must each have their own video camera B his",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Prof. Edwards say A his students must each have their own video camera B his studen",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 26 and 27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-27"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Questions 26 and 27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards metion?",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "sentences. Write NO MORE THAN THREE WORDS for each answer. 28. Bill says a small hole in one’s pocket is useful for 29. Prof. Edwards says filming people without their k",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "r. 28. Bill says a small hole in one’s pocket is useful for 29. Prof. Edwards says filming people without their knowledge raises the question of 30. Jane wants to even fi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Complete the following sentences. Write NO MORE THAN THREE WORDS for each answer. 28. Bill says a small hol",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "oberts says much of history is concerned with conflict over (31) , (32) and (33)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "says much of history is concerned with conflict over (31) , (32) and (33)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "Questions 31-33 Write NO MORE THAN TWO WORDS for each answer. Prof. Roberts says much of history is concerned with conflict",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "and 35 Choose the correct letter A-C. 34. Prof Roberts implies that the concept of ‘hurting others’",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is always perfectly clear"
+        },
+        {
+          "letter": "B",
+          "text": "is open to different interpretations"
+        },
+        {
+          "letter": "C",
+          "text": "becomes an issue when there is no control by government"
+        }
+      ],
+      "groupId": "q34-35"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "Prof. Roberts says",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some native Americans were thieves"
+        },
+        {
+          "letter": "B",
+          "text": "the concept of personal ownership is universal"
+        },
+        {
+          "letter": "C",
+          "text": "the concept of ownership is now here to stay"
+        }
+      ],
+      "groupId": "q34-35"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "ng sentences. Write NO MORE THAN TWO WORDS for each answer. 36. Many classical economists considered private land ownership a 37. Keeping land in good condition for the f",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-39"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "ny classical economists considered private land ownership a 37. Keeping land in good condition for the future is the concept of 38. The need to protect has led to increas",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-39"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "ing land in good condition for the future is the concept of 38. The need to protect has led to increased restrictions on landowners’ rights in some countries 39. Prof. Ro",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-39"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Questions 36-39 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 36. Many classical economis",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-39"
+    },
+    {
+      "number": 40,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letter A-C. 40. The main difference between freehold and leasehold is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the duration of effective ownership"
+        },
+        {
+          "letter": "B",
+          "text": "one applies to houses and the other to flats"
+        },
+        {
+          "letter": "C",
+          "text": "leasehold docs not apply to land"
+        }
+      ],
+      "groupId": "q40-40"
+    }
+  ],
+  "answerKey": {
+    "1": "A",
+    "2": "D",
+    "3": "C",
+    "4": "mortgage",
+    "5": "beauty competition",
+    "6": "C",
+    "7": "E",
+    "8": "big contract",
+    "9": "steelworkers unioun",
+    "10": "25 years",
+    "11": "rainy day",
+    "12": "big house",
+    "13": "D",
+    "14": "E",
+    "15": "stay at home",
+    "16": "safety cushion",
+    "17": "government lottery",
+    "18": "F",
+    "19": "A",
+    "20": "D",
+    "21": "A",
+    "22": "C",
+    "23": "basic",
+    "24": "B",
+    "25": "C",
+    "26": "indoor stuff",
+    "27": "scenery",
+    "28": "secret shooting",
+    "29": "privacy",
+    "30": "make good movies",
+    "31": "religion",
+    "32": "economic power",
+    "33": "land",
+    "34": "B",
+    "35": "C",
+    "36": "necessary evil",
+    "37": "stewardship",
+    "38": "biodiversity",
+    "39": "local ownership",
+    "40": "A"
+  }
+}

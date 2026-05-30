@@ -1,0 +1,399 @@
+{
+  "id": "0066",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0066.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct answer A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "fore we go Collect the currency Cancel appointment with the (1) (Monday) Begin taking the (2) (Tuesday) Buy (3) , a small bag, a spare (4) , an electrical (5) Book a (6)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "y Cancel appointment with the (1) (Monday) Begin taking the (2) (Tuesday) Buy (3) , a small bag, a spare (4) , an electrical (5) Book a (6) Instructions for Laura’s mum F",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "nt with the (1) (Monday) Begin taking the (2) (Tuesday) Buy (3) , a small bag, a spare (4) , an electrical (5) Book a (6) Instructions for Laura’s mum Feed the cat Vet’s",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "gin taking the (2) (Tuesday) Buy (3) , a small bag, a spare (4) , an electrical (5) Book a (6) Instructions for Laura’s mum Feed the cat Vet’s details: Name: Colin (7) Te",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Tuesday) Buy (3) , a small bag, a spare (4) , an electrical (5) Book a (6) Instructions for Laura’s mum Feed the cat Vet’s details: Name: Colin (7) Tel: (8) Address: Fore",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "y (3) , a small bag, a spare (4) , an electrical (5) Book a (6) Instructions for Laura’s mum Feed the cat Vet’s details: Name: Colin (7) Tel: (8) Address: Fore street (op",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "ons for Laura’s mum Feed the cat Vet’s details: Name: Colin (7) Tel: (8) Address: Fore street (opposite the (9) ) Water the plants Meet the heating engineer on (10) Part",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "aura’s mum Feed the cat Vet’s details: Name: Colin (7) Tel: (8) Address: Fore street (opposite the (9) ) Water the plants Meet the heating engineer on (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "Name: Colin (7) Tel: (8) Address: Fore street (opposite the (9) ) Water the plants Meet the heating engineer on (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER. Things to do before we go Collect the currency Cancel",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Choose the correct answer A, B or C. Adbourne Film Festival 11. Why was the Film Festival started? A To encourage local people to make films. B To bring more tourists to",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "to the town. C To use money released from another project. 12. What is the price range for tickets? A £1.00-£2.50 B 50p – £2.00 C £1.50-£2.50 13. As well as online, tick",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "ange for tickets? A £1.00-£2.50 B 50p – £2.00 C £1.50-£2.50 13. As well as online, tickets for the films can be obtained A from the local library. B from several differen",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "m several different shops. C from the two festival cinemas. 14. Last year’s winning film was about A farms of the future. B schools and the environment. C green transport",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": ". B schools and the environment. C green transport options. 15. This year the competition prize is A a stay in a hotel. B film-making equipment. C a sum of money. 16. The",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 11-16 Choose the correct answer A, B or C. Adbourne Film Festival 11. Why was the Film Festival started? A To enc",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. What TWO main criteria are used to judge the film competition? A Ability to",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. What TWO main criteria are used to judge the film competition? A Ability to persua",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. What TWO changes will be made to the competition next year? A A new way of",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. What TWO changes will be made to the competition next year? A A new way of judging",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-24 Choose the correct letter, A, B or C. Research on web-based crosswords 21. Leela and Jake chose this article because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it was on a topic familiar to most students."
+        },
+        {
+          "letter": "B",
+          "text": "it covered both IT and education issues."
+        },
+        {
+          "letter": "C",
+          "text": "it dealt with a very straightforward concept."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "How did Leela and Jake persuade students to take part in their research?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They convinced them they would enjoy the experience."
+        },
+        {
+          "letter": "B",
+          "text": "They said it would help them do a particular test."
+        },
+        {
+          "letter": "C",
+          "text": "They offered to help them with their own research later on."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Leela and Jake changed the design of the original questionnaire because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it was too short for their purposes."
+        },
+        {
+          "letter": "B",
+          "text": "it asked misleading questions."
+        },
+        {
+          "letter": "C",
+          "text": "it contained out-of-date points."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "Leela was surprised by the fact that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is normal for questionnaire returns to be low."
+        },
+        {
+          "letter": "B",
+          "text": "so many students sent back their questionnaires."
+        },
+        {
+          "letter": "C",
+          "text": "the questionnaire responses were of such high quality."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-26"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 25-26 Choose TWO letters, A-E. What TWO things did respondents say they liked most about doing the crossword? A I",
+      "groupId": "q25-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 27-28 Choose TWO letters, A-E. In which TWO areas did these research findings differ from those of the original s",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 29-30 Choose TWO letters, A-E. What TWO skills did Leela and Jake agree they had learned from the project? A How",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "tion study Workers involved in the study were employed at a (31) Despite some apparent differences between groups of workers, the survey results were statistically (32) T",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "en groups of workers, the survey results were statistically (32) The speaker analysed the study’s (33) to identify any problems with it. The various sub-groups were (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "ts were statistically (32) The speaker analysed the study’s (33) to identify any problems with it. The various sub-groups were (34) in size. Workers in the part-time grou",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "identify any problems with it. The various sub-groups were (34) in size. Workers in the part-time group were mainly (35) The (36) of workers who agreed to take part in t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "re (34) in size. Workers in the part-time group were mainly (35) The (36) of workers who agreed to take part in the study was disappointing. Researchers were unable to (3",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "n size. Workers in the part-time group were mainly (35) The (36) of workers who agreed to take part in the study was disappointing. Researchers were unable to (37) the ci",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "in the study was disappointing. Researchers were unable to (37) the circumstances in which workers filled out the questionnaire. In future, the overall size of the (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "d out the questionnaire. In future, the overall size of the (38) should be increased. In future studies, workers should be prevented from having discussions with (39) Wor",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "s, workers should be prevented from having discussions with (39) Workers should be reassured that their responses to questions are (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Job satisfaction study Workers",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "hairdresser",
+    "2": "tablets",
+    "3": "sunglasses",
+    "4": "lock",
+    "5": "adaptor",
+    "6": "taxi",
+    "7": "Jefferey",
+    "8": "0777594128",
+    "9": "church",
+    "10": "30 April",
+    "11": "C",
+    "12": "A",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "C",
+    "17": "D",
+    "18": "E",
+    "19": "C",
+    "20": "E",
+    "21": "C",
+    "22": "B",
+    "23": "C",
+    "24": "A",
+    "25": "C",
+    "26": "E",
+    "27": "D",
+    "28": "E",
+    "29": "C",
+    "30": "E",
+    "31": "call centre",
+    "32": "inconclusive",
+    "33": "methods",
+    "34": "unequal",
+    "35": "female/ women",
+    "36": "response",
+    "37": "control",
+    "38": "sample/ group",
+    "39": "their colleagues",
+    "40": "confidential"
+  }
+}

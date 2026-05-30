@@ -1,0 +1,497 @@
+{
+  "id": "0021",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0021.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Complete the table below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-6 Choose the correct letter A, B or C. 1. The Family Welcome event in the art gallery begins at",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 am"
+        },
+        {
+          "letter": "B",
+          "text": "10.30 am"
+        },
+        {
+          "letter": "C",
+          "text": "2 pm"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "The film that is now shown in the Family Welcome event is about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sculpture"
+        },
+        {
+          "letter": "B",
+          "text": "painting"
+        },
+        {
+          "letter": "C",
+          "text": "ceramics"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "When do most of the free concerts take place?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in the morning"
+        },
+        {
+          "letter": "B",
+          "text": "at lunchtime"
+        },
+        {
+          "letter": "C",
+          "text": "in the evening"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "Where will the 4 pm concert of Latin American music take place?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in a museum"
+        },
+        {
+          "letter": "B",
+          "text": "in a theatre"
+        },
+        {
+          "letter": "C",
+          "text": "in a library"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "The boat race begins at",
+      "options": [
+        {
+          "letter": "A",
+          "text": "summer pool"
+        },
+        {
+          "letter": "B",
+          "text": "Charlesworth bridge"
+        },
+        {
+          "letter": "C",
+          "text": "Oxford marina"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "One of the boat race teams",
+      "options": [
+        {
+          "letter": "A",
+          "text": "won a regional competition earlier this year"
+        },
+        {
+          "letter": "B",
+          "text": "has represented the region in a national competition"
+        },
+        {
+          "letter": "C",
+          "text": "has won several regional competitions"
+        }
+      ],
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "sentenceCompletion",
+      "prompt": "Write ONE WORD ONLY for each answer. Paxton Nature Reserve 7. Paxton is a good for seeing rare all year around. 8. This is a particularly good time for seeing certain un",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "eserve 7. Paxton is a good for seeing rare all year around. 8. This is a particularly good time for seeing certain unusual 9. Visitors will be able to learn about and the",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "This is a particularly good time for seeing certain unusual 9. Visitors will be able to learn about and then collect some. 10. Part of the has been made suitable for swim",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 7-10 Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve 7. Paxton is a goo",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. Changes in Barford over the last 50 years 11. In Shona’s opinion why do fewer people use buses in Barford these days?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the buses are old and uncomfortable"
+        },
+        {
+          "letter": "B",
+          "text": "fares have gone up too much"
+        },
+        {
+          "letter": "C",
+          "text": "there are not so many bus routes"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What change in the road network is known to have benefitted the town most?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the construction of a bypass"
+        },
+        {
+          "letter": "B",
+          "text": "the development of cycle paths"
+        },
+        {
+          "letter": "C",
+          "text": "the banning of cars from certain streets"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "What is the problem affecting shopping in the town centre?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "lack of parking spaces"
+        },
+        {
+          "letter": "B",
+          "text": "lack of major retailers"
+        },
+        {
+          "letter": "C",
+          "text": "lack of restaurants and cafes"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "What does Shona say about medical facilities in Barford?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "there is no hospital"
+        },
+        {
+          "letter": "B",
+          "text": "new medical practices are planned"
+        },
+        {
+          "letter": "C",
+          "text": "the number of dentists is too low"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "The largest number of people are employed in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "manufacturing"
+        },
+        {
+          "letter": "B",
+          "text": "services"
+        },
+        {
+          "letter": "C",
+          "text": "education"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 What is planned for each of the following facilities? Choose FIVE answers from the box and write the correc",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": "table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "w. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-26 Complete the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 Who is going to write each of the following parts of the report? Write the correct letter A-D next to",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "an be used in business: • To investigate customer needs and (31) • To help companies develop new designs Examples of ethnographic research in business Kitchen equipment •",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "ent • Researchers found that cooks could not easily see the (32) in measuring cups Cell phone • In Uganda, customers paid to use the cell phones of entrepreneurs. • These",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "nes of entrepreneurs. • These customers wanted to check the (33) used. Computer companies • There was a need to develop (34) to improve communication between system admin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "(33) used. Computer companies • There was a need to develop (34) to improve communication between system administrators and colleagues. Hospitals • Nurses needed to acces",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "gues. Hospitals • Nurses needed to access information about (35) in different parts of the hospital Airlines • Respondents recorded information about their (36) while tra",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "tal Airlines • Respondents recorded information about their (36) while travelling. Principles of ethnographic research in business • The researched does not start off wit",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "sis • Participants may be selected by criteria such as age, (37) or product used • The participants must feel (38) about taking part in the research. • There is usually d",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "h as age, (37) or product used • The participants must feel (38) about taking part in the research. • There is usually direct (39) of the participants • The interview is",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "bout taking part in the research. • There is usually direct (39) of the participants • The interview is guided by the participant • A lot of time is needed for the (40) o",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: researc",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "B",
+    "2": "C",
+    "3": "B",
+    "4": "A",
+    "5": "C",
+    "6": "A",
+    "7": "birds",
+    "8": "flowers",
+    "9": "mushrooms",
+    "10": "river",
+    "11": "C",
+    "12": "B",
+    "13": "B",
+    "14": "A",
+    "15": "C",
+    "16": "G",
+    "17": "A",
+    "18": "C",
+    "19": "B",
+    "20": "F",
+    "21": "cave",
+    "22": "tiger",
+    "23": "dancing",
+    "24": "crying",
+    "25": "grass",
+    "26": "scarf",
+    "27": "A",
+    "28": "C",
+    "29": "D",
+    "30": "B",
+    "31": "attitude",
+    "32": "numbers",
+    "33": "time/minutes",
+    "34": "software",
+    "35": "patients",
+    "36": "emotions/feelings",
+    "37": "income",
+    "38": "comfortable",
+    "39": "observation",
+    "40": "analysis"
+  }
+}

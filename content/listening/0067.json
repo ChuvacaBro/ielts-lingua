@@ -1,0 +1,402 @@
+{
+  "id": "0067",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0067.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "el Armitage Booking Form Name: Kelvin Jones Booking number: (1) Vehicle registration ID: (2) Date of arrival: 21 May Room number: 501 Type of room: Standard? Deluxe? Suit",
+      "wordLimit": "NO MORE THAN ONE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": ": Kelvin Jones Booking number: (1) Vehicle registration ID: (2) Date of arrival: 21 May Room number: 501 Type of room: Standard? Deluxe? Suite?: (3) Extra requirements: (",
+      "wordLimit": "NO MORE THAN ONE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "ay Room number: 501 Type of room: Standard? Deluxe? Suite?: (3) Extra requirements: (4) Identification: driver’s licence Length of stay: (5)",
+      "wordLimit": "NO MORE THAN ONE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "of room: Standard? Deluxe? Suite?: (3) Extra requirements: (4) Identification: driver’s licence Length of stay: (5)",
+      "wordLimit": "NO MORE THAN ONE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booki",
+      "wordLimit": "NO MORE THAN ONE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "the map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "w. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Complete the map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-13 Choose the correct letter A, B or C. 11. The SIS is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a non-profit making organization"
+        },
+        {
+          "letter": "B",
+          "text": "owned by an international corporation"
+        },
+        {
+          "letter": "C",
+          "text": "a collective owned by ordinary people"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The SIS",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has no fees"
+        },
+        {
+          "letter": "B",
+          "text": "has low fees"
+        },
+        {
+          "letter": "C",
+          "text": "avoids paying fees"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "SIS accounts with the same customer number",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will be charged for setting up automatic payments"
+        },
+        {
+          "letter": "B",
+          "text": "attract no service charges"
+        },
+        {
+          "letter": "C",
+          "text": "must have a minimum balance"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 14-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 21,
+      "type": "shortAnswer",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 21. What period of English Literature will the conference cover? 22. How many panel discussions have been arra",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "shortAnswer",
+      "prompt": "hat period of English Literature will the conference cover? 22. How many panel discussions have been arranged? 23. What is the aim of a panel discussion? To present",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "shortAnswer",
+      "prompt": "Questions 21-23 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 21. What period",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "with by prof.) • Identify topic of interest involving some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "interest involving some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each p",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "ng some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each panelist speaks fo",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each panelist speaks for 2 mins-make a hand (28) to show time is up • Primary fu",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "on form prof. • Each panelist speaks for 2 mins-make a hand (28) to show time is up • Primary function = panel discussion (about 40 mins) • Close discussion and give (29)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "anel discussion (about 40 mins) • Close discussion and give (29) • Secondary function = question time (about 15-20 mins) • At end of question time panel is thanked and au",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 24-30 Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "for each answer. Hydropower • Renewable-constant source of (31) from natural hydrologic cycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "ble-constant source of (31) from natural hydrologic cycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Fle",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "ycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Flexible-can start and adapt quickly to meet demand-lead",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Flexible-can start and adapt quickly to meet demand-leads to (35) of powe",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of (3",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "diagramLabel",
+      "prompt": "iagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 37,
+      "type": "diagramLabel",
+      "prompt": "m below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 38,
+      "type": "diagramLabel",
+      "prompt": "Questions 36-38 Label the diagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 39. To be effective, hydroelectric dams should be built across rivers with both sufficient head and 40. There",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 39-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 39. To be effective, hydroelect",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "OOL2381420",
+    "2": "HUV 3331",
+    "3": "deluxe",
+    "4": "(2) pillows",
+    "5": "three nights",
+    "6": "mexican cafe",
+    "7": "mill",
+    "8": "bookshop",
+    "9": "kitched",
+    "10": "king",
+    "11": "C",
+    "12": "B",
+    "13": "A",
+    "14": "transaction",
+    "15": "bonus (interest)",
+    "16": "simple saver",
+    "17": "June 30",
+    "18": "secure",
+    "19": "bonds",
+    "20": "income",
+    "21": "17 century",
+    "22": "5",
+    "23": "views/ opinions",
+    "24": "conflict",
+    "25": "moderator/ leader",
+    "26": "format",
+    "27": "biographical",
+    "28": "gesture",
+    "29": "summary",
+    "30": "applause",
+    "31": "water",
+    "32": "efficient",
+    "33": "noise",
+    "34": "reliable",
+    "35": "stability",
+    "36": "intake (gate)",
+    "37": "generator",
+    "38": "power lines",
+    "39": "stream flow",
+    "40": "consumers/ people"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "id": "0064",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0064.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-17 Choose the correct letter, A, B, or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Write the correct letter, A-F, next to questions 21-26.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Choose the correct letter, A, B, or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "plete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "e the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "e notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "-7 Choose the correct letter, A, B, or C. 5. Which of these extra services does the customer agree to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change the bed linen"
+        },
+        {
+          "letter": "B",
+          "text": "Do some gardening work"
+        },
+        {
+          "letter": "C",
+          "text": "Clean the glass"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "What does the customer want cleaned every three months?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Curtains"
+        },
+        {
+          "letter": "B",
+          "text": "Carpets"
+        },
+        {
+          "letter": "C",
+          "text": "Mats"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "What does the customer want done with clothes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wash and iron the clothes"
+        },
+        {
+          "letter": "B",
+          "text": "Iron the clothes"
+        },
+        {
+          "letter": "C",
+          "text": "Clean and dry the clothes"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "AND/OR A NUMBER for each answer. The agent’s address is 12 (8) Road. Her house will get cleaned next (9) The maximum time of cleaning service is (10) hours Part 2:",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "t’s address is 12 (8) Road. Her house will get cleaned next (9) The maximum time of cleaning service is (10) hours Part 2:",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 8-10 Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. The agent’s address is 12 (8)",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-17 Choose the correct letter, A, B, or C. 11. The main purpose of the service is to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "educate people."
+        },
+        {
+          "letter": "B",
+          "text": "persuade people to fly."
+        },
+        {
+          "letter": "C",
+          "text": "provide people with comfort."
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The number of people working at Sydney Airport is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200"
+        },
+        {
+          "letter": "B",
+          "text": "360"
+        },
+        {
+          "letter": "C",
+          "text": "440"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Dogs are chosen according to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "their ability to stay calm."
+        },
+        {
+          "letter": "B",
+          "text": "their friendliness."
+        },
+        {
+          "letter": "C",
+          "text": "their skill at locating narcotics."
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The number of postal items processed last year amounted to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4,400."
+        },
+        {
+          "letter": "B",
+          "text": "52,000."
+        },
+        {
+          "letter": "C",
+          "text": "72,"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 15"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Which of the following is NOT allowed to be taken on the flight?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carry-on items"
+        },
+        {
+          "letter": "B",
+          "text": "Plant seeds"
+        },
+        {
+          "letter": "C",
+          "text": "Parcels"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "What is the proper security protocol for a pocket knife found in a carry-on suitcase?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is returned to the passenger after examination."
+        },
+        {
+          "letter": "B",
+          "text": "It is thrown away in a safe receptacle."
+        },
+        {
+          "letter": "C",
+          "text": "It is passed on to higher-level authorities."
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 18,
+      "type": "sentenceCompletion",
+      "prompt": ". The acceptable material for packing goods in Australia is (18) The belongings most of time are refused due to problems with the (19) The customs must be given notice of",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "sentenceCompletion",
+      "prompt": "elongings most of time are refused due to problems with the (19) The customs must be given notice of the goods from (20) days before it arrives in Australia. Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The acceptable material for p",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 21-26 Write the correct letter, A-F, next to",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "sentenceCompletion",
+      "prompt": "you need to find information on a certain book, you can use (27) check-out cards. If you want to find information in a specific field, use the (28) guides. Computers in s",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "sentenceCompletion",
+      "prompt": "f you want to find information in a specific field, use the (28) guides. Computers in some (29) cannot be linked to the network. You can find more information in a (30) o",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "sentenceCompletion",
+      "prompt": "in a specific field, use the (28) guides. Computers in some (29) cannot be linked to the network. You can find more information in a (30) on my desk. Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 27-30 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find informati",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-35 Choose the correct letter, A, B, or C. 31. The student thought there were no crocodiles in Northern Africa because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "North Africa contains very little wildlife for the crocodile to prey on."
+        },
+        {
+          "letter": "B",
+          "text": "she found no mention in the literature of their existence there."
+        },
+        {
+          "letter": "C",
+          "text": "there is very little water in North Africa."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Generally, crocodiles live in groups of about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "20"
+        },
+        {
+          "letter": "B",
+          "text": "38"
+        },
+        {
+          "letter": "C",
+          "text": "46"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "African crocodiles usually live in areas with",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hot, dry climates."
+        },
+        {
+          "letter": "B",
+          "text": "hot, wet rainforests."
+        },
+        {
+          "letter": "C",
+          "text": "warm, wet climates."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "Crocodiles in dry areas live in caves located",
+      "options": [
+        {
+          "letter": "A",
+          "text": "underground."
+        },
+        {
+          "letter": "B",
+          "text": "in mountainsides."
+        },
+        {
+          "letter": "C",
+          "text": "underwater."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "What change caused changes in crocodile populations in North Africa?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They were driven away by a fierce predator."
+        },
+        {
+          "letter": "B",
+          "text": "Crocodiles evolved from desert creatures to wetland creatures."
+        },
+        {
+          "letter": "C",
+          "text": "North Africa used to be wetland but slowly turned to desert over time."
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "s sometimes live in places with dry periods that last up to (36) months. A hole dug by a female crocodile in which to lay eggs can have a (37) of up to 60 cm. Local peopl",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "e dug by a female crocodile in which to lay eggs can have a (37) of up to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate th",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "y eggs can have a (37) of up to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate their habitat. Researchers want to study mor",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate their habitat. Researchers want to study more about population size, (40",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 36-40 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodil",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "southwest",
+    "2": "double",
+    "3": "office",
+    "4": "lounge",
+    "5": "A",
+    "6": "B",
+    "7": "B",
+    "8": "amyes",
+    "9": "thursday",
+    "10": "3",
+    "11": "A",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "B",
+    "17": "B",
+    "18": "paper",
+    "19": "package labels",
+    "20": "2 to 10",
+    "21": "B",
+    "22": "D",
+    "23": "C",
+    "24": "A",
+    "25": "F",
+    "26": "E",
+    "27": "pink and yellow",
+    "28": "subjects",
+    "29": "universities",
+    "30": "blue folder",
+    "31": "B",
+    "32": "A",
+    "33": "C",
+    "34": "A",
+    "35": "C",
+    "36": "8",
+    "37": "depth",
+    "38": "afraid of",
+    "39": "attack",
+    "40": "migration patterns"
+  }
+}

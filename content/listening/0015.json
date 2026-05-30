@@ -1,0 +1,473 @@
+{
+  "id": "0015",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0015.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Complete the form below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "teven Godfrey No. of bedrooms: 4 Preferred location: in the (1) area of town Maximum monthly rent: (2) £ Length of let required: (3) Starting: September 1st",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "red location: in the (1) area of town Maximum monthly rent: (2) £ Length of let required: (3) Starting: September 1st",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "Questions 1-3 Complete the form below. Write ONE WORD OR A NUMBER. Rented Properties Customer’s Requirements Name: Steven",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "s 4-8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q4-8"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q4-8"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "mplete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q4-8"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "te the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q4-8"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Questions 4-8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q4-8"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public a",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public at the",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "noteCompletion",
+      "prompt": "WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for: (11) Complex consists of: concert rooms, theatres, cinemas, art galleries, public library, restaurants and a (",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "noteCompletion",
+      "prompt": ", cinemas, art galleries, public library, restaurants and a (12) Historical background: 1940-area destroyed by bombs 1960s-1970s – centre was (13) and built in (14) – ope",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "noteCompletion",
+      "prompt": "ound: 1940-area destroyed by bombs 1960s-1970s – centre was (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "noteCompletion",
+      "prompt": "stroyed by bombs 1960s-1970s – centre was (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "s (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "he table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "ble below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "elow. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. Latin American Studies 21. Paul decided to get work experience in South America because he wanted",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to teach English there"
+        },
+        {
+          "letter": "B",
+          "text": "to improve his Spanish"
+        },
+        {
+          "letter": "C",
+          "text": "to learn about Latin American life"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What project work did Paul originally intend to get involved in?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "construction"
+        },
+        {
+          "letter": "B",
+          "text": "agriculture"
+        },
+        {
+          "letter": "C",
+          "text": "tourism 23 Why did Paul change from one project to another? A His first job was not well organized B He found doing the routine work very boring C The work was too physically demanding"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 23"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "In the village community, he learnt how important it was to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "respect family life"
+        },
+        {
+          "letter": "B",
+          "text": "develop trust"
+        },
+        {
+          "letter": "C",
+          "text": "use money wisely"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What does Paul say about his project manager?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He let Paul do most of the work"
+        },
+        {
+          "letter": "B",
+          "text": "His plans were too ambitious"
+        },
+        {
+          "letter": "C",
+          "text": "He was very supportive of Paul"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "Paul was surprised to be given",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a computer to use"
+        },
+        {
+          "letter": "B",
+          "text": "so little money to live on"
+        },
+        {
+          "letter": "C",
+          "text": "an extension to his contract"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 What does Paul decide about each of the following modules? Write the correct letter A, B or C next to",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-34 Choose the correct letter A, B or C. Trying to repeat success 31. Compared to introducing new business processes, attempts to copy existing processes are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more attractive"
+        },
+        {
+          "letter": "B",
+          "text": "more frequent"
+        },
+        {
+          "letter": "C",
+          "text": "more straightforward"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Most research into the repetition of success in business has",
+      "options": [
+        {
+          "letter": "A",
+          "text": "been done outside the United States"
+        },
+        {
+          "letter": "B",
+          "text": "produced consistent findings"
+        },
+        {
+          "letter": "C",
+          "text": "related to only a few contexts"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about consulting experts?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Too few managers ever do it"
+        },
+        {
+          "letter": "B",
+          "text": "It can be useful in certain circumstances"
+        },
+        {
+          "letter": "C",
+          "text": "Experts are sometimes unwilling to give advice"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "An expert’s knowledge about a business system may be incomplete because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "some details are difficult for workers to explain"
+        },
+        {
+          "letter": "B",
+          "text": "workers choose not to mention certain details"
+        },
+        {
+          "letter": "C",
+          "text": "details are sometimes altered by workers"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ies to: • Improve on the original process • Create an ideal (35) from the best parts of several processes Cause of problems • Information was inaccurate • Comparison betw",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "d • Disadvantages were overlooked e.g. effect of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (3",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "overlooked e.g. effect of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (39) o The (40) of origin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (39) o The (40) of original employees",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "8) • Copy original very closely: o Physical features of the (39) o The (40) of original employees",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 35-40 Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q35-40"
+    }
+  ],
+  "answerKey": {
+    "1": "central",
+    "2": "600",
+    "3": "2 years",
+    "4": "garage",
+    "5": "garden",
+    "6": "study",
+    "7": "noisy",
+    "8": "595",
+    "9": "B",
+    "10": "E",
+    "11": "classical music concerts",
+    "12": "bookshop",
+    "13": "planned",
+    "14": "1983",
+    "15": "city council",
+    "16": "363",
+    "17": "garden hall",
+    "18": "three lives",
+    "19": "4.50",
+    "20": "faces of china",
+    "21": "C",
+    "22": "C",
+    "23": "A",
+    "24": "B",
+    "25": "C",
+    "26": "A",
+    "27": "C",
+    "28": "A",
+    "29": "B",
+    "30": "C",
+    "31": "B",
+    "32": "B",
+    "33": "B",
+    "34": "A",
+    "35": "combination",
+    "36": "safety",
+    "37": "attitudes",
+    "38": "controls",
+    "39": "factories",
+    "40": "skills"
+  }
+}

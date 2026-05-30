@@ -1,0 +1,451 @@
+{
+  "id": "0195",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0195.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express?",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Green Email address : dan1068@market.com Home address : 52 (1) Street, Peacetown Heard about us : from a (2) Reasons for joining: to enter competitions and to (3) Type o",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "address : 52 (1) Street, Peacetown Heard about us : from a (2) Reasons for joining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "rom a (2) Reasons for joining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "ining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Da",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "le below. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "ite NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 5-10 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms? A Don’t pick more",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms? A Don’t pick more than o",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct? A Mushrooms",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct? A Mushrooms should",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter, A, B or C. 15. What advice does Dan give about picking mushrooms in parks?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Choose wooded areas."
+        },
+        {
+          "letter": "B",
+          "text": "Don’t disturb wildlife."
+        },
+        {
+          "letter": "C",
+          "text": "Get there early."
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Dan says it is a good idea for beginners to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use a mushroom app."
+        },
+        {
+          "letter": "B",
+          "text": "join a group."
+        },
+        {
+          "letter": "C",
+          "text": "take a reference book."
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "What does Dan say is important for conservation?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "selecting only fully grown mushrooms"
+        },
+        {
+          "letter": "B",
+          "text": "picking a limited amount of mushrooms"
+        },
+        {
+          "letter": "C",
+          "text": "avoiding areas where rare mushroom species grow"
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a huge demand for them from restaurants."
+        },
+        {
+          "letter": "B",
+          "text": "a lack of rain in this part of the country."
+        },
+        {
+          "letter": "C",
+          "text": "a rise in building developments locally."
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "Dan says that when storing mushrooms, people should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "keep them in the fridge for no more than two days."
+        },
+        {
+          "letter": "B",
+          "text": "keep them in a brown bag in a dark room."
+        },
+        {
+          "letter": "C",
+          "text": "leave them for a period after washing them."
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "What does Dan say about trying new varieties of mushrooms?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Experiment with different recipes."
+        },
+        {
+          "letter": "B",
+          "text": "Expect some to have a strong taste."
+        },
+        {
+          "letter": "C",
+          "text": "Cook them for a long time."
+        }
+      ],
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express? A Their acti",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express? A Their actions wer",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful ab",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about? A",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 What comment do the students make about each of the following jobs? Choose SIX answers from the box and wri",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "ellites rather than planes. • would aim to set up legal and (31) ways of improving safety. • does not actually exist at present. Problems in developing effective Space Tr",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "fective Space Traffic Management • Satellites are now quite (32) and therefore more widespread (e.g. there are constellations made up of (33) of satellites). • At present",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "e more widespread (e.g. there are constellations made up of (33) of satellites). • At present, satellites are not required to transmit information to help with their (34)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "are not required to transmit information to help with their (34) • There are few systems for (35) satellites. • Small pieces of debris may be difficult to identify. • Ope",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "rmation to help with their (34) • There are few systems for (35) satellites. • Small pieces of debris may be difficult to identify. • Operators may be unwilling to share",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "rs may be unwilling to share details of satellites used for (36) or commercial reasons. • It may be hard to collect details of the object’s (37) at a given time. • Scient",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "easons. • It may be hard to collect details of the object’s (37) at a given time. • Scientists can only make a (38) about where the satellite will go. Solutions 1. Common",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "object’s (37) at a given time. • Scientists can only make a (38) about where the satellite will go. Solutions 1. Common standards should be agreed on for the presentation",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "f information. 2. The information should be combined in one (39) 3. A coordinated system must be designed to create (40) in its users.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Man",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Marrowfield",
+    "2": "Relative",
+    "3": "Socialize/ socialize",
+    "4": "Full",
+    "5": "Domestic life",
+    "6": "Clouds",
+    "7": "Timing",
+    "8": "Animal magic",
+    "9": "(animal) movement",
+    "10": "Dark",
+    "11": [
+      "B",
+      "C"
+    ],
+    "12": [
+      "B",
+      "C"
+    ],
+    "13": [
+      "B",
+      "D"
+    ],
+    "14": [
+      "B",
+      "D"
+    ],
+    "15": "C",
+    "16": "B",
+    "17": "B",
+    "18": "C",
+    "19": "A",
+    "20": "A",
+    "21": [
+      "A",
+      "E"
+    ],
+    "22": [
+      "A",
+      "E"
+    ],
+    "23": [
+      "B",
+      "D"
+    ],
+    "24": [
+      "B",
+      "D"
+    ],
+    "25": "G",
+    "26": "E",
+    "27": "B",
+    "28": "C",
+    "29": "F",
+    "30": "A",
+    "31": "Technical",
+    "32": "Cheap",
+    "33": "Thousands",
+    "34": "Identification",
+    "35": "Tracking",
+    "36": "Military",
+    "37": "Location",
+    "38": "Prediction",
+    "39": "Database",
+    "40": "Trust"
+  }
+}

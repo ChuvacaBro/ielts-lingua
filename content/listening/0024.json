@@ -1,0 +1,412 @@
+{
+  "id": "0024",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0024.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "Short stay accommodation Family name: Mackinlay First name: (1) Country of origin: (2) Date of arrival: (3) Number of tenants: (4) Length of stay: 2 weeks Purpose of visi",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "n Family name: Mackinlay First name: (1) Country of origin: (2) Date of arrival: (3) Number of tenants: (4) Length of stay: 2 weeks Purpose of visit: (5) Type of accommod",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "lay First name: (1) Country of origin: (2) Date of arrival: (3) Number of tenants: (4) Length of stay: 2 weeks Purpose of visit: (5) Type of accommodation: (6) Number of",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "ntry of origin: (2) Date of arrival: (3) Number of tenants: (4) Length of stay: 2 weeks Purpose of visit: (5) Type of accommodation: (6) Number of bedrooms: 1 or 2 Car pa",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "r of tenants: (4) Length of stay: 2 weeks Purpose of visit: (5) Type of accommodation: (6) Number of bedrooms: 1 or 2 Car parking: off street and (7) General area: near t",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "stay: 2 weeks Purpose of visit: (5) Type of accommodation: (6) Number of bedrooms: 1 or 2 Car parking: off street and (7) General area: near the beach Other requirements",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "(6) Number of bedrooms: 1 or 2 Car parking: off street and (7) General area: near the beach Other requirements: near (8) Name of town: (9) Client’s email: smac13@hotmail",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "d (7) General area: near the beach Other requirements: near (8) Name of town: (9) Client’s email: smac13@hotmail.com Price range: up to (10) $ a week Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": ": near the beach Other requirements: near (8) Name of town: (9) Client’s email: smac13@hotmail.com Price range: up to (10) $ a week Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Short stay accommodation Family name: Ma",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. Refreshments will be served",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at the front counter"
+        },
+        {
+          "letter": "B",
+          "text": "in the lobby"
+        },
+        {
+          "letter": "C",
+          "text": "at the back of the hall"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Nick Noble advertise",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on the radio"
+        },
+        {
+          "letter": "B",
+          "text": "on a billboard"
+        },
+        {
+          "letter": "C",
+          "text": "in the newspaper"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The original number of founding members was about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12"
+        },
+        {
+          "letter": "B",
+          "text": "20"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The club provides activities primarily for reasonably fit",
+      "options": [
+        {
+          "letter": "A",
+          "text": "males up to 75"
+        },
+        {
+          "letter": "B",
+          "text": "females with young children"
+        },
+        {
+          "letter": "C",
+          "text": "males and females of any age"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "ite NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "O MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "E THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "N ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "ach answer. Globalization and educational change • New Code (21) • Aims-analysis of educational problems arising from globalization • Chance to research and (22) progress",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "roblems arising from globalization • Chance to research and (22) progress of educational change • Investigate influence of culture and (23) on education • Argue advantage",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "f educational change • Investigate influence of culture and (23) on education • Argue advantages and disadvantages of reorganization of public education in own country wi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "in own country with regard to globalization • Consider the (24) of globalization on diversity of national curricula across richer and poorer countries • Assignment 1 – p",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "ries • Assignment 1 – power point presentation (ungraded) + (25) (30%) • Assignment 2 – take part in (26) (20%) + essay (50%)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-26 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Globalization and educational chang",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 27-30 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (27) (28) (29) (30",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "summaryCompletion",
+      "prompt": "DS for each answer. Everyday the human body is fighting off (31) by destructive pathogens. A person in good health has natural protection in the form of an immune system",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "summaryCompletion",
+      "prompt": "organisms which may have been encountered during a previous (32) or passed on by the mother before or after birth. Vaccination is a way to cause (33) immunisation by intr",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "summaryCompletion",
+      "prompt": "mother before or after birth. Vaccination is a way to cause (33) immunisation by introducing a small amout of pathogen into the body – just enough for the body’s (34) to",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "summaryCompletion",
+      "prompt": "mout of pathogen into the body – just enough for the body’s (34) to react by making antibodies. Passive immunization can be used as a way of treating someone who is alrea",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "summaryCompletion",
+      "prompt": "treating someone who is already sick. Proteins from animal (35) are introduced into the patient to give him the necessary antibodies to fight the disease. Dr. Edward Jen",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "at victims of milder disease, cowpox which they caught from (36) were immune to smallpox. He carried out a successful (37) by deliberately giving a child cowpox in order",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "Questions 31-37 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Everyday the human body is fighti",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Question 38",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Question 39",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 38-40 Complete the diagram below. Choose your answers from the box below and write the letters A-F next to",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Sylvia",
+    "2": "England",
+    "3": "26 July",
+    "4": "2",
+    "5": "(on) holiday",
+    "6": "apartment",
+    "7": "secure",
+    "8": "motorway",
+    "9": "palm beach",
+    "10": "1500",
+    "11": "B",
+    "12": "A",
+    "13": "A",
+    "14": "C",
+    "15": "tramping",
+    "16": "walking",
+    "17": "organiser",
+    "18": "variable",
+    "19": "mystery",
+    "20": "chairman",
+    "21": "ED995",
+    "22": "document",
+    "23": "socio-economic structures",
+    "24": "impact",
+    "25": "written reviw",
+    "26": "seminar",
+    "27": "tower",
+    "28": "2008",
+    "29": "brown",
+    "30": "knowledge policy",
+    "31": "attacks",
+    "32": "illness/ disease",
+    "33": "active",
+    "34": "defence",
+    "35": "blood",
+    "36": "infected cows",
+    "37": "experiment",
+    "38": "F",
+    "39": "A",
+    "40": "C"
+  }
+}

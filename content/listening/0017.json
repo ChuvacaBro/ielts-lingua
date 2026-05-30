@@ -1,0 +1,452 @@
+{
+  "id": "0017",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0017.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-4 Choose the correct letter A, B or C. 1.",
+      "options": [
+        {
+          "letter": "A",
+          "text": "TFN is a number used A exclusively for tax administration"
+        },
+        {
+          "letter": "B",
+          "text": "exclusively by individual tax payers"
+        },
+        {
+          "letter": "C",
+          "text": "for managing several government services"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "Without a TFN, the applicant would be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "taxed at a higher rate"
+        },
+        {
+          "letter": "B",
+          "text": "unable to work"
+        },
+        {
+          "letter": "C",
+          "text": "liable for medicare contributions"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What kind of visa does the applicant have?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a visa granting indefinite stay"
+        },
+        {
+          "letter": "B",
+          "text": "a visa with work rights"
+        },
+        {
+          "letter": "C",
+          "text": "a student visa"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "A TFN is issued",
+      "options": [
+        {
+          "letter": "A",
+          "text": "if you change your name"
+        },
+        {
+          "letter": "B",
+          "text": "only once in a lifetime"
+        },
+        {
+          "letter": "C",
+          "text": "when you claim a government benefit"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 5-10 Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "noteCompletion",
+      "prompt": "ldren-scary but educational • ‘Online Family Norris’ blocks (11) and social sites • But still important to watch children and (12) them • Keep computer in family room whe",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "noteCompletion",
+      "prompt": "nd social sites • But still important to watch children and (12) them • Keep computer in family room where you can see it • Children should never use their own name nor g",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "noteCompletion",
+      "prompt": "it • Children should never use their own name nor give out (13) • Online friends stay online • No personal email address for youngsters • Teach teenagers that (14) on th",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "noteCompletion",
+      "prompt": "ersonal email address for youngsters • Teach teenagers that (14) on the Internet always stay there – and may ruin job prospects • Watch out for (15) • Teenagers use inter",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "ays stay there – and may ruin job prospects • Watch out for (15) • Teenagers use internet: to socialize or do (16) • Young kids: find help with school subjects",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Int",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-23 Choose the correct letter A, B or C. 21. Ted and Cleo’s research results will be presented as a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "poster"
+        },
+        {
+          "letter": "B",
+          "text": "survey"
+        },
+        {
+          "letter": "C",
+          "text": "graph"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "They will select foreign students",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from the language school"
+        },
+        {
+          "letter": "B",
+          "text": "from the business school"
+        },
+        {
+          "letter": "C",
+          "text": "randomly on campus"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The foreign students will have to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "collate the answers"
+        },
+        {
+          "letter": "B",
+          "text": "rank the answers"
+        },
+        {
+          "letter": "C",
+          "text": "know a lot about the answers."
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "y abroad • Is the best way to learn a language • Provides a (24) • Allows you to experience another culture first hand • Helps you (25) • Give you opportunity to make new",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "ws you to experience another culture first hand • Helps you (25) • Give you opportunity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "(25) • Give you opportunity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of your degree • Improves (28) • Expands your world view",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "unity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of your degree • Improves (28) • Expands your world view",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "Questions 24-28 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-28"
+    },
+    {
+      "number": 29,
+      "type": "diagramLabel",
+      "prompt": "Questions 29 and 30 Label the diagram below. Choose your answers from the box and write the letters A-H next to",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "diagramLabel",
+      "prompt": "Questions 29 and 30 Label the diagram below. Choose your answers from the box and write the letters A-H next to",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "ORDS AND OR A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "AND OR A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "R A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "UMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Pea",
+      "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "e was a painter but he was also a politician, scientist and (37) with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that coul",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "polygraph which was a desk that could be used for copying a (38) He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a k",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "ried to make movies, spectacles and a velocipede (a kind of (39) ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was th",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 37-40 Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "C",
+    "2": "A",
+    "3": "A",
+    "4": "B",
+    "5": "JGW1100536",
+    "6": "harbor drive",
+    "7": "pearce",
+    "8": "miss",
+    "9": "first name",
+    "10": "15/11/1983",
+    "11": "military",
+    "12": "educate",
+    "13": "personal information",
+    "14": "postings",
+    "15": "bullying",
+    "16": "research/ homework",
+    "17": "compete",
+    "18": "play games",
+    "19": "sing (songs)",
+    "20": "worksheets",
+    "21": "A",
+    "22": "C",
+    "23": "B",
+    "24": "chance to travel",
+    "25": "develop new skills",
+    "26": "learn about yourself",
+    "27": "study different subjects",
+    "28": "employment opportunities",
+    "29": "A",
+    "30": "D",
+    "31": "1768",
+    "32": "first (ever)",
+    "33": "warmth",
+    "34": "staircase group",
+    "35": "daughter",
+    "36": "1822",
+    "37": "inventor",
+    "38": "manuscript",
+    "39": "bicycle",
+    "40": "exhibit"
+  }
+}

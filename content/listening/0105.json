@@ -1,0 +1,455 @@
+{
+  "id": "0105",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0105.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40. Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "s 1-10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "omplete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "ete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "ow. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": "Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-13 Choose the correct letter A, B or C. Traffic Changes in Granford 11. Why are changes needed to traffic systems in Granford?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The number of traffic accidents has risen."
+        },
+        {
+          "letter": "B",
+          "text": "The amount of traffic on the roads has increased."
+        },
+        {
+          "letter": "C",
+          "text": "The types of vehicles on the roads have changed."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "In a survey, local residents particularly complained about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "dangerous driving by parents."
+        },
+        {
+          "letter": "B",
+          "text": "pollution from trucks and lorries."
+        },
+        {
+          "letter": "C",
+          "text": "inconvenience from parked cars."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "According to the speaker, one problem with the new regulations will be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "raising money to pay for them."
+        },
+        {
+          "letter": "B",
+          "text": "finding a way to make people follow them."
+        },
+        {
+          "letter": "C",
+          "text": "getting the support of the police."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 14",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 15",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 14-20 Label the map below. Write the correct letter A-I next to",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter A, B or C. 21. Why is Jack interested in investigating seed germination?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He may do a module on a related topic later on"
+        },
+        {
+          "letter": "B",
+          "text": "He wants to have a career in plant science"
+        },
+        {
+          "letter": "C",
+          "text": "He is thinking of choosing this topic for his dissertation"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Jack and Emma agree the main advantage of their present experiment is that it can be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "described very easily"
+        },
+        {
+          "letter": "B",
+          "text": "carried out inside the laboratory"
+        },
+        {
+          "letter": "C",
+          "text": "completed in the time available"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "What do they decide to check with their tutor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "whether their aim is appropriate"
+        },
+        {
+          "letter": "B",
+          "text": "whether anyone else has chosen this topic"
+        },
+        {
+          "letter": "C",
+          "text": "whether the assignment contributes to their final grade"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "They agree that Grave’s book on seed germination is disappointing because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it fails to cover recent advances in seed science"
+        },
+        {
+          "letter": "B",
+          "text": "the content is irrelevant for them"
+        },
+        {
+          "letter": "C",
+          "text": "its focus is very theoretical"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What does Jack say about the article on seed germination by Lee Hall?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the diagrams of plant development are useful"
+        },
+        {
+          "letter": "B",
+          "text": "the analysis of seed germination statistics is thorough"
+        },
+        {
+          "letter": "C",
+          "text": "the findings on seed germination after fires are surprising"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "flowChartCompletion",
+      "prompt": "Question 26",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "flowChartCompletion",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "flowChartCompletion",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "flowChartCompletion",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 26-30 Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "t only a few animals were suitable for city life e.g. • The (31) Because of its general adaptability • The pigeon – because walls of city buildings are similar to (32) In",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "The pigeon – because walls of city buildings are similar to (32) In fact, many urban animals are adapting with unusual (33) Recent research • Emilie Snell-Rood studied ur",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "(32) In fact, many urban animals are adapting with unusual (33) Recent research • Emilie Snell-Rood studied urbanized mammal specimens from museums in Minnesota o She fo",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ens from museums in Minnesota o She found the size of their (34) had increased o She suggests this may be due to the need to locate new sources of (35) and to deal with n",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ggests this may be due to the need to locate new sources of (35) and to deal with new dangers • Catarina Miranda focused on the (36) of urban and rural blackbirds. o She",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "to deal with new dangers • Catarina Miranda focused on the (36) of urban and rural blackbirds. o She found urban birds were often braver but were afraid of situations th",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "s were often braver but were afraid of situations that were (37) • Jonathan Atwell studies how animals respond to urban environments o He found that some animals respond",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "urban environments o He found that some animals respond to (38) by producing lower levels of hormones. • Sarah Partan’s team found urban squirrels use their (39) to help",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "ones. • Sarah Partan’s team found urban squirrels use their (39) to help them communicate Long- term possibilities Species of animals may develop which are unique to citi",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40. Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Int",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "choose",
+    "2": "private",
+    "3": "20%",
+    "4": "healthy",
+    "5": "bones",
+    "6": "lecture",
+    "7": "arretsa",
+    "8": "vegetarian",
+    "9": "market",
+    "10": "knife",
+    "11": "B",
+    "12": "C",
+    "13": "B",
+    "14": "E",
+    "15": "D",
+    "16": "B",
+    "17": "G",
+    "18": "C",
+    "19": "H",
+    "20": "I",
+    "21": "A",
+    "22": "C",
+    "23": "B",
+    "24": "C",
+    "25": "B",
+    "26": "G",
+    "27": "C",
+    "28": "H",
+    "29": "A",
+    "30": "E",
+    "31": "crow",
+    "32": "cliffs",
+    "33": "speed",
+    "34": "brains",
+    "35": "food",
+    "36": "behaviour",
+    "37": "new",
+    "38": "stress",
+    "39": "tails",
+    "40": "permanent"
+  }
+}

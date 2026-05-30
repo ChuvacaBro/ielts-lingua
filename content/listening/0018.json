@@ -1,0 +1,532 @@
+{
+  "id": "0018",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0018.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-8 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "MBER for each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "for each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "h answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "swer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": ". People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "ople interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-8 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-8"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "Questions 9 and 10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phon",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 9 and 10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phone numb",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. Refreshments will be served",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at the front counter"
+        },
+        {
+          "letter": "B",
+          "text": "in the lobby"
+        },
+        {
+          "letter": "C",
+          "text": "at the back of the hall"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Nick Noble advertised",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on the radio"
+        },
+        {
+          "letter": "B",
+          "text": "on a billboard"
+        },
+        {
+          "letter": "C",
+          "text": "in the newspaper"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The original number of founding members was about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "12"
+        },
+        {
+          "letter": "B",
+          "text": "20"
+        },
+        {
+          "letter": "C",
+          "text": "200"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The club provides activities primarily for reasonable fit",
+      "options": [
+        {
+          "letter": "A",
+          "text": "males up to 75"
+        },
+        {
+          "letter": "B",
+          "text": "females with young children"
+        },
+        {
+          "letter": "C",
+          "text": "males and females of any age"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "ite NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "O MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "E THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "N ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. 21. What is the main topic of assignment?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the historical development of television"
+        },
+        {
+          "letter": "B",
+          "text": "the development of new media"
+        },
+        {
+          "letter": "C",
+          "text": "the cultural future of television"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "According to Emilie which new technology will become the biggest competition for television?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "iPods"
+        },
+        {
+          "letter": "B",
+          "text": "mobile phones"
+        },
+        {
+          "letter": "C",
+          "text": "video games"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "According to the tutor the average length of a television become",
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 minutes"
+        },
+        {
+          "letter": "B",
+          "text": "4 to 5 minutes"
+        },
+        {
+          "letter": "C",
+          "text": "10 minutes"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What part of the library is going to be closed for one week?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the sociology section"
+        },
+        {
+          "letter": "B",
+          "text": "the media studies section"
+        },
+        {
+          "letter": "C",
+          "text": "the journals section"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Which body do they decide to complain to?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Premises committee"
+        },
+        {
+          "letter": "B",
+          "text": "Students’ Union"
+        },
+        {
+          "letter": "C",
+          "text": "the library"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "What will the reprographics office do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "send emails to your tutor"
+        },
+        {
+          "letter": "B",
+          "text": "send your dissertation to you"
+        },
+        {
+          "letter": "C",
+          "text": "send your dissertation to your tutor"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "shortAnswer",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 27. What does the tutor compare homemade videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "shortAnswer",
+      "prompt": "swer. 27. What does the tutor compare homemade videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where is the lecture? 30. When is the final date for the assi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "shortAnswer",
+      "prompt": "e videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where is the lecture? 30. When is the final date for the assignment? Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "shortAnswer",
+      "prompt": "Questions 27-30 Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 27. What does",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 31. Samuel Wells before Scholastic House opened in 1903. 32. There were original students. 33. Scholastic Hous",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "r. 31. Samuel Wells before Scholastic House opened in 1903. 32. There were original students. 33. Scholastic House became in 1963. 34. One of these students became a prom",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "tic House opened in 1903. 32. There were original students. 33. Scholastic House became in 1963. 34. One of these students became a prominent 35. Scholastic House experie",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "ere original students. 33. Scholastic House became in 1963. 34. One of these students became a prominent 35. Scholastic House experienced difficulties during 36. The coll",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "ecame in 1963. 34. One of these students became a prominent 35. Scholastic House experienced difficulties during 36. The college has a tradition of learning and 37. Since",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "minent 35. Scholastic House experienced difficulties during 36. The college has a tradition of learning and 37. Since 1972, controversial have been discussed.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-37 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. Samuel Wells before Schol",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "multipleChoice",
+      "stem": "-40 Choose the correct letter A, B or C. 38. The college discusses controversial issues because it",
+      "options": [
+        {
+          "letter": "A",
+          "text": "informs the debate"
+        },
+        {
+          "letter": "B",
+          "text": "reduces tension"
+        },
+        {
+          "letter": "C",
+          "text": "encourages argument"
+        }
+      ],
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "multipleChoice",
+      "stem": "The principal believes that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "science is less advanced than medicine"
+        },
+        {
+          "letter": "B",
+          "text": "philosophy is more useful than science"
+        },
+        {
+          "letter": "C",
+          "text": "science is ahead of philosophy"
+        }
+      ],
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "multipleChoice",
+      "stem": "The principal urges the students to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "accept what they are told"
+        },
+        {
+          "letter": "B",
+          "text": "ask questions at all times"
+        },
+        {
+          "letter": "C",
+          "text": "think only about their studies"
+        }
+      ],
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "sports",
+    "2": "energetic",
+    "3": "big room",
+    "4": "spencer",
+    "5": "hardworking",
+    "6": "engineer",
+    "7": "competitive, stressed",
+    "8": "bicycle",
+    "9": "07776872433",
+    "10": "28 september",
+    "11": "B",
+    "12": "A",
+    "13": "A",
+    "14": "C",
+    "15": "tramping",
+    "16": "walks",
+    "17": "organiser",
+    "18": "variable",
+    "19": "mystery",
+    "20": "chairman",
+    "21": "C",
+    "22": "C",
+    "23": "B",
+    "24": "B",
+    "25": "A",
+    "26": "C",
+    "27": "a podcast",
+    "28": "culture and society",
+    "29": "university theatre",
+    "30": "4 July",
+    "31": "died (in 1900)",
+    "32": "10",
+    "33": "co-educational",
+    "34": "teacher",
+    "35": "the great war",
+    "36": "tolerance",
+    "37": "topics/ issues",
+    "38": "A",
+    "39": "C",
+    "40": "B"
+  }
+}

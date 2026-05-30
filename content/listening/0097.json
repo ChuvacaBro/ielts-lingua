@@ -1,0 +1,527 @@
+{
+  "id": "0097",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0097.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose FOUR letters A-G.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-32 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "shortAnswer",
+      "prompt": "A NUMBER. How long has Caroline been waiting? Five minutes 1. What does Matt suggest they do? 2. In which month is the party going to take place? 3. Where is Niki? 4. Ho",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "shortAnswer",
+      "prompt": "en waiting? Five minutes 1. What does Matt suggest they do? 2. In which month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "shortAnswer",
+      "prompt": "hey do? 2. In which month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for? 5. What day of the week is the party going to be h",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "shortAnswer",
+      "prompt": "h month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for? 5. What day of the week is the party going to be held?",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "shortAnswer",
+      "prompt": "Questions 1-5 Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting?",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letter A, B or C. 6. The location of Nikki’s house on the map is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "B C 7. The house has A a bridge over the river"
+        },
+        {
+          "letter": "B",
+          "text": "a large swimming pool"
+        },
+        {
+          "letter": "C",
+          "text": "gardens leading down to the river"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 7"
+    },
+    {
+      "number": 8,
+      "type": "multipleChoice",
+      "stem": "The address is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "93 Wester road"
+        },
+        {
+          "letter": "B",
+          "text": "39 West road"
+        },
+        {
+          "letter": "C",
+          "text": "93 West road"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "The telephone number is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "477113"
+        },
+        {
+          "letter": "B",
+          "text": "447130"
+        },
+        {
+          "letter": "C",
+          "text": "477130"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "Each person has to give",
+      "options": [
+        {
+          "letter": "A",
+          "text": "ten pounds"
+        },
+        {
+          "letter": "B",
+          "text": "refreshments"
+        },
+        {
+          "letter": "C",
+          "text": "a barbecue"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter A, B or C. 11. The food festival takes place",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at the beginning of April"
+        },
+        {
+          "letter": "B",
+          "text": "at the end of April"
+        },
+        {
+          "letter": "C",
+          "text": "in the middle of March"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The East Asian section will feature cuisine from",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vietnam and Thailand"
+        },
+        {
+          "letter": "B",
+          "text": "Japan and China"
+        },
+        {
+          "letter": "C",
+          "text": "France and Italy"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The Latin American section will have",
+      "options": [
+        {
+          "letter": "A",
+          "text": "South American food"
+        },
+        {
+          "letter": "B",
+          "text": "South Asian cuisine"
+        },
+        {
+          "letter": "C",
+          "text": "food from Germany"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Besides food tasting, there will also be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live music and dancing"
+        },
+        {
+          "letter": "B",
+          "text": "stores selling their products"
+        },
+        {
+          "letter": "C",
+          "text": "events that show people how to cook"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "For a list of events, people can",
+      "options": [
+        {
+          "letter": "A",
+          "text": "call the information centre"
+        },
+        {
+          "letter": "B",
+          "text": "look them up on the internet"
+        },
+        {
+          "letter": "C",
+          "text": "pick up a brochure"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "The speaker highly recommends that participants",
+      "options": [
+        {
+          "letter": "A",
+          "text": "practice their cooking techniques"
+        },
+        {
+          "letter": "B",
+          "text": "buy their aprons beforehand"
+        },
+        {
+          "letter": "C",
+          "text": "register in advance for workshops"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 21-24 Choose FOUR letters A-G. Which FOUR of the following are required of student teachers? A weekly journal B s",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letter A, B or C. 25. Who has to sign the agreement form?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the student teacher"
+        },
+        {
+          "letter": "B",
+          "text": "the supervising teacher"
+        },
+        {
+          "letter": "C",
+          "text": "the advisor"
+        }
+      ],
+      "groupId": "q25-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Write NO MORE THAN THREE WORDS for each answer. First week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "EE WORDS for each answer. First week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "irst week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "urth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26-30 Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week: (26) due Fourth we",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-32 Choose the correct letter A, B or C. 31. According to the speaker, which of the following models emerged first?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "equity based crowdfunding"
+        },
+        {
+          "letter": "B",
+          "text": "micro lending"
+        },
+        {
+          "letter": "C",
+          "text": "fan based crowdfunding"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "The fan based model offers",
+      "options": [
+        {
+          "letter": "A",
+          "text": "shares"
+        },
+        {
+          "letter": "B",
+          "text": "a financial return"
+        },
+        {
+          "letter": "C",
+          "text": "a reward"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "rowdfunding website • Each fundraising initiative has a set (33) limit • For a film people could expect anything from free tickets to having their name listed in the (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "ything from free tickets to having their name listed in the (34) Crowdfunding opportunities • Companies can receive small donations from a(n) (35) of people • Partner com",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "rtunities • Companies can receive small donations from a(n) (35) of people • Partner companies can help as part of their own fundraising events • You can get (36) from su",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "help as part of their own fundraising events • You can get (36) from supporters during the development phase • Crowdfunding will increase (37) of the product and potenti",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "s during the development phase • Crowdfunding will increase (37) of the product and potentially improve sales Crowdfunding dangers • You must reach your target or donatio",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "nding dangers • You must reach your target or donations are (38) • It can take a lot of time to fulfil the promises you have made to fans • Don’t forget to consider the c",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "ou have made to fans • Don’t forget to consider the cost of (39) when working out profits • Raising awareness is hard if your company is (40) or if you don’t have many so",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 33-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The pr",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-40"
+    }
+  ],
+  "answerKey": {
+    "1": "have a coffee",
+    "2": "september",
+    "3": "on holiday",
+    "4": "two weeks",
+    "5": "saturday",
+    "6": "A",
+    "7": "B",
+    "8": "C",
+    "9": "C",
+    "10": "A",
+    "11": "A",
+    "12": "B",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "C",
+    "17": "learn cooking",
+    "18": "children",
+    "19": "forever",
+    "20": "healthy eating",
+    "21": "A",
+    "22": "B",
+    "23": "D",
+    "24": "F",
+    "25": "B",
+    "26": "term paper topic",
+    "27": "first evaluation",
+    "28": "student teacher conference",
+    "29": "term paper",
+    "30": "semester review",
+    "31": "B",
+    "32": "C",
+    "33": "time",
+    "34": "film credits",
+    "35": "large number",
+    "36": "feedback",
+    "37": "awareness",
+    "38": "cancelled",
+    "39": "rewards",
+    "40": "new"
+  }
+}

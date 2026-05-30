@@ -1,0 +1,450 @@
+{
+  "id": "0008",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0008.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name: (1) Sex: female Nationality: Japanese Passport number: (2) Age: 28 years Present address: Room 21C, Willow Col",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "ame: (1) Sex: female Nationality: Japanese Passport number: (2) Age: 28 years Present address: Room 21C, Willow College Length of homestay: approx. (3) Couse enrolled in:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "dress: Room 21C, Willow College Length of homestay: approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "College Length of homestay: approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": ": approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "shortAnswer",
+      "prompt": "0 Answer the questions below. Write NO MORE THAN TWO WORDS. 7. What does the student particularly like to eat? 8. What sport does the student play? 9. What mode of transp",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "shortAnswer",
+      "prompt": "O WORDS. 7. What does the student particularly like to eat? 8. What sport does the student play? 9. What mode of transport does the student prefer? 10. When will the stud",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "shortAnswer",
+      "prompt": "ticularly like to eat? 8. What sport does the student play? 9. What mode of transport does the student prefer? 10. When will the student find out her homestay address? Pa",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "shortAnswer",
+      "prompt": "Questions 7-10 Answer the questions below. Write NO MORE THAN TWO WORDS. 7. What does the student particularly like to eat",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. What kind of tour is Sally leading?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a bus tour"
+        },
+        {
+          "letter": "B",
+          "text": "a train tour"
+        },
+        {
+          "letter": "C",
+          "text": "a walking tour"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The original buildings on the site were",
+      "options": [
+        {
+          "letter": "A",
+          "text": "houses"
+        },
+        {
+          "letter": "B",
+          "text": "industrial buildings"
+        },
+        {
+          "letter": "C",
+          "text": "shops"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The local residents wanted to use the site for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "leisure"
+        },
+        {
+          "letter": "B",
+          "text": "apartment blocks"
+        },
+        {
+          "letter": "C",
+          "text": "a sports centre"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The Tower is at the centre of the",
+      "options": [
+        {
+          "letter": "A",
+          "text": "nature reserve"
+        },
+        {
+          "letter": "B",
+          "text": "formal gardens"
+        },
+        {
+          "letter": "C",
+          "text": "Bicentennial Park"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "s 15-17 Label the plan below. Write NO MORE THAN TWO WORDS. (15) (16) (17)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "17 Label the plan below. Write NO MORE THAN TWO WORDS. (15) (16) (17)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 15-17 Label the plan below. Write NO MORE THAN TWO WORDS. (15) (16) (17)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "-20 Complete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "omplete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 18-20 Complete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 21 and 22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The prese",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 21 and 22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The presentation",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q23-26"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q23-26"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q23-26"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 23-26 What do the students decide about each topic for the geography presentation? A They will definitely include",
+      "groupId": "q23-26"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "-30 Complete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "omplete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "te the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 27-30 Complete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. Monosodium Glutamate (MSG) 31. The speaker says the main topic of the lecture is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the history of monosodium glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "the way monosodium glutamate works"
+        },
+        {
+          "letter": "C",
+          "text": "where monosodium glutamate is used"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "In 1908, scientists in Japan",
+      "options": [
+        {
+          "letter": "A",
+          "text": "made monosodium glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "began using kombu"
+        },
+        {
+          "letter": "C",
+          "text": "identified glutamate"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "What change occurred in the manufacture of glutamate in 1956?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It began to be manufactured on a large scale"
+        },
+        {
+          "letter": "B",
+          "text": "The Japanese began extracting it from natural sources"
+        },
+        {
+          "letter": "C",
+          "text": "It became much more expensive to produce"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "(MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o (34) (9.6%) • Glutamate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "• Glutamate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in many different parts of the world. • In 1908 Kikunae Ikeda discovered",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "ate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in many different parts of the world. • In 1908 Kikunae Ikeda discovered a (37) •",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "nt parts of the world. • In 1908 Kikunae Ikeda discovered a (37) • Our ability to detect glutamate makes sense because it is so (38) naturally. • John Prescott suggests t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "ur ability to detect glutamate makes sense because it is so (38) naturally. • John Prescott suggests that: o Sweetness tells us that a food contains carbohydrates. o (39)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "o Sweetness tells us that a food contains carbohydrates. o (39) tells us that a food contains toxins. o Saltiness tells us that a food contains (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 34-40 Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutama",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Keiko",
+    "2": "JO6337",
+    "3": "4 months",
+    "4": "English (studies)",
+    "5": "(young) children",
+    "6": "pets",
+    "7": "seafood",
+    "8": "tennis",
+    "9": "trains",
+    "10": "that afternoon",
+    "11": "C",
+    "12": "B",
+    "13": "A",
+    "14": "B",
+    "15": "car park",
+    "16": "rose garden",
+    "17": "cafe",
+    "18": "cycling",
+    "19": "biology lesson",
+    "20": "viewing shelter",
+    "21": "5",
+    "22": "assessed",
+    "23": "A",
+    "24": "B",
+    "25": "A",
+    "26": "C",
+    "27": "media room",
+    "28": "resources room",
+    "29": "embassy",
+    "30": "statistics/ stat",
+    "31": "B",
+    "32": "C",
+    "33": "A",
+    "34": "water",
+    "35": "meat",
+    "36": "cheese",
+    "37": "fifth taste",
+    "38": "common",
+    "39": "bitterness",
+    "40": "minerals"
+  }
+}

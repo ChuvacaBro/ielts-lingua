@@ -1,0 +1,397 @@
+{
+  "id": "0012",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0012.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Match the creatures to their behavior. Write the correct letter A, B, C or D next to questions 11-15.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Label the diagrams below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "for: birthday party Equipment hire: Day and date of event: (1) November Number attending event: (2) Rental: 5 dozens dinner plates, bowls 5 dozens sets of (3) and 40 pla",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Day and date of event: (1) November Number attending event: (2) Rental: 5 dozens dinner plates, bowls 5 dozens sets of (3) and 40 plastic (4) 4 dozen each small/ medium g",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "(2) Rental: 5 dozens dinner plates, bowls 5 dozens sets of (3) and 40 plastic (4) 4 dozen each small/ medium glasses Six (5) Costings: Weekend package: 5pm Friday – 10am",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "ns dinner plates, bowls 5 dozens sets of (3) and 40 plastic (4) 4 dozen each small/ medium glasses Six (5) Costings: Weekend package: 5pm Friday – 10am Monday: $1600 + ta",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "of event: (1) November Number attending event: (2) Rental: 5 dozens dinner plates, bowls 5 dozens sets of (3) and 40 plastic (4) 4 dozen each small/ medium glasses Six (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "ngs: Weekend package: 5pm Friday – 10am Monday: $1600 + tax (6) package: 5pm Saturday – 10am Monday: $1350 + tax (7) $50 (within 10Km) Breakage allowance: $60 Replacement",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "+ tax (6) package: 5pm Saturday – 10am Monday: $1350 + tax (7) $50 (within 10Km) Breakage allowance: $60 Replacement costs: plates, bowls – $3.55 per item Small glasses",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ement costs: plates, bowls – $3.55 per item Small glasses – (8) per item Medium glasses – $4.40 per item Customer details: Full name: (9) Address: 28B, sandstone close, m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "edium glasses – $4.40 per item Customer details: Full name: (9) Address: 28B, sandstone close, martinsborough Contact number: (10) 084 Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Harry’s Hire Compa",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 11-15 Match the creatures to their behavior. Write the correct letter A, B, C or D next to",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "shortAnswer",
+      "prompt": "Questions 16 and 17 Answer the questions below. Write ONE WORD ONLY for each answer. 16. What is the guano from the cave",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q16-17"
+    },
+    {
+      "number": 17,
+      "type": "shortAnswer",
+      "prompt": "Questions 16 and 17 Answer the questions below. Write ONE WORD ONLY for each answer. 16. What is the guano from the caves used",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q16-17"
+    },
+    {
+      "number": 18,
+      "type": "sentenceCompletion",
+      "prompt": "ORE THAN TWO WORDS for each answer. In the cave you should: 18. carry a 19. wear a and a hat. 20. keep to the at all times. Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "sentenceCompletion",
+      "prompt": "WORDS for each answer. In the cave you should: 18. carry a 19. wear a and a hat. 20. keep to the at all times. Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. In the cave you should: 18. car",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-23 Choose the correct letter A, B or C. 21. Mary has been called in for a meeting because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "she has been working too hard"
+        },
+        {
+          "letter": "B",
+          "text": "she has offered to lead an activity"
+        },
+        {
+          "letter": "C",
+          "text": "she is going on a training programme"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The most important part of planning a field trip is:",
+      "options": [
+        {
+          "letter": "A",
+          "text": "to organize activities for everyone"
+        },
+        {
+          "letter": "B",
+          "text": "to know about the official rules for field trips"
+        },
+        {
+          "letter": "C",
+          "text": "to think about and plan for problems"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Leaders must develop",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a tailored trip plan"
+        },
+        {
+          "letter": "B",
+          "text": "an adventure activities plan"
+        },
+        {
+          "letter": "C",
+          "text": "a hazard management plan"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 24 and 25 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 24. Mary’s plan must con",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 25,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 24 and 25 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 24. Mary’s plan must consider s",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "eld trip plan Weather: • Everyone needs warm clothing and a (26) Activities: • Hiking – first aid kit, map and a (27) • Avoid routes where an avalanche, mudslide or (28)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "and a (26) Activities: • Hiking – first aid kit, map and a (27) • Avoid routes where an avalanche, mudslide or (28) is possible Group members • Think about the fitness a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "p and a (27) • Avoid routes where an avalanche, mudslide or (28) is possible Group members • Think about the fitness and (29) of the group • Do not allow (30) to be respo",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "28) is possible Group members • Think about the fitness and (29) of the group • Do not allow (30) to be responsible for transport Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Field trip plan Weather: • Everyone",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "diagramLabel",
+      "prompt": "agrams below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "diagramLabel",
+      "prompt": "s below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "diagramLabel",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "diagramLabel",
+      "prompt": "Questions 31-34 Label the diagrams below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "summaryCompletion",
+      "prompt": "plants – Advantages, disadvantages and factors Hearing aids (35) normal sounds, so they are good for mild hearing loss but not for severe loss. Cochlear implants help som",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "do not work so well for everyone. The brain gets different (36) from an implant, so users must relearn how to hear. Cochlear implants are not a cure. Users need ongoing",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "ear implants are not a cure. Users need ongoing training in (37) , lip-reading and sign language. The surgery can damage nerves. It may also destroy any (38) ; in such ca",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "age. The surgery can damage nerves. It may also destroy any (38) ; in such cases, those users cannot go back to using a hearing aid. The most important factor for selecti",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "g aid. The most important factor for selecting users is the (39) of their deafness and also age and previous speaking ability. Finally, the condition of the nerve cells i",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 35-40 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Cochlear implants – Advantages, d",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Saturday 25",
+    "2": "55",
+    "3": "knives/ forks",
+    "4": "(garden) chairs",
+    "5": "ice buckets",
+    "6": "same day",
+    "7": "home delivery",
+    "8": "$3.50",
+    "9": "Susan Millins",
+    "10": "3987695",
+    "11": "C",
+    "12": "D",
+    "13": "B",
+    "14": "B",
+    "15": "A",
+    "16": "fertilizer",
+    "17": "soup",
+    "18": "light/ torch",
+    "19": "jacket",
+    "20": "trails/ path",
+    "21": "B",
+    "22": "C",
+    "23": "C",
+    "24": "factors",
+    "25": "events",
+    "26": "raincoat",
+    "27": "compass",
+    "28": "flash flood",
+    "29": "experience",
+    "30": "student drivers",
+    "31": "ear drum",
+    "32": "auditory nerve",
+    "33": "speech processor",
+    "34": "receiver",
+    "35": "amplify",
+    "36": "sound signals",
+    "37": "speech therapy",
+    "38": "natural hearing",
+    "39": "duration",
+    "40": "disease"
+  }
+}

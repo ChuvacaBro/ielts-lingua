@@ -1,0 +1,426 @@
+{
+  "id": "0163",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0163.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": ". MINTONS CAR MART Customer Enquiry Make: Lida Engine size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchan",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "quiry Make: Lida Engine size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "ne size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "referred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact numb",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Cont",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Na",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "e? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "formCompletion",
+      "prompt": "le: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year: 1994 Mileage: maximum 70,000 Color: metall",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "formCompletion",
+      "prompt": "r (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year: 1994 Mileage: maximum 70,000 Color: metallic grey Condition: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "formCompletion",
+      "prompt": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Cu",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the stud",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the students he",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "may be slowed down by – postal problems – delays in sending (13) • University tries to put international applicants in touch with a student From the same (14) who can giv",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "ernational applicants in touch with a student From the same (14) who can give information and advice – on academic atmosphere leisure facilities – English (15) and food w",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 13-15 Choose the table below. Write NO MORE THAN ONE WORD for each answer. • When application is received, confir",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter, A, B or C. 16. The speaker says international students at UK universities will be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offered accommodation with local families."
+        },
+        {
+          "letter": "B",
+          "text": "given special help by their lecturers."
+        },
+        {
+          "letter": "C",
+          "text": "expected to work independently."
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about university accommodation on campus?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Most places are given to undergraduates."
+        },
+        {
+          "letter": "B",
+          "text": "No places are available for postgraduates with families."
+        },
+        {
+          "letter": "C",
+          "text": "A limited number of places are available for new postgraduates."
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "Students wishing to live off-campus should apply",
+      "options": [
+        {
+          "letter": "A",
+          "text": "several months in advance."
+        },
+        {
+          "letter": "B",
+          "text": "two or three weeks in advance."
+        },
+        {
+          "letter": "C",
+          "text": "at the beginning of term."
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "The university accommodation officer will",
+      "options": [
+        {
+          "letter": "A",
+          "text": "send a list of agents for students to contact."
+        },
+        {
+          "letter": "B",
+          "text": "contact accommodation agencies for students."
+        },
+        {
+          "letter": "C",
+          "text": "ensure that students have suitable accommodation."
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "With regard to their English, the speaker advises the students to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "tell their lecturers if they have problems understanding."
+        },
+        {
+          "letter": "B",
+          "text": "have private English lessons when they arrive."
+        },
+        {
+          "letter": "C",
+          "text": "practise their spoken English before they arrive."
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "e: Communication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "nication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "ents on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "e following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "lowing aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 21-30 Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Cours",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING 31. By 2008, carbon dioxide emissions need to be lower than in 1990. 32. Recycling saves energy and reduces em",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "08, carbon dioxide emissions need to be lower than in 1990. 32. Recycling saves energy and reduces emissions from landfill sites and 33. People say that one problem is a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "saves energy and reduces emissions from landfill sites and 33. People say that one problem is a lack of ‘ ‘ sites for household waste. 34. Glass designed to be utilised",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "hat one problem is a lack of ‘ ‘ sites for household waste. 34. Glass designed to be utilised for cannot be recycled with other types of glass. 35. In the UK, tons of gla",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-35 Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 36-40 Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "1.4 litres",
+    "2": "automatic",
+    "3": "light",
+    "4": "credit",
+    "5": "Harries",
+    "6": "doctor",
+    "7": "Alton",
+    "8": "messages",
+    "9": "lion",
+    "10": "reasonable",
+    "11": "C",
+    "12": "E",
+    "13": "references",
+    "14": "country",
+    "15": "weather",
+    "16": "C",
+    "17": "C",
+    "18": "A",
+    "19": "B",
+    "20": "C",
+    "21": "5 May",
+    "22": "16 July",
+    "23": "was clear",
+    "24": "course outline",
+    "25": "2 half",
+    "26": "teaching",
+    "27": "group discussion",
+    "28": "handouts",
+    "29": "written work",
+    "30": "student support",
+    "31": "12.5%",
+    "32": "incineration plants",
+    "33": "drop-off",
+    "34": "cooking",
+    "35": "500,000",
+    "36": "roads",
+    "37": "soil conditioner",
+    "38": "containers",
+    "39": "pencils",
+    "40": "business cards"
+  }
+}

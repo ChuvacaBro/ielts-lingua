@@ -1,0 +1,483 @@
+{
+  "id": "0046",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0046.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "e the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "e table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "ble below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "w. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-10 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B or C. 11. According to the speaker, why is it a good time for D-I-Y painting?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "there are better products available now"
+        },
+        {
+          "letter": "B",
+          "text": "materials cost less than they used to"
+        },
+        {
+          "letter": "C",
+          "text": "people have more free time than before"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What happened in 2009 in the UK?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a record volume of paint was sold"
+        },
+        {
+          "letter": "B",
+          "text": "a large amount of paint was wasted"
+        },
+        {
+          "letter": "C",
+          "text": "there was a major project to repaint public buildings"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about paint quantity?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is not necessary to have exact room measurements"
+        },
+        {
+          "letter": "B",
+          "text": "it is better to overestimate than to underestimate"
+        },
+        {
+          "letter": "C",
+          "text": "an automatic calculator can be downloaded from the internet"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "What does Community RePaint do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it paints people’s houses without payment"
+        },
+        {
+          "letter": "B",
+          "text": "it collects unwanted paint and gives it away"
+        },
+        {
+          "letter": "C",
+          "text": "it sells unused paint and donates the money to charity"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 15 and 16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint? A do not buy ex",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 15 and 16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint? A do not buy expensive",
+      "groupId": "q15-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation? A replace",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation? A replace any lo",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting? A put a heat",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting? A put a heater in t",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter A, B or C. 21. Why is Matthew considering a student work placement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he was informed about an interesting vacancy"
+        },
+        {
+          "letter": "B",
+          "text": "he needs some extra income"
+        },
+        {
+          "letter": "C",
+          "text": "he want to try out a career option"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Which part of the application process did Linda find most interesting?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the psychometric test"
+        },
+        {
+          "letter": "B",
+          "text": "the group activity"
+        },
+        {
+          "letter": "C",
+          "text": "the individual task"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "During her work placement, Linda helped find ways to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "speed up car assembly"
+        },
+        {
+          "letter": "B",
+          "text": "process waste materials"
+        },
+        {
+          "letter": "C",
+          "text": "calculate the cost of design faults"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "Why did Linda find her work placement tiring?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "she was not used to full time work"
+        },
+        {
+          "letter": "B",
+          "text": "the working hours were very long"
+        },
+        {
+          "letter": "C",
+          "text": "she felt she had to prove her worth"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "What did Linda’s employers give her formal feedback on?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "engineering ability"
+        },
+        {
+          "letter": "B",
+          "text": "organizational skills"
+        },
+        {
+          "letter": "C",
+          "text": "team working"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "What was the main benefit of Linda’s work placement?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "improved academic skills"
+        },
+        {
+          "letter": "B",
+          "text": "an offer of work"
+        },
+        {
+          "letter": "C",
+          "text": "the opportunity to use new software"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 27-30 What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and writ",
+      "groupId": "q27-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "hides – two types Parchment Sheep skin: white in color and (31) Greasy – writing cannot be erased so often used for (32) Vellum Calf skin: most popular for prestigious w",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "nd (31) Greasy – writing cannot be erased so often used for (32) Vellum Calf skin: most popular for prestigious work because you can get (33) lettering Preparation of hid",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "skin: most popular for prestigious work because you can get (33) lettering Preparation of hides: • Treated in berries of lime – where this was not available skins were (3",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "n berries of lime – where this was not available skins were (34) (removed hair) • Stretched tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "hair) • Stretched tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct color Genetic testing – finding origins Previously – analysed handwriting",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct color Genetic testing – finding origins Previously – analysed handwriting and (37) used by",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ing – finding origins Previously – analysed handwriting and (37) used by the writer Now – using genetic data from ‘known manuscripts’ to create a (38) Uses of new data Gi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "w – using genetic data from ‘known manuscripts’ to create a (38) Uses of new data Gives information on individual books Shows the (39) of the book industry Helps define (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "of new data Gives information on individual books Shows the (39) of the book industry Helps define (40) in medieval period",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "moonfleet",
+    "2": "fields",
+    "3": "shops",
+    "4": "summerhouses",
+    "5": "river",
+    "6": "dinning",
+    "7": "sea",
+    "8": "garden",
+    "9": "parking",
+    "10": "agent",
+    "11": "A",
+    "12": "B",
+    "13": "C",
+    "14": "B",
+    "15": "B",
+    "16": "D",
+    "17": "A",
+    "18": "C",
+    "19": "B",
+    "20": "E",
+    "21": "A",
+    "22": "B",
+    "23": "A",
+    "24": "C",
+    "25": "B",
+    "26": "B",
+    "27": "B",
+    "28": "A",
+    "29": "D",
+    "30": "C",
+    "31": "(very) thin",
+    "32": "court documents",
+    "33": "high-quality",
+    "34": "buried",
+    "35": "thickness",
+    "36": "bleached",
+    "37": "dialect",
+    "38": "baseline",
+    "39": "evolution",
+    "40": "trade routes"
+  }
+}

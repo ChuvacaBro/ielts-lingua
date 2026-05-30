@@ -1,0 +1,459 @@
+{
+  "id": "0051",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0051.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-7 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Answer the questions. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "Name: Andrew Peterson Educational qualification: Degree in (1) Previous job: (2) Hobbies: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "rson Educational qualification: Degree in (1) Previous job: (2) Hobbies: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "nal qualification: Degree in (1) Previous job: (2) Hobbies: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": ": Degree in (1) Previous job: (2) Hobbies: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "job: (2) Hobbies: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "s: (3) Main skills: (4) Expected salary ($): (5) Can start? (6) Other? (7)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 7,
+      "type": "formCompletion",
+      "prompt": "Questions 1-7 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Client Details Name: Andrew Peterson Educ",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "ich THREE qualities do employers most value in their staff? (8) (9) (10) A Problem solving skills B Diligence C Experience D Flexible hours E Independent thinking F Good",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "THREE qualities do employers most value in their staff? (8) (9) (10) A Problem solving skills B Diligence C Experience D Flexible hours E Independent thinking F Good pers",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 8-10 Choose THREE letters from A-G. Which THREE qualities do employers most value in their staff? (8) (9) (10) A",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Answer the questions. Write ONE WORD ONLY for each answer. 11. What does the centre provide first? 12. What is important to control? 13. What does the centre assess? 14.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "LY for each answer. 11. What does the centre provide first? 12. What is important to control? 13. What does the centre assess? 14. How often is the exercise schedule revi",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "the centre provide first? 12. What is important to control? 13. What does the centre assess? 14. How often is the exercise schedule reviewed? 15. How many exercise progra",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "t is important to control? 13. What does the centre assess? 14. How often is the exercise schedule reviewed? 15. How many exercise programs are available?",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 11-15 Answer the questions. Write ONE WORD ONLY for each answer. 11. What does the centre provide first? 12. What",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 Write the correct letter A-G next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter A, B or C. 21. The position needs someone good at",
+      "options": [
+        {
+          "letter": "A",
+          "text": "computers"
+        },
+        {
+          "letter": "B",
+          "text": "dealing with people"
+        },
+        {
+          "letter": "C",
+          "text": "arts"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The directors will select someone from the faculty of",
+      "options": [
+        {
+          "letter": "A",
+          "text": "arts"
+        },
+        {
+          "letter": "B",
+          "text": "computing"
+        },
+        {
+          "letter": "C",
+          "text": "business"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The position will require the person to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "work long hours"
+        },
+        {
+          "letter": "B",
+          "text": "train others"
+        },
+        {
+          "letter": "C",
+          "text": "do weekend work"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "The position will come with a",
+      "options": [
+        {
+          "letter": "A",
+          "text": "car"
+        },
+        {
+          "letter": "B",
+          "text": "parking space"
+        },
+        {
+          "letter": "C",
+          "text": "much better salary"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The best aspect of the job is it",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gives more responsibility"
+        },
+        {
+          "letter": "B",
+          "text": "comes with a private office"
+        },
+        {
+          "letter": "C",
+          "text": "is a step to higher positions"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 26-30 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (26) (27) (28) (29",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. 31. Caves are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "often ignored"
+        },
+        {
+          "letter": "B",
+          "text": "mostly in remote areas"
+        },
+        {
+          "letter": "C",
+          "text": "often difficult to explore"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "People who explore caves",
+      "options": [
+        {
+          "letter": "A",
+          "text": "mostly need to know about cartography"
+        },
+        {
+          "letter": "B",
+          "text": "enjoy overcoming the difficulties"
+        },
+        {
+          "letter": "C",
+          "text": "usually know about cave sciences"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "China has",
+      "options": [
+        {
+          "letter": "A",
+          "text": "probably the most undiscovered caves"
+        },
+        {
+          "letter": "B",
+          "text": "a growing number of cave explorers"
+        },
+        {
+          "letter": "C",
+          "text": "some of the best documented caves"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "notes below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "s below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "tableCompletion",
+      "prompt": "RE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "tableCompletion",
+      "prompt": "Questions 34-40 Complete the table and notes below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "engineering",
+    "2": "car salesman",
+    "3": "chess",
+    "4": "electronics",
+    "5": "1200",
+    "6": "immediately",
+    "7": "Spanish",
+    "8": "A",
+    "9": "E",
+    "10": "F",
+    "11": "consultations",
+    "12": "diet",
+    "13": "fitness",
+    "14": "monthly",
+    "15": "three",
+    "16": "C",
+    "17": "A",
+    "18": "E",
+    "19": "F",
+    "20": "B",
+    "21": "B",
+    "22": "C",
+    "23": "A",
+    "24": "B",
+    "25": "C",
+    "26": "7",
+    "27": "MBP",
+    "28": "not stable",
+    "29": "bad attitude",
+    "30": "health problems",
+    "31": "C",
+    "32": "C",
+    "33": "A",
+    "34": "limestone",
+    "35": "Iceland",
+    "36": "short",
+    "37": "calcium",
+    "38": "flowstone",
+    "39": "1986",
+    "40": "bottom up"
+  }
+}

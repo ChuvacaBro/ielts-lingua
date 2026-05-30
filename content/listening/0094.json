@@ -1,0 +1,414 @@
+{
+  "id": "0094",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-20 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Where did a majority of the nationalities listed below settle?",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "Question 1",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "Question 2",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "Question 3",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "Question 4",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Question 5",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Questions 1-6 Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next t",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "shortAnswer",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 7. How much does it cost to leave your car in the car park for four hours? 8. What is the minimum age for chil",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "shortAnswer",
+      "prompt": "s it cost to leave your car in the car park for four hours? 8. What is the minimum age for children at the children’s play centre? 9. Which level is the food court locate",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "shortAnswer",
+      "prompt": "the minimum age for children at the children’s play centre? 9. Which level is the food court located on? 10. What is located on the top floor of the building? Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "shortAnswer",
+      "prompt": "Questions 7-10 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 7. How much does",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "noteCompletion",
+      "prompt": "r each answer. The agency • Contented Homes agency began in (11) • Agency does most work using the (12) How the system operates • Minimum time period for housesitting is",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 12,
+      "type": "noteCompletion",
+      "prompt": "omes agency began in (11) • Agency does most work using the (12) How the system operates • Minimum time period for housesitting is (13) • Housesitters do not pay (14) • H",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 13,
+      "type": "noteCompletion",
+      "prompt": "e system operates • Minimum time period for housesitting is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) tha",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 14,
+      "type": "noteCompletion",
+      "prompt": "e period for housesitting is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "g is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of having housesitters • Pr",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "owners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of having housesitters • Prevent (17) • Take care of your (18) and Charges",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 17,
+      "type": "noteCompletion",
+      "prompt": "normal tenants Advantages of having housesitters • Prevent (17) • Take care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "s of having housesitters • Prevent (17) • Take care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends that homeowners organize (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": "care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends that homeowners organize (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Questions 11-20 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Conte",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 21-25 Where did a majority of the nationalities listed below settle? Choose your answers from the list and write",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 26. Most migrants chose where to live based on",
+      "options": [
+        {
+          "letter": "A",
+          "text": "employment"
+        },
+        {
+          "letter": "B",
+          "text": "community"
+        },
+        {
+          "letter": "C",
+          "text": "real estate"
+        }
+      ],
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "There is a trend for people born in Australia to leave Sydney",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because it is becoming too busy and crowded"
+        },
+        {
+          "letter": "B",
+          "text": "due to the inadequate infrastructure"
+        },
+        {
+          "letter": "C",
+          "text": "so they can have more money in retirement"
+        }
+      ],
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "Among people who recently migrated to Australia, the percentage who settled in Sydney and Melbourne was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "40%"
+        },
+        {
+          "letter": "B",
+          "text": "50%"
+        },
+        {
+          "letter": "C",
+          "text": "60%"
+        }
+      ],
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "The government is considering encouraging migrants to settle in other areas by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "offering tax incentive to employers"
+        },
+        {
+          "letter": "B",
+          "text": "making it easier for farmers to migrate"
+        },
+        {
+          "letter": "C",
+          "text": "employing people outside Sydney and Melbourne"
+        }
+      ],
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "The number of migrants living in Sydney is likely to be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "higher than the statistics indicate"
+        },
+        {
+          "letter": "B",
+          "text": "lower than the statistics indicate"
+        },
+        {
+          "letter": "C",
+          "text": "the same as the statistics indicate"
+        }
+      ],
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-37 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "Question 38",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "Question 39",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 38-40 Complete the summary below. Choose your answers from the box and write correct letter A-G next to",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "A",
+    "2": "H",
+    "3": "I",
+    "4": "G",
+    "5": "D",
+    "6": "F",
+    "7": "$6",
+    "8": "18 months",
+    "9": "5",
+    "10": "cinema",
+    "11": "1989",
+    "12": "internet",
+    "13": "one month",
+    "14": "rent",
+    "15": "references",
+    "16": "rights",
+    "17": "theft/ thieves",
+    "18": "pets, gardens",
+    "19": "$375",
+    "20": "(home) insurance",
+    "21": "C",
+    "22": "B",
+    "23": "B",
+    "24": "C",
+    "25": "B",
+    "26": "B",
+    "27": "C",
+    "28": "C",
+    "29": "A",
+    "30": "A",
+    "31": "4 months",
+    "32": "bleach",
+    "33": "water/ irrigation",
+    "34": "skin cancer",
+    "35": "whale oil",
+    "36": "cheaper/ less expensive",
+    "37": "(air) pollution",
+    "38": "C",
+    "39": "E",
+    "40": "A"
+  }
+}

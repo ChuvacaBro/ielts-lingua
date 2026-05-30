@@ -1,0 +1,423 @@
+{
+  "id": "0098",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0098.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-18 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Question 31 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-4 Choose the correct letter A, B or C. 1. Which is the first recommended transportation by the man?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "taxi"
+        },
+        {
+          "letter": "B",
+          "text": "underground"
+        },
+        {
+          "letter": "C",
+          "text": "coach"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "What is the reason of the girl for not hiring a private car?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "bad weather"
+        },
+        {
+          "letter": "B",
+          "text": "having lost her driving licence"
+        },
+        {
+          "letter": "C",
+          "text": "too expensive"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What is the minimum coach fare?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£12"
+        },
+        {
+          "letter": "B",
+          "text": "£14"
+        },
+        {
+          "letter": "C",
+          "text": "£16"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "The disadvantage of taking a coach from airport is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unsafe"
+        },
+        {
+          "letter": "B",
+          "text": "too many people"
+        },
+        {
+          "letter": "C",
+          "text": "too long time"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "r. Shuttle reservation Name: Echo Grey Age: 21 Nationality: (5) Flight number: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Tic",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "ion Name: Echo Grey Age: 21 Nationality: (5) Flight number: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Ticket: single and (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "umber: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Ticket: single and (8) Departure time: 16.10 Fare: £18 including (9) Paymen",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "inal: (7) Seat reservation To: Cambridge Ticket: single and (8) Departure time: 16.10 Fare: £18 including (9) Payment: American Express Credit card number: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "t: single and (8) Departure time: 16.10 Fare: £18 including (9) Payment: American Express Credit card number: (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 5-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservat",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 12,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "Questions 11-18 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre? A child",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre? A children und",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "tableCompletion",
+      "prompt": "NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "tableCompletion",
+      "prompt": "ER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-30 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "Choose the correct letter A, B or C. 31. How many species in oceans are there according to latest search?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "23,000"
+        },
+        {
+          "letter": "B",
+          "text": "230,000"
+        },
+        {
+          "letter": "C",
+          "text": "2,300,000"
+        }
+      ],
+      "groupId": "q31-31"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "Question 32",
+      "groupId": "q32-34"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "Question 33",
+      "groupId": "q32-34"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "Questions 32-34 Choose your answer from the box and write the letters A-E next to",
+      "groupId": "q32-34"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "Questions 35 and 36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q35-36"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "Questions 35 and 36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main threats",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q35-36"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "BER for each answer. ‘The census of marine life’ indicates: 37. There are over invasive species in the Mediterranean Sea. 38. The area with has a high rate of speciation",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": ". There are over invasive species in the Mediterranean Sea. 38. The area with has a high rate of speciation 39. The two countries, have the most marine species in the wor",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "ranean Sea. 38. The area with has a high rate of speciation 39. The two countries, have the most marine species in the world. 40. There will be around fish species in the",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 37-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of m",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "A",
+    "2": "B",
+    "3": "B",
+    "4": "C",
+    "5": "american",
+    "6": "BA188",
+    "7": "5",
+    "8": "super save",
+    "9": "coffee",
+    "10": "3339518377996047",
+    "11": "city hall",
+    "12": "efficient",
+    "13": "medical facilities",
+    "14": "standard",
+    "15": "12",
+    "16": "leg trouble",
+    "17": "9 am – 5 pm",
+    "18": "£9.50",
+    "19": "A",
+    "20": "D",
+    "21": "student union",
+    "22": "library",
+    "23": "username and password",
+    "24": "sports centre",
+    "25": "the morning",
+    "26": "compulsory (courses)",
+    "27": "attendance",
+    "28": "presentation",
+    "29": "curriculum",
+    "30": "common room",
+    "31": "B",
+    "32": "C",
+    "33": "D",
+    "34": "A",
+    "35": "degraded habitats",
+    "36": "garbage",
+    "37": "600",
+    "38": "coral reefs",
+    "39": "australia and japan",
+    "40": "22,000"
+  }
+}

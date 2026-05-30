@@ -1,0 +1,407 @@
+{
+  "id": "0129",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0129.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the flow chart below. Write ONE WORD only for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "sentenceCompletion",
+      "prompt": "RDS for each answer. Peter consumes far too much soft drink 1. Peter and Mary’s diet will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they wil",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "sentenceCompletion",
+      "prompt": "ft drink 1. Peter and Mary’s diet will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "sentenceCompletion",
+      "prompt": "will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In every meal, there will be",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "sentenceCompletion",
+      "prompt": "very two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In every meal, there will be",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "tions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "Questions 11-16 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker? 17. has her own children? 18. often sleeps at the centre? 19. is good with shy children? 20. is a good cook?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Andrea"
+        },
+        {
+          "letter": "B",
+          "text": "Bella"
+        },
+        {
+          "letter": "C",
+          "text": "Cathy"
+        }
+      ],
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 19"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 20"
+    },
+    {
+      "number": 21,
+      "type": "flowChartCompletion",
+      "prompt": "reate (24)________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "flowChartCompletion",
+      "prompt": "(24)________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "flowChartCompletion",
+      "prompt": "________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "flowChartCompletion",
+      "prompt": "___ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 21-25 Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : D",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "O WORDS AND/ OR A NUMBER for each answer. There are several (26) involved in producing a good essay. The writer must think independently, and give (27) examples as suppor",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "summaryCompletion",
+      "prompt": "a good essay. The writer must think independently, and give (27) examples as support, each one with a reference (which is academically (28) ). The formatting must follow",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "summaryCompletion",
+      "prompt": "s support, each one with a reference (which is academically (28) ). The formatting must follow the (29) issued by the university, as well as the word count decided by the",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "summaryCompletion",
+      "prompt": "hich is academically (28) ). The formatting must follow the (29) issued by the university, as well as the word count decided by the lecturer, although it can vary by (30)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "summaryCompletion",
+      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are severa",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. 31. Geocentrism",
+      "options": [
+        {
+          "letter": "A",
+          "text": "has a long history"
+        },
+        {
+          "letter": "B",
+          "text": "is similar to heliocentrism"
+        },
+        {
+          "letter": "C",
+          "text": "took some time to be deduced"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Heliocentrism",
+      "options": [
+        {
+          "letter": "A",
+          "text": "was realized only recently"
+        },
+        {
+          "letter": "B",
+          "text": "was not generally accepted"
+        },
+        {
+          "letter": "C",
+          "text": "fitted the views of the church"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "The night sky",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is relatively simple"
+        },
+        {
+          "letter": "B",
+          "text": "remains basically the same"
+        },
+        {
+          "letter": "C",
+          "text": "was once used for navigation"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "he notes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "tes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "elow. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "e ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 34-40 Complete the notes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "practical",
+    "2": "pizzas",
+    "3": "(light) walking",
+    "4": "pine park",
+    "5": "fruit juice",
+    "6": "B",
+    "7": "I",
+    "8": "C",
+    "9": "B",
+    "10": "I",
+    "11": "padded",
+    "12": "corners",
+    "13": "special skill",
+    "14": "learning toys",
+    "15": "disinfect",
+    "16": "germs",
+    "17": "C",
+    "18": "A",
+    "19": "C",
+    "20": "B",
+    "21": "topic",
+    "22": "current",
+    "23": "thesis",
+    "24": "outline",
+    "25": "progresses",
+    "26": "aspects",
+    "27": "real-life",
+    "28": "necessary",
+    "29": "style-guide",
+    "30": "10%",
+    "31": "A",
+    "32": "B",
+    "33": "C",
+    "34": "revolution",
+    "35": "died",
+    "36": "attention",
+    "37": "Bruno",
+    "38": "motion",
+    "39": "bible",
+    "40": "20%"
+  }
+}

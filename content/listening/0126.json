@@ -1,0 +1,618 @@
+{
+  "id": "0126",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0126.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-5 Choose the correct letter A, B or C. 1. What is the caller’s surname?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fleischer"
+        },
+        {
+          "letter": "B",
+          "text": "Fischer"
+        },
+        {
+          "letter": "C",
+          "text": "Benett"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "The caller says the correct color of his car is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sky blue"
+        },
+        {
+          "letter": "B",
+          "text": "light green"
+        },
+        {
+          "letter": "C",
+          "text": "white"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What time does the caller say he went to collect his car?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.30 pm"
+        },
+        {
+          "letter": "B",
+          "text": "8 pm"
+        },
+        {
+          "letter": "C",
+          "text": "8.30 pm"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "Where does the caller usually store the front panel of his radio?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in his pocket"
+        },
+        {
+          "letter": "B",
+          "text": "the hospital"
+        },
+        {
+          "letter": "C",
+          "text": "in the glove compartment"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "What does the advisor say she will send through the mail to the caller?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a radio"
+        },
+        {
+          "letter": "B",
+          "text": "some CDs"
+        },
+        {
+          "letter": "C",
+          "text": "some forms"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "or each answer. Customer first name: Bennett Policy number: (6) Type of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "irst name: Bennett Policy number: (6) Type of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger: No Other items stolen: Ca",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger: No Other items stolen: Card radio, CDs and an old (9) Documents requ",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "e danger: No Other items stolen: Card radio, CDs and an old (9) Documents requested to support claim: Police report and (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 6-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first nam",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. 11. How many patients does the hospital consult every year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,000"
+        },
+        {
+          "letter": "B",
+          "text": "5,000"
+        },
+        {
+          "letter": "C",
+          "text": "11,000"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "When can patients meet the female doctor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "on weekday mornings"
+        },
+        {
+          "letter": "B",
+          "text": "three days a week"
+        },
+        {
+          "letter": "C",
+          "text": "only on Mondays and Fridays"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Who is the expert on treating hearing loss?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mr. Robert"
+        },
+        {
+          "letter": "B",
+          "text": "Mr. Green"
+        },
+        {
+          "letter": "C",
+          "text": "Mr. Edwards"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Where are patients recommended to buy their medicine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the supermarket in the town"
+        },
+        {
+          "letter": "B",
+          "text": "pharmacies nearby the city centre"
+        },
+        {
+          "letter": "C",
+          "text": "the health care’s pharmacy"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "What will the patients be asked about whether they are willing to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "letting one student attend the consultation"
+        },
+        {
+          "letter": "B",
+          "text": "asking postgraduate students to do treatment"
+        },
+        {
+          "letter": "C",
+          "text": "meeting students in group discussion"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 16-20 Label the map below. Write the correct letter A-H next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 21. The man wants information on course for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "people going back to college"
+        },
+        {
+          "letter": "B",
+          "text": "postgraduate student"
+        },
+        {
+          "letter": "C",
+          "text": "business executives"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The ‘Study for success’ seminar lasts for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one day"
+        },
+        {
+          "letter": "B",
+          "text": "two days"
+        },
+        {
+          "letter": "C",
+          "text": "three days"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "In the seminar the work on writing aims to improve",
+      "options": [
+        {
+          "letter": "A",
+          "text": "confidence"
+        },
+        {
+          "letter": "B",
+          "text": "speed"
+        },
+        {
+          "letter": "C",
+          "text": "clarity"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "Reading sessions help students to read",
+      "options": [
+        {
+          "letter": "A",
+          "text": "analytically"
+        },
+        {
+          "letter": "B",
+          "text": "as fast as possible"
+        },
+        {
+          "letter": "C",
+          "text": "thoroughly"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The seminar tries to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "prepare learners physically"
+        },
+        {
+          "letter": "B",
+          "text": "encourage interest in learning"
+        },
+        {
+          "letter": "C",
+          "text": "develop literacy skills"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "A key component of the course is learning how to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "use time effectively"
+        },
+        {
+          "letter": "B",
+          "text": "stay healthy"
+        },
+        {
+          "letter": "C",
+          "text": "select appropriate materials"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "Students who wants to do the ‘Study for success’ seminar should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "register with the faculty office"
+        },
+        {
+          "letter": "B",
+          "text": "contact their course convenor"
+        },
+        {
+          "letter": "C",
+          "text": "reserve a place in advance"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "The ‘Learning skills for university study’ course takes place on",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monday, Wednesday and Friday"
+        },
+        {
+          "letter": "B",
+          "text": "Monday, Tuesday and Wednesday"
+        },
+        {
+          "letter": "C",
+          "text": "Monday, Thursday and Friday"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "A feature of this course is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a physical training component"
+        },
+        {
+          "letter": "B",
+          "text": "advice on coping with stress"
+        },
+        {
+          "letter": "C",
+          "text": "a detailed weekly planner"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "The man chooses the ‘Study for success’ seminar because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "he is over forty"
+        },
+        {
+          "letter": "B",
+          "text": "he wants to start at the beginning"
+        },
+        {
+          "letter": "C",
+          "text": "he seeks to revise his skills"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "answer. Public speaking • Public speaking means speaking to (31) people • Lack of confidence usually due to (32) A. Planning • First part of public speaking is (33) • Thi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "speaking to (31) people • Lack of confidence usually due to (32) A. Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "due to (32) A. Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the aud",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "ing • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "gth of talk • Make speech notes on small cards to talk from (35) with the audience (very important) B. Voice • Speak slowly – this give time for pronunciation and is easi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "ation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonation: varied tone and rhythm gives (38) C.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "ce requires (36) speech • Project your voice – rehearse and (37) • Check intonation: varied tone and rhythm gives (38) C. Body language • Lastly think about your (39) and",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "e and (37) • Check intonation: varied tone and rhythm gives (38) C. Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, sho",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "hythm gives (38) C. Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling beca",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 31-40 Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "B",
+    "2": "B",
+    "3": "A",
+    "4": "C",
+    "5": "C",
+    "6": "G34C245",
+    "7": "car",
+    "8": "police",
+    "9": "jacket",
+    "10": "registration details",
+    "11": "C",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "A",
+    "16": "F",
+    "17": "H",
+    "18": "B",
+    "19": "D",
+    "20": "C",
+    "21": "A",
+    "22": "B",
+    "23": "C",
+    "24": "A",
+    "25": "B",
+    "26": "A",
+    "27": "C",
+    "28": "B",
+    "29": "B",
+    "30": "B",
+    "31": "10 or more",
+    "32": "lack of practice",
+    "33": "preparation",
+    "34": "topic",
+    "35": "eye contact",
+    "36": "slower",
+    "37": "record yourself",
+    "38": "meaning",
+    "39": "posture",
+    "40": "distracts"
+  }
+}

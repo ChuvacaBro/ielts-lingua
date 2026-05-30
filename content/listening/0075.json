@@ -1,0 +1,417 @@
+{
+  "id": "0075",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0075.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter, A, B, or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 What is the main opinion of each of the following people?",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Choose TWO letters, A-E",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in: (1) Length of exhibition: (2) A wide range of manufacturers will be showcased. Some cars are available to obse",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "r. BIRMINGHAM EXHIBITION Open in: (1) Length of exhibition: (2) A wide range of manufacturers will be showcased. Some cars are available to observe and others are for (3)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "ased. Some cars are available to observe and others are for (3) The (4) is prohibited to take into the museum. Every ticket includes one fere photo. Price of the ticket:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "me cars are available to observe and others are for (3) The (4) is prohibited to take into the museum. Every ticket includes one fere photo. Price of the ticket: (5) £ (i",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Every ticket includes one fere photo. Price of the ticket: (5) £ (in advance). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": ". Price of the ticket: (5) £ (in advance). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "ce). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ce Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITI",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter, A, B, or C. 11. How many patients does the hospital consult every year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "3,000."
+        },
+        {
+          "letter": "B",
+          "text": "5,000."
+        },
+        {
+          "letter": "C",
+          "text": "11,"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 12"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Who is the expert on treating hearing loss?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mr. Roberts."
+        },
+        {
+          "letter": "B",
+          "text": "Mr Green."
+        },
+        {
+          "letter": "C",
+          "text": "Mr. Edwards."
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Where are patients recommended to buy their medicine?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The supermarket in the town."
+        },
+        {
+          "letter": "B",
+          "text": "Pharmacies nearby the city centre."
+        },
+        {
+          "letter": "C",
+          "text": "The health care’s pharmacy."
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "What will the patients be asked about whether they are willing to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Letting one student attend the consultation."
+        },
+        {
+          "letter": "B",
+          "text": "Asking postgraduate students to do treatment."
+        },
+        {
+          "letter": "C",
+          "text": "Meeting students in group discussion."
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 16-20 Label the map below. Write the correct letter, A-H, next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 21-25 What is the main opinion of each of the following people? Choose FIVE answers from the box and write the co",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "and 27 Choose the correct letter, A, B or C. 26. What does Jim think about the difference among species in natural and artificial light?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It makes no difference."
+        },
+        {
+          "letter": "B",
+          "text": "Species will die out in natural light."
+        },
+        {
+          "letter": "C",
+          "text": "Species will die out in artificial light."
+        }
+      ],
+      "groupId": "q26-27"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "One reason why Jim and Jane felt unsatisfied about the theories discussed in the lecture was that",
+      "options": [
+        {
+          "letter": "A",
+          "text": "governments didn’t increase any spending on them."
+        },
+        {
+          "letter": "B",
+          "text": "most theories had nothing to do with the exam."
+        },
+        {
+          "letter": "C",
+          "text": "many theories lack solid proof in the field."
+        }
+      ],
+      "groupId": "q26-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose THREE letters, A-G. Which THREE topics are they interested in studying in the future? A quality of l",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on?",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on? A coop",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "why UK schools push football education is the pressure from (33) • Prior to the 19th, football players used different (34) of rules. • People attempted to standardise the",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "m (33) • Prior to the 19th, football players used different (34) of rules. • People attempted to standardise the rules from the whole (35) , known as the ‘Cambridge Rules",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "• People attempted to standardise the rules from the whole (35) , known as the ‘Cambridge Rules’ in 1848. • Attendences were increasing due to the improvement of infrast",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "increasing due to the improvement of infrastructure and the (36) system. • Football became popular and it is regarded as a (37) event. • The football clubs were responsib",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": ") system. • Football became popular and it is regarded as a (37) event. • The football clubs were responsible for most of the (38) and development for the football associ",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "vent. • The football clubs were responsible for most of the (38) and development for the football association. • (39) against other teams were also organised by the footb",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "of the (38) and development for the football association. • (39) against other teams were also organised by the football clubs. • In 1910s, (40) football players were app",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 33-40 Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main",
+      "groupId": "q33-40"
+    }
+  ],
+  "answerKey": {
+    "1": "July",
+    "2": "3 days",
+    "3": "test driving",
+    "4": "camera",
+    "5": "110",
+    "6": "edgeworth",
+    "7": "summer",
+    "8": "city centre",
+    "9": "directions",
+    "10": "enquiring online",
+    "11": "C",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "A",
+    "16": "F",
+    "17": "H",
+    "18": "B",
+    "19": "D",
+    "20": "C",
+    "21": "A",
+    "22": "B",
+    "23": "F",
+    "24": "G",
+    "25": "D",
+    "26": "A",
+    "27": "C",
+    "28": "B",
+    "29": "E",
+    "30": "F",
+    "31": "C",
+    "32": "D",
+    "33": "parents",
+    "34": "versions",
+    "35": "country",
+    "36": "transport",
+    "37": "social",
+    "38": "funding",
+    "39": "competitions",
+    "40": "professional"
+  }
+}

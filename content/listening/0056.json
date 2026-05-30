@@ -1,0 +1,544 @@
+{
+  "id": "0056",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the details below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "WO WORDS AND/OR A NUMBER for each answer. Card number: 6992 (1) 1147 8921 Name: Carlos da Silva Postcode: (2) Address: (3) Vauxhall Close, London Date of birth: 13 July (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "number: 6992 (1) 1147 8921 Name: Carlos da Silva Postcode: (2) Address: (3) Vauxhall Close, London Date of birth: 13 July (4) Mother,s maiden name: (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "(1) 1147 8921 Name: Carlos da Silva Postcode: (2) Address: (3) Vauxhall Close, London Date of birth: 13 July (4) Mother,s maiden name: (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "Address: (3) Vauxhall Close, London Date of birth: 13 July (4) Mother,s maiden name: (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Questions 1-5 Complete the details below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Card number: 6992 (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letter, A, B, or C. 6. The caller has paid",
+      "options": [
+        {
+          "letter": "A",
+          "text": "less than the computer shows."
+        },
+        {
+          "letter": "B",
+          "text": "more than the computer shows."
+        },
+        {
+          "letter": "C",
+          "text": "£500 twice."
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "The caller is also worried about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a bill that is too high."
+        },
+        {
+          "letter": "B",
+          "text": "an overpayment to a restaurant."
+        },
+        {
+          "letter": "C",
+          "text": "a payment that he does not recognize."
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "multipleChoice",
+      "stem": "The interest",
+      "options": [
+        {
+          "letter": "A",
+          "text": "went up in April."
+        },
+        {
+          "letter": "B",
+          "text": "has not changed."
+        },
+        {
+          "letter": "C",
+          "text": "has gone down."
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "The caller’s number is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "020 7997 9909."
+        },
+        {
+          "letter": "B",
+          "text": "020 7989 7182."
+        },
+        {
+          "letter": "C",
+          "text": "020 8979"
+        }
+      ],
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-13 Choose the correct letter, A, B, C, or D. 11. Mr Gold had problems because he",
+      "options": [
+        {
+          "letter": "A",
+          "text": "hated smoking."
+        },
+        {
+          "letter": "B",
+          "text": "smoked."
+        },
+        {
+          "letter": "C",
+          "text": "couldn’t touch his toes. D was very lazy."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Mr Gold used to travel across London to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "get exercise."
+        },
+        {
+          "letter": "B",
+          "text": "see London at night."
+        },
+        {
+          "letter": "C",
+          "text": "get cigarettes. D buy food."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "What did Mr Gold have difficulty with in the past?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "running"
+        },
+        {
+          "letter": "B",
+          "text": "giving up smoking"
+        },
+        {
+          "letter": "C",
+          "text": "getting to sleep at night D getting up early in the morning"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "uestions 14-20 Write NO MORE THAN ONE WORD for each answer. 14. Mr Gold stopped smoking on 15. Mr Gold said he was if people had not seen him smoking. 16. The worst side",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "AN ONE WORD for each answer. 14. Mr Gold stopped smoking on 15. Mr Gold said he was if people had not seen him smoking. 16. The worst side effects he experienced were 17.",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "15. Mr Gold said he was if people had not seen him smoking. 16. The worst side effects he experienced were 17. He saw giving up smoking as an 18. It was easier for Mr Gol",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "him smoking. 16. The worst side effects he experienced were 17. He saw giving up smoking as an 18. It was easier for Mr Gold to stop smoking than he had 19. The radio pre",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "ects he experienced were 17. He saw giving up smoking as an 18. It was easier for Mr Gold to stop smoking than he had 19. The radio presenter would like to have Mr Gold’s",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "n 18. It was easier for Mr Gold to stop smoking than he had 19. The radio presenter would like to have Mr Gold’s 20 The presenter hopes listeners will find their own to s",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 14-20 Write NO MORE THAN ONE WORD for each answer. 14. Mr Gold stopped smoking on 15. Mr Gold said he was if peop",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "ach answer. Lorraine • has been with them on the course for (21) • has left because she has got a (22) • has returned to (23)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "hem on the course for (21) • has left because she has got a (22) • has returned to (23)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 21-23 Write NO MORE THAN TWO WORDS for each answer. Lorraine • has been with them on the course for (21) • has le",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter, A, B, C or D. 24. Steve’s mark could have been better if he had",
+      "options": [
+        {
+          "letter": "A",
+          "text": "not made mistakes in his project."
+        },
+        {
+          "letter": "B",
+          "text": "done a better book review."
+        },
+        {
+          "letter": "C",
+          "text": "written more words. D chosen a different topic for his project."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Steve’s book review was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "too long."
+        },
+        {
+          "letter": "B",
+          "text": "not as good as his project."
+        },
+        {
+          "letter": "C",
+          "text": "excellent. D fairly good."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "Steve’s tutor criticizes which aspect of his project?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the beginning"
+        },
+        {
+          "letter": "B",
+          "text": "the argument about road pricing"
+        },
+        {
+          "letter": "C",
+          "text": "the end D the length"
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "The tutor recommends that Frances should do",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a PhD but not an MPhil."
+        },
+        {
+          "letter": "B",
+          "text": "an MPhil or a PhD."
+        },
+        {
+          "letter": "C",
+          "text": "another project. D her work more carefully."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "As regards getting funding, the tutor thinks Frances’s",
+      "options": [
+        {
+          "letter": "A",
+          "text": "chances are slim."
+        },
+        {
+          "letter": "B",
+          "text": "chances are greater than many other students’."
+        },
+        {
+          "letter": "C",
+          "text": "exam results will be decisive. D chances are better now than in the past."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "The last time a student in the department achieved a first in their exams was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "three years ago."
+        },
+        {
+          "letter": "B",
+          "text": "thirty years ago."
+        },
+        {
+          "letter": "C",
+          "text": "last year. D in the first three years the college was open."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "Steve does not plan to go on to do research because he wants to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "stop studying."
+        },
+        {
+          "letter": "B",
+          "text": "do lots of really exciting things."
+        },
+        {
+          "letter": "C",
+          "text": "earn some money to do the things he would like to do. D return to his job."
+        }
+      ],
+      "groupId": "q24-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "r each answer. Notes: The speaker specializes in management (31) Bullying in the workplace costs the (32) up to £4 billion a year. Bullying is caused by • insufficient ex",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "izes in management (31) Bullying in the workplace costs the (32) up to £4 billion a year. Bullying is caused by • insufficient experience, • insecurity, or • a lack of (3",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "Questions 31-33 Write NO MORE THAN TWO WORDS for each answer. Notes: The speaker specializes in management (31) Bullying in",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "O WORDS for each answer. Main methods of bullying • Setting (34) tasks. • Constantly moving the goalposts. • Stopping individuals (35) to criticism. • Not (36) or replyin",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": ". • Constantly moving the goalposts. • Stopping individuals (35) to criticism. • Not (36) or replying to e-mails. This means you cannot expect your staff to (37) you. • U",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "goalposts. • Stopping individuals (35) to criticism. • Not (36) or replying to e-mails. This means you cannot expect your staff to (37) you. • Using technology. Companie",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "ying to e-mails. This means you cannot expect your staff to (37) you. • Using technology. Companies should develop an (38) of practice. Task In groups (39) other bullying",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "o (37) you. • Using technology. Companies should develop an (38) of practice. Task In groups (39) other bullying strategies and ways in which they can be (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "ompanies should develop an (38) of practice. Task In groups (39) other bullying strategies and ways in which they can be (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 34-40 Write NO MORE THAN TWO WORDS for each answer. Main methods of bullying • Setting (34) tasks. • Constantly m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-40"
+    }
+  ],
+  "answerKey": {
+    "1": "3443",
+    "2": "SE18PB",
+    "3": "43",
+    "4": "1963",
+    "5": "Moore",
+    "6": "B",
+    "7": "C",
+    "8": "C",
+    "9": "B",
+    "10": "C",
+    "11": "B",
+    "12": "C",
+    "13": "B",
+    "14": "1 July",
+    "15": "cutting down",
+    "16": "bad headaches",
+    "17": "adventure",
+    "18": "expected",
+    "19": "determination",
+    "20": "road",
+    "21": "3 years",
+    "22": "job",
+    "23": "wales",
+    "24": "A",
+    "25": "C",
+    "26": "C",
+    "27": "B",
+    "28": "B",
+    "29": "A",
+    "30": "C",
+    "31": "techniques and training",
+    "32": "british economy",
+    "33": "awareness",
+    "34": "impossible",
+    "35": "replying",
+    "36": "answering the telephone",
+    "37": "respect",
+    "38": "email code",
+    "39": "brainstorm",
+    "40": "countered"
+  }
+}

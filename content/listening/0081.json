@@ -1,0 +1,414 @@
+{
+  "id": "0081",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0081.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Complete the table below. Write ONE WORD AND/ OR A NUMBER only.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-5 Choose the correct letter A, B or C. 1. What did Nadia buy at the bookshop?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "newspaper"
+        },
+        {
+          "letter": "B",
+          "text": "novel"
+        },
+        {
+          "letter": "C",
+          "text": "crossword puzzles"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "Thomas is interested in the play about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a hunter"
+        },
+        {
+          "letter": "B",
+          "text": "a pirate"
+        },
+        {
+          "letter": "C",
+          "text": "a doctor"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "The couple in the bookshop were discussing",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a funny play"
+        },
+        {
+          "letter": "B",
+          "text": "a smooth play"
+        },
+        {
+          "letter": "C",
+          "text": "a boring play"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "How does Nadia want her coffee?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "sweet and black"
+        },
+        {
+          "letter": "B",
+          "text": "with milk"
+        },
+        {
+          "letter": "C",
+          "text": "black with no sugar"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "What kind of muffin does Nadia want?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "plain"
+        },
+        {
+          "letter": "B",
+          "text": "berry"
+        },
+        {
+          "letter": "C",
+          "text": "chocolate"
+        }
+      ],
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Question 6",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Question 7",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Question 8",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Question 9",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "shortAnswer",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 11. What time does the museum open on Thursday morning? 12. How much does it cost to hire a multi-media guide?",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "shortAnswer",
+      "prompt": "er. 11. What time does the museum open on Thursday morning? 12. How much does it cost to hire a multi-media guide? 13. Where should visitors leave their coats and bags? 1",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "shortAnswer",
+      "prompt": "ing? 12. How much does it cost to hire a multi-media guide? 13. Where should visitors leave their coats and bags? 14. How much does it cost to leave a package there? 15.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "shortAnswer",
+      "prompt": "uide? 13. Where should visitors leave their coats and bags? 14. How much does it cost to leave a package there? 15. Where can visitors buy a cup of tea?",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "shortAnswer",
+      "prompt": "Questions 11-15 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 11. What time do",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "questions 16-20. A they will definitely visit B they might visit C they will not visit 6. the Tower of London 7. the Wheel",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "logy • Use scientific method based on empirical evidence (= (21) ) • Find a research problem or question o a commonly held belief e.g. lack of sleep has negative impact o",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "monly held belief e.g. lack of sleep has negative impact on (22) o Review the literature o an everyday problem e.g. research different memorization (23) • Define your var",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "o an everyday problem e.g. research different memorization (23) • Define your variables • Develop a hypothesis • Conduct (24) research o Books, journals, online database",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "3) • Define your variables • Develop a hypothesis • Conduct (24) research o Books, journals, online databases and websites o Make notes and create (25) • Select an experi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "nals, online databases and websites o Make notes and create (25) • Select an experimental design o Pre-experimental = experimental group only o Quasi-experimental = inclu",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "rimental = both kinds of groups + random • Standardize your (26) o Compare like with like • Choose your participants • Use different (27) o Random sample – sample from sa",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "e like with like • Choose your participants • Use different (27) o Random sample – sample from same group o Stratified random sample – select from subsets with different",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "ratified random sample – select from subsets with different (28) • Conduct tests and collect data • Analyse the results o Use (29) methods (to be covered next week) • Wri",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "Conduct tests and collect data • Analyse the results o Use (29) methods (to be covered next week) • Write up and communicate results o (30) and of paper is important; ti",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientif",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "lete the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "able below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-34 Complete the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "summaryCompletion",
+      "prompt": "ite NO MORE THAN TWO WORDS for each answer. Rice gives more (35) per hectare than other cereal crops and production has increased over 100% in recent years because of bet",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-39"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "ed for wet land so availability of land is quite limited by (36) type and (37) supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-39"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "d so availability of land is quite limited by (36) type and (37) supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been developed yet",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-39"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been developed yet that do not harm the main crop. Heavy machines are unable to work",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-39"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "Questions 35-39 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more (35) per hectare",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-39"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Question 40 Complete the diagram below. Write ONE WORD ONLY for each answer. (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q40-40"
+    }
+  ],
+  "answerKey": {
+    "1": "A",
+    "2": "C",
+    "3": "A",
+    "4": "A",
+    "5": "B",
+    "6": "A",
+    "7": "C",
+    "8": "A",
+    "9": "B",
+    "10": "A",
+    "11": "10",
+    "12": "4.5 pounds",
+    "13": "cloakroom",
+    "14": "one pound",
+    "15": "cafe",
+    "16": "shop",
+    "17": "library",
+    "18": "ancient",
+    "19": "restrooms",
+    "20": "sculptures",
+    "21": "observation",
+    "22": "test performance",
+    "23": "strategies",
+    "24": "background",
+    "25": "bibliography",
+    "26": "procedures",
+    "27": "techniques",
+    "28": "characteristics",
+    "29": "statistical",
+    "30": "format, structure",
+    "31": "wheat",
+    "32": "rice",
+    "33": "900",
+    "34": "oil",
+    "35": "food energy",
+    "36": "soil",
+    "37": "water",
+    "38": "quality",
+    "39": "by hand",
+    "40": "India"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "id": "0160",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0160.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Which team will do each of the following jobs?",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the summary below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "conference: Future directions in computing Three day cost: (1) £ Payment by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference roo",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "re directions in computing Three day cost: (1) £ Payment by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference rooms Guest house •",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "ent by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference rooms Guest house • (4) £ per night • Approximately (5) walk from confere",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "• (3) £ per night • Near to conference rooms Guest house • (4) £ per night • Approximately (5) walk from conference centre Further documents to be sent: • (6) • An appli",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "ference rooms Guest house • (4) £ per night • Approximately (5) walk from conference centre Further documents to be sent: • (6) • An application form Location: Conference",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "walk from conference centre Further documents to be sent: • (6) • An application form Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "(6) • An application form Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "orm Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "onference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 11-13 Which team will do each of the following jobs? Choose THREE answers from the box and write the correct lett",
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "he table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "ble below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "elow. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "e NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 14-20 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Pa",
+      "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
+      "groupId": "q14-20"
+    },
+    {
+      "number": 21,
+      "type": "summaryCompletion",
+      "prompt": "on both sites provide internet access and have a variety of (21) materials on education. The Castle Road library has books on sociology together with (22) and other resou",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "summaryCompletion",
+      "prompt": "he Castle Road library has books on sociology together with (22) and other resources relevant to the majority of (23) school subjects. The Fordham library includes resour",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "summaryCompletion",
+      "prompt": "r with (22) and other resources relevant to the majority of (23) school subjects. The Fordham library includes resources for teaching in (24) education and special needs.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "summaryCompletion",
+      "prompt": "cts. The Fordham library includes resources for teaching in (24) education and special needs. Current issues of periodicals are available at both libraries although (25)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "summaryCompletion",
+      "prompt": "Questions 21-25 Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libr",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "shortAnswer",
+      "prompt": "Questions 26 and 27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER. 26. Which books cannot be rene",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q26-27"
+    },
+    {
+      "number": 27,
+      "type": "shortAnswer",
+      "prompt": "Questions 26 and 27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER. 26. Which books cannot be renewed by",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q26-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose THREE letters, A-G. Which THREE topics do this term’s study skills workshops cover? A An introductio",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-34 Choose the correct letter A, B or C. 31. When did Asiatic lions develop as a separate sub-species?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "about 10,000 years ago"
+        },
+        {
+          "letter": "B",
+          "text": "about 100,000 years ago"
+        },
+        {
+          "letter": "C",
+          "text": "about 1,000,000 years ago"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Pictures of Asiatic lions can be seen on ancient coins from",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greece"
+        },
+        {
+          "letter": "B",
+          "text": "The Middle East"
+        },
+        {
+          "letter": "C",
+          "text": "India"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "Asiatic lions disappeared from Europe",
+      "options": [
+        {
+          "letter": "A",
+          "text": "2,500 years ago"
+        },
+        {
+          "letter": "B",
+          "text": "2,000 years ago"
+        },
+        {
+          "letter": "C",
+          "text": "1,900 years ago"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "Very few African lions have",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a long mane"
+        },
+        {
+          "letter": "B",
+          "text": "a coat with varied colours"
+        },
+        {
+          "letter": "C",
+          "text": "a fold of skin on their stomach"
+        }
+      ],
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY 35. The sanctuary has an area of approximately square kilometers 36. One threat to the lions in the sanctuary",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "he sanctuary has an area of approximately square kilometers 36. One threat to the lions in the sanctuary is 37. The ancestors of the Gir Sanctuary lions were protected by",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "kilometers 36. One threat to the lions in the sanctuary is 37. The ancestors of the Gir Sanctuary lions were protected by a 38. A large part of lions’ consists of animal",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "he ancestors of the Gir Sanctuary lions were protected by a 38. A large part of lions’ consists of animals belonging to local farmers 39. The lions sometimes especially w",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "rt of lions’ consists of animals belonging to local farmers 39. The lions sometimes especially when water is short 40. In ancient India a man would fight a lion as a test",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 35-40 Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY 35. The sanctuary",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q35-40"
+    }
+  ],
+  "answerKey": {
+    "1": "75",
+    "2": "check",
+    "3": "15",
+    "4": "25",
+    "5": "10 minutes",
+    "6": "conference park",
+    "7": "south",
+    "8": "library",
+    "9": "5",
+    "10": "21 A",
+    "11": "D",
+    "12": "A",
+    "13": "C",
+    "14": "tax",
+    "15": "security",
+    "16": "ground floor",
+    "17": "lecture room 311",
+    "18": "safety at work",
+    "19": "main hall",
+    "20": "team leaders",
+    "21": "reference",
+    "22": "textbooks",
+    "23": "secondary",
+    "24": "primary",
+    "25": "back",
+    "26": "overdue books",
+    "27": "7 working days",
+    "28": "C",
+    "29": "E",
+    "30": "F",
+    "31": "B",
+    "32": "A",
+    "33": "B",
+    "34": "C",
+    "35": "1450",
+    "36": "disease",
+    "37": "prince",
+    "38": "diet",
+    "39": "attack humans",
+    "40": "leadership"
+  }
+}

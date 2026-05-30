@@ -1,0 +1,425 @@
+{
+  "id": "0119",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0119.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-3 Choose the correct letter A, B or C. 1. How many bottles of wine do you have to buy to get one free?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "one"
+        },
+        {
+          "letter": "B",
+          "text": "three"
+        },
+        {
+          "letter": "C",
+          "text": "four"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "Which type of wine do David’s friends prefer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "French"
+        },
+        {
+          "letter": "B",
+          "text": "Italian"
+        },
+        {
+          "letter": "C",
+          "text": "Spanish"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What is the price of the champagne?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£20"
+        },
+        {
+          "letter": "B",
+          "text": "£35"
+        },
+        {
+          "letter": "C",
+          "text": "£25"
+        }
+      ],
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "aurant Sam’s suggestions: Would go best with the Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Sam’s suggestions: Would go best with the Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August • Date when customers will be at the resta",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "(4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August • Date when customers will be at the restaurant – (8)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "th August • Date when customers will be at the restaurant – (8) • Time – 7 pm • Number of people – (9) • Email address – (10) .com • Customer phone number – 014453336451",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "at the restaurant – (8) • Time – 7 pm • Number of people – (9) • Email address – (10) .com • Customer phone number – 014453336451 • Customer willing to have emails sent",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 4-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restau",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "and 12 Choose the correct letter A, B or C. 11. How did the players hit the ball when the game first launched in the 12th century?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "wit a bat"
+        },
+        {
+          "letter": "B",
+          "text": "with a racquet"
+        },
+        {
+          "letter": "C",
+          "text": "with their bare hand"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "In the 16th century what kind of people found tennis most appealing?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "royal families"
+        },
+        {
+          "letter": "B",
+          "text": "wealthy merchants"
+        },
+        {
+          "letter": "C",
+          "text": "everyday people"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 13-20 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 26,
+      "type": "tableCompletion",
+      "prompt": "THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 27,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "aster do the students have to follow during the conference? (28) (29) (30) A make sure they tidy up the hall and rooms after the conference B provide cleaners for the con",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "do the students have to follow during the conference? (28) (29) (30) A make sure they tidy up the hall and rooms after the conference B provide cleaners for the conferen",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose THREE letters A-G. What THREE rules given to them by the headmaster do the students have to follow d",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "er. To calculate your Body Mass Index you should first take (31) in kilograms and divide it by your height in meters. Healthy diets • It is important to eat starchy foods",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "rchy foods with fruit and vegetables • There are people who (32) that starchy foods are fattening • Eat a minimum of (33) of fruit and vegetables a day • People tend to e",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "ho (32) that starchy foods are fattening • Eat a minimum of (33) of fruit and vegetables a day • People tend to eat too much (34) and you only need a certain amount to ke",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "of fruit and vegetables a day • People tend to eat too much (34) and you only need a certain amount to keep healthy • People say that (35) can help protect against heart",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "nly need a certain amount to keep healthy • People say that (35) can help protect against heart disease • Exercise is good for us because: o It strengthens the heart o It",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "d for us because: o It strengthens the heart o It tones our (36) o It is good for the mind • We do less exercise because we have domestic (37) to do things for us • Adult",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "for the mind • We do less exercise because we have domestic (37) to do things for us • Adults should do at least (38) moderate intensity physical activity five days a wee",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "mestic (37) to do things for us • Adults should do at least (38) moderate intensity physical activity five days a week • A physical activity can be: o A lifestyle activit",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "ek • A physical activity can be: o A lifestyle activity o A (39) activity o Sports • Activities that produce (40) on the bones are necessary",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "B",
+    "2": "B",
+    "3": "A",
+    "4": "mixed salad",
+    "5": "greek salad",
+    "6": "bread (with) herbs",
+    "7": "cheese (with) peppers",
+    "8": "27 August",
+    "9": "15",
+    "10": "David.hamill@worthing",
+    "11": "C",
+    "12": "A",
+    "13": "1956",
+    "14": "11",
+    "15": "same year",
+    "16": "6",
+    "17": "17 years",
+    "18": "14",
+    "19": "1970",
+    "20": "tournament",
+    "21": "workshops",
+    "22": "well-respected",
+    "23": "seminars",
+    "24": "genetics",
+    "25": "newsletter",
+    "26": "flying fish",
+    "27": "wednesday 6 June",
+    "28": "D",
+    "29": "F",
+    "30": "G",
+    "31": "your weight",
+    "32": "(wrongly) think",
+    "33": "five portions",
+    "34": "protein",
+    "35": "oily fish",
+    "36": "muscles",
+    "37": "appliances",
+    "38": "30 minutes",
+    "39": "structured",
+    "40": "high physical stresses"
+  }
+}

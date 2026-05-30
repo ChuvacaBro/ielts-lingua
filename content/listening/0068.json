@@ -1,0 +1,554 @@
+{
+  "id": "0068",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0068.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Choose the correct letter A, B or C.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose TWO letters A-E.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "multipleChoice",
+      "stem": "-4 Choose the correct letter A, B or C. Types of membership – 2 1. How much is the life-time membership of the Society?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£1,535"
+        },
+        {
+          "letter": "B",
+          "text": "£1,935"
+        },
+        {
+          "letter": "C",
+          "text": "£1,537"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "multipleChoice",
+      "stem": "How much does the ordinary membership cost per year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "£293"
+        },
+        {
+          "letter": "B",
+          "text": "£396"
+        },
+        {
+          "letter": "C",
+          "text": "£193"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "multipleChoice",
+      "stem": "What are the opening times on week-days?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 am to 10 pm"
+        },
+        {
+          "letter": "B",
+          "text": "10 am to 9 pm"
+        },
+        {
+          "letter": "C",
+          "text": "10 am to 5 pm"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "multipleChoice",
+      "stem": "What is the arts programme at the Society like?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "limited"
+        },
+        {
+          "letter": "B",
+          "text": "wide"
+        },
+        {
+          "letter": "C",
+          "text": "interesting"
+        }
+      ],
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restriction",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "HAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ess 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 5-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Po",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned?",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned? A free",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "Questions 13-15 Complete the table below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "-20 Choose the correct letter A, B or C. 16. What does the speaker say about the judges in the competitions?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Most people judging will have some experience"
+        },
+        {
+          "letter": "B",
+          "text": "None of the judges will have experience"
+        },
+        {
+          "letter": "C",
+          "text": "Every judge will be experienced"
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "The winner in each of the competitions will",
+      "options": [
+        {
+          "letter": "A",
+          "text": "be given vouchers"
+        },
+        {
+          "letter": "B",
+          "text": "be awarded a cash prize"
+        },
+        {
+          "letter": "C",
+          "text": "receive book-tokens"
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "The profits from the marathon will be given to the Children’s Hospital to help",
+      "options": [
+        {
+          "letter": "A",
+          "text": "buy new specialist equipment"
+        },
+        {
+          "letter": "B",
+          "text": "decorate the hospital wards"
+        },
+        {
+          "letter": "C",
+          "text": "provide books for the children"
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "multipleChoice",
+      "stem": "Wardens will be needed at the car park because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they helped organize the parking well last year"
+        },
+        {
+          "letter": "B",
+          "text": "the parking last year was disorganized"
+        },
+        {
+          "letter": "C",
+          "text": "they will be needed to collect parking fees"
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "multipleChoice",
+      "stem": "Bags will be provided by the council",
+      "options": [
+        {
+          "letter": "A",
+          "text": "for all the rubbish"
+        },
+        {
+          "letter": "B",
+          "text": "only for food rubbish"
+        },
+        {
+          "letter": "C",
+          "text": "only for material that can be recycled"
+        }
+      ],
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-23 Choose the correct letter A, B or C. 21. In the practice exams, the students did",
+      "options": [
+        {
+          "letter": "A",
+          "text": "two exams altogether"
+        },
+        {
+          "letter": "B",
+          "text": "seven exams in total"
+        },
+        {
+          "letter": "C",
+          "text": "eleven exams in total"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Adam thinks that essay papers are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "inappropriate for assessing theoretical medical knowledge"
+        },
+        {
+          "letter": "B",
+          "text": "not good for assessing practical medical knowledge"
+        },
+        {
+          "letter": "C",
+          "text": "suitable for testing theoretical medical knowledge"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Mary criticizes multiple-choice questions, because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they require detailed instructions"
+        },
+        {
+          "letter": "B",
+          "text": "they benefit women more than men"
+        },
+        {
+          "letter": "C",
+          "text": "they favour men rather than women"
+        }
+      ],
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned? A the rest sta",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned? A the rest stations B",
+      "groupId": "q24-25"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "ng tests, students had to work in groups of four people and (26) to solve a problem. As they discussed the problem, (27) watched them. As well as assessing the ability to",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "summaryCompletion",
+      "prompt": "and (26) to solve a problem. As they discussed the problem, (27) watched them. As well as assessing the ability to speak, the problem-solving tested if people can (28) ,",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "summaryCompletion",
+      "prompt": "ability to speak, the problem-solving tested if people can (28) , organize their thoughts and demonstrate they can be part of a (29) Re-sits of the final exams are held",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "summaryCompletion",
+      "prompt": "ganize their thoughts and demonstrate they can be part of a (29) Re-sits of the final exams are held in September. After that any problems are dealt with by (30) Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "summaryCompletion",
+      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-so",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-33 Choose the correct letter A, B or C. 31. The Indian Ocean differs from the Atlantic and Pacific Oceans",
+      "options": [
+        {
+          "letter": "A",
+          "text": "by being closed in to the north"
+        },
+        {
+          "letter": "B",
+          "text": "by being warmer than both"
+        },
+        {
+          "letter": "C",
+          "text": "by extending into cold regions"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Approximately how much of the world’s total ocean area does the Indian Ocean constitute?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "7%"
+        },
+        {
+          "letter": "B",
+          "text": "20%"
+        },
+        {
+          "letter": "C",
+          "text": "25%"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "The island of Madagascar is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the tip of a submerged ridge"
+        },
+        {
+          "letter": "B",
+          "text": "the result of a volcanic eruption"
+        },
+        {
+          "letter": "C",
+          "text": "structurally part of the continent of Africa"
+        }
+      ],
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 34. Oceanographers and m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 34. Oceanographers and meteorol",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 36,
+      "type": "flowChartCompletion",
+      "prompt": "ated Step 8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "flowChartCompletion",
+      "prompt": "Step 8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "flowChartCompletion",
+      "prompt": "8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "flowChartCompletion",
+      "prompt": "hen analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 36-40 Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Sh",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "C",
+    "2": "C",
+    "3": "B",
+    "4": "B",
+    "5": "Rochester",
+    "6": "stone avenue",
+    "7": "MA7 4PQ",
+    "8": "6633",
+    "9": "(monthly) instalments",
+    "10": "fortnight",
+    "11": "B",
+    "12": "D",
+    "13": "shop",
+    "14": "seating",
+    "15": "9.30",
+    "16": "A",
+    "17": "B",
+    "18": "A",
+    "19": "B",
+    "20": "C",
+    "21": "B",
+    "22": "A",
+    "23": "C",
+    "24": "B",
+    "25": "E",
+    "26": "prioritize",
+    "27": "examiners",
+    "28": "listen",
+    "29": "team",
+    "30": "appeal",
+    "31": "A",
+    "32": "B",
+    "33": "C",
+    "34": "acidity",
+    "35": "habitals, people",
+    "36": "observing ice packs",
+    "37": "size",
+    "38": "raw",
+    "39": "bank",
+    "40": "experts"
+  }
+}

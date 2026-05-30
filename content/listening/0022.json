@@ -1,0 +1,431 @@
+{
+  "id": "0022",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0022.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "ame: Price First name: Angela Mary Address: apartment 3, 86 (1) street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "ary Address: apartment 3, 86 (1) street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year: 1981",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "phone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year: 1981",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price F",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Question 6",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Question 7",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "Questions 6-8 Circle THREE letters A-F. What type of books does Angela like? A sport B travel C classics D history E cooki",
+      "groupId": "q6-8"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. Whe",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. When will",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "and 12 Choose the correct letter A, B or C. 11. What is one of the new advantages in the dining facilities?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "more students"
+        },
+        {
+          "letter": "B",
+          "text": "more variety"
+        },
+        {
+          "letter": "C",
+          "text": "more service"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What was one problem with the dining options last year?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "students did not have enough to eat"
+        },
+        {
+          "letter": "B",
+          "text": "students has to pay too much money"
+        },
+        {
+          "letter": "C",
+          "text": "students had to eat whatever was served"
+        }
+      ],
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Write NO MORE THAN THREE WORDS for each answer. 13. and pasta are an example of food 14. American fo",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 13 and 14 Write NO MORE THAN THREE WORDS for each answer. 13. and pasta are an example of food 14. American food cons",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q13-14"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "-18 Choose the correct letter A, B or C. 15. Why does the school say the food will be better?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they hired real chefs"
+        },
+        {
+          "letter": "B",
+          "text": "The food is more expensive"
+        },
+        {
+          "letter": "C",
+          "text": "they will make more kinds"
+        }
+      ],
+      "groupId": "q15-18"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "When will the dining facilities open and close?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 am and 12 pm"
+        },
+        {
+          "letter": "B",
+          "text": "6 am and 12 am"
+        },
+        {
+          "letter": "C",
+          "text": "12 pm and 6 pm D 12 pm and 6 am"
+        }
+      ],
+      "groupId": "q15-18"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "What can students do if they are hungry in the afternoon?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "go out and buy food on the street"
+        },
+        {
+          "letter": "B",
+          "text": "wait till dinner time"
+        },
+        {
+          "letter": "C",
+          "text": "go to the student store for snacks"
+        }
+      ],
+      "groupId": "q15-18"
+    },
+    {
+      "number": 18,
+      "type": "multipleChoice",
+      "stem": "What must you do to eat in the dining facilities if you are not a student?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "purchase a dining facility card"
+        },
+        {
+          "letter": "B",
+          "text": "purchase meals at the door"
+        },
+        {
+          "letter": "C",
+          "text": "purchase meals from other students"
+        }
+      ],
+      "groupId": "q15-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Select TWO answers. Which of the following are rules of the dining facilities? A do not waste food B",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Select TWO answers. Which of the following are rules of the dining facilities? A do not waste food B you ma",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26-30 Write the appropriate letter A-C next to",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-36"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 37. List three activities that Saturday Morning Outings have included in the past 38. There are spaces availab",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "ies that Saturday Morning Outings have included in the past 38. There are spaces available for the volleyball team. 39. The first rule of the building: must be kept to a",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "ast 38. There are spaces available for the volleyball team. 39. The first rule of the building: must be kept to a minimum after 11 pm. The second rule of the building: Al",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 37-40 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 37. List thr",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q37-40"
+    }
+  ],
+  "answerKey": {
+    "1": "bridge",
+    "2": "2065",
+    "3": "84561307",
+    "4": "4040AC",
+    "5": "March",
+    "6": "B",
+    "7": "E",
+    "8": "F",
+    "9": "$20",
+    "10": "next week",
+    "11": "B",
+    "12": "C",
+    "13": "Pizza, Italian",
+    "14": "hamburgers, hot dogs",
+    "15": "A",
+    "16": "B",
+    "17": "C",
+    "18": "B",
+    "19": "A",
+    "20": "D",
+    "21": "stay",
+    "22": "speak",
+    "23": "barking",
+    "24": "biting",
+    "25": "sniffing",
+    "26": "C",
+    "27": "B",
+    "28": "C",
+    "29": "A",
+    "30": "B",
+    "31": "7am – 12am",
+    "32": "basement",
+    "33": "pin-pong tables",
+    "34": "2nd floor",
+    "35": "24 hours",
+    "36": "refrigerator",
+    "37": "fishing, hiking, cycling",
+    "38": "20",
+    "39": "noise levels",
+    "40": "alcohol and drugs"
+  }
+}

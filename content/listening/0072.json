@@ -1,0 +1,339 @@
+{
+  "id": "0072",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0072.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the notes below. Write NO MORE THAN TWO WORDS.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Complete the map below. Write the correct letter A-E next to questions 11-15.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Choose correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "bert Goddard Destination: Melbourne Total number of visits: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "urne Total number of visits: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4) Method of transport to destina",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "ts: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4) Method of transport to destination: by (5) Age group: (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "raction: (3) Best thing about destination’s dining options: (4) Method of transport to destination: by (5) Age group: (6) Income level: (7) Purpose of visit: on business",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "dining options: (4) Method of transport to destination: by (5) Age group: (6) Income level: (7) Purpose of visit: on business (8) Occupation: (9) Opinion of cost of acco",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number o",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 8"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 9"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 11-15 Complete the map below. Write the correct letter A-E next to",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and wr",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21-23 Choose correct letter A, B or C. 21. The proposal will A be reviewed by two examiners. B be added to the final grade. C be returned with feedba",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "B be added to the final grade. C be returned with feedback. 22. The proposal will consist mostly of A topics. B methods. C results. 22. For the practice paper, the tutor",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 21-23 Choose correct letter A, B or C. 21. The proposal will A be reviewed by two examiners. B be added to the fi",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "sentenceCompletion",
+      "prompt": "nces below. Write ONE WORD AND/OR A NUMBER for each answer. 24. There is no need to lots of people. 25. Pay attention to the of the final report. 26. Prepare , one for th",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 25,
+      "type": "sentenceCompletion",
+      "prompt": "ER for each answer. 24. There is no need to lots of people. 25. Pay attention to the of the final report. 26. Prepare , one for the teaches, another for the students them",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 26,
+      "type": "sentenceCompletion",
+      "prompt": "ts of people. 25. Pay attention to the of the final report. 26. Prepare , one for the teaches, another for the students themselves. 27. The deadline of the final paper is",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 27,
+      "type": "sentenceCompletion",
+      "prompt": ", one for the teaches, another for the students themselves. 27. The deadline of the final paper is 28. The students can their topics before the beginning of April. 29. St",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 28,
+      "type": "sentenceCompletion",
+      "prompt": "students themselves. 27. The deadline of the final paper is 28. The students can their topics before the beginning of April. 29. Students deciding to change topics must d",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 29,
+      "type": "sentenceCompletion",
+      "prompt": "he students can their topics before the beginning of April. 29. Students deciding to change topics must deliver a to the research in advance. 30. At the beginning of the",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 30,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 24-30 Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. 24. There is no need to lots",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "e advertising effect The important factor to consider • The (31) customers must travel affects the probability that they will buy the product. Methods of communication •",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "• Advertising slogans are easier to remember if there is a (32) played with them. • Mandy’s Candy Store appeals to people’s sense of (33) to draw in customers. • To an a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "th them. • Mandy’s Candy Store appeals to people’s sense of (33) to draw in customers. • To an ad campaign for digital products, it is (34) that is extremely important. E",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "customers. • To an ad campaign for digital products, it is (34) that is extremely important. Effect on your product sales • The customer’s (35) after he or she experienc",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ly important. Effect on your product sales • The customer’s (35) after he or she experiences the ad is most important. Marketing strategies • On international flights, it",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "is wise for the advertisement to be displayed in the common (36) of most passengers. • Very few young people buy (37) • The UNESCO website would be a good place to advert",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "common (36) of most passengers. • Very few young people buy (37) • The UNESCO website would be a good place to advertise for companies aiming to improve the (38) • One go",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "good place to advertise for companies aiming to improve the (38) • One good location to place ads for sunscreen is the (39) • A good scene for a water purification commer",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "(38) • One good location to place ads for sunscreen is the (39) • A good scene for a water purification commercial would be (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The importan",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "3",
+    "2": "amazing weather",
+    "3": "town hall",
+    "4": "variety",
+    "5": "plane",
+    "6": "over 40",
+    "7": "mid-range",
+    "8": "tourism",
+    "9": "computer programmer",
+    "10": "good value",
+    "11": "B",
+    "12": "A",
+    "13": "E",
+    "14": "C",
+    "15": "D",
+    "16": "E",
+    "17": "G",
+    "18": "C",
+    "19": "D",
+    "20": "A",
+    "21": "C",
+    "22": "B",
+    "23": "A",
+    "24": "interview",
+    "25": "format",
+    "26": "2 copies",
+    "27": "May 11",
+    "28": "change",
+    "29": "note",
+    "30": "procedure",
+    "31": "distance",
+    "32": "sound",
+    "33": "smell",
+    "34": "flexibility",
+    "35": "reaction",
+    "36": "languages",
+    "37": "newspaper",
+    "38": "environment",
+    "39": "swimming pool",
+    "40": "national park"
+  }
+}

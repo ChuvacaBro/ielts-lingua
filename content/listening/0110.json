@@ -1,0 +1,424 @@
+{
+  "id": "0110",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0110.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Which counsellor should you see? Write the correct letter, A, B or C, next to questions 11–14.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Complete the notes below. Write no more than three words for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Complete the table below. Write one word only for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "estions: transport from Bayswater • Express train leaves at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leave",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "ayswater • Express train leaves at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "es at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "earest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: tra",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "rite no more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "no more than one word",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "no more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "no more than one word",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "no more than one word",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "no more than one word",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 6–10 Complete the table below. Write no more than one word and/or a number for each answer. (6) (7) (8) (9) (10)",
+      "wordLimit": "no more than one word",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 11-14 Which counsellor should you see? Write the correct letter, A, B or C, next to",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "tableCompletion",
+      "prompt": "table below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "e below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "ow. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "rite no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 15-20 Complete the table below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part",
+      "wordLimit": "no more than two words",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "low. Write no more than three words for each answer. Novel: (21) Protagonists: Mary Lennox; Colin Craven Time period: Early in (22) Mary moves to UK – meets Colin who thi",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "otagonists: Mary Lennox; Colin Craven Time period: Early in (22) Mary moves to UK – meets Colin who thinks he’ll never be able to (23) They become friends. Point of view:",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "moves to UK – meets Colin who thinks he’ll never be able to (23) They become friends. Point of view: “Omniscient” – narrator knows all about characters’ feelings, opinion",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "narrator knows all about characters’ feelings, opinions and (24) Audience: Good for children – story simple to follow Symbols (physical items that represent (25) ): • the",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "ory simple to follow Symbols (physical items that represent (25) ): • the robin redbreast • (26) • the portrait of Mistress Craven Motifs (patterns in the story): • the G",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "ysical items that represent (25) ): • the robin redbreast • (26) • the portrait of Mistress Craven Motifs (patterns in the story): • the Garden of Eden • secrecy – metaph",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "f Eden • secrecy – metaphorical and literal transition from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30)",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "literal transition from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30) Part 4:",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30) Part 4:",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-30 Complete the notes below. Write no more than three words for each answer. Novel: (21) Protagonists: Mary Le",
+      "wordLimit": "no more than three words",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "one word only",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "one word only",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "one word only",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "one word only",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-35 Complete the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "wordLimit": "one word only",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "multipleChoice",
+      "stem": "–40 Choose the correct letter, A, B or C. 36. We are all present hedonists",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at school"
+        },
+        {
+          "letter": "B",
+          "text": "at birth"
+        },
+        {
+          "letter": "C",
+          "text": "while eating and drinking"
+        }
+      ],
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "multipleChoice",
+      "stem": "American boys drop out of school at a higher rate than girls because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they need to be in control of the way they learn"
+        },
+        {
+          "letter": "B",
+          "text": "they play video games instead of doing school work"
+        },
+        {
+          "letter": "C",
+          "text": "they are not as intelligent as girls"
+        }
+      ],
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "multipleChoice",
+      "stem": "Present-orientated children",
+      "options": [
+        {
+          "letter": "A",
+          "text": "do not realise present actions can have negative future effects"
+        },
+        {
+          "letter": "B",
+          "text": "are unable to learn lessons from past mistakes"
+        },
+        {
+          "letter": "C",
+          "text": "know what could happen if they do something bad, but do it anyway"
+        }
+      ],
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "multipleChoice",
+      "stem": "If Americans had an extra day per week, they would spend it",
+      "options": [
+        {
+          "letter": "A",
+          "text": "working harder"
+        },
+        {
+          "letter": "B",
+          "text": "building relationships"
+        },
+        {
+          "letter": "C",
+          "text": "sharing family meals"
+        }
+      ],
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "multipleChoice",
+      "stem": "Understanding how people think about time can help us",
+      "options": [
+        {
+          "letter": "A",
+          "text": "become more virtuous"
+        },
+        {
+          "letter": "B",
+          "text": "work together better"
+        },
+        {
+          "letter": "C",
+          "text": "identify careless or ambitious people"
+        }
+      ],
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "9.30 am",
+    "2": "Helendale",
+    "3": "central street",
+    "4": "792",
+    "5": "8.55 am",
+    "6": "$1.80",
+    "7": "7.30",
+    "8": "$7.15",
+    "9": "commuter",
+    "10": "afternoon",
+    "11": "C",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "first year",
+    "16": "(right) balance",
+    "17": "foreign students",
+    "18": "relaxation",
+    "19": "motivation",
+    "20": "research",
+    "21": "the secret garden",
+    "22": "20th century",
+    "23": "walk",
+    "24": "motivations",
+    "25": "abstract ideas",
+    "26": "roses",
+    "27": "dark to light",
+    "28": "health",
+    "29": "environment",
+    "30": "human companionship",
+    "31": "negative",
+    "32": "pleasure",
+    "33": "poverty",
+    "34": "active",
+    "35": "success",
+    "36": "B",
+    "37": "A",
+    "38": "C",
+    "39": "A",
+    "40": "B"
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "id": "0198",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0198.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose the correct letter, A, B or C,",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "OR A NUMBER for each answer. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended webs",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "for each answer. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The pe",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "r. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "uitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "(4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "Questions 1-6 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary (1)",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "Question 7",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Question 8",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "Question 9",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY for each answer. Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter, A, B or C. Working as a lifeboat volunteer 11. What made David leave London and move to Northsea?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He was eager to develop a hobby."
+        },
+        {
+          "letter": "B",
+          "text": "He wanted to work shorter hours."
+        },
+        {
+          "letter": "C",
+          "text": "He found his job in website design unsatisfying."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The Lifeboat Institution in Northsea was built with money provided by",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a local organisation."
+        },
+        {
+          "letter": "B",
+          "text": "a local resident."
+        },
+        {
+          "letter": "C",
+          "text": "the local council."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "In his health assessment, the doctor was concerned about the fact that David",
+      "options": [
+        {
+          "letter": "A",
+          "text": "might be colour blind."
+        },
+        {
+          "letter": "B",
+          "text": "was rather short-sighted."
+        },
+        {
+          "letter": "C",
+          "text": "had undergone eye surgery."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "After arriving at the lifeboat station, they aim to launch the boat within",
+      "options": [
+        {
+          "letter": "A",
+          "text": "five minutes."
+        },
+        {
+          "letter": "B",
+          "text": "six to eight minutes."
+        },
+        {
+          "letter": "C",
+          "text": "eight and a half minutes."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "As a ‘helmsman’, David has the responsibility of deciding",
+      "options": [
+        {
+          "letter": "A",
+          "text": "who will be the members of his crew."
+        },
+        {
+          "letter": "B",
+          "text": "what equipment it will be necessary to take."
+        },
+        {
+          "letter": "C",
+          "text": "if the lifeboat should be launched."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "As well as going out on the lifeboat, David",
+      "options": [
+        {
+          "letter": "A",
+          "text": "gives talks on safety at sea."
+        },
+        {
+          "letter": "B",
+          "text": "helps with fundraising."
+        },
+        {
+          "letter": "C",
+          "text": "recruits new volunteers."
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training? A Th",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training? A The resid",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does? A",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does? A working",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-24 Choose the correct letter, A, B or C, 21. At first, Don thought the topic of recycling footwear might be too",
+      "options": [
+        {
+          "letter": "A",
+          "text": "limited in scope."
+        },
+        {
+          "letter": "B",
+          "text": "hard to research."
+        },
+        {
+          "letter": "C",
+          "text": "boring for listeners."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "When discussing trainers, Bella and Don disagree about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how popular they are among young people."
+        },
+        {
+          "letter": "B",
+          "text": "how suitable they are for school."
+        },
+        {
+          "letter": "C",
+          "text": "how quickly they wear out."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Bella says that she sometimes recycles shoes because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they no longer fit."
+        },
+        {
+          "letter": "B",
+          "text": "she no longer likes them."
+        },
+        {
+          "letter": "C",
+          "text": "they are no longer in fashion."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What did the article say that confused Don?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Public consumption of footwear has risen."
+        },
+        {
+          "letter": "B",
+          "text": "Less footwear is recycled now than in the past."
+        },
+        {
+          "letter": "C",
+          "text": "People dispose of more footwear than they used to."
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-28"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-28"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 25-28 What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR",
+      "groupId": "q25-28"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter, A, B or C. 29. Why did the project to make ‘new’ shoes out of old shoes fail?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "People believed the ‘new’ pairs of shoes were unhygienic."
+        },
+        {
+          "letter": "B",
+          "text": "There were not enough good parts to use in the old shoes."
+        },
+        {
+          "letter": "C",
+          "text": "The shoes in the ’new’ pairs were not completely alike."
+        }
+      ],
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "Bella and Don agree that they can present their topic",
+      "options": [
+        {
+          "letter": "A",
+          "text": "from a new angle."
+        },
+        {
+          "letter": "B",
+          "text": "with relevant images."
+        },
+        {
+          "letter": "C",
+          "text": "in a straightforward way."
+        }
+      ],
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "imetres long • also known as water ‘bears’ (due to how they (31) ) and ‘moss piglets’ Physical appearance • a (32) round body and four pairs of legs • claws or (33) for g",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "how they (31) ) and ‘moss piglets’ Physical appearance • a (32) round body and four pairs of legs • claws or (33) for gripping • absence of respiratory organs • body fil",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "rance • a (32) round body and four pairs of legs • claws or (33) for gripping • absence of respiratory organs • body filled with a liquid that carries both (34) and blood",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ratory organs • body filled with a liquid that carries both (34) and blood • mouth shaped like a (35) with teeth called stylets Habitat • often found at the bottom of a l",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "quid that carries both (34) and blood • mouth shaped like a (35) with teeth called stylets Habitat • often found at the bottom of a lake or on plants • very resilient and",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "n plants • very resilient and can exist in very low or high (36) Cryptobiosis • In dry conditions, they roll into a ball called a ‘tun’ • They stay alive with a much lowe",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "alive with a much lower metabolism than usual. • A type of (37) ensures their DNA is not damaged. • Research is underway to find out how many days they can stay alive in",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "s underway to find out how many days they can stay alive in (38) Feeding • consume liquids, e.g., those found in moss or (39) • may eat other tardigrades Conservation sta",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "38) Feeding • consume liquids, e.g., those found in moss or (39) • may eat other tardigrades Conservation status • They are not considered to be (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Matheison",
+    "2": "Beginners",
+    "3": "College",
+    "4": "New",
+    "5": "11/ eleven (am)",
+    "6": "Instrument",
+    "7": "Ear",
+    "8": "Clapping",
+    "9": "Recording",
+    "10": "Alone",
+    "11": "A",
+    "12": "B",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "A",
+    "17": [
+      "C",
+      "E"
+    ],
+    "18": [
+      "C",
+      "E"
+    ],
+    "19": [
+      "A",
+      "B"
+    ],
+    "20": [
+      "A",
+      "B"
+    ],
+    "21": "A",
+    "22": "B",
+    "23": "B",
+    "24": "B",
+    "25": "E",
+    "26": "B",
+    "27": "A",
+    "28": "C",
+    "29": "C",
+    "30": "A",
+    "31": "Move",
+    "32": "Short",
+    "33": "Discs",
+    "34": "Oxygen",
+    "35": "Tube",
+    "36": "Temperatures",
+    "37": "Protein",
+    "38": "Space",
+    "39": "Seaweed",
+    "40": "Endangered"
+  }
+}

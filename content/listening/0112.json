@@ -1,0 +1,384 @@
+{
+  "id": "0112",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0112.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-3 Complete the notes below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "nformation source: found in the brochure Included services: (1) and accommodation Sydney arrival date: 15th of (2) Accommodation criteria: (3)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "ervices: (1) and accommodation Sydney arrival date: 15th of (2) Accommodation criteria: (3)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-3 Complete the notes below. Write ONE WORD OR A NUMBER. Notes of customer information Information source: foun",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-3"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "OR A NUMBER for each answer. Booking information Room type: (4) Credit card holder: (5) Total cost for one night: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-6"
+    },
+    {
+      "number": 5,
+      "type": "formCompletion",
+      "prompt": "wer. Booking information Room type: (4) Credit card holder: (5) Total cost for one night: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-6"
+    },
+    {
+      "number": 6,
+      "type": "formCompletion",
+      "prompt": "Questions 4-6 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Booking informatio",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q4-6"
+    },
+    {
+      "number": 7,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 7. The is within walking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "er. 7. The is within walking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings are in the 10. The Dreamtime can be experienced beneath t",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "lking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings are in the 10. The Dreamtime can be experienced beneath the Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 7-10 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 7. The is within walking distan",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "sentenceCompletion",
+      "prompt": "lic service broadcast • Volunteers workers must be at least (11) years old. • Job applicants should not have (12) • Job applicants are asked to submit (13) and (14) • The",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "sentenceCompletion",
+      "prompt": "e at least (11) years old. • Job applicants should not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "sentenceCompletion",
+      "prompt": "s should not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone calls.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "sentenceCompletion",
+      "prompt": "not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone calls.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volu",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "Questions 16-18 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunt",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunteer, he",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "nge discussion • In south east Mexico, farmers did too much (21) so the environment has been destroyed • According to Dick, vegetation problems caused (22) • A back issue",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "n destroyed • According to Dick, vegetation problems caused (22) • A back issue of periodical reported interviews with (23) • According to one of the articles in periodic",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "(22) • A back issue of periodical reported interviews with (23) • According to one of the articles in periodical, land (24) show it is very tough for the plant growth th",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "(23) • According to one of the articles in periodical, land (24) show it is very tough for the plant growth there • In the past 10 years, almost (25) kilometers of forest",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental chan",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": "tes below. Write ONE WORD AND/ OR A NUMBER for each answer. 26. ‘Growing Area’ is about kilometers 27. Scientists have taken of the soil in the Yucatan. 28. The universit",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "BER for each answer. 26. ‘Growing Area’ is about kilometers 27. Scientists have taken of the soil in the Yucatan. 28. The university’s own geology department has also ana",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "eters 27. Scientists have taken of the soil in the Yucatan. 28. The university’s own geology department has also analysed the at the site. 29. The in Dr. Horst’s books ar",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": "s own geology department has also analysed the at the site. 29. The in Dr. Horst’s books are very useful and worth studying. 30. The student needs a to do presentation. P",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 26-30 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. 26. ‘Growing Area’ is about kilo",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "and 32 Choose the correct letter A, B or C. 31. Bees that help with pollination benefit flowers and",
+      "options": [
+        {
+          "letter": "A",
+          "text": "female plants"
+        },
+        {
+          "letter": "B",
+          "text": "pollen"
+        },
+        {
+          "letter": "C",
+          "text": "fruit trees"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Bees produce wax that can be made into candles and",
+      "options": [
+        {
+          "letter": "A",
+          "text": "honey"
+        },
+        {
+          "letter": "B",
+          "text": "polish"
+        },
+        {
+          "letter": "C",
+          "text": "pollen"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects in summer can be harmful because they can carry such deadly diseases as malari",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects in summer can be harmful because they can carry such deadly diseases as malaria, yellow fever, and",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 35,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 33-35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "re often not worthwhile because: a) They are effective on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": ": a) They are effective on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These methods are (39) than chemical m",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These methods are (39) than chemical methods of eliminating h",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "the chemicals quickly Biological methods These methods are (39) than chemical methods of eliminating harmful insects. Breeding control method In order to control the bre",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 36-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical me",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "flights",
+    "2": "april",
+    "3": "cheapest",
+    "4": "non-smoking",
+    "5": "John A. Smyth",
+    "6": "110 dollars",
+    "7": "cultural centre",
+    "8": "camel ride",
+    "9": "desert",
+    "10": "stars",
+    "11": "18",
+    "12": "police records",
+    "13": "references",
+    "14": "curriculum vitae",
+    "15": "transportation",
+    "16": "own car",
+    "17": "monday mornings",
+    "18": "august",
+    "19": "651",
+    "20": "acrawfor@worldwidehelpers.org",
+    "21": "farming",
+    "22": "environmental damage",
+    "23": "tourists",
+    "24": "samples",
+    "25": "21,000 square",
+    "26": "10.5 square",
+    "27": "measurements",
+    "28": "soil",
+    "29": "photographs",
+    "30": "map",
+    "31": "C",
+    "32": "B",
+    "33": "harmful insects",
+    "34": "sleeping sickness",
+    "35": "whole building",
+    "36": "small scale",
+    "37": "humans",
+    "38": "resistant",
+    "39": "cheaper",
+    "40": "life cycle"
+  }
+}

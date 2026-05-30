@@ -1,0 +1,413 @@
+{
+  "id": "0101",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0101.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-6 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Complete the timetable. Write the correct letter A-H for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-34 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "r each answer. School Excursion Day: Wednesday Destination: (1) Weather: (2) Arrival time: (3) Activities planned See: (4) Eat: catered lunch Attend: (5) Return time: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": ". School Excursion Day: Wednesday Destination: (1) Weather: (2) Arrival time: (3) Activities planned See: (4) Eat: catered lunch Attend: (5) Return time: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "Day: Wednesday Destination: (1) Weather: (2) Arrival time: (3) Activities planned See: (4) Eat: catered lunch Attend: (5) Return time: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "(1) Weather: (2) Arrival time: (3) Activities planned See: (4) Eat: catered lunch Attend: (5) Return time: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "(3) Activities planned See: (4) Eat: catered lunch Attend: (5) Return time: (6)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. School Excursion",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-6"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "plete the table below. Write ONE WORD only for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "e the table below. Write ONE WORD only for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "e table below. Write ONE WORD only for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD only for each answer. (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q7-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. 11. The company deals mostly with",
+      "options": [
+        {
+          "letter": "A",
+          "text": "big cities"
+        },
+        {
+          "letter": "B",
+          "text": "nature holidays"
+        },
+        {
+          "letter": "C",
+          "text": "Nepal"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The overseas consultants deal with",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asia"
+        },
+        {
+          "letter": "B",
+          "text": "North America"
+        },
+        {
+          "letter": "C",
+          "text": "Europe"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "For deserts and gorges, customers should come in the",
+      "options": [
+        {
+          "letter": "A",
+          "text": "morning"
+        },
+        {
+          "letter": "B",
+          "text": "afternoon"
+        },
+        {
+          "letter": "C",
+          "text": "night"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Trips to regional locations are good because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the buses are comfortable"
+        },
+        {
+          "letter": "B",
+          "text": "there is shortage of suitcases"
+        },
+        {
+          "letter": "C",
+          "text": "they can be seen quickly"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "SleekLine buses are particularly known for their",
+      "options": [
+        {
+          "letter": "A",
+          "text": "service"
+        },
+        {
+          "letter": "B",
+          "text": "size"
+        },
+        {
+          "letter": "C",
+          "text": "comfort"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 Identify the rooms in the office plan. Write the correct letter A-G next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "he timetable. Write the correct letter A-H for each answer. (21) (22) (23) (24) A BBQ B Careers lecture C Computer lab visit D Dance E Library tour F Student union induct",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "metable. Write the correct letter A-H for each answer. (21) (22) (23) (24) A BBQ B Careers lecture C Computer lab visit D Dance E Library tour F Student union induction G",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "le. Write the correct letter A-H for each answer. (21) (22) (23) (24) A BBQ B Careers lecture C Computer lab visit D Dance E Library tour F Student union induction G Univ",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 21-24 Complete the timetable. Write the correct letter A-H for each answer. (21) (22) (23) (24) A BBQ B Careers l",
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "he labels. Write ONE WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "bels. Write ONE WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Write ONE WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "e ONE WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 Complete the labels. Write ONE WORD AND/ OR A NUMBER for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "sentenceCompletion",
+      "prompt": "he sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Behavior in parks is controlled by 32. Insect numbers are reduced by having 33. A wilderness park does not",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 32,
+      "type": "sentenceCompletion",
+      "prompt": "RDS for each answer. 31. Behavior in parks is controlled by 32. Insect numbers are reduced by having 33. A wilderness park does not have any 34. Observing trees and lying",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 33,
+      "type": "sentenceCompletion",
+      "prompt": "s is controlled by 32. Insect numbers are reduced by having 33. A wilderness park does not have any 34. Observing trees and lying in the grass are examples of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 34,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 31-34 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Behavior in parks is controlled b",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-34"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 35-40 Complete the notes. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q35-40"
+    }
+  ],
+  "answerKey": {
+    "1": "animal park",
+    "2": "cold and cloudy",
+    "3": "10.15 am",
+    "4": "birds of prey",
+    "5": "reptile display",
+    "6": "6.30 pm",
+    "7": "chinese",
+    "8": "japanese",
+    "9": "koreans",
+    "10": "thai",
+    "11": "B",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "A",
+    "16": "D",
+    "17": "F",
+    "18": "B",
+    "19": "C",
+    "20": "A",
+    "21": "G",
+    "22": "E",
+    "23": "C",
+    "24": "A",
+    "25": "header",
+    "26": "16",
+    "27": "12",
+    "28": "single",
+    "29": "work",
+    "30": "teacher",
+    "31": "regulations",
+    "32": "short grass",
+    "33": "development",
+    "34": "passive recreation",
+    "35": "get lost",
+    "36": "industrial revolution",
+    "37": "50,000",
+    "38": "(central) lake",
+    "39": "refuge",
+    "40": "Melbourne"
+  }
+}

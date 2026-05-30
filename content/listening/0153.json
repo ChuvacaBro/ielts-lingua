@@ -1,0 +1,489 @@
+{
+  "id": "0153",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0153.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the notes below. Write NO MORE THAN THREE WORDS.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Complete the notes below. Write ONE WORD ONLY.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "ance: 147 miles Options: • Car hire – don’t want to drive • (1) – expensive • Greyhound Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "• Greyhound Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "0 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 mil",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "omplete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "ete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "prompt": "the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 6-10 Complete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter A, B or C. 11. PS Camping has been organising holidays for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 years"
+        },
+        {
+          "letter": "B",
+          "text": "20 years"
+        },
+        {
+          "letter": "C",
+          "text": "25 years"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The company has most camping sites in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "France"
+        },
+        {
+          "letter": "B",
+          "text": "Italy"
+        },
+        {
+          "letter": "C",
+          "text": "Switzerland"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Which organised activity can children do every day of the week?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "football"
+        },
+        {
+          "letter": "B",
+          "text": "drama"
+        },
+        {
+          "letter": "C",
+          "text": "model making"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Some areas of the sites have a ‘no noise’ rule after",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.30 p.m"
+        },
+        {
+          "letter": "B",
+          "text": "10.00 p.m"
+        },
+        {
+          "letter": "C",
+          "text": "10.30 p.m"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "The holiday insurance that is offered by PS Camping",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can be charged on an annual basis"
+        },
+        {
+          "letter": "B",
+          "text": "is included in the price of the holiday"
+        },
+        {
+          "letter": "C",
+          "text": "must be taken out at the time of booking"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Customers who recommend PS Camping to friends will receive",
+      "options": [
+        {
+          "letter": "A",
+          "text": "a free gift"
+        },
+        {
+          "letter": "B",
+          "text": "an upgrade to a luxury tent"
+        },
+        {
+          "letter": "C",
+          "text": "a discount"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 17-20 What does the speaker say about the following items? Write the correct letter A, B or C next to",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "ALS IN THE WORKPLACE Individuals bring different: • Ideas • (21) • Learning experiences Work behavior differences are due to: • Personality • (22) Effects of diversity on",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "ences Work behavior differences are due to: • Personality • (22) Effects of diversity on companies: • Advantage: diversity develops (23) • Disadvantages: diversity can ca",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-23 Complete the notes below. Write ONE WORD ONLY. DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "-27 Choose the correct letter, A, B or C. 24. Janice thinks that employers should encourage workers who are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "potential leaders"
+        },
+        {
+          "letter": "B",
+          "text": "open to new ideas"
+        },
+        {
+          "letter": "C",
+          "text": "good at teamwork"
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Janice suggests that managers may find it difficult to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "form successful groups"
+        },
+        {
+          "letter": "B",
+          "text": "balance conflicting needs"
+        },
+        {
+          "letter": "C",
+          "text": "deal with uncooperative workers"
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "Janice believes employers should look for job applicants who",
+      "options": [
+        {
+          "letter": "A",
+          "text": "can think independently"
+        },
+        {
+          "letter": "B",
+          "text": "will obey the system"
+        },
+        {
+          "letter": "C",
+          "text": "can solve problems"
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "Janice believes managers should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "demonstrate good behavior"
+        },
+        {
+          "letter": "B",
+          "text": "encourage co-operation early on"
+        },
+        {
+          "letter": "C",
+          "text": "increase financial incentives"
+        }
+      ],
+      "groupId": "q24-27"
+    },
+    {
+      "number": 28,
+      "type": "sentenceCompletion",
+      "prompt": "ns 28-30 Complete the sentences below. Write ONE WORD ONLY. 28. All managers need to understand their employees and recognise their company’s 29. When managing change, in",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "sentenceCompletion",
+      "prompt": "to understand their employees and recognise their company’s 29. When managing change, increasing the company’s may be more important than employee satisfaction. 30. Durin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 28-30 Complete the sentences below. Write ONE WORD ONLY. 28. All managers need to understand their employees and",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "AR ON ROCK ART Preparation for fieldwork trip to Namibia in (31) Rock art in Namibia may be • Paintings • Engravings Earliest explanation of engravings of animal footprin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "n of engravings of animal footprints They were used to help (32) learn about tracking. But: • Why are the tracks usually (33) ? • Why are some engravings realistic and ot",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "32) learn about tracking. But: • Why are the tracks usually (33) ? • Why are some engravings realistic and other realistic? • Why are the unrealistic animals sometimes ha",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "realistic? • Why are the unrealistic animals sometimes half (34) ? More recent explanation Wise men may have been trying to control wild animals with (35)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibi",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "sentenceCompletion",
+      "prompt": "ns 36-40 Complete the sentences below. Write ONE WORD ONLY. 36. If you look at a site from a , you reduce visitor pressure. 37. To camp on a site may be disrespectful to",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "sentenceCompletion",
+      "prompt": "If you look at a site from a , you reduce visitor pressure. 37. To camp on a site may be disrespectful to people from that 38. Undiscovered material may be damaged by 39.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "sentenceCompletion",
+      "prompt": "To camp on a site may be disrespectful to people from that 38. Undiscovered material may be damaged by 39. You should avoid or tracing rock art as it is so fragile. 40.",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "sentenceCompletion",
+      "prompt": "eople from that 38. Undiscovered material may be damaged by 39. You should avoid or tracing rock art as it is so fragile. 40. In general, your aim is to leave the site",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 36-40 Complete the sentences below. Write ONE WORD ONLY. 36. If you look at a site from a , you reduce visitor pr",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "taxi",
+    "2": "city centre",
+    "3": "wait",
+    "4": "door to door",
+    "5": "reserve (a seat)",
+    "6": "17 of October",
+    "7": "12.30",
+    "8": "Thomson",
+    "9": "AC936",
+    "10": "3303 8450 2045 6837",
+    "11": "B",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "C",
+    "16": "A",
+    "17": "C",
+    "18": "A",
+    "19": "C",
+    "20": "B",
+    "21": "attitudes",
+    "22": "gender",
+    "23": "creativity",
+    "24": "A",
+    "25": "B",
+    "26": "A",
+    "27": "B",
+    "28": "culture",
+    "29": "profits",
+    "30": "stress",
+    "31": "april",
+    "32": "children",
+    "33": "repeated",
+    "34": "human",
+    "35": "magic",
+    "36": "distance",
+    "37": "culture",
+    "38": "fires",
+    "39": "touching",
+    "40": "intact"
+  }
+}

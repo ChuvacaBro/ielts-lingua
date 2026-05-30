@@ -1,0 +1,413 @@
+{
+  "id": "0048",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0048.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorato",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorators • D",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-2"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "e table below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "ble below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "w. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 3-10 Complete the table below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Par",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q3-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. 11. On Monday what will be the students’ working day?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 am – 5 pm"
+        },
+        {
+          "letter": "B",
+          "text": "8.45 am – 5 pm"
+        },
+        {
+          "letter": "C",
+          "text": "9 am – 4.45 pm"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "While working in the museum students are encouraged to wear",
+      "options": [
+        {
+          "letter": "A",
+          "text": "formal clothing such as a suit"
+        },
+        {
+          "letter": "B",
+          "text": "cap with the museum logo"
+        },
+        {
+          "letter": "C",
+          "text": "their own casual clothes"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "If students are ill or going to be late they must inform",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the museum receptionist"
+        },
+        {
+          "letter": "B",
+          "text": "their museum supervisor"
+        },
+        {
+          "letter": "C",
+          "text": "their school placement tutor"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The most popular task while on work placement is usually",
+      "options": [
+        {
+          "letter": "A",
+          "text": "making presentations in local primary schools"
+        },
+        {
+          "letter": "B",
+          "text": "talking to elderly people in care homes"
+        },
+        {
+          "letter": "C",
+          "text": "conducting workshops in the museum"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "The best form of preparation before starting their work placement is to read",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the history of the museum on the website"
+        },
+        {
+          "letter": "B",
+          "text": "the museum regulations and safety guidance"
+        },
+        {
+          "letter": "C",
+          "text": "notes made by previous work placement students"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 16-20 Label the plan below. Write the correct letter A-I next to",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Question 22",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Question 23",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Questions 21-26 What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write",
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 27-28 Choose TWO letters, A-E. Which TWO problems do Sam and the tutor identify concerning group assignments? A P",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 29-30 Choose TWO letters, A-E. Which TWO problems does Sam identify concerning the lecturers? A Punctuality. B Or",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "ow. Write ONE WORD ONLY for each answer. The Tawny Owl Most (31) owl species in UK Strongly nocturnal Habitat: Mainly lives in (32) but can also be seen in urban areas, e",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "l species in UK Strongly nocturnal Habitat: Mainly lives in (32) but can also be seen in urban areas, e.g. parks. Adaptations: • Short wings and (33) , for navigation • B",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "in urban areas, e.g. parks. Adaptations: • Short wings and (33) , for navigation • Brown and (34) feathers, for camouflage • Large eyes (more effective than those of (35",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ations: • Short wings and (33) , for navigation • Brown and (34) feathers, for camouflage • Large eyes (more effective than those of (35) ), for good night vision • Very",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": ", for camouflage • Large eyes (more effective than those of (35) ), for good night vision • Very good spatial (36) for predicting where prey might be found • Excellent (3",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "those of (35) ), for good night vision • Very good spatial (36) for predicting where prey might be found • Excellent (37) for locating prey from a perch Diet Main food i",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "l (36) for predicting where prey might be found • Excellent (37) for locating prey from a perch Diet Main food is small mammals. Owls in urban areas eat more (38) Surviva",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "et Main food is small mammals. Owls in urban areas eat more (38) Survival Two thirds of young owls die within a (39) Owls don’t disperse over long distances. Owls seem to",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "at more (38) Survival Two thirds of young owls die within a (39) Owls don’t disperse over long distances. Owls seem to dislike flying over large areas of (40)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most (31) owl species in UK St",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "weekends",
+    "2": "Plasdeco",
+    "3": "clear",
+    "4": "late",
+    "5": "cheaper",
+    "6": "messy",
+    "7": "designs",
+    "8": "expensive",
+    "9": "painting",
+    "10": "ladders",
+    "11": "B",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "C",
+    "17": "I",
+    "18": "H",
+    "19": "D",
+    "20": "G",
+    "21": "D",
+    "22": "B",
+    "23": "A",
+    "24": "H",
+    "25": "F",
+    "26": "E",
+    "27": "B",
+    "28": "E",
+    "29": "A",
+    "30": "C",
+    "31": "common",
+    "32": "woods",
+    "33": "tail",
+    "34": "grey",
+    "35": "humans",
+    "36": "memory",
+    "37": "hearing",
+    "38": "birds",
+    "39": "year",
+    "40": "water"
+  }
+}

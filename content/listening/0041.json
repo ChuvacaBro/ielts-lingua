@@ -1,0 +1,418 @@
+{
+  "id": "0041",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0041.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-7 Complete the table and the notes below using NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Complete the table below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-35 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "notes below using NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that the",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "s below using NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that they Pa",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "low using NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that they Part 2",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "using NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that they Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "g NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that they Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (6) (7) 8. Jetty No.2 is situated 9. The commentary is in 10. The lady recommends that they Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-7 Complete the table and the notes below using NO MORE THAN THREE WORDS for each answer. (1) (2) (3) (4) (5) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-7"
+    },
+    {
+      "number": 8,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 8"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 9"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 10"
+    },
+    {
+      "number": 11,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "tableCompletion",
+      "prompt": "Questions 11-14 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (11) (12) (13) (14)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "noteCompletion",
+      "prompt": "WORDS for each answer. At the interview Arrive no more than (15) before the time of the interview. After you hear the question, you can (16) before you reply. You can (17",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "noteCompletion",
+      "prompt": "time of the interview. After you hear the question, you can (16) before you reply. You can (17) if you don’t understand what they are asking you. Wait for them to offer y",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "noteCompletion",
+      "prompt": "u hear the question, you can (16) before you reply. You can (17) if you don’t understand what they are asking you. Wait for them to offer you the job before you say what",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "noteCompletion",
+      "prompt": "you. Wait for them to offer you the job before you say what (18) you want. Learning from the experience will make you more (19) in future interviews. Pay attention to you",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "noteCompletion",
+      "prompt": ") you want. Learning from the experience will make you more (19) in future interviews. Pay attention to your (20) – it shows you have a positive attitude. Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "noteCompletion",
+      "prompt": "Questions 15-20 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. At the interview Arrive no more t",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "sentenceCompletion",
+      "prompt": "HAN THREE WORDS for each answer. Effects of weather on mood 21. Phil and Stella’s goal is to the hypothesis that weather has an effect on a person’s mood. 22. They expect",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "sentenceCompletion",
+      "prompt": "e hypothesis that weather has an effect on a person’s mood. 22. They expect to find that ‘good’ weather (weather which is and ) has a positive effect on a person’s mood.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 21-23 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Effects of weather on mood 21",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Question 24",
+      "groupId": "q24-27"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q24-27"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q24-27"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Questions 24-27 What information was given by each writer? Choose you answers from the list of options A-F next to",
+      "groupId": "q24-27"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 28-30 Choose THREE letters A-H. Which THREE things do Phil and Stella still have to decide on? A how to analyse t",
+      "groupId": "q28-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "-35 Choose the correct letter A, B or C. 31. How long would terms be under the six-term system?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "six weeks"
+        },
+        {
+          "letter": "B",
+          "text": "seven weeks"
+        },
+        {
+          "letter": "C",
+          "text": "thirteen weeks"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "What would happen to the summer holiday?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it would disappear"
+        },
+        {
+          "letter": "B",
+          "text": "it would be shortened"
+        },
+        {
+          "letter": "C",
+          "text": "it would be lengthened"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 33,
+      "type": "multipleChoice",
+      "stem": "How much was the average learning loss in the summer?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "two weeks"
+        },
+        {
+          "letter": "B",
+          "text": "three weeks"
+        },
+        {
+          "letter": "C",
+          "text": "seven weeks"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 34,
+      "type": "multipleChoice",
+      "stem": "In which subject was learning loss greatest among disadvantaged?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "maths"
+        },
+        {
+          "letter": "B",
+          "text": "reading"
+        },
+        {
+          "letter": "C",
+          "text": "writing"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 35,
+      "type": "multipleChoice",
+      "stem": "According to Marchmont’s research, in the six-term system pupils performed",
+      "options": [
+        {
+          "letter": "A",
+          "text": "better than under the existing system"
+        },
+        {
+          "letter": "B",
+          "text": "worse than under the existing system"
+        },
+        {
+          "letter": "C",
+          "text": "the same as under the existing system"
+        }
+      ],
+      "groupId": "q31-35"
+    },
+    {
+      "number": 36,
+      "type": "summaryCompletion",
+      "prompt": "ool terms that we use originated when many people worked in (36) Also because of the heat it was difficult to teach children in July and August before the invention (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "summaryCompletion",
+      "prompt": "t to teach children in July and August before the invention (37) A different approach can be provided by the (38) An important factor in the success of these is the small",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "summaryCompletion",
+      "prompt": "invention (37) A different approach can be provided by the (38) An important factor in the success of these is the small (39) Also the element of (40) is usually present",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "summaryCompletion",
+      "prompt": "8) An important factor in the success of these is the small (39) Also the element of (40) is usually present which contributes greatly.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "summaryCompletion",
+      "prompt": "Questions 36-40 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The school terms that we use orig",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "coffee",
+    "2": "9.30",
+    "3": "postcard",
+    "4": "$42",
+    "5": "lunch",
+    "6": "2.15",
+    "7": "sandwihes",
+    "8": "opposite shops",
+    "9": "english (only)",
+    "10": "wear a hat",
+    "11": "work samples",
+    "12": "job description",
+    "13": "employees",
+    "14": "experience or skills",
+    "15": "ten minutes",
+    "16": "take your time",
+    "17": "ask for clarification",
+    "18": "salary",
+    "19": "confident",
+    "20": "appearance",
+    "21": "investigate",
+    "22": "sunny and warm",
+    "23": "change",
+    "24": "F",
+    "25": "D",
+    "26": "C",
+    "27": "B",
+    "28": "B",
+    "29": "F",
+    "30": "H",
+    "31": "B",
+    "32": "B",
+    "33": "B",
+    "34": "B",
+    "35": "A",
+    "36": "agriculture",
+    "37": "air-conditioning",
+    "38": "summer school",
+    "39": "class size",
+    "40": "parental support"
+  }
+}

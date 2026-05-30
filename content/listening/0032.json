@@ -1,0 +1,516 @@
+{
+  "id": "0032",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0032.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-17 Complete the summary of the welcoming speech. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Choose the correct letter A, B or C.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "anish, German, Dutch, Polish • Ancient Languages: Latin and (1) • Asian Languages: Hindi and (2) Cost £25 per person per term • Notes: bulk booking (more than two courses",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "cient Languages: Latin and (1) • Asian Languages: Hindi and (2) Cost £25 per person per term • Notes: bulk booking (more than two courses (3) terms) 10% discount • To res",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "erson per term • Notes: bulk booking (more than two courses (3) terms) 10% discount • To reserve a place in a language class, telephone Mary Jones on extension (4)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Notes on course av",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "S AND/OR A NUMBER for each answer. Monthly Computer Courses (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "D/OR A NUMBER for each answer. Monthly Computer Courses (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "A NUMBER for each answer. Monthly Computer Courses (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "UMBER for each answer. Monthly Computer Courses (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "R for each answer. Monthly Computer Courses (5) (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 5-10 Complete the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Monthly Computer",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "summaryCompletion",
+      "prompt": "lcome meeting. We were greeted by the Principal of Donleavy (11) who explained how the university has (12) campuses. He told us where all the important buildings on this",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 12,
+      "type": "summaryCompletion",
+      "prompt": "cipal of Donleavy (11) who explained how the university has (12) campuses. He told us where all the important buildings on this campus are and also explained which subjec",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 13,
+      "type": "summaryCompletion",
+      "prompt": "hich subjects are studied on the other two. The Principal’s (13) is on our campus. We must carry our (14) to get into the campus. The university shop sells (15) and and i",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 14,
+      "type": "summaryCompletion",
+      "prompt": "o. The Principal’s (13) is on our campus. We must carry our (14) to get into the campus. The university shop sells (15) and and is next to the cafeteria. You need to use",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 15,
+      "type": "summaryCompletion",
+      "prompt": "our (14) to get into the campus. The university shop sells (15) and and is next to the cafeteria. You need to use your (16) when you buy things in both of them. There wi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 16,
+      "type": "summaryCompletion",
+      "prompt": "(15) and and is next to the cafeteria. You need to use your (16) when you buy things in both of them. There will be a lot of building work because they are building a (17",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 17,
+      "type": "summaryCompletion",
+      "prompt": "Questions 11-17 Complete the summary of the welcoming speech. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answe",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-17"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 18-20 Complete the labels on the buildings on the map below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 21. Bill was ill. What was wrong?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "cold"
+        },
+        {
+          "letter": "B",
+          "text": "food allergy"
+        },
+        {
+          "letter": "C",
+          "text": "severe pain in his head"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "Bill and Sarah",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live near each other"
+        },
+        {
+          "letter": "B",
+          "text": "have never worked on a project together"
+        },
+        {
+          "letter": "C",
+          "text": "have plans for later that evening"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Bill and Sarah have to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "research and write a survey questionnaire"
+        },
+        {
+          "letter": "B",
+          "text": "ask shopkeepers questionnaire"
+        },
+        {
+          "letter": "C",
+          "text": "submit their project via the internet"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What does Sarah want Bill to do?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "visit the library"
+        },
+        {
+          "letter": "B",
+          "text": "write a list of questions"
+        },
+        {
+          "letter": "C",
+          "text": "use a computer"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Which of the following items will be included in Bill and Sarah’s research?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "deodorants and cosmetics"
+        },
+        {
+          "letter": "B",
+          "text": "electrical goods"
+        },
+        {
+          "letter": "C",
+          "text": "food and clothing"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "With what aspect of the project does Bill express concern?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "meeting the projects’ deadline"
+        },
+        {
+          "letter": "B",
+          "text": "invading people’s privacy"
+        },
+        {
+          "letter": "C",
+          "text": "finding enough reference material"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "What does Bill plan to do for the rest of the day?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "review the previous week’s classes"
+        },
+        {
+          "letter": "B",
+          "text": "prepare notes for his next meeting with Sarah"
+        },
+        {
+          "letter": "C",
+          "text": "find people to participate in the research"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "What does Sarah do for Bill?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "helps him catch up on the notes"
+        },
+        {
+          "letter": "B",
+          "text": "gives him a copy of her notes"
+        },
+        {
+          "letter": "C",
+          "text": "promises to help him study"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "What does Sarah have to do at the library?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "research"
+        },
+        {
+          "letter": "B",
+          "text": "meet Bill"
+        },
+        {
+          "letter": "C",
+          "text": "collect some books"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "Where do Bill and Sarah agree to meet the next day?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "in the library"
+        },
+        {
+          "letter": "B",
+          "text": "in class"
+        },
+        {
+          "letter": "C",
+          "text": "in the laboratory"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "multipleChoice",
+      "stem": "and 32 Choose the correct letter A, B or C. 31. Who is giving this talk?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "an artist"
+        },
+        {
+          "letter": "B",
+          "text": "an art critic"
+        },
+        {
+          "letter": "C",
+          "text": "a curator"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "multipleChoice",
+      "stem": "Why did the speaker choose to speak about Joan Miro?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "because a new work by Miro was recently added to the gallery"
+        },
+        {
+          "letter": "B",
+          "text": "because he thought Miro would appeal to people with different tastes"
+        },
+        {
+          "letter": "C",
+          "text": "because he felt everyone would be familiar with Miro’s art"
+        }
+      ],
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "Question 33",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "Question 34",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "Questions 33-35 Which THREE features below are mentioned by the speaker as characteristics of Joan Miro’s art? Choose THREE",
+      "groupId": "q33-35"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "D/ OR A NUMBER for each answer. THREE OF MIRO’S GREAT WORKS (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "A NUMBER for each answer. THREE OF MIRO’S GREAT WORKS (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 38,
+      "type": "tableCompletion",
+      "prompt": "MBER for each answer. THREE OF MIRO’S GREAT WORKS (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 39,
+      "type": "tableCompletion",
+      "prompt": "for each answer. THREE OF MIRO’S GREAT WORKS (36) (37) (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    },
+    {
+      "number": 40,
+      "type": "tableCompletion",
+      "prompt": "Questions 36-40 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. THREE OF MIRO’S GR",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q36-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Greek",
+    "2": "Bengali",
+    "3": "2",
+    "4": "6994",
+    "5": "databases",
+    "6": "4",
+    "7": "60",
+    "8": "June",
+    "9": "16",
+    "10": "55",
+    "11": "university",
+    "12": "3",
+    "13": "office",
+    "14": "ID passes",
+    "15": "books and stationary",
+    "16": "ID passes",
+    "17": "fountain",
+    "18": "physics",
+    "19": "shop",
+    "20": "biology",
+    "21": "C",
+    "22": "A",
+    "23": "A",
+    "24": "C",
+    "25": "A",
+    "26": "B",
+    "27": "B",
+    "28": "A",
+    "29": "C",
+    "30": "C",
+    "31": "C",
+    "32": "B",
+    "33": "B",
+    "34": "E",
+    "35": "G",
+    "36": "bird",
+    "37": "park",
+    "38": "mosaic",
+    "39": "1976",
+    "40": "civil war"
+  }
+}

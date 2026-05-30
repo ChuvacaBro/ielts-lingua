@@ -1,0 +1,357 @@
+{
+  "id": "0035",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0035.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Complete the following sentences using NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Answer the following questions using NO MORE THAN THREE WORDS for an answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-33 Answer the following information about British Education scholarships using NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 1. On which day and date does the woman want to fly to Toronto? 2. What class does the woman want to fly in? 3",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "gapFill",
+      "prompt": "n which day and date does the woman want to fly to Toronto? 2. What class does the woman want to fly in? 3. What is the lowest price for a ticket on the days the customer",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "gapFill",
+      "prompt": "ly to Toronto? 2. What class does the woman want to fly in? 3. What is the lowest price for a ticket on the days the customer has chosen? 4. What do the ticket prices inc",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "gapFill",
+      "prompt": "Questions 1-4 Answer the following questions using NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 1. On which",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "ow using NO MORE THAN ONE WORD OR A NUMBER for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "sing NO MORE THAN ONE WORD OR A NUMBER for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN ONE WORD OR A NUMBER for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Questions 5-8 Complete the table below using NO MORE THAN ONE WORD OR A NUMBER for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 9,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Answer the following questions using NO MORE THAN THREE WORDS for each answer. 9. What is the custome",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "gapFill",
+      "prompt": "Questions 9 and 10 Answer the following questions using NO MORE THAN THREE WORDS for each answer. 9. What is the customer’s fu",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "g sentences using NO MORE THAN THREE WORDS for each answer. 11. A tenancy agreement is a between tenant and the landlord. 12. An assured short hold tenancy means that you",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": ". A tenancy agreement is a between tenant and the landlord. 12. An assured short hold tenancy means that your landlord cannot ask you to leave without a good reason durin",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "rd cannot ask you to leave without a good reason during the 13. Tenants should keep a of the tenancy agreement. 14. is a list of all the items in the property.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 11-14 Complete the following sentences using NO MORE THAN THREE WORDS for each answer. 11. A tenancy agreement is",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 15-17 Decide which THREE of the following statements about deposits are correct and write the appropriate letters",
+      "groupId": "q15-17"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 18-20 Decide which are THREE ways a landlord can legally evict a tenant (other than an excluded tenant) and write",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "ing questions using NO MORE THAN THREE WORDS for an answer. 21. What did Klara originally want to do her project on? 22. Where can Klara read about housing prices every d",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "r. 21. What did Klara originally want to do her project on? 22. Where can Klara read about housing prices every day? 23. Which facilities might influence housing prices?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "n? 22. Where can Klara read about housing prices every day? 23. Which facilities might influence housing prices? 24. What did Klara’s friend suggest including information",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "y day? 23. Which facilities might influence housing prices? 24. What did Klara’s friend suggest including information on? 25. Where could Klara get such information from?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Questions 21-25 Answer the following questions using NO MORE THAN THREE WORDS for an answer. 21. What did Klara originally",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 26. In the middle part, Klara needs to use a 27. The professor suggests of the bibliography 28. The professor",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "r each answer. 26. In the middle part, Klara needs to use a 27. The professor suggests of the bibliography 28. The professor suggests that headings are 29. How much longe",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "eds to use a 27. The professor suggests of the bibliography 28. The professor suggests that headings are 29. How much longer does Klara have to finish the project? 30. Wh",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "e bibliography 28. The professor suggests that headings are 29. How much longer does Klara have to finish the project? 30. What’s the last thing Klara needs to do before",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 26-30 Complete the following sentences using NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 26. In th",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "hips • Available to all overseas students • For students at (31) level • 2000 awarded each year • Full award (32) award or partial award • Worth up to (33) £",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "tudents at (31) level • 2000 awarded each year • Full award (32) award or partial award • Worth up to (33) £",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": "Questions 31-33 Answer the following information about British Education scholarships using NO MORE THAN THREE WORDS AND/ O",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-33"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "Questions 34 and 35 Answer the following questions about Commonwealth Scholarships using NO MORE THAN THREE WORDS AND/ O",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "Questions 34 and 35 Answer the following questions about Commonwealth Scholarships using NO MORE THAN THREE WORDS AND/ OR A NUM",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q34-35"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "he Foreign Office and HE Institutions • Usually awarded for (36) • Not employed by government or (37) • Course must be in field of (38)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "• Usually awarded for (36) • Not employed by government or (37) • Course must be in field of (38)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Questions 36-38 Complete the following information about Foreign Office Scholarships using NO MORE THAN THREE WORDS AND/ OR",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q36-38"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Answer the following questions about Overseas Students Research Awards using NO MORE THAN THREE WORD",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 39 and 40 Answer the following questions about Overseas Students Research Awards using NO MORE THAN THREE WORDS for e",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Thursday 16",
+    "2": "business",
+    "3": "3200",
+    "4": "taxes and surcharges",
+    "5": "1.45",
+    "6": "vancouver",
+    "7": "6.15",
+    "8": "10.25",
+    "9": "mary-anne reece",
+    "10": "ABC stocks",
+    "11": "written legal agreement",
+    "12": "first six months",
+    "13": "copy",
+    "14": "an inventory",
+    "15": "B",
+    "16": "D",
+    "17": "E",
+    "18": "D",
+    "19": "F",
+    "20": "G",
+    "21": "voting patterns",
+    "22": "newspapers",
+    "23": "schools",
+    "24": "crime rates",
+    "25": "police",
+    "26": "uniform approach",
+    "27": "changing the format",
+    "28": "short",
+    "29": "a month",
+    "30": "proofreading",
+    "31": "postgraduate",
+    "32": "fees-only",
+    "33": "20000",
+    "34": "office",
+    "35": "£5000 to £15000",
+    "36": "taught postgraduate courses",
+    "37": "international organisation",
+    "38": "development",
+    "39": "fees",
+    "40": "ministry of education"
+  }
+}

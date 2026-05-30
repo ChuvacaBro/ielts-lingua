@@ -1,0 +1,638 @@
+{
+  "id": "0038",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0038.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32 Complete the notes below. Write ONE WORD only for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "n Name: Leela Kimh Wants to study abroad during: the entire (1) year of university Previous experience living abroad: a summer (2) in Buenos Aires, Argentina Need financi",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "r of university Previous experience living abroad: a summer (2) in Buenos Aires, Argentina Need financial aid for: plane (3) to South America Intended degree: bachelor of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "2) in Buenos Aires, Argentina Need financial aid for: plane (3) to South America Intended degree: bachelor of arts in Spanish and Latin American (4)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Study abroad application Name: Leela",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "multipleChoice",
+      "stem": "-7 Choose the correct letter A, B or C. 5. Leela’s friend who studied in China said",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the food was very different"
+        },
+        {
+          "letter": "B",
+          "text": "the people were friendly"
+        },
+        {
+          "letter": "C",
+          "text": "there was difficulty communicating"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "multipleChoice",
+      "stem": "One problem people studying abroad have is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "with having enough money"
+        },
+        {
+          "letter": "B",
+          "text": "feeling homesick and missing friends"
+        },
+        {
+          "letter": "C",
+          "text": "eating different kinds of food"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "multipleChoice",
+      "stem": "Corben says that when applying for a study abroad program",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leela needs to get parental permission"
+        },
+        {
+          "letter": "B",
+          "text": "Leela needs to keep things organized"
+        },
+        {
+          "letter": "C",
+          "text": "Leela has to raise money"
+        }
+      ],
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "sentenceCompletion",
+      "prompt": "ntences below. Write NO MORE THAN ONE WORD for each answer. 8. Leela must make sure her classes abroad will towards her degree. 9. The minimum grade point to study abroad",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "must make sure her classes abroad will towards her degree. 9. The minimum grade point to study abroad is 3.2. 10. After filling out the application Leela must them to th",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 8-10 Complete the sentences below. Write NO MORE THAN ONE WORD for each answer. 8. Leela must make sure her clas",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-16 Choose the correct letter A, B or C. 11. The food festival takes place",
+      "options": [
+        {
+          "letter": "A",
+          "text": "at the beginning of April"
+        },
+        {
+          "letter": "B",
+          "text": "at the end of April"
+        },
+        {
+          "letter": "C",
+          "text": "in the middle of March"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The East Asian section will feature cuisine from",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vietnam and Thailand"
+        },
+        {
+          "letter": "B",
+          "text": "Japan and China"
+        },
+        {
+          "letter": "C",
+          "text": "France and Italy"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "The Latin American section will have",
+      "options": [
+        {
+          "letter": "A",
+          "text": "South American food"
+        },
+        {
+          "letter": "B",
+          "text": "South Asian cuisine"
+        },
+        {
+          "letter": "C",
+          "text": "food from Germany"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "Besides food tasting there will also be",
+      "options": [
+        {
+          "letter": "A",
+          "text": "live music and dancing"
+        },
+        {
+          "letter": "B",
+          "text": "stores selling their products"
+        },
+        {
+          "letter": "C",
+          "text": "events that show people how to cook"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "For a list of events, people can",
+      "options": [
+        {
+          "letter": "A",
+          "text": "call the information centre"
+        },
+        {
+          "letter": "B",
+          "text": "look them up on the internet"
+        },
+        {
+          "letter": "C",
+          "text": "pick up a brochure"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "The speaker highly recommends that participants",
+      "options": [
+        {
+          "letter": "A",
+          "text": "practice their cooking techniques"
+        },
+        {
+          "letter": "B",
+          "text": "buy their aprons beforehand"
+        },
+        {
+          "letter": "C",
+          "text": "register in advance for workshops"
+        }
+      ],
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 21. The continuing education program is for people who",
+      "options": [
+        {
+          "letter": "A",
+          "text": "want to learn new hobbies"
+        },
+        {
+          "letter": "B",
+          "text": "want to start getting another degree"
+        },
+        {
+          "letter": "C",
+          "text": "cannot find employment elsewhere"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The woman is interested in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "making money to travel the world"
+        },
+        {
+          "letter": "B",
+          "text": "learning about accounting"
+        },
+        {
+          "letter": "C",
+          "text": "being an entrepreneur"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The city centre is accessible by public transportation but",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is under renovation now"
+        },
+        {
+          "letter": "B",
+          "text": "does not offer as many classes"
+        },
+        {
+          "letter": "C",
+          "text": "is more expensive"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "The woman takes care of her ill father during",
+      "options": [
+        {
+          "letter": "A",
+          "text": "weekends"
+        },
+        {
+          "letter": "B",
+          "text": "the evening"
+        },
+        {
+          "letter": "C",
+          "text": "normal working hours"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The man finally suggests taking classes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "through the internet"
+        },
+        {
+          "letter": "B",
+          "text": "at the city centre campus"
+        },
+        {
+          "letter": "C",
+          "text": "at the suburban satellite campus"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "The class for returning students teaches time management techniques like",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how to organize and use one’s time efficiently"
+        },
+        {
+          "letter": "B",
+          "text": "how to talk to your teachers"
+        },
+        {
+          "letter": "C",
+          "text": "making friends in class"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "The class that reviews study skills goes over",
+      "options": [
+        {
+          "letter": "A",
+          "text": "beginning English grammar"
+        },
+        {
+          "letter": "B",
+          "text": "basic math skills"
+        },
+        {
+          "letter": "C",
+          "text": "writing for academic classes"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "According to the dialogue the woman can go online in order to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "email fellow students"
+        },
+        {
+          "letter": "B",
+          "text": "contact teachers"
+        },
+        {
+          "letter": "C",
+          "text": "sign up for classes"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "The price of online classes is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the same as everything else"
+        },
+        {
+          "letter": "B",
+          "text": "cheaper than going to either campus"
+        },
+        {
+          "letter": "C",
+          "text": "more expensive than going to the city centre campus"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "Textbooks and other course materials are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "free when taking the online course"
+        },
+        {
+          "letter": "B",
+          "text": "available at campus bookstores"
+        },
+        {
+          "letter": "C",
+          "text": "available online"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 and 32 Complete the notes below. Write ONE WORD only for each answer. Donation • More than 50 million dolla",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "Questions 31 and 32 Complete the notes below. Write ONE WORD only for each answer. Donation • More than 50 million dollars was",
+      "wordLimit": "ONE WORD only",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (33) (34) (35) (36) (37) Questions 38 Choose TWO letters A-F. Which TWO things concerning the dining facilitie",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (33) (34) (35) (36) (37) Questions 38 Choose TWO letters A-F. Which TWO things concerning the dining facilities on",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (33) (34) (35) (36) (37) Questions 38 Choose TWO letters A-F. Which TWO things concerning the dining facilities on campu",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (33) (34) (35) (36) (37) Questions 38 Choose TWO letters A-F. Which TWO things concerning the dining facilities on campus did",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "Questions 33-37 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (33) (34) (35) (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q33-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "groupId": "qfallback",
+      "prompt": "Question 38"
+    },
+    {
+      "number": 39,
+      "type": "multipleChoice",
+      "stem": "and 40 Choose the correct letter A, B or C. 39. Why would a significantly minority of students not benefit from improved dining facilities?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they always make their own food and do not use those facilities"
+        },
+        {
+          "letter": "B",
+          "text": "they live off campus and do not eat their meals at school"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot afford to eat on campus and buy their food from other places"
+        }
+      ],
+      "groupId": "q39-40"
+    },
+    {
+      "number": 40,
+      "type": "multipleChoice",
+      "stem": "What is one argument against improving the athletics building?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it would change the make up of the student body population"
+        },
+        {
+          "letter": "B",
+          "text": "only a small proportion of students actually"
+        },
+        {
+          "letter": "C",
+          "text": "it would harm the reputation of the university"
+        }
+      ],
+      "groupId": "q39-40"
+    }
+  ],
+  "answerKey": {
+    "1": "third",
+    "2": "language program",
+    "3": "tickets",
+    "4": "history",
+    "5": "C",
+    "6": "B",
+    "7": "B",
+    "8": "count",
+    "9": "average",
+    "10": "submit",
+    "11": "A",
+    "12": "B",
+    "13": "A",
+    "14": "C",
+    "15": "B",
+    "16": "C",
+    "17": "learn cooking",
+    "18": "children",
+    "19": "forever",
+    "20": "healthy eating",
+    "21": "B",
+    "22": "C",
+    "23": "B",
+    "24": "C",
+    "25": "A",
+    "26": "A",
+    "27": "C",
+    "28": "C",
+    "29": "B",
+    "30": "A",
+    "31": "gift",
+    "32": "idea",
+    "33": "open question",
+    "34": "different",
+    "35": "vote",
+    "36": "4",
+    "37": "pros and cons",
+    "38": [
+      "A",
+      "D"
+    ],
+    "39": "B",
+    "40": "B"
+  }
+}

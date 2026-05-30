@@ -1,0 +1,477 @@
+{
+  "id": "0193",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0193.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-26 Choose the correct letter, A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "t Survey Name : Sadie Jones Year of birth : 1991 Postcode : (1) Traveling by bus Date of bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": ": 1991 Postcode : (1) Traveling by bus Date of bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus to",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "pping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "us at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes travel",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "out bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes traveling by bike in the city centre",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes traveling by bike in the city centre because of the (9) Doesn’t own a",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "islikes traveling by bike in the city centre because of the (9) Doesn’t own a bike because of a lack of (10) Part 2:",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jo",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-13 Choose the correct letter, A, B or C. Becoming a volunteer for ACE 11. Why does the speaker apologise about the seats?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are too small."
+        },
+        {
+          "letter": "B",
+          "text": "There are not enough of them."
+        },
+        {
+          "letter": "C",
+          "text": "Some of them are very close together."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about the age of volunteers?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "The age of volunteers is less important than other factors."
+        },
+        {
+          "letter": "B",
+          "text": "Young volunteers are less reliable than older ones."
+        },
+        {
+          "letter": "C",
+          "text": "Most volunteers are about 60 years old."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "What does the speaker say about training?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is continuous."
+        },
+        {
+          "letter": "B",
+          "text": "It is conducted by a manager."
+        },
+        {
+          "letter": "C",
+          "text": "It takes place online."
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Questions 14 and 15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they",
+      "groupId": "q14-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 14 and 15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they apply t",
+      "groupId": "q14-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Question 18",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Question 19",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FI",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-26 Choose the correct letter, A, B or C. Talk on Jobs in fashion design 21. What problem did Chantal have at the start of the talk?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Her view of the speaker was blocked."
+        },
+        {
+          "letter": "B",
+          "text": "She was unable to find an empty seat."
+        },
+        {
+          "letter": "C",
+          "text": "The students next to her were talking."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What were Hugo and Chantal surprised to hear about the job market?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It has become more competitive than it used to be."
+        },
+        {
+          "letter": "B",
+          "text": "There is more variety in it than they had realised."
+        },
+        {
+          "letter": "C",
+          "text": "Some areas of it are more exciting than others."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Hugo and Chantal agree that the speaker’s message was",
+      "options": [
+        {
+          "letter": "A",
+          "text": "unfair to them at times."
+        },
+        {
+          "letter": "B",
+          "text": "hard for them to follow."
+        },
+        {
+          "letter": "C",
+          "text": "critical of the industry."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What do Huao and Chantal criticise about their school careers advice?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "when they received the advice"
+        },
+        {
+          "letter": "B",
+          "text": "how much advice was given"
+        },
+        {
+          "letter": "C",
+          "text": "who gave the advice"
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "When discussing their future, Hugo and Chantal disagree on",
+      "options": [
+        {
+          "letter": "A",
+          "text": "which is the best career in fashion."
+        },
+        {
+          "letter": "B",
+          "text": "when to choose a career in fashion."
+        },
+        {
+          "letter": "C",
+          "text": "why they would like a career in fashion."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "How does Hugo feel about being an unpaid assistant?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "He is realistic about the practice."
+        },
+        {
+          "letter": "B",
+          "text": "He feels the practice is dishonest."
+        },
+        {
+          "letter": "C",
+          "text": "He thinks others want to change the practice."
+        }
+      ],
+      "groupId": "q21-26"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Questions 27 and 28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job? A being",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Questions 27 and 28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job? A being dishon",
+      "groupId": "q27-28"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be u",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+      "groupId": "q29-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "eater competition, causing hunger for elephants • damage to (31) in the park The translocation process • a suitable group of elephants from the same (32) was selected • v",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "ation process • a suitable group of elephants from the same (32) was selected • vets and park staff made use of (33) to help guide the elephants into an open plain • elep",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "he same (32) was selected • vets and park staff made use of (33) to help guide the elephants into an open plain • elephants were immobilised with tranquilisers o this pro",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "lisers o this process had to be completed quickly to reduce (34) o elephants had to be turned on their (35) to avoid damage to their lungs o elephants’ (36) had to be mon",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "uickly to reduce (34) o elephants had to be turned on their (35) to avoid damage to their lungs o elephants’ (36) had to be monitored constantly o tracking devices were f",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "d on their (35) to avoid damage to their lungs o elephants’ (36) had to be monitored constantly o tracking devices were fitted to the matriarchs o data including the size",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "the matriarchs o data including the size of their tusks and (37) was taken • elephants were taken by truck to their new reserve Advantages of translocation at Nkhotakota",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "e Advantages of translocation at Nkhotakota Wildlife Park • (38) opportunities • a reduction in the number of poachers and (39) • an example of conservation that other pa",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": ") opportunities • a reduction in the number of poachers and (39) • an example of conservation that other parks can follow • an increase in (40) as a contributor to GDP",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopul",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "DW307YZ",
+    "2": "24(th) April",
+    "3": "Dentist",
+    "4": "Parking",
+    "5": "Claxby",
+    "6": "Late",
+    "7": "Evening",
+    "8": "Supermarket",
+    "9": "Pollution",
+    "10": "Storage",
+    "11": "C",
+    "12": "A",
+    "13": "A",
+    "14": [
+      "B",
+      "E"
+    ],
+    "15": [
+      "B",
+      "E"
+    ],
+    "16": "B",
+    "17": "G",
+    "18": "D",
+    "19": "A",
+    "20": "F",
+    "21": "A",
+    "22": "B",
+    "23": "A",
+    "24": "C",
+    "25": "B",
+    "26": "A",
+    "27": [
+      "B",
+      "E"
+    ],
+    "28": [
+      "B",
+      "E"
+    ],
+    "29": [
+      "A",
+      "C"
+    ],
+    "30": [
+      "A",
+      "C"
+    ],
+    "31": "Fences",
+    "32": "Family",
+    "33": "Helicopters",
+    "34": "Stress",
+    "35": "Sides",
+    "36": "Breathing",
+    "37": "Feet",
+    "38": "Employment",
+    "39": "Weapons",
+    "40": "Tourism"
+  }
+}

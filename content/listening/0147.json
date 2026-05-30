@@ -1,0 +1,395 @@
+{
+  "id": "0147",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0147.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the table below. Write ONE WORD OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-13 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31 and 32",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "tableCompletion",
+      "prompt": "s 1-5 Complete the table below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "tableCompletion",
+      "prompt": "5 Complete the table below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "tableCompletion",
+      "prompt": "mplete the table below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "tableCompletion",
+      "prompt": "te the table below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "Questions 1-5 Complete the table below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "RD OR A NUMBER. Name of Assistant Manager: Ben (10)________ (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "R A NUMBER. Name of Assistant Manager: Ben (10)________ (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "NUMBER. Name of Assistant Manager: Ben (10)________ (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "ER. Name of Assistant Manager: Ben (10)________ (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 6-10 Complete the table below. Write ONE WORD OR A NUMBER. Name of Assistant Manager: Ben (10)________ (6) (7) (",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-13 Choose the correct letter A, B or C. WINRIDGE FOREST RAILWAY PARK 11. Simon’s idea for a theme park came from",
+      "options": [
+        {
+          "letter": "A",
+          "text": "his childhood hobby"
+        },
+        {
+          "letter": "B",
+          "text": "his interest in landscape design"
+        },
+        {
+          "letter": "C",
+          "text": "his visit to another park"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "When they started, the family decided to open the park only when",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the weather was expected to be good"
+        },
+        {
+          "letter": "B",
+          "text": "the children weren’t at school"
+        },
+        {
+          "letter": "C",
+          "text": "there were fewer farming commitments"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Since opening, the park has had",
+      "options": [
+        {
+          "letter": "A",
+          "text": "50,000 visitors"
+        },
+        {
+          "letter": "B",
+          "text": "1,000,000 visitors"
+        },
+        {
+          "letter": "C",
+          "text": "1,500,000 visitors"
+        }
+      ],
+      "groupId": "q11-13"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Question 16",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Question 17",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 14-18 What is currently the main area of work of each of the following people? Choose FIVE answers from the box a",
+      "groupId": "q14-18"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "Questions 19 and 20 Complete the table below. Write ONE WORD OR A NUMBER. (19) (20) Part 3:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 19 and 20 Complete the table below. Write ONE WORD OR A NUMBER. (19) (20) Part 3:",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "noteCompletion",
+      "prompt": "Skills Tutorial – Caroline Benning Dissertation topic: the (21) Strengths: (22) and Computer modeling Weaknesses: lack of background information Poor (23) skills (24) (2",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "noteCompletion",
+      "prompt": "– Caroline Benning Dissertation topic: the (21) Strengths: (22) and Computer modeling Weaknesses: lack of background information Poor (23) skills (24) (25) (26) (27) (28",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "noteCompletion",
+      "prompt": "er modeling Weaknesses: lack of background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial d",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "noteCompletion",
+      "prompt": "Weaknesses: lack of background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) Ja",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "noteCompletion",
+      "prompt": "esses: lack of background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) January",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "noteCompletion",
+      "prompt": ": lack of background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) January Part",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "noteCompletion",
+      "prompt": "k of background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) January Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "noteCompletion",
+      "prompt": "background information Poor (23) skills (24) (25) (26) (27) (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) January Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "noteCompletion",
+      "prompt": ") (28) Recommendations: use a card index and Real all notes (29) Next tutorial date: (30) January Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "noteCompletion",
+      "prompt": "Questions 21-30 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Study Skills Tutorial – Caroline Bennin",
+      "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32 31. The owners of the underground house A had no experience of living in a rural area B were interes",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "Questions 31 and 32 31. The owners of the underground house A had no experience of living in a rural area B were interested in",
+      "groupId": "q31-32"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "rs • The south-facing side was constructed of two layers of (33) • Photovoltaic tiles were attached • A layer of foam was used to improve the (34) of the building Special",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "les were attached • A layer of foam was used to improve the (34) of the building Special features • To increase the light, the building has many internal mirrors and (35)",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "rease the light, the building has many internal mirrors and (35) • In future, the house may produce more (36) than it needs • Recycled wood was used for the (37) of the h",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "al mirrors and (35) • In future, the house may produce more (36) than it needs • Recycled wood was used for the (37) of the house • The system for processing domestic (38",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ce more (36) than it needs • Recycled wood was used for the (37) of the house • The system for processing domestic (38) is organic Environmental issues • The use of large",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "the (37) of the house • The system for processing domestic (38) is organic Environmental issues • The use of large quantities of (39) in construction was environmentally",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "ganic Environmental issues • The use of large quantities of (39) in construction was environmentally harmful • But the house will have paid its ‘environmental debt’ withi",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 33-40 Complete the notes below. Write ONE WORD OR A NUMBER. THE UNDERGROUND HOUSE Design • Built in the earth, wi",
+      "wordLimit": "ONE WORD OR A NUMBER",
+      "groupId": "q33-40"
+    }
+  ],
+  "answerKey": {
+    "1": "300",
+    "2": "sunshade",
+    "3": "balcony",
+    "4": "forests",
+    "5": "319",
+    "6": "10,000",
+    "7": "relative",
+    "8": "missed",
+    "9": "item",
+    "10": "Ludlow",
+    "11": "C",
+    "12": "A",
+    "13": "C",
+    "14": "E",
+    "15": "H",
+    "16": "F",
+    "17": "C",
+    "18": "G",
+    "19": "120",
+    "20": "5 to 12",
+    "21": "fishing industry",
+    "22": "statistics",
+    "23": "note-taking",
+    "24": "confidence",
+    "25": "ideas",
+    "26": "student support",
+    "27": "places",
+    "28": "general",
+    "29": "3 times",
+    "30": "25",
+    "31": "B",
+    "32": "A",
+    "33": "glass",
+    "34": "insulation",
+    "35": "windows",
+    "36": "electricity",
+    "37": "floors",
+    "38": "waste",
+    "39": "concrete",
+    "40": "15 years"
+  }
+}

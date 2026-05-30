@@ -1,0 +1,401 @@
+{
+  "id": "0184",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0184.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16 Label the map below. Write the correct letters A-H next to questions 11-16.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-24 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "ction Survey Customer details Name: Sophie Bird Occupation: (1) Reason for travel today: (2) Journey information Name of station returning to: (3) Type of ticket purchase",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "Name: Sophie Bird Occupation: (1) Reason for travel today: (2) Journey information Name of station returning to: (3) Type of ticket purchased: standard (4) ticket Cost o",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "oday: (2) Journey information Name of station returning to: (3) Type of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday W",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "tation returning to: (3) Type of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday Where ticket was bought: (6) Satisfactio",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "pe of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday Where ticket was bought: (6) Satisfaction with journey: Most satisf",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "en ticket was purchased: yesterday Where ticket was bought: (6) Satisfaction with journey: Most satisfied with: the wifi Least satisfied with: the (7) this morning Satisf",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "ey: Most satisfied with: the wifi Least satisfied with: the (7) this morning Satisfaction with station facilities Most satisfied with: how much (8) was provided Least sat",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ction with station facilities Most satisfied with: how much (8) was provided Least satisfied with: lack of seats, particularly on the (9) Neither satisfied nor dissatisfi",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "ed Least satisfied with: lack of seats, particularly on the (9) Neither satisfied nor dissatisfied with: the (10) available Part 2:",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Cus",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 11",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 12",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 13",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 14",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "Question 15",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 11-16 Label the map below. Write the correct letters A-H next to",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What does the speaker say about the adventure playground? A children must be",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What does the speaker say about the adventure playground? A children must be superv",
+      "groupId": "q17-18"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What does the speaker say about the glass houses? A they are closed at weeke",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What does the speaker say about the glass houses? A they are closed at weekends B v",
+      "groupId": "q19-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-24 Choose the correct letter A, B or C. Presentation about refrigeration 21. What did Annie discover from reading about icehouses?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "why they were first created"
+        },
+        {
+          "letter": "B",
+          "text": "how the ice was kept frozen"
+        },
+        {
+          "letter": "C",
+          "text": "where they were located"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "What point does Annie make about refrigeration in ancient Rome?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it became a commercial business"
+        },
+        {
+          "letter": "B",
+          "text": "it used snow from nearby"
+        },
+        {
+          "letter": "C",
+          "text": "it took a long time to become popular"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "In connection with modern refrigeration both Annie and Jack are worried about",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the complexity of the technology"
+        },
+        {
+          "letter": "B",
+          "text": "the fact that some are disposed of irresponsibly"
+        },
+        {
+          "letter": "C",
+          "text": "the large number that quickly break down"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "What do Jack and Annie agree regarding domestic fridges?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "they are generally good value of money"
+        },
+        {
+          "letter": "B",
+          "text": "there are plenty of useful variations"
+        },
+        {
+          "letter": "C",
+          "text": "they are more useful than other domestic appliances"
+        }
+      ],
+      "groupId": "q21-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "Question 25",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "Question 26",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Question 27",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "Question 28",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "Question 29",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 Who is going to do research into each topic? Write the correct letter A-C next to",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "t time, people’s possessions were used to measure Britain’s (31) • Developments in production of goods and in (32) greatly changed lives Main areas of change Manufacturin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "Britain’s (31) • Developments in production of goods and in (32) greatly changed lives Main areas of change Manufacturing • The Industrial Revolution would not have happe",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "Revolution would not have happened without the new types of (33) that were used then • The leading industry was (34) (its products became widely available) • New (35) mad",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "ypes of (33) that were used then • The leading industry was (34) (its products became widely available) • New (35) made factories necessary and so more people moved into",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ustry was (34) (its products became widely available) • New (35) made factories necessary and so more people moved into towns Transport • The railways took the place of c",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "canals • Because of the new transport: o Greater access to (36) made people more aware of what they could buy in shops o When shopping people were not limited to buying",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "in shops o When shopping people were not limited to buying (37) Goods Retailing • The first department stores were opened • The displays of goods were more visible: o In",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "goods were more visible: o Inside stores because of better (38) o Outside stores because (39) were bigger • (40) that was persuasive became much more common",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "side stores because of better (38) o Outside stores because (39) were bigger • (40) that was persuasive became much more common",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "journalist",
+    "2": "shopping",
+    "3": "Staunfirth",
+    "4": "Return",
+    "5": "23.70",
+    "6": "Online",
+    "7": "Delay",
+    "8": "Information",
+    "9": "Platform(s)",
+    "10": "Parking",
+    "11": "D",
+    "12": "C",
+    "13": "G",
+    "14": "H",
+    "15": "A",
+    "16": "E",
+    "17": [
+      "A",
+      "D"
+    ],
+    "18": [
+      "A",
+      "D"
+    ],
+    "19": [
+      "A",
+      "C"
+    ],
+    "20": [
+      "A",
+      "C"
+    ],
+    "21": "B",
+    "22": "A",
+    "23": "B",
+    "24": "A",
+    "25": "A",
+    "26": "A",
+    "27": "B",
+    "28": "B",
+    "29": "A",
+    "30": "C",
+    "31": "Wealth",
+    "32": "Technology",
+    "33": "Power",
+    "34": "Textile(s)",
+    "35": "Machines",
+    "36": "Newspapers",
+    "37": "Local",
+    "38": "Lighting",
+    "39": "Windows",
+    "40": "Advertising"
+  }
+}

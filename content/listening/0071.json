@@ -1,0 +1,584 @@
+{
+  "id": "0071",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0071.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-17 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-30 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "sentenceCompletion",
+      "prompt": "ences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. 1. Keep your in a safe place throughout your visit. 2. Pass through the to enter and leave the museum. 3. You",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 2,
+      "type": "sentenceCompletion",
+      "prompt": "NUMBER. 1. Keep your in a safe place throughout your visit. 2. Pass through the to enter and leave the museum. 3. You need to buy a if you want to use a camera in the mus",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 3,
+      "type": "sentenceCompletion",
+      "prompt": "r visit. 2. Pass through the to enter and leave the museum. 3. You need to buy a if you want to use a camera in the museum. 4. Look after your and mobile phone. 5. Arrive",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 4,
+      "type": "sentenceCompletion",
+      "prompt": "ou need to buy a if you want to use a camera in the museum. 4. Look after your and mobile phone. 5. Arrive at the cinema about before the start of the show.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 5,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. 1. Keep your in a safe place th",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q1-5"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 9,
+      "type": "tableCompletion",
+      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 10,
+      "type": "tableCompletion",
+      "prompt": "Questions 6-10 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (1",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q6-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-17 Choose the correct letter A, B or C. 11. The main purpose of the service is to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "educate people"
+        },
+        {
+          "letter": "B",
+          "text": "persuade people to fly"
+        },
+        {
+          "letter": "C",
+          "text": "provide people with comfort"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The number of people working at Sydney Airport is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "200"
+        },
+        {
+          "letter": "B",
+          "text": "360"
+        },
+        {
+          "letter": "C",
+          "text": "440"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "Dogs are chosen according to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "their ability to stay calm"
+        },
+        {
+          "letter": "B",
+          "text": "their friendliness"
+        },
+        {
+          "letter": "C",
+          "text": "their skill at locating narcotics"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "The number of postal items processed last year amounted to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "4,400"
+        },
+        {
+          "letter": "B",
+          "text": "52,000"
+        },
+        {
+          "letter": "C",
+          "text": "72,000"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "People carrying items that are not allowed",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will get arrested"
+        },
+        {
+          "letter": "B",
+          "text": "will be refused on board"
+        },
+        {
+          "letter": "C",
+          "text": "will be given a warning"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 16,
+      "type": "multipleChoice",
+      "stem": "Which of the following is NOT allowed to be taken on the flight?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "carry-on items"
+        },
+        {
+          "letter": "B",
+          "text": "plant seeds"
+        },
+        {
+          "letter": "C",
+          "text": "parcels"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 17,
+      "type": "multipleChoice",
+      "stem": "What is the proper security protocol for a pocket knife found in a carry-on suitcase?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "it is returned to the passenger after examination"
+        },
+        {
+          "letter": "B",
+          "text": "it is thrown away in a safe receptacle"
+        },
+        {
+          "letter": "C",
+          "text": "it is passed on to higher level authorities"
+        }
+      ],
+      "groupId": "q11-17"
+    },
+    {
+      "number": 18,
+      "type": "sentenceCompletion",
+      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 18. The acceptable material for packing goods in Australia is 19. The belongings most of the time are refused",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 19,
+      "type": "sentenceCompletion",
+      "prompt": ". The acceptable material for packing goods in Australia is 19. The belongings most of the time are refused due to problems with the 20. The customs must be given notice",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 20,
+      "type": "sentenceCompletion",
+      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 18. The acceptable material f",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q18-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-30 Choose the correct letter A, B or C. 21. The continuing education program is for people who",
+      "options": [
+        {
+          "letter": "A",
+          "text": "want to learn new hobbies"
+        },
+        {
+          "letter": "B",
+          "text": "want to start getting another degree"
+        },
+        {
+          "letter": "C",
+          "text": "cannot find employment elsewhere"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "The woman is interested in",
+      "options": [
+        {
+          "letter": "A",
+          "text": "making money to travel the world"
+        },
+        {
+          "letter": "B",
+          "text": "learning about accounting"
+        },
+        {
+          "letter": "C",
+          "text": "being an entrepreneur"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "The city centre is accessible by public transportation but",
+      "options": [
+        {
+          "letter": "A",
+          "text": "is under renovation now"
+        },
+        {
+          "letter": "B",
+          "text": "does not offer as many classes"
+        },
+        {
+          "letter": "C",
+          "text": "is more expensive"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "The woman takes care of her ill father during",
+      "options": [
+        {
+          "letter": "A",
+          "text": "weekends"
+        },
+        {
+          "letter": "B",
+          "text": "the evening"
+        },
+        {
+          "letter": "C",
+          "text": "normal working hours"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "The man finally suggests taking classes",
+      "options": [
+        {
+          "letter": "A",
+          "text": "through the internet"
+        },
+        {
+          "letter": "B",
+          "text": "at the city centre campus"
+        },
+        {
+          "letter": "C",
+          "text": "at the suburban satellite campus"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 26,
+      "type": "multipleChoice",
+      "stem": "The class for returning students teaches time management techniques like",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how to organize and use one’s time efficiently"
+        },
+        {
+          "letter": "B",
+          "text": "how to talk to your teachers"
+        },
+        {
+          "letter": "C",
+          "text": "making friends in class"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 27,
+      "type": "multipleChoice",
+      "stem": "The class that reviews study skills goes over",
+      "options": [
+        {
+          "letter": "A",
+          "text": "beginning English grammar"
+        },
+        {
+          "letter": "B",
+          "text": "basic math skills"
+        },
+        {
+          "letter": "C",
+          "text": "writing for academic classes"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 28,
+      "type": "multipleChoice",
+      "stem": "According to the dialogue, the woman can go online in order to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "email fellow students"
+        },
+        {
+          "letter": "B",
+          "text": "contact teachers"
+        },
+        {
+          "letter": "C",
+          "text": "sign up for classes"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 29,
+      "type": "multipleChoice",
+      "stem": "The price of online classes is",
+      "options": [
+        {
+          "letter": "A",
+          "text": "the same as everything else"
+        },
+        {
+          "letter": "B",
+          "text": "cheaper than going to either campus"
+        },
+        {
+          "letter": "C",
+          "text": "more expensive than going to the city centre campus"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 30,
+      "type": "multipleChoice",
+      "stem": "Textbooks and other course materials are",
+      "options": [
+        {
+          "letter": "A",
+          "text": "free when taking the online course"
+        },
+        {
+          "letter": "B",
+          "text": "available at campus bookstores"
+        },
+        {
+          "letter": "C",
+          "text": "available online"
+        }
+      ],
+      "groupId": "q21-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "ORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source 31. There are some man-made materials like 32. Before being used, material undergoes 33. Wood should be cut an",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "h answer. Source 31. There are some man-made materials like 32. Before being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "de materials like 32. Before being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one sho",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "e being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one should take into account durin",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "ood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one should take into account during construction. 36. Some properties of",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "factors, one should take into account during construction. 36. Some properties of materials affect mood, such as , texture, and color. 37. Use a mathematical formula to",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-37 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source 31. There a",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "tableCompletion",
+      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "tableCompletion",
+      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "tableCompletion",
+      "prompt": "Questions 38-40 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "ticket",
+    "2": "grey gates",
+    "3": "permit",
+    "4": "wallet",
+    "5": "5 minutes",
+    "6": "journey",
+    "7": "wild",
+    "8": "1.45 pm",
+    "9": "new species",
+    "10": "desert",
+    "11": "A",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "B",
+    "17": "B",
+    "18": "paper",
+    "19": "package labels",
+    "20": "two to ten",
+    "21": "B",
+    "22": "C",
+    "23": "B",
+    "24": "C",
+    "25": "A",
+    "26": "A",
+    "27": "C",
+    "28": "C",
+    "29": "B",
+    "30": "A",
+    "31": "plastic",
+    "32": "processing",
+    "33": "seasoned",
+    "34": "polished",
+    "35": "cost",
+    "36": "grain patterns",
+    "37": "words",
+    "38": "0.8",
+    "39": "0.1",
+    "40": "black velvet"
+  }
+}

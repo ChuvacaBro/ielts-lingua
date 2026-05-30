@@ -1,0 +1,411 @@
+{
+  "id": "0182",
+  "audioUrl": null,
+  "localAudioPath": null,
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-14 Choose the correct letter A, B, or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21 and 22 Choose TWO letters A-E.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "plete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "e the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "e notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "w. Write ONE WORD ONLY for each answer. Workshops: • Making (5) food • (children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activit",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "swer. Workshops: • Making (5) food • (children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activities • Swimming in the (8) • Walkin",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "(children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activities • Swimming in the (8) • Walking in the woods, led by an expert on (",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "7) using various tools Outdoor activities • Swimming in the (8) • Walking in the woods, led by an expert on (9) See the festival organisers’ (10) for more information Par",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "ming in the (8) • Walking in the woods, led by an expert on (9) See the festival organisers’ (10) for more information Part 2:",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 5-10 Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making (5) food • (children onl",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q5-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-14 Choose the correct letter A, B, or C. Minster Park 11. The park was originally established",
+      "options": [
+        {
+          "letter": "A",
+          "text": "as an amenity provided by the city council"
+        },
+        {
+          "letter": "B",
+          "text": "as land belonging to a private house"
+        },
+        {
+          "letter": "C",
+          "text": "as a shared area set up by the local community"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "Why is there a statue of Diane Gosforth in the park?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "she was a resident who helped to lead a campaign"
+        },
+        {
+          "letter": "B",
+          "text": "she was a council member responsible for giving the public access"
+        },
+        {
+          "letter": "C",
+          "text": "she was a senior worker at the park for many years"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "During the first World War the park was mainly used for",
+      "options": [
+        {
+          "letter": "A",
+          "text": "exercises by troops"
+        },
+        {
+          "letter": "B",
+          "text": "growing vegetables"
+        },
+        {
+          "letter": "C",
+          "text": "public meetings"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "When did the physical transformation of the park begin?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "203"
+        },
+        {
+          "letter": "B",
+          "text": "2015"
+        },
+        {
+          "letter": "C",
+          "text": "2016"
+        }
+      ],
+      "groupId": "q11-14"
+    },
+    {
+      "number": 15,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 16,
+      "type": "mapPlanLabelling",
+      "prompt": "ons 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 17,
+      "type": "mapPlanLabelling",
+      "prompt": "p below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 18,
+      "type": "mapPlanLabelling",
+      "prompt": "atue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 19,
+      "type": "mapPlanLabelling",
+      "prompt": "iane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 20,
+      "type": "mapPlanLabelling",
+      "prompt": "Questions 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis",
+      "groupId": "q15-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for? A students",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 22,
+      "type": "gapFill",
+      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for? A students from t",
+      "groupId": "q21-22"
+    },
+    {
+      "number": 23,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dic",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "Questions 23 and 24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dickens? A",
+      "groupId": "q23-24"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "law F wealth G medicine H a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Littl",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "H a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "6. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 25-30 What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below.",
+      "groupId": "q25-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "d on the forest to provide charcoal as a source of income • (31) was seen as the main priority to ensure the supply of water • Most of the work organised by farmer’s asso",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "of the work organised by farmer’s associations was done by (32) • Fenced areas were created to keep animals away from crops • The programme provided o (33) for the fence",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "to keep animals away from crops • The programme provided o (33) for the fences o (34) for the suitable crops o Water pumps • The farmers provided o Labour o (35) for the",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "from crops • The programme provided o (33) for the fences o (34) for the suitable crops o Water pumps • The farmers provided o Labour o (35) for the fences on their land",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "table crops o Water pumps • The farmers provided o Labour o (35) for the fences on their land Further developments • The marketing of produce was sometimes difficult due",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "marketing of produce was sometimes difficult due to lack of (36) • Training was therefore provided in methods of food (37) • Farmers made special places where (38) could",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "f (36) • Training was therefore provided in methods of food (37) • Farmers made special places where (38) could be kept • Local people later suggested keeping (39) Evalua",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "in methods of food (37) • Farmers made special places where (38) could be kept • Local people later suggested keeping (39) Evaluation and lessons learned • Agricultural p",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "e (38) could be kept • Local people later suggested keeping (39) Evaluation and lessons learned • Agricultural production increased improving incomes and food security •",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "Eustatis",
+    "2": "Review",
+    "3": "Dance",
+    "4": "Chat",
+    "5": "Healthy",
+    "6": "Posters",
+    "7": "Wood",
+    "8": "Lake",
+    "9": "Insects",
+    "10": "Blog",
+    "11": "C",
+    "12": "A",
+    "13": "B",
+    "14": "C",
+    "15": "E",
+    "16": "C",
+    "17": "B",
+    "18": "A",
+    "19": "G",
+    "20": "D",
+    "21": [
+      "B",
+      "D"
+    ],
+    "22": [
+      "B",
+      "D"
+    ],
+    "23": [
+      "B",
+      "C"
+    ],
+    "24": [
+      "B",
+      "C"
+    ],
+    "25": "G",
+    "26": "B",
+    "27": "D",
+    "28": "C",
+    "29": "H",
+    "30": "F",
+    "31": "Irrigation",
+    "32": "Women",
+    "33": "Wire(s)",
+    "34": "Seed(s)",
+    "35": "Posts",
+    "36": "Transport",
+    "37": "Preservation",
+    "38": "Fish(es)",
+    "39": "Bees",
+    "40": "design"
+  }
+}

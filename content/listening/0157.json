@@ -1,0 +1,353 @@
+{
+  "id": "0157",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0157.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-16",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Question 21",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-37 Complete the table below. Write NO MORE THAN TWO WORDS for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "CLUB Name of club: Kingswell Facilities available: • Golf • (1) • (2) Classes available: • Kick-boxing • (3) Additional facility: • (4) (restaurant opening soon)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "ame of club: Kingswell Facilities available: • Golf • (1) • (2) Classes available: • Kick-boxing • (3) Additional facility: • (4) (restaurant opening soon)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "able: • Golf • (1) • (2) Classes available: • Kick-boxing • (3) Additional facility: • (4) (restaurant opening soon)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. NOTES ON SPORTS CLUB Name of club:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "tableCompletion",
+      "prompt": "able below. Write NO MORE THAN TWO NUMBERS for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN TWO NUMBERS",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 6,
+      "type": "tableCompletion",
+      "prompt": "below. Write NO MORE THAN TWO NUMBERS for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN TWO NUMBERS",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 7,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO NUMBERS for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN TWO NUMBERS",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 8,
+      "type": "tableCompletion",
+      "prompt": "Questions 5-8 Complete the table below. Write NO MORE THAN TWO NUMBERS for each answer. (5) (6) (7) (8)",
+      "wordLimit": "NO MORE THAN TWO NUMBERS",
+      "groupId": "q5-8"
+    },
+    {
+      "number": 9,
+      "type": "sentenceCompletion",
+      "prompt": "Question 9 and 10 Complete the sentences below. Write ONE WORD ONLY for each answer. 9. To join the centre, you need to",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 10,
+      "type": "sentenceCompletion",
+      "prompt": "Question 9 and 10 Complete the sentences below. Write ONE WORD ONLY for each answer. 9. To join the centre, you need to book",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q9-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Question 11",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Question 12",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "Question 13",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "Question 14",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Question 15",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "Questions 11-16 What change has been made to each part of the theatre? Choose SIX answers from the box and write the correc",
+      "groupId": "q11-16"
+    },
+    {
+      "number": 17,
+      "type": "tableCompletion",
+      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 18,
+      "type": "tableCompletion",
+      "prompt": "O MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 19,
+      "type": "tableCompletion",
+      "prompt": "E THAN TWO WORDS AND/OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 20,
+      "type": "tableCompletion",
+      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (17) (18) (19) (20)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q17-20"
+    },
+    {
+      "number": 21,
+      "type": "gapFill",
+      "prompt": "Question 21 21. What is Brian going to do before the course starts? A attend a class B write a report C read a book",
+      "groupId": "q21-21"
+    },
+    {
+      "number": 22,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 23,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 24,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 25,
+      "type": "tableCompletion",
+      "prompt": "Questions 22-25 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (22) (23) (24) (25)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q22-25"
+    },
+    {
+      "number": 26,
+      "type": "summaryCompletion",
+      "prompt": "and manuals to be used for training. It is possible to hire (26) and (27) There are materials for working on study skills (e.g. (28) ) and other subjects include finance",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "summaryCompletion",
+      "prompt": "ls to be used for training. It is possible to hire (26) and (27) There are materials for working on study skills (e.g. (28) ) and other subjects include finance and (29)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "summaryCompletion",
+      "prompt": "(27) There are materials for working on study skills (e.g. (28) ) and other subjects include finance and (29) (30) membership costs £50 per year. Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "summaryCompletion",
+      "prompt": "skills (e.g. (28) ) and other subjects include finance and (29) (30) membership costs £50 per year. Part 4:",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "summaryCompletion",
+      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Business Centre This Business Res",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "tableCompletion",
+      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 32,
+      "type": "tableCompletion",
+      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 33,
+      "type": "tableCompletion",
+      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 34,
+      "type": "tableCompletion",
+      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 35,
+      "type": "tableCompletion",
+      "prompt": "NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 36,
+      "type": "tableCompletion",
+      "prompt": "RE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 37,
+      "type": "tableCompletion",
+      "prompt": "Questions 31-37 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q31-37"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "Question 38",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Question 39",
+      "groupId": "q38-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 38-40 Which THREE of the following problems are mentioned in connection with 20th century housing in the East End",
+      "groupId": "q38-40"
+    }
+  ],
+  "answerKey": {
+    "1": "keep-fit",
+    "2": "swimming",
+    "3": "yoga",
+    "4": "salad bar",
+    "5": "500",
+    "6": "1",
+    "7": "10 to 4.30",
+    "8": "180",
+    "9": "assessment",
+    "10": "Kynchley",
+    "11": "B",
+    "12": "G",
+    "13": "C",
+    "14": "A",
+    "15": "E",
+    "16": "D",
+    "17": "october 19",
+    "18": "7",
+    "19": "monday, thursday",
+    "20": "18",
+    "21": "A",
+    "22": "in advance",
+    "23": "nursery",
+    "24": "annual fee",
+    "25": "tutor",
+    "26": "laptops",
+    "27": "printers",
+    "28": "report writing",
+    "29": "marketing",
+    "30": "individual",
+    "31": "feed",
+    "32": "metal",
+    "33": "restrictions",
+    "34": "ships",
+    "35": "england",
+    "36": "built",
+    "37": "poverty",
+    "38": "C",
+    "39": "E",
+    "40": "F"
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "id": "0010",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0010.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-4 Complete the form below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11 and 12 Complete the information below. Write ONE NUMBER for each answer.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-23 Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the timeline below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "formCompletion",
+      "prompt": "N ONE WORD AND/OR A NUMBER for each answer. GRANDVIEW HOTEL (1) (2) (3) (4)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 2,
+      "type": "formCompletion",
+      "prompt": "E WORD AND/OR A NUMBER for each answer. GRANDVIEW HOTEL (1) (2) (3) (4)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 3,
+      "type": "formCompletion",
+      "prompt": "RD AND/OR A NUMBER for each answer. GRANDVIEW HOTEL (1) (2) (3) (4)",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 4,
+      "type": "formCompletion",
+      "prompt": "Questions 1-4 Complete the form below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. GRANDVIEW HOTEL (1) (2",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q1-4"
+    },
+    {
+      "number": 5,
+      "type": "gapFill",
+      "prompt": "Question 5",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 6,
+      "type": "gapFill",
+      "prompt": "Question 6",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 7,
+      "type": "gapFill",
+      "prompt": "Questions 5-7 Choose THREE letters, A-G. Which THREE places will the caller visit? A art museum B science museum C shoppin",
+      "groupId": "q5-7"
+    },
+    {
+      "number": 8,
+      "type": "multipleChoice",
+      "stem": "-10 Choose the correct letters, A, B, or C. 8. When will the caller arrive at the airport?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the morning"
+        },
+        {
+          "letter": "B",
+          "text": "In the afternoon"
+        },
+        {
+          "letter": "C",
+          "text": "At night"
+        }
+      ],
+      "groupId": "q8-10"
+    },
+    {
+      "number": 9,
+      "type": "multipleChoice",
+      "stem": "How will the caller get to the hotel?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subway"
+        },
+        {
+          "letter": "B",
+          "text": "Bus"
+        },
+        {
+          "letter": "C",
+          "text": "Taxi"
+        }
+      ],
+      "groupId": "q8-10"
+    },
+    {
+      "number": 10,
+      "type": "multipleChoice",
+      "stem": "What time does the hotel front desk close?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "10:00"
+        },
+        {
+          "letter": "B",
+          "text": "12:00"
+        },
+        {
+          "letter": "C",
+          "text": "2:00"
+        }
+      ],
+      "groupId": "q8-10"
+    },
+    {
+      "number": 11,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Complete the information below. Write ONE NUMBER for each answer. City Tours Fare Information Adult",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 12,
+      "type": "gapFill",
+      "prompt": "Questions 11 and 12 Complete the information below. Write ONE NUMBER for each answer. City Tours Fare Information Adult All-Day",
+      "groupId": "q11-12"
+    },
+    {
+      "number": 13,
+      "type": "gapFill",
+      "prompt": "THAN TWO WORDS. Starting point: Tour Bus Office First stop: (13) Second stop: Fishing Docks Third Stop: (14) Fourth Stop: Shopping District Fifth Stop: (15)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 14,
+      "type": "gapFill",
+      "prompt": "ice First stop: (13) Second stop: Fishing Docks Third Stop: (14) Fourth Stop: Shopping District Fifth Stop: (15)",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 15,
+      "type": "gapFill",
+      "prompt": "Questions 13-15 Complete the information below. Write NO MORE THAN TWO WORDS. Starting point: Tour Bus Office First stop: (",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q13-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "e chart below. Write NO MORE THAN ONE WORD for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "rt below. Write NO MORE THAN ONE WORD for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "low. Write NO MORE THAN ONE WORD for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "Write NO MORE THAN ONE WORD for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 Complete the chart below. Write NO MORE THAN ONE WORD for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "wordLimit": "NO MORE THAN ONE WORD",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "shortAnswer",
+      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 21. When is the research project due? 22. Where will the students conduct the interviews? 23. How many intervi",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 22,
+      "type": "shortAnswer",
+      "prompt": "MBER for each answer. 21. When is the research project due? 22. Where will the students conduct the interviews? 23. How many interviews will they complete all together?",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 23,
+      "type": "shortAnswer",
+      "prompt": "Questions 21-23 Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 21. When is the",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q21-23"
+    },
+    {
+      "number": 24,
+      "type": "gapFill",
+      "prompt": "ts. Write NO MORE THAN THREE WORDS for each answer. A. Read (24) B. (25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 25,
+      "type": "gapFill",
+      "prompt": "e NO MORE THAN THREE WORDS for each answer. A. Read (24) B. (25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 26,
+      "type": "gapFill",
+      "prompt": "AN THREE WORDS for each answer. A. Read (24) B. (25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 27,
+      "type": "gapFill",
+      "prompt": "WORDS for each answer. A. Read (24) B. (25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 28,
+      "type": "gapFill",
+      "prompt": "A. Read (24) B. (25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 29,
+      "type": "gapFill",
+      "prompt": "(25) C. Get (26) D. (27) E. Get together to (28) F. Prepare (29) G. Give (30) Part 4:",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 30,
+      "type": "gapFill",
+      "prompt": "Questions 24-30 Complete the outline showing the steps the students will take to complete their projects. Write NO MORE THA",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q24-30"
+    },
+    {
+      "number": 31,
+      "type": "gapFill",
+      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 1832 (31) In her teens Alcott worked to (32) At age 17 Alcott wrote (33) (34) Alcott enlisted as an army nurse. (35",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "gapFill",
+      "prompt": "ER for each answer. 1832 (31) In her teens Alcott worked to (32) At age 17 Alcott wrote (33) (34) Alcott enlisted as an army nurse. (35) Alcott published her letters in a",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "gapFill",
+      "prompt": ") In her teens Alcott worked to (32) At age 17 Alcott wrote (33) (34) Alcott enlisted as an army nurse. (35) Alcott published her letters in a book called Hospital Sketch",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "gapFill",
+      "prompt": "her teens Alcott worked to (32) At age 17 Alcott wrote (33) (34) Alcott enlisted as an army nurse. (35) Alcott published her letters in a book called Hospital Sketches. (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "gapFill",
+      "prompt": "17 Alcott wrote (33) (34) Alcott enlisted as an army nurse. (35) Alcott published her letters in a book called Hospital Sketches. (36) Alcott returned from her trip to Eu",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "gapFill",
+      "prompt": "t published her letters in a book called Hospital Sketches. (36) Alcott returned from her trip to Europe. (37) Alcott published Little Women. 1879 (38) died. (39) Alcott",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "gapFill",
+      "prompt": "tal Sketches. (36) Alcott returned from her trip to Europe. (37) Alcott published Little Women. 1879 (38) died. (39) Alcott set up a home for her family in Boston. 1888 (",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "gapFill",
+      "prompt": "er trip to Europe. (37) Alcott published Little Women. 1879 (38) died. (39) Alcott set up a home for her family in Boston. 1888 (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "gapFill",
+      "prompt": "Europe. (37) Alcott published Little Women. 1879 (38) died. (39) Alcott set up a home for her family in Boston. 1888 (40)",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "gapFill",
+      "prompt": "Questions 31-40 Complete the timeline below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 1832 (31) In h",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "february",
+    "2": "one",
+    "3": "Wilson",
+    "4": "2336189872",
+    "5": "C",
+    "6": "F",
+    "7": "G",
+    "8": "C",
+    "9": "A",
+    "10": "C",
+    "11": "18",
+    "12": "9",
+    "13": "hill park",
+    "14": "bay bridge",
+    "15": "green street",
+    "16": "view",
+    "17": "boats",
+    "18": "eat",
+    "19": "baskets",
+    "20": "theatre",
+    "21": "in three weeks",
+    "22": "a shopping mall",
+    "23": "thirty",
+    "24": "a government study",
+    "25": "design the questionnaire",
+    "26": "professor’s approval",
+    "27": "conduct interviews",
+    "28": "analyse the results",
+    "29": "charts",
+    "30": "class presentation",
+    "31": "Alcott was born",
+    "32": "support her family",
+    "33": "her first novel",
+    "34": "1862",
+    "35": "after the war",
+    "36": "1866",
+    "37": "1868",
+    "38": "May",
+    "39": "1882",
+    "40": "Alcott died"
+  }
+}

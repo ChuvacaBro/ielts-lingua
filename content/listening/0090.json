@@ -1,0 +1,483 @@
+{
+  "id": "0090",
+  "audioUrl": null,
+  "localAudioPath": "/audio/0090.mp3",
+  "parts": [
+    {
+      "number": 1,
+      "instructions": "Questions 1-10 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer.",
+      "questionRange": [
+        1,
+        10
+      ]
+    },
+    {
+      "number": 2,
+      "instructions": "Questions 11-15 Choose the correct letter A, B or C.",
+      "questionRange": [
+        11,
+        20
+      ]
+    },
+    {
+      "number": 3,
+      "instructions": "Questions 21-25 Choose the correct letter A, B or C.",
+      "questionRange": [
+        21,
+        30
+      ]
+    },
+    {
+      "number": 4,
+      "instructions": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer.",
+      "questionRange": [
+        31,
+        40
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "type": "noteCompletion",
+      "prompt": "Opening ceremony (first day) • In town centre, starting at (1) • The mayor will make a speck • A (2) will perform • Performance of a (3) about Hele Tungate (a (4) ) • Ev",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 2,
+      "type": "noteCompletion",
+      "prompt": "n centre, starting at (1) • The mayor will make a speck • A (2) will perform • Performance of a (3) about Hele Tungate (a (4) ) • Evening fireworks display situated acros",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 3,
+      "type": "noteCompletion",
+      "prompt": "r will make a speck • A (2) will perform • Performance of a (3) about Hele Tungate (a (4) ) • Evening fireworks display situated across the (5) Other events • Videos abou",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 4,
+      "type": "noteCompletion",
+      "prompt": ") will perform • Performance of a (3) about Hele Tungate (a (4) ) • Evening fireworks display situated across the (5) Other events • Videos about relationships that child",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 5,
+      "type": "noteCompletion",
+      "prompt": "te (a (4) ) • Evening fireworks display situated across the (5) Other events • Videos about relationships that children have with their (6) • Venue: (7) House • Performan",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 6,
+      "type": "noteCompletion",
+      "prompt": "• Videos about relationships that children have with their (6) • Venue: (7) House • Performance of (8) dances • Venue: the (9) market in the town centre • Time: 2 and 5",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 7,
+      "type": "noteCompletion",
+      "prompt": "ut relationships that children have with their (6) • Venue: (7) House • Performance of (8) dances • Venue: the (9) market in the town centre • Time: 2 and 5 pm every day",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 8,
+      "type": "noteCompletion",
+      "prompt": "ren have with their (6) • Venue: (7) House • Performance of (8) dances • Venue: the (9) market in the town centre • Time: 2 and 5 pm every day except 1st day of festival",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 9,
+      "type": "noteCompletion",
+      "prompt": "• Venue: (7) House • Performance of (8) dances • Venue: the (9) market in the town centre • Time: 2 and 5 pm every day except 1st day of festival • Several professional c",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 10,
+      "type": "noteCompletion",
+      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Events during Kenton Fes",
+      "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
+      "groupId": "q1-10"
+    },
+    {
+      "number": 11,
+      "type": "multipleChoice",
+      "stem": "-15 Choose the correct letter A, B or C. Theatre trip to Munich 11. When the group meet at the airport they will have",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". breakfast"
+        },
+        {
+          "letter": "B",
+          "text": ". coffee"
+        },
+        {
+          "letter": "C",
+          "text": ". lunch"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 12,
+      "type": "multipleChoice",
+      "stem": "The group will be met at Munich airport by",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". an employee at the National Theatre"
+        },
+        {
+          "letter": "B",
+          "text": ". a theatre manager"
+        },
+        {
+          "letter": "C",
+          "text": ". a tour operator"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 13,
+      "type": "multipleChoice",
+      "stem": "How much will they pay per night for a double room at the hotel?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". 110 euros"
+        },
+        {
+          "letter": "B",
+          "text": ". 120 euros"
+        },
+        {
+          "letter": "C",
+          "text": ". 150 euros"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 14,
+      "type": "multipleChoice",
+      "stem": "What type of restaurant will they go to on Tuesday evening?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". an Italian restaurant"
+        },
+        {
+          "letter": "B",
+          "text": ". a Lebanese restaurant"
+        },
+        {
+          "letter": "C",
+          "text": ". a typical restaurant of the region"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 15,
+      "type": "multipleChoice",
+      "stem": "Who will they meet on Wednesday afternoon?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". an actor"
+        },
+        {
+          "letter": "B",
+          "text": ". a playwright"
+        },
+        {
+          "letter": "C",
+          "text": ". a theatre director"
+        }
+      ],
+      "groupId": "q11-15"
+    },
+    {
+      "number": 16,
+      "type": "gapFill",
+      "prompt": "erformance will be attended by officials from the town Days 16. Wednesday 17. Thursday 18. Friday 19. Saturday 20. Monday Part 3:",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 17,
+      "type": "gapFill",
+      "prompt": "l be attended by officials from the town Days 16. Wednesday 17. Thursday 18. Friday 19. Saturday 20. Monday Part 3:",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "by officials from the town Days 16. Wednesday 17. Thursday 18. Friday 19. Saturday 20. Monday Part 3:",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "ls from the town Days 16. Wednesday 17. Thursday 18. Friday 19. Saturday 20. Monday Part 3:",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 20,
+      "type": "gapFill",
+      "prompt": "Questions 16-20 What does the man say about the play on each of the following days? Choose FIVE answers from options given",
+      "groupId": "q16-20"
+    },
+    {
+      "number": 21,
+      "type": "multipleChoice",
+      "stem": "-25 Choose the correct letter A, B or C. Scandinavian Studies 21. James chose to take Scandinavian Studies because when he was a child",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". he was often taken to Denmark"
+        },
+        {
+          "letter": "B",
+          "text": ". his mother spoke to him in Danish"
+        },
+        {
+          "letter": "C",
+          "text": ". a number of Danish people visited his family"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 22,
+      "type": "multipleChoice",
+      "stem": "When he graduates James would like to",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". take a postgraduate course"
+        },
+        {
+          "letter": "B",
+          "text": ". work in the media"
+        },
+        {
+          "letter": "C",
+          "text": ". become a translator"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 23,
+      "type": "multipleChoice",
+      "stem": "Which course will end this term?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". Swedish cinema"
+        },
+        {
+          "letter": "B",
+          "text": ". Danish television programmes"
+        },
+        {
+          "letter": "C",
+          "text": ". Scandinavian literature"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 24,
+      "type": "multipleChoice",
+      "stem": "They agree that James’ literature paper this term will be on",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". 19th century playwrights"
+        },
+        {
+          "letter": "B",
+          "text": ". the Icelandic sagas"
+        },
+        {
+          "letter": "C",
+          "text": ". modern Scandinavian novels"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 25,
+      "type": "multipleChoice",
+      "stem": "Beth recommends that James’ paper should be",
+      "options": [
+        {
+          "letter": "A",
+          "text": ". a historical overview of the genre"
+        },
+        {
+          "letter": "B",
+          "text": ". an in depth analysis of a single write"
+        },
+        {
+          "letter": "C",
+          "text": ". a study of the social background to the literature"
+        }
+      ],
+      "groupId": "q21-25"
+    },
+    {
+      "number": 26,
+      "type": "flowChartCompletion",
+      "prompt": "Question 26",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 27,
+      "type": "flowChartCompletion",
+      "prompt": "Question 27",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 28,
+      "type": "flowChartCompletion",
+      "prompt": "Question 28",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 29,
+      "type": "flowChartCompletion",
+      "prompt": "Question 29",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 30,
+      "type": "flowChartCompletion",
+      "prompt": "Questions 26-30 Complete the flow chart below. Choose FIVE answers from options given below and write correct letter A-G ne",
+      "groupId": "q26-30"
+    },
+    {
+      "number": 31,
+      "type": "noteCompletion",
+      "prompt": "lict mostly consists of behavior in the general category of (31) Often a result of people wanting to prove their (32) Also cause by differences in (33) between people (34",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 32,
+      "type": "noteCompletion",
+      "prompt": "ory of (31) Often a result of people wanting to prove their (32) Also cause by differences in (33) between people (34) conflicts: people more concerned about own team tha",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 33,
+      "type": "noteCompletion",
+      "prompt": "le wanting to prove their (32) Also cause by differences in (33) between people (34) conflicts: people more concerned about own team than about company Conflict related s",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 34,
+      "type": "noteCompletion",
+      "prompt": "their (32) Also cause by differences in (33) between people (34) conflicts: people more concerned about own team than about company Conflict related stress can cause (35)",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 35,
+      "type": "noteCompletion",
+      "prompt": "n team than about company Conflict related stress can cause (35) that may last for months Chief Executives (CEOs) Many have both (36) and anxiety May not like to have the",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 36,
+      "type": "noteCompletion",
+      "prompt": "may last for months Chief Executives (CEOs) Many have both (36) and anxiety May not like to have their decisions questioned There may be conflict between people who have",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 37,
+      "type": "noteCompletion",
+      "prompt": "ned There may be conflict between people who have different (37) Other managers A structure that is more (38) may create a feeling of uncertainty about who staff should r",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 38,
+      "type": "noteCompletion",
+      "prompt": "have different (37) Other managers A structure that is more (38) may create a feeling of uncertainty about who staff should report to Minimizing conflict Bosses need to t",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 39,
+      "type": "noteCompletion",
+      "prompt": "port to Minimizing conflict Bosses need to try hard to gain (39) Someone from outside the company may be given the role of (40) in order to resolve conflicts",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    },
+    {
+      "number": 40,
+      "type": "noteCompletion",
+      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Conflict at work Conflict mostly consists of",
+      "wordLimit": "ONE WORD ONLY",
+      "groupId": "q31-40"
+    }
+  ],
+  "answerKey": {
+    "1": "2.45",
+    "2": "band",
+    "3": "play",
+    "4": "scientist",
+    "5": "river",
+    "6": "grandparents",
+    "7": "handsworth",
+    "8": "traditional",
+    "9": "outdoor",
+    "10": "logo",
+    "11": "B",
+    "12": "C",
+    "13": "A",
+    "14": "B",
+    "15": "C",
+    "16": "F",
+    "17": "B",
+    "18": "E",
+    "19": "G",
+    "20": "C",
+    "21": "C",
+    "22": "B",
+    "23": "C",
+    "24": "A",
+    "25": "C",
+    "26": "E",
+    "27": "G",
+    "28": "D",
+    "29": "C",
+    "30": "A",
+    "31": "bullying",
+    "32": "superiority",
+    "33": "personality",
+    "34": "structural",
+    "35": "absence",
+    "36": "confidence",
+    "37": "visions",
+    "38": "democratic",
+    "39": "respect",
+    "40": "mediator"
+  }
+}
