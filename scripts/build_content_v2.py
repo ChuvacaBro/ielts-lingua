@@ -194,7 +194,8 @@ INSTR_LINE = re.compile(
 # Self-references to question/answer-sheet numbers ("Questions 25-26",
 # "in boxes 25 and 26") — NOT per-item markers; ignore them when locating items.
 REF_RE = re.compile(
-    r"(?:in\s+)?(?:boxes?|questions?)\s+\d+(?:\s*(?:and|or|to|[-–,&])\s*\d+)?",
+    r"(?:in\s+)?(?:boxes?|questions?|passages?|sections?|paragraphs?|lines?)\s+\d+"
+    r"(?:\s*(?:and|or|to|[-–,&])\s*\d+)?",
     re.I,
 )
 # Instruction that runs inline (no newline) up to a recognisable end cue.
@@ -259,12 +260,28 @@ def _label_tail(text: str, limit: int = 120) -> str:
     return "… " + (cut[sp + 1:] if sp != -1 else cut)
 
 
+def trim_tail(s: str) -> str:
+    """The last item in a group runs to the chunk end and can absorb the next
+    passage's prose. Cut at a lettered-paragraph run ('A … B … C …') and, when
+    that fires, also drop a trailing sentence/title that leaked in."""
+    s = clean(s)
+    opts, opt_start = parse_letter_options(s)
+    overflow = opt_start > 0 and len(opts) >= 3
+    if overflow:
+        s = clean(s[:opt_start])
+    if overflow or len(s) > 180:
+        m = re.search(r"[.?!]\s+\S", s)
+        if m:
+            s = s[: m.start() + 1]
+    return s.strip()
+
+
 def parse_statements(chunk: str, lo: int, hi: int, typ: str):
     items = split_items(chunk, lo, hi)
     out = []
     for n in range(lo, hi + 1):
         it = items.get(n)
-        statement = tidy_prompt(it["after"]) if it else ""
+        statement = tidy_prompt(trim_tail(it["after"])) if it else ""
         out.append({"number": n, "type": typ, "statement": statement or f"Statement {n}"})
     return out
 
@@ -281,7 +298,7 @@ def parse_gapfills(chunk: str, lo: int, hi: int, typ: str, word_limit):
             prompt = tidy_prompt(_label_tail(it["before"]) + " ____")
         else:
             # leading-number item: the sentence/question follows the marker
-            prompt = tidy_prompt(it["after"]) or tidy_prompt(_label_tail(it["before"]) + " ____")
+            prompt = tidy_prompt(trim_tail(it["after"])) or tidy_prompt(_label_tail(it["before"]) + " ____")
         q = {"number": n, "type": typ, "prompt": prompt}
         if word_limit:
             q["wordLimit"] = word_limit
@@ -529,6 +546,25 @@ def build_reading(doc, tid):
     if not passages:
         passages = [{"number": 1, "title": "Passage 1", "questionRange": [1, max_q],
                      "bodyHtml": "".join(f"<p>{clean(b)}</p>" for b in content)}]
+
+    # Safety net: the last item of a group can absorb the following passage's
+    # prose. We know the passage texts here, so cut a question's text wherever a
+    # passage body begins inside it.
+    prefixes = []
+    for p in passages:
+        body = clean(re.sub(r"<[^>]+>", " ", p["bodyHtml"]))
+        if len(body) > 30:
+            prefixes.append(body[:35])
+    for q in questions:
+        key = "statement" if "statement" in q else "prompt"
+        t = q.get(key) or ""
+        for pref in prefixes:
+            i = t.find(pref[:25])
+            if i > 12:
+                t = clean(t[:i])
+        t = re.sub(r"\s+Cambridge IELTS Tests.*$", "", t)  # cross-test boilerplate
+        if t and t != (q.get(key) or ""):
+            q[key] = t
 
     attach_images(local_images("reading", tid), questions, passages, "questionRange")
     return {

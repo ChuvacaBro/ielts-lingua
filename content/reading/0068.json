@@ -38,44 +38,44 @@
     {
       "number": 1,
       "type": "matchInfo",
-      "prompt": "has eight paragraphs A-H. Which paragraph contains the following information? 1 the toughness of the plaques",
+      "prompt": "the toughness of the plaques",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 2,
       "type": "matchInfo",
       "prompt": "the length of time it takes to produce a plaque",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 3,
       "type": "matchInfo",
       "prompt": "the way the Blue Plaques Panel functions",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 4,
       "type": "matchInfo",
       "prompt": "the conditions which need to be met in each case",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 5,
       "type": "matchInfo",
       "prompt": "the reasons behind selecting a house to be honoured",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 6,
       "type": "matchInfo",
       "prompt": "how the Blue Plaques scheme first started",
       "groupId": "q1-6",
-      "instructions": "Questions 1-6 Reading Passage"
+      "instructions": "Reading Passage 1 has eight paragraphs A-H. Which paragraph contains the following information?"
     },
     {
       "number": 7,
@@ -122,7 +122,7 @@
     {
       "number": 13,
       "type": "tfng",
-      "statement": "The form of the blue plaque has not changed since it was first made. Cambridge IELTS Tests 1 to 17 reading passage 2 A The software tools of research are typically more abundant than hardware tools in the social sciences. Software is usually thought of as meaning computer programs that tell the hardware what to do, but any tool not related to a physical device can be considered software. Included in this category are published tests and questionnaires. B Often researchers want to gather information related to a general area such as personality or intelligence. For these instances, the use of a standardized test may be the best choice. With already published tests you can be sure of both validity and reliability and can save a lot of time that might otherwise be spent on test construction. Standardized tests can be classified into five main categories: achievement, aptitude, interest, personality, and intelligence. C Achievement tests are designed specifically to measure an individual’s previously learned knowledge or ability. They are available for many topic areas related to psychology, education, business, and other fields. Achievement tests require that prior learning take place and that this learning be demonstrated in order to pass. D Aptitude tests attempt to predict an individual’s performance in some activity at some point in the future. They do not require any specific prior learning although basic knowledge related to reading and writing is usually required and some preparation, such as studying up on math formulas or sentence structure, can be helpful. A well-known example of this type is the Scholastic Achievement Test (SAT), designed to predict future college performance. E Interest inventories also require only general knowledge but no preparation is needed. These tests look at an individual’s subjective interests in order to make predictions about some future behavior or activity. Perhaps the most used interest inventory is the Strong Interest Inventory, which compares interests related to specific careers in order to help guide an individual’s career path. Endorsed interests are compared with the interests of successful individuals in various fields and predictions are made regarding the test-taker’s fit with the various career fields. F Typically designed to assess and diagnose personality and mental health related disorders, personality tests are used extensively by psychologists in clinical, educational, and business related settings. By far the most widely used test of this type is the Minnesota Multiphasic Personality Inventory, Second Edition (MMPI-2), which compares an individual’s responses on a series of true-false items to those suffering from various mental disorders such as depression, schizophrenia, and anxiety. The theory behind the test argues that if you endorse items similar to the items endorsed by those with depression, for example, then the chances that you are also depressed increases. G Intelligence tests could be classified as aptitude tests since they are sometimes used to predict future performance. They could also be classified as personality tests since they can be used to diagnose disorders such as learning disabilities and mental retardation. However, because of their limited scope, we will place them in their own category. The purpose of an intelligence test is to attain a summary score or intelligence quotient (IQ) of an individual’s intellectual ability. Scores are compared to each other and can be broken down into different subcategories depending on the intelligence test used. The most commonly used tests of this type are the Wechsler Scales, including the Wechsler Adult Intelligence Scale (WAIS), the Wechsler Intelligence Scale for Children (WISC), and the Wechsler Preschool and Primary Scale of Intelligence (WPPSI). H Self-response questionnaires are a great way to gather large amounts of information in a relatively short amount of time. A questionnaire, similar to a survey you might see on a web page, allows subjects to respond to questions, rate responses, or offer opinions. Their responses can then be used to place them in specific categories or groups or can be compared to other subjects for data analysis. A concern with self-report, however, is the accuracy of the responses. Unlike direct observation, there is no way of knowing if the subject has told the truth or whether or not the question was understood as intended. There are several different methods for gathering information on a questionnaire or survey, including a Likert scale, the Thurstone technique, and the semantic differential. The Likert scale is a popular method used in surveys because it allows the researcher to quantify opinion based items. Questions are typically grouped together and rated or responded to based on a five-point scale. This scale typically ranges in order from one extreme to the other, such as (1) very interested; (2) somewhat interested; (3) unsure; (4) not very interested; and (5) not interested at all. Items that might be rated with this scale representing the subject’s level of interest could include a list of careers or academic majors, for example.",
+      "statement": "The form of the blue plaque has not changed since it was first made.",
       "groupId": "q11-13",
       "instructions": "Do the following statements agree with the information in Reading Passage 1? In boxes 11-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information about the statement"
     },
@@ -428,7 +428,7 @@
     {
       "number": 31,
       "type": "matchFeatures",
-      "prompt": "Jeffrey Matsuura List of Statements A Nanotechnology is being affected by factors that created opposition to biotechnology. B Europeans have the most to gain from nantotechnology development. C Sound scientific data will be the basis of any decisions about nanotechnology. D Governments cannot shape the development of nanotechnology. E Nanotechology is not a cause for concern. F Carbon nanoparticles can be breathed in and then move to the brain and blood. G Companies should show how their early nanotechnology products can benefit society.",
+      "prompt": "Jeffrey Matsuura List of Statements",
       "groupId": "q28-31",
       "instructions": "Look at the following people and the list of statements below. Match each person with the correct statement.",
       "bank": [
