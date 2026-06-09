@@ -213,44 +213,548 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Animals attack"
+        },
+        {
+          "number": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "number": "iii",
+          "text": "Better people?"
+        },
+        {
+          "number": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "number": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "number": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "number": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "number": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "number": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "number": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Animals attack ii Needless killing countered iii Better people? iv"
+      "instructions": "Reading Passage Two has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Animals attack"
+        },
+        {
+          "letter": "ii",
+          "text": "Needless killing countered"
+        },
+        {
+          "letter": "iii",
+          "text": "Better people?"
+        },
+        {
+          "letter": "iv",
+          "text": "A need for statistics"
+        },
+        {
+          "letter": "v",
+          "text": "The real cause of longer lives"
+        },
+        {
+          "letter": "vi",
+          "text": "Untrustworthy numbers"
+        },
+        {
+          "letter": "vii",
+          "text": "Cruel killing countered"
+        },
+        {
+          "letter": "viii",
+          "text": "Comparing lives"
+        },
+        {
+          "letter": "ix",
+          "text": "Quick efficient killing"
+        },
+        {
+          "letter": "x",
+          "text": "The real cause of early deaths Example Answer Paragraph A iii"
+        }
+      ]
     },
     {
       "number": 20,

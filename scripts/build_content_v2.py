@@ -371,6 +371,59 @@ def parse_letter_options(text: str):
     return opts, marks[0][1]
 
 
+ROMANS = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x",
+          "xi", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii"]
+
+
+def parse_roman_headings(chunk: str):
+    """Parse a 'List of Headings: i … ii … iii …' block into [{number, text}]."""
+    m = re.search(r"List of Headings", chunk, re.I)
+    seg = chunk[m.end():] if m else chunk
+    marks = []
+    pos = 0
+    for rom in ROMANS:
+        mm = re.compile(rf"(?<![A-Za-z]){rom}(?![A-Za-z])[.)]?\s+", re.I).search(seg, pos)
+        if not mm:
+            break
+        marks.append((rom, mm.start(), mm.end()))
+        pos = mm.end()
+    headings = []
+    for j, (rom, _s, e) in enumerate(marks):
+        nxt = marks[j + 1][1] if j + 1 < len(marks) else len(seg)
+        text = clean(seg[e:nxt])
+        if len(text) > 140:  # last heading may run into following prose
+            cut = re.search(r"[.?!]\s", text)
+            text = text[: cut.start() + 1] if cut else text[:140]
+        text = re.sub(r"\s+\d+\.?\s*$", "", text)  # trailing paragraph number
+        headings.append({"number": rom, "text": text})
+    return headings
+
+
+def parse_match_headings(chunk: str, lo: int, hi: int):
+    headings = parse_roman_headings(chunk)
+    if len(headings) < 2:  # letter-labelled headings ("Headings A x B y …")
+        m = (re.search(r"Paragraph Headings", chunk, re.I)
+             or re.search(r"List of Headings", chunk, re.I))
+        seg = chunk[m.end():] if m else chunk
+        opts, _ = parse_letter_options(seg)
+        headings = [{"number": o["letter"], "text": o["text"]} for o in opts]
+    # Paragraph labels can be letters (A-H) or numbers (1-7).
+    m = re.search(r"paragraphs?\s+([A-Za-z]|\d+)\s*[-–—]\s*([A-Za-z]|\d+)", chunk)
+    labels = None
+    if m:
+        a, b = m.group(1), m.group(2)
+        if a.isdigit() and b.isdigit():
+            labels = [str(x) for x in range(int(a), int(b) + 1)]
+        elif len(a) == 1 and len(b) == 1 and a.isalpha() and b.isalpha():
+            labels = [chr(c) for c in range(ord(a.upper()), ord(b.upper()) + 1)]
+    out = []
+    for i, n in enumerate(range(lo, hi + 1)):
+        pl = labels[i] if labels and i < len(labels) else chr(ord("A") + i)
+        out.append({"number": n, "type": "matchHeadings",
+                    "paragraphLetter": pl, "headings": headings})
+    return out, headings
+
+
 def first_item_offset(body: str, lo: int, hi: int) -> int:
     expected = lo
     for m in ITEM_MARK.finditer(body):
@@ -430,8 +483,11 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
         typ = classify(chunk)
         group_id = f"q{lo}-{hi}"
 
+        match_headings = None
         if typ == "multipleChoice":
             qs = parse_mcq(chunk, lo, hi) or parse_gapfills(chunk, lo, hi, "gapFill", word_limit)
+        elif typ == "matchHeadings":
+            qs, match_headings = parse_match_headings(chunk, lo, hi)
         elif typ in ("tfng", "ynng"):
             qs = parse_statements(chunk, lo, hi, typ)
         elif typ in ("sentenceCompletion", "summaryCompletion", "noteCompletion",
@@ -470,6 +526,13 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
                 inline_bank = b
                 q[key] = label or f"Question {q['number']}"
         bank = inline_bank or opts  # inline bank is cleanly delimited; prefer it
+        # Match-headings: the roman-numeral list IS the answer bank and feeds the
+        # dropdown; show only the rubric (not the list) as the instruction.
+        if match_headings is not None:
+            bank = [{"letter": h["number"], "text": h["text"]} for h in match_headings]
+            cut = re.search(r"List of Headings", instruction or "", re.I)
+            if cut:
+                instruction = instruction[: cut.start()].strip()
         for q in qs:
             q["groupId"] = group_id
             if instruction:
@@ -477,7 +540,8 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
             # Attach the A–J option bank to types whose answers ARE letters / a
             # word list (choose-letters, summary-with-list, matching, flow-box);
             # an inline bank is reliable enough to attach to any type.
-            if bank and (inline_bank or q["type"] in BANK_TYPES) and "bank" not in q:
+            if bank and (match_headings is not None or inline_bank
+                         or q["type"] in BANK_TYPES) and "bank" not in q:
                 q["bank"] = bank
             if 0 < q["number"] and q["number"] not in questions:
                 questions[q["number"]] = q

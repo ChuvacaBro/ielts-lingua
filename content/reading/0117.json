@@ -35,145 +35,375 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Section A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial costs"
+        },
+        {
+          "number": "ii",
+          "text": "Decline and disuse"
+        },
+        {
+          "number": "iii",
+          "text": "Birth and development"
+        },
+        {
+          "number": "iv",
+          "text": "Political uses of Nushu"
+        },
+        {
+          "number": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "number": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "number": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "number": "viii",
+          "text": "Revival and contemporary interest"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the list of headings below.",
+      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "Financial costs"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "Decline and disuse"
         },
         {
-          "letter": "C",
-          "text": "4 Section"
+          "letter": "iii",
+          "text": "Birth and development"
         },
         {
-          "letter": "D",
-          "text": "5 Section"
+          "letter": "iv",
+          "text": "Political uses of Nushu"
         },
         {
-          "letter": "E",
-          "text": "List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Character"
+          "letter": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "letter": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "letter": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "letter": "viii",
+          "text": "Revival and contemporary interest"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Section B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial costs"
+        },
+        {
+          "number": "ii",
+          "text": "Decline and disuse"
+        },
+        {
+          "number": "iii",
+          "text": "Birth and development"
+        },
+        {
+          "number": "iv",
+          "text": "Political uses of Nushu"
+        },
+        {
+          "number": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "number": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "number": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "number": "viii",
+          "text": "Revival and contemporary interest"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the list of headings below.",
+      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "Financial costs"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "Decline and disuse"
         },
         {
-          "letter": "C",
-          "text": "4 Section"
+          "letter": "iii",
+          "text": "Birth and development"
         },
         {
-          "letter": "D",
-          "text": "5 Section"
+          "letter": "iv",
+          "text": "Political uses of Nushu"
         },
         {
-          "letter": "E",
-          "text": "List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Character"
+          "letter": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "letter": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "letter": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "letter": "viii",
+          "text": "Revival and contemporary interest"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Section C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial costs"
+        },
+        {
+          "number": "ii",
+          "text": "Decline and disuse"
+        },
+        {
+          "number": "iii",
+          "text": "Birth and development"
+        },
+        {
+          "number": "iv",
+          "text": "Political uses of Nushu"
+        },
+        {
+          "number": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "number": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "number": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "number": "viii",
+          "text": "Revival and contemporary interest"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the list of headings below.",
+      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "Financial costs"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "Decline and disuse"
         },
         {
-          "letter": "C",
-          "text": "4 Section"
+          "letter": "iii",
+          "text": "Birth and development"
         },
         {
-          "letter": "D",
-          "text": "5 Section"
+          "letter": "iv",
+          "text": "Political uses of Nushu"
         },
         {
-          "letter": "E",
-          "text": "List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Character"
+          "letter": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "letter": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "letter": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "letter": "viii",
+          "text": "Revival and contemporary interest"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Section D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial costs"
+        },
+        {
+          "number": "ii",
+          "text": "Decline and disuse"
+        },
+        {
+          "number": "iii",
+          "text": "Birth and development"
+        },
+        {
+          "number": "iv",
+          "text": "Political uses of Nushu"
+        },
+        {
+          "number": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "number": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "number": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "number": "viii",
+          "text": "Revival and contemporary interest"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the list of headings below.",
+      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "Financial costs"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "Decline and disuse"
         },
         {
-          "letter": "C",
-          "text": "4 Section"
+          "letter": "iii",
+          "text": "Birth and development"
         },
         {
-          "letter": "D",
-          "text": "5 Section"
+          "letter": "iv",
+          "text": "Political uses of Nushu"
         },
         {
-          "letter": "E",
-          "text": "List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Character"
+          "letter": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "letter": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "letter": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "letter": "viii",
+          "text": "Revival and contemporary interest"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Section E List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Characteristics of written Nushu viii Revival and contemporary interest",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial costs"
+        },
+        {
+          "number": "ii",
+          "text": "Decline and disuse"
+        },
+        {
+          "number": "iii",
+          "text": "Birth and development"
+        },
+        {
+          "number": "iv",
+          "text": "Political uses of Nushu"
+        },
+        {
+          "number": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "number": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "number": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "number": "viii",
+          "text": "Revival and contemporary interest"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the list of headings below.",
+      "instructions": "Reading Passage 1 has five sections, A-E. Choose the correct heading for each section from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "Financial costs"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "Decline and disuse"
         },
         {
-          "letter": "C",
-          "text": "4 Section"
+          "letter": "iii",
+          "text": "Birth and development"
         },
         {
-          "letter": "D",
-          "text": "5 Section"
+          "letter": "iv",
+          "text": "Political uses of Nushu"
         },
         {
-          "letter": "E",
-          "text": "List of headings i Financial costs ii Decline and disuse iii Birth and development iv Political uses of Nushu v The social role of Nushu vi Last of the Nushu speakers vii Character"
+          "letter": "v",
+          "text": "The social role of Nushu"
+        },
+        {
+          "letter": "vi",
+          "text": "Last of the Nushu speakers"
+        },
+        {
+          "letter": "vii",
+          "text": "Characteristics of written Nushu"
+        },
+        {
+          "letter": "viii",
+          "text": "Revival and contemporary interest"
         }
       ]
     },

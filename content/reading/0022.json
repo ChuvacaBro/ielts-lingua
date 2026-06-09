@@ -35,259 +35,637 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Not all doctors are persuaded"
+        },
+        {
+          "number": "ii",
+          "text": "Choosing the best offers"
+        },
+        {
+          "number": "iii",
+          "text": "Who is responsible for the increase in promotions?"
+        },
+        {
+          "number": "iv",
+          "text": "Fighting the drug companies"
+        },
+        {
+          "number": "v",
+          "text": "An example of what doctors expect from drug companies"
+        },
+        {
+          "number": "vi",
+          "text": "Gifts include financial incentives"
+        },
+        {
+          "number": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "number": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "number": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "number": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i Not all doctors are persuaded ii Choosing the best offers iii Who is responsible for the increase in promotions? iv Fighting the drug companies v An example of what doctors expect from drug companies vi Gifts include financial incentives vii Research shows that promotion works…",
+      "instructions": "Reading Passage I has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "Not all doctors are persuaded"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Choosing the best offers"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Who is responsible for the increase in promotions?"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "Fighting the drug companies"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "An example of what doctors expect from drug companies"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Gifts include financial incentives"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Research shows that promotion works"
+        },
+        {
+          "letter": "viii",
+          "text": "The high costs of research"
+        },
+        {
+          "letter": "ix",
+          "text": "The positive side of drugs promotion"
+        },
+        {
+          "letter": "x",
+          "text": "Who really pays for doctors’ free gifts? 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
@@ -637,100 +1015,268 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Section A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The role of video violence"
+        },
+        {
+          "number": "ii",
+          "text": "The failure of government policy"
+        },
+        {
+          "number": "iii",
+          "text": "Reasons for the increased rate of bullying"
+        },
+        {
+          "number": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "number": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "number": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "number": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
+        }
+      ],
       "groupId": "q27-30",
-      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the list of headings below. Write the correct number, i-vii, in boxes 27-30 on your answer sheet. List of Headings i The role of video violence ii The failure of government policy iii Reasons for the increased rate of bullying iv Research into how common bullying is in British schools v The reaction from schools to enquiries about bullying vi The effect of bullying on the children involved vii…",
+      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Section"
+          "letter": "i",
+          "text": "The role of video violence"
         },
         {
-          "letter": "B",
-          "text": "29 Section"
+          "letter": "ii",
+          "text": "The failure of government policy"
         },
         {
-          "letter": "C",
-          "text": "30 Section"
+          "letter": "iii",
+          "text": "Reasons for the increased rate of bullying"
         },
         {
-          "letter": "D",
-          "text": ""
+          "letter": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "letter": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "letter": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "letter": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
         }
       ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Section B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The role of video violence"
+        },
+        {
+          "number": "ii",
+          "text": "The failure of government policy"
+        },
+        {
+          "number": "iii",
+          "text": "Reasons for the increased rate of bullying"
+        },
+        {
+          "number": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "number": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "number": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "number": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
+        }
+      ],
       "groupId": "q27-30",
-      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the list of headings below. Write the correct number, i-vii, in boxes 27-30 on your answer sheet. List of Headings i The role of video violence ii The failure of government policy iii Reasons for the increased rate of bullying iv Research into how common bullying is in British schools v The reaction from schools to enquiries about bullying vi The effect of bullying on the children involved vii…",
+      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Section"
+          "letter": "i",
+          "text": "The role of video violence"
         },
         {
-          "letter": "B",
-          "text": "29 Section"
+          "letter": "ii",
+          "text": "The failure of government policy"
         },
         {
-          "letter": "C",
-          "text": "30 Section"
+          "letter": "iii",
+          "text": "Reasons for the increased rate of bullying"
         },
         {
-          "letter": "D",
-          "text": ""
+          "letter": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "letter": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "letter": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "letter": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Section C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The role of video violence"
+        },
+        {
+          "number": "ii",
+          "text": "The failure of government policy"
+        },
+        {
+          "number": "iii",
+          "text": "Reasons for the increased rate of bullying"
+        },
+        {
+          "number": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "number": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "number": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "number": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
+        }
+      ],
       "groupId": "q27-30",
-      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the list of headings below. Write the correct number, i-vii, in boxes 27-30 on your answer sheet. List of Headings i The role of video violence ii The failure of government policy iii Reasons for the increased rate of bullying iv Research into how common bullying is in British schools v The reaction from schools to enquiries about bullying vi The effect of bullying on the children involved vii…",
+      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Section"
+          "letter": "i",
+          "text": "The role of video violence"
         },
         {
-          "letter": "B",
-          "text": "29 Section"
+          "letter": "ii",
+          "text": "The failure of government policy"
         },
         {
-          "letter": "C",
-          "text": "30 Section"
+          "letter": "iii",
+          "text": "Reasons for the increased rate of bullying"
         },
         {
-          "letter": "D",
-          "text": ""
+          "letter": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "letter": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "letter": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "letter": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Section D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The role of video violence"
+        },
+        {
+          "number": "ii",
+          "text": "The failure of government policy"
+        },
+        {
+          "number": "iii",
+          "text": "Reasons for the increased rate of bullying"
+        },
+        {
+          "number": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "number": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "number": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "number": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
+        }
+      ],
       "groupId": "q27-30",
-      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the list of headings below. Write the correct number, i-vii, in boxes 27-30 on your answer sheet. List of Headings i The role of video violence ii The failure of government policy iii Reasons for the increased rate of bullying iv Research into how common bullying is in British schools v The reaction from schools to enquiries about bullying vi The effect of bullying on the children involved vii…",
+      "instructions": "Reading Passage 3 has six sections. Choose the correct heading for sections A-D from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Section"
+          "letter": "i",
+          "text": "The role of video violence"
         },
         {
-          "letter": "B",
-          "text": "29 Section"
+          "letter": "ii",
+          "text": "The failure of government policy"
         },
         {
-          "letter": "C",
-          "text": "30 Section"
+          "letter": "iii",
+          "text": "Reasons for the increased rate of bullying"
         },
         {
-          "letter": "D",
-          "text": ""
+          "letter": "iv",
+          "text": "Research into how common bullying is in British schools"
+        },
+        {
+          "letter": "v",
+          "text": "The reaction from schools to enquiries about bullying"
+        },
+        {
+          "letter": "vi",
+          "text": "The effect of bullying on the children involved"
+        },
+        {
+          "letter": "vii",
+          "text": "Developments that have led to a new approach by schools 27 Section A 28 Section B 29 Section C 30 Section D"
         }
       ]
     },

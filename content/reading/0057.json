@@ -35,360 +35,920 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },
     {
       "number": 8,
       "type": "matchHeadings",
-      "prompt": "Paragraph I",
+      "paragraphLetter": "I",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Environmental change has always been with us"
+        },
+        {
+          "number": "ii",
+          "text": "The scarcity of water"
+        },
+        {
+          "number": "iii",
+          "text": "Rivers and seas cause damage"
+        },
+        {
+          "number": "iv",
+          "text": "Should we be despondent? Or realistic?"
+        },
+        {
+          "number": "v",
+          "text": "Disasters caused by the climate make us feel better"
+        },
+        {
+          "number": "vi",
+          "text": "Water, the provider of food"
+        },
+        {
+          "number": "vii",
+          "text": "What is water?"
+        },
+        {
+          "number": "viii",
+          "text": "How to solve flooding"
+        },
+        {
+          "number": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "number": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "number": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "number": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "number": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
+        }
+      ],
       "groupId": "q1-8",
-      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the list of headings below. List of Headings i Environmental change has always been with us ii The scarcity of water iii Rivers and seas cause damage iv Should we be despondent? Or realistic? v Disasters caused by the climate make us feel better vi Water, the provider of food vii What is water? viii How to solve flooding ix…",
+      "instructions": "Reading Passage 1 has eight paragraphs labelled A-I. Choose the most suitable headings for paragraphs B-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "pessimistic view of the future 1 Paragraph"
+          "letter": "i",
+          "text": "Environmental change has always been with us"
         },
         {
-          "letter": "B",
-          "text": "2 Paragraph"
+          "letter": "ii",
+          "text": "The scarcity of water"
         },
         {
-          "letter": "C",
-          "text": "3 Paragraph"
+          "letter": "iii",
+          "text": "Rivers and seas cause damage"
         },
         {
-          "letter": "D",
-          "text": "4 Paragraph"
+          "letter": "iv",
+          "text": "Should we be despondent? Or realistic?"
         },
         {
-          "letter": "E",
-          "text": "5 Paragraph"
+          "letter": "v",
+          "text": "Disasters caused by the climate make us feel better"
         },
         {
-          "letter": "F",
-          "text": "6 Paragraph"
+          "letter": "vi",
+          "text": "Water, the provider of food"
         },
         {
-          "letter": "G",
-          "text": "7 Paragraph"
+          "letter": "vii",
+          "text": "What is water?"
         },
         {
-          "letter": "H",
-          "text": "8 Paragraph"
+          "letter": "viii",
+          "text": "How to solve flooding"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Far-flung flooding"
+        },
+        {
+          "letter": "x",
+          "text": "Humans’ relationship with water"
+        },
+        {
+          "letter": "xi",
+          "text": "The destructive force of water in former times"
+        },
+        {
+          "letter": "xii",
+          "text": "Flooding in the future"
+        },
+        {
+          "letter": "xiii",
+          "text": "A pessimistic view of the future 1 Paragraph B 2 Paragraph C 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G 7 Paragraph H 8 Paragra"
         }
       ]
     },

@@ -134,232 +134,792 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 20,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },
     {
       "number": 21,
       "type": "matchHeadings",
-      "prompt": "Paragraph I",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A fresh and important long-term goal"
+        },
+        {
+          "number": "ii",
+          "text": "Charging for roads and improving other transport methods"
+        },
+        {
+          "number": "iii",
+          "text": "Changes affecting the distances goods may be transported"
+        },
+        {
+          "number": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
+        },
+        {
+          "number": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "number": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "number": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "number": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "number": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "number": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "number": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
+        }
+      ],
       "groupId": "q14-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the list of headings below. List of headings i",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. Choose the correct heading for paragraphs A-E and G-I from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "fresh and important long-term goal ii Charging for roads and improving other transport methods iii Changes affecting the distances goods may be transported iv Taking all the steps "
+          "letter": "i",
+          "text": "A fresh and important long-term goal"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "Charging for roads and improving other transport methods"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Changes affecting the distances goods may be transported"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Taking all the steps necessary to change transport patterns"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph G 20 Paragraph H 21 Paragraph I"
+          "letter": "v",
+          "text": "The environmental costs of road transport"
+        },
+        {
+          "letter": "vi",
+          "text": "The escalating cost of rail transport"
+        },
+        {
+          "letter": "vii",
+          "text": "The need to achieve transport rebalance"
+        },
+        {
+          "letter": "viii",
+          "text": "The rapid growth of private transport"
+        },
+        {
+          "letter": "ix",
+          "text": "Plans to develop major road networks"
+        },
+        {
+          "letter": "x",
+          "text": "Restricting road use through charging policies alone"
+        },
+        {
+          "letter": "xi",
+          "text": "Transport trends in countries awaiting EU admission Example: Paragraph F vii 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D"
         }
       ]
     },

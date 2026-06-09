@@ -129,44 +129,596 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "number": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "number": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "number": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "number": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "number": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "number": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "number": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "number": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "number": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "number": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H List of Headings i Testing acquired knowledge ii The way future performance is forecast through testing iii The Minnesota Multiphasic Personality Inventory iv Software tools in research explained v The use of a five-point scale in testing vi A test used to obtain a summary score of an individual’s…"
+      "instructions": "Reading Passage 2 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-H",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Testing acquired knowledge"
+        },
+        {
+          "letter": "ii",
+          "text": "The way future performance is forecast through testing"
+        },
+        {
+          "letter": "iii",
+          "text": "The Minnesota Multiphasic Personality Inventory"
+        },
+        {
+          "letter": "iv",
+          "text": "Software tools in research explained"
+        },
+        {
+          "letter": "v",
+          "text": "The use of a five-point scale in testing"
+        },
+        {
+          "letter": "vi",
+          "text": "A test used to obtain a summary score of an individual’s intelligence"
+        },
+        {
+          "letter": "vii",
+          "text": "The method most widely used by psychologists in various situations"
+        },
+        {
+          "letter": "viii",
+          "text": "Subjective interests employed to predict future behaviour"
+        },
+        {
+          "letter": "ix",
+          "text": "The different classes of standardized tests"
+        },
+        {
+          "letter": "x",
+          "text": "The importance of prior learning in tests"
+        },
+        {
+          "letter": "xi",
+          "text": "Information gathered by self-reporting Example: Paragraph A Answer iv Paragraph C Answer i 14 Paragraph B 15 Paragraph D 16 Paragraph E 17 P"
+        }
+      ]
     },
     {
       "number": 20,

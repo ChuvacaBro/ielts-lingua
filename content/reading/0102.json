@@ -476,37 +476,417 @@
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "number": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "number": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "number": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "number": "v",
+          "text": "Past Usage"
+        },
+        {
+          "number": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "number": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "number": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "number": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the list of headings below. List of Headings i. An Embarrassing Heritage ii. Assessing Validity iii. Diversity of Application iv. Interpretation Errors v. Past Usage vi. Useful Sources vii. Australasian Importance viii. Changing Viewpoints ix. Significant Roles Example: Paragraph C; Answer: vii"
+      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "letter": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "letter": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "letter": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "letter": "v",
+          "text": "Past Usage"
+        },
+        {
+          "letter": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "letter": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "letter": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "letter": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "number": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "number": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "number": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "number": "v",
+          "text": "Past Usage"
+        },
+        {
+          "number": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "number": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "number": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "number": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the list of headings below. List of Headings i. An Embarrassing Heritage ii. Assessing Validity iii. Diversity of Application iv. Interpretation Errors v. Past Usage vi. Useful Sources vii. Australasian Importance viii. Changing Viewpoints ix. Significant Roles Example: Paragraph C; Answer: vii"
+      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "letter": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "letter": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "letter": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "letter": "v",
+          "text": "Past Usage"
+        },
+        {
+          "letter": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "letter": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "letter": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "letter": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "number": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "number": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "number": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "number": "v",
+          "text": "Past Usage"
+        },
+        {
+          "number": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "number": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "number": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "number": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the list of headings below. List of Headings i. An Embarrassing Heritage ii. Assessing Validity iii. Diversity of Application iv. Interpretation Errors v. Past Usage vi. Useful Sources vii. Australasian Importance viii. Changing Viewpoints ix. Significant Roles Example: Paragraph C; Answer: vii"
+      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "letter": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "letter": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "letter": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "letter": "v",
+          "text": "Past Usage"
+        },
+        {
+          "letter": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "letter": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "letter": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "letter": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "number": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "number": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "number": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "number": "v",
+          "text": "Past Usage"
+        },
+        {
+          "number": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "number": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "number": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "number": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the list of headings below. List of Headings i. An Embarrassing Heritage ii. Assessing Validity iii. Diversity of Application iv. Interpretation Errors v. Past Usage vi. Useful Sources vii. Australasian Importance viii. Changing Viewpoints ix. Significant Roles Example: Paragraph C; Answer: vii"
+      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "letter": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "letter": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "letter": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "letter": "v",
+          "text": "Past Usage"
+        },
+        {
+          "letter": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "letter": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "letter": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "letter": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "number": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "number": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "number": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "number": "v",
+          "text": "Past Usage"
+        },
+        {
+          "number": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "number": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "number": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "number": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the list of headings below. List of Headings i. An Embarrassing Heritage ii. Assessing Validity iii. Diversity of Application iv. Interpretation Errors v. Past Usage vi. Useful Sources vii. Australasian Importance viii. Changing Viewpoints ix. Significant Roles Example: Paragraph C; Answer: vii"
+      "instructions": "Reading Passage 3 has eight paragraphs A-H. Choose the correct heading for paragraphs B and D-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "An Embarrassing Heritage"
+        },
+        {
+          "letter": "ii",
+          "text": "Assessing Validity"
+        },
+        {
+          "letter": "iii",
+          "text": "Diversity of Application"
+        },
+        {
+          "letter": "iv",
+          "text": "Interpretation Errors"
+        },
+        {
+          "letter": "v",
+          "text": "Past Usage"
+        },
+        {
+          "letter": "vi",
+          "text": "Useful Sources"
+        },
+        {
+          "letter": "vii",
+          "text": "Australasian Importance"
+        },
+        {
+          "letter": "viii",
+          "text": "Changing Viewpoints"
+        },
+        {
+          "letter": "ix",
+          "text": "Significant Roles Example: Paragraph C; Answer: vii 28. Paragraph B 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ]
     },
     {
       "number": 33,

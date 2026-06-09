@@ -382,222 +382,546 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Why some early social science methods lost popularity"
+        },
+        {
+          "number": "ii",
+          "text": "The cost implications of research"
+        },
+        {
+          "number": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
+        },
+        {
+          "number": "iv",
+          "text": "A range of social issues that have been usefully studied"
+        },
+        {
+          "number": "v",
+          "text": "An example of a poor decision that was made too quickly"
+        },
+        {
+          "number": "vi",
+          "text": "What happens when the figures are wrong"
+        },
+        {
+          "number": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "number": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "number": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "number": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the list of headings below. Write the correct number i-x in boxes 27-32 on your answer sheet. List of Headings i Why some early social science methods lost popularity ii The cost implications of research iii Looking ahead to an unbiased assessment of research iv",
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "range of social issues that have been usefully studied v An example of a poor decision that was made too quickly vi What happens when the figures are wrong vii One area of research"
+          "letter": "i",
+          "text": "Why some early social science methods lost popularity"
         },
         {
-          "letter": "B",
-          "text": "28 Paragraph"
+          "letter": "ii",
+          "text": "The cost implications of research"
         },
         {
-          "letter": "C",
-          "text": "29 Paragraph"
+          "letter": "iii",
+          "text": "Looking ahead to an unbiased assessment of research"
         },
         {
-          "letter": "D",
-          "text": "30 Paragraph"
+          "letter": "iv",
+          "text": "A range of social issues that have been usefully studied"
         },
         {
-          "letter": "E",
-          "text": "31 Paragraph"
+          "letter": "v",
+          "text": "An example of a poor decision that was made too quickly"
         },
         {
-          "letter": "F",
-          "text": "32 Paragraph"
+          "letter": "vi",
+          "text": "What happens when the figures are wrong"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "One area of research that is rigorously carried out"
+        },
+        {
+          "letter": "viii",
+          "text": "The changing nature of medical trials"
+        },
+        {
+          "letter": "ix",
+          "text": "An investigative study that may lead to a new system"
+        },
+        {
+          "letter": "x",
+          "text": "Why some scientists’ theories are considered second-rate Example Paragraph A Answer: x 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Parag"
         }
       ]
     },

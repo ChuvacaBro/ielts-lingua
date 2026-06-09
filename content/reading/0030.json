@@ -35,44 +35,596 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "number": "ii",
+          "text": "New method of research"
+        },
+        {
+          "number": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "number": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "number": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "number": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "number": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "number": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "number": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "number": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "number": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once. List of Headings i. Grammar is corrected ii. New method of research iii. Technology learns from dictionaries iv. Non-verbal content v. The first study of spoken language vi. Traditional lexicographical methods vii Written English tells the truth viii New phrases enter dictionary ix A cooperative…"
+      "instructions": "Reading Passage 1 has seven paragraphs (A-G). Choose the most suitable heading for each paragraph from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Grammar is corrected"
+        },
+        {
+          "letter": "ii",
+          "text": "New method of research"
+        },
+        {
+          "letter": "iii",
+          "text": "Technology learns from dictionaries"
+        },
+        {
+          "letter": "iv",
+          "text": "Non-verbal content"
+        },
+        {
+          "letter": "v",
+          "text": "The first study of spoken language"
+        },
+        {
+          "letter": "vi",
+          "text": "Traditional lexicographical methods"
+        },
+        {
+          "letter": "vii",
+          "text": "Written English tells the truth"
+        },
+        {
+          "letter": "viii",
+          "text": "New phrases enter dictionary"
+        },
+        {
+          "letter": "ix",
+          "text": "A cooperative research project"
+        },
+        {
+          "letter": "x",
+          "text": "Accurate word frequency counts"
+        },
+        {
+          "letter": "xi",
+          "text": "Alternative expressions provided 1 Paragraph A 2 Paragraph B 3 Paragraph D 4 Paragraph E 5 Paragraph F 6 Paragraph G"
+        }
+      ]
     },
     {
       "number": 7,
@@ -124,360 +676,856 @@
     {
       "number": 13,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },
     {
       "number": 20,
       "type": "matchHeadings",
-      "prompt": "Paragraph I",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A designer describes his houses"
+        },
+        {
+          "number": "ii",
+          "text": "Most people prefer conventional housing"
+        },
+        {
+          "number": "iii",
+          "text": "Simulating a natural environment"
+        },
+        {
+          "number": "iv",
+          "text": "How an underground family home developed"
+        },
+        {
+          "number": "v",
+          "text": "Demands on space and energy are reduced"
+        },
+        {
+          "number": "vi",
+          "text": "The plans for future homes"
+        },
+        {
+          "number": "vii",
+          "text": "Worldwide examples of underground living accommodation"
+        },
+        {
+          "number": "viii",
+          "text": "Some buildings do not require natural light"
+        },
+        {
+          "number": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "number": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "number": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "number": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
+        }
+      ],
       "groupId": "q13-20",
-      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xii) in boxes 13 20 on your answer sheet. Paragraph A has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. List of Headings i.",
+      "instructions": "Reading Passage 2 has nine paragraphs (A-I). Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "designer describes his houses ii."
+          "letter": "i",
+          "text": "A designer describes his houses"
         },
         {
-          "letter": "B",
-          "text": "14 Paragraph"
+          "letter": "ii",
+          "text": "Most people prefer conventional housing"
         },
         {
-          "letter": "C",
-          "text": "15 Paragraph"
+          "letter": "iii",
+          "text": "Simulating a natural environment"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "How an underground family home developed"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "Demands on space and energy are reduced"
         },
         {
-          "letter": "F",
-          "text": "18 Paragraph"
+          "letter": "vi",
+          "text": "The plans for future homes"
         },
         {
-          "letter": "G",
-          "text": "19 Paragraph"
+          "letter": "vii",
+          "text": "Worldwide examples of underground living accommodation"
         },
         {
-          "letter": "H",
-          "text": "20 Paragraph"
+          "letter": "viii",
+          "text": "Some buildings do not require natural light"
         },
         {
-          "letter": "I",
-          "text": ""
+          "letter": "ix",
+          "text": "Developing underground services around the world"
+        },
+        {
+          "letter": "x",
+          "text": "Underground living improves health"
+        },
+        {
+          "letter": "xi",
+          "text": "Homes sold before completion"
+        },
+        {
+          "letter": "xii",
+          "text": "An underground home is discovered 13 Paragraph B 14 Paragraph C 15 Paragraph D 16 Paragraph E 17 Paragraph F 18 Paragraph G 19 Paragraph H"
         }
       ]
     },

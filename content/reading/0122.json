@@ -602,37 +602,457 @@
     {
       "number": 38,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "number": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "number": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "number": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "number": "v",
+          "text": "Faulty design"
+        },
+        {
+          "number": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "number": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "number": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "number": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "number": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ],
       "groupId": "q38-42",
-      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet. List of Headings i Ignorance of the impending disaster ii Captain’s orders ignored iii Captain’s over-confidence iv Rough sea conditions v Faulty design vi Iceberg locations not plotted vii Low priority placed on safety viii Number of lifeboats adequate ix Inadequate training x Ice warnings ignored"
+      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "letter": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "letter": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "letter": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "letter": "v",
+          "text": "Faulty design"
+        },
+        {
+          "letter": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "letter": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "letter": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "letter": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "letter": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "number": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "number": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "number": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "number": "v",
+          "text": "Faulty design"
+        },
+        {
+          "number": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "number": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "number": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "number": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "number": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ],
       "groupId": "q38-42",
-      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet. List of Headings i Ignorance of the impending disaster ii Captain’s orders ignored iii Captain’s over-confidence iv Rough sea conditions v Faulty design vi Iceberg locations not plotted vii Low priority placed on safety viii Number of lifeboats adequate ix Inadequate training x Ice warnings ignored"
+      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "letter": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "letter": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "letter": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "letter": "v",
+          "text": "Faulty design"
+        },
+        {
+          "letter": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "letter": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "letter": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "letter": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "letter": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "number": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "number": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "number": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "number": "v",
+          "text": "Faulty design"
+        },
+        {
+          "number": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "number": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "number": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "number": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "number": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ],
       "groupId": "q38-42",
-      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet. List of Headings i Ignorance of the impending disaster ii Captain’s orders ignored iii Captain’s over-confidence iv Rough sea conditions v Faulty design vi Iceberg locations not plotted vii Low priority placed on safety viii Number of lifeboats adequate ix Inadequate training x Ice warnings ignored"
+      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "letter": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "letter": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "letter": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "letter": "v",
+          "text": "Faulty design"
+        },
+        {
+          "letter": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "letter": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "letter": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "letter": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "letter": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ]
     },
     {
       "number": 41,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "number": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "number": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "number": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "number": "v",
+          "text": "Faulty design"
+        },
+        {
+          "number": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "number": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "number": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "number": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "number": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ],
       "groupId": "q38-42",
-      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet. List of Headings i Ignorance of the impending disaster ii Captain’s orders ignored iii Captain’s over-confidence iv Rough sea conditions v Faulty design vi Iceberg locations not plotted vii Low priority placed on safety viii Number of lifeboats adequate ix Inadequate training x Ice warnings ignored"
+      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "letter": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "letter": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "letter": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "letter": "v",
+          "text": "Faulty design"
+        },
+        {
+          "letter": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "letter": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "letter": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "letter": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "letter": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ]
     },
     {
       "number": 42,
       "type": "matchHeadings",
-      "prompt": "Paragraph I",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "number": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "number": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "number": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "number": "v",
+          "text": "Faulty design"
+        },
+        {
+          "number": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "number": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "number": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "number": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "number": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ],
       "groupId": "q38-42",
-      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet. List of Headings i Ignorance of the impending disaster ii Captain’s orders ignored iii Captain’s over-confidence iv Rough sea conditions v Faulty design vi Iceberg locations not plotted vii Low priority placed on safety viii Number of lifeboats adequate ix Inadequate training x Ice warnings ignored"
+      "instructions": "Choose the heading which best sums up the primary cause of the problem described in paragraphs D, E, G, H and I of the text. Write the appropriate numbers (i – x) in the boxes ( 10-14) on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Ignorance of the impending disaster"
+        },
+        {
+          "letter": "ii",
+          "text": "Captain’s orders ignored"
+        },
+        {
+          "letter": "iii",
+          "text": "Captain’s over-confidence"
+        },
+        {
+          "letter": "iv",
+          "text": "Rough sea conditions"
+        },
+        {
+          "letter": "v",
+          "text": "Faulty design"
+        },
+        {
+          "letter": "vi",
+          "text": "Iceberg locations not plotted"
+        },
+        {
+          "letter": "vii",
+          "text": "Low priority placed on safety"
+        },
+        {
+          "letter": "viii",
+          "text": "Number of lifeboats adequate"
+        },
+        {
+          "letter": "ix",
+          "text": "Inadequate training"
+        },
+        {
+          "letter": "x",
+          "text": "Ice warnings ignored 38 Paragraph D 39 Paragraph E 40 Paragraph G 41 Paragraph H 42 Paragraph I"
+        }
+      ]
     }
   ],
   "answerKey": {

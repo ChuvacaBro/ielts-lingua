@@ -414,105 +414,415 @@
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The politics of tourism"
+        },
+        {
+          "number": "ii",
+          "text": "The cost of tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "number": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "number": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "number": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "number": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "number": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "number": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the list of headings below Write the appropriate numbers (i-ix) in boxes 28 32 on your answer sheet Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them You may use any heading more than once. List of Headings I The politics of tourism ii The cost of tourism iii Justifying the study of tourism iv Tourism contrasted with travel v The essence of modern tourism vi Tourism versus leisure vii The artificiality of modern tourism viii The role of modern tour guides ix Creating an alternative to…",
+      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29 Paragraph"
+          "letter": "i",
+          "text": "The politics of tourism"
         },
         {
-          "letter": "B",
-          "text": "30 Paragraph"
+          "letter": "ii",
+          "text": "The cost of tourism"
         },
         {
-          "letter": "C",
-          "text": "31 Paragraph E 31 Paragraph F"
+          "letter": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "letter": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "letter": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "letter": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "letter": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "letter": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The politics of tourism"
+        },
+        {
+          "number": "ii",
+          "text": "The cost of tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "number": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "number": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "number": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "number": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "number": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "number": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the list of headings below Write the appropriate numbers (i-ix) in boxes 28 32 on your answer sheet Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them You may use any heading more than once. List of Headings I The politics of tourism ii The cost of tourism iii Justifying the study of tourism iv Tourism contrasted with travel v The essence of modern tourism vi Tourism versus leisure vii The artificiality of modern tourism viii The role of modern tour guides ix Creating an alternative to…",
+      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29 Paragraph"
+          "letter": "i",
+          "text": "The politics of tourism"
         },
         {
-          "letter": "B",
-          "text": "30 Paragraph"
+          "letter": "ii",
+          "text": "The cost of tourism"
         },
         {
-          "letter": "C",
-          "text": "31 Paragraph E 31 Paragraph F"
+          "letter": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "letter": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "letter": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "letter": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "letter": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "letter": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The politics of tourism"
+        },
+        {
+          "number": "ii",
+          "text": "The cost of tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "number": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "number": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "number": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "number": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "number": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "number": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the list of headings below Write the appropriate numbers (i-ix) in boxes 28 32 on your answer sheet Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them You may use any heading more than once. List of Headings I The politics of tourism ii The cost of tourism iii Justifying the study of tourism iv Tourism contrasted with travel v The essence of modern tourism vi Tourism versus leisure vii The artificiality of modern tourism viii The role of modern tour guides ix Creating an alternative to…",
+      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29 Paragraph"
+          "letter": "i",
+          "text": "The politics of tourism"
         },
         {
-          "letter": "B",
-          "text": "30 Paragraph"
+          "letter": "ii",
+          "text": "The cost of tourism"
         },
         {
-          "letter": "C",
-          "text": "31 Paragraph E 31 Paragraph F"
+          "letter": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "letter": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "letter": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "letter": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "letter": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "letter": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E 31 Paragraph F",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The politics of tourism"
+        },
+        {
+          "number": "ii",
+          "text": "The cost of tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "number": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "number": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "number": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "number": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "number": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "number": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the list of headings below Write the appropriate numbers (i-ix) in boxes 28 32 on your answer sheet Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them You may use any heading more than once. List of Headings I The politics of tourism ii The cost of tourism iii Justifying the study of tourism iv Tourism contrasted with travel v The essence of modern tourism vi Tourism versus leisure vii The artificiality of modern tourism viii The role of modern tour guides ix Creating an alternative to…",
+      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29 Paragraph"
+          "letter": "i",
+          "text": "The politics of tourism"
         },
         {
-          "letter": "B",
-          "text": "30 Paragraph"
+          "letter": "ii",
+          "text": "The cost of tourism"
         },
         {
-          "letter": "C",
-          "text": "31 Paragraph E 31 Paragraph F"
+          "letter": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "letter": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "letter": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "letter": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "letter": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "letter": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Question 32",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The politics of tourism"
+        },
+        {
+          "number": "ii",
+          "text": "The cost of tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "number": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "number": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "number": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "number": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "number": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "number": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
+        }
+      ],
       "groupId": "q28-32",
-      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the list of headings below Write the appropriate numbers (i-ix) in boxes 28 32 on your answer sheet Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them You may use any heading more than once. List of Headings I The politics of tourism ii The cost of tourism iii Justifying the study of tourism iv Tourism contrasted with travel v The essence of modern tourism vi Tourism versus leisure vii The artificiality of modern tourism viii The role of modern tour guides ix Creating an alternative to…",
+      "instructions": "Raiding Passage 3 has 6 paragraphs (A-F) Choose the most suitable heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29 Paragraph"
+          "letter": "i",
+          "text": "The politics of tourism"
         },
         {
-          "letter": "B",
-          "text": "30 Paragraph"
+          "letter": "ii",
+          "text": "The cost of tourism"
         },
         {
-          "letter": "C",
-          "text": "31 Paragraph E 31 Paragraph F"
+          "letter": "iii",
+          "text": "Justifying the study of tourism"
+        },
+        {
+          "letter": "iv",
+          "text": "Tourism contrasted with travel"
+        },
+        {
+          "letter": "v",
+          "text": "The essence of modern tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "Tourism versus leisure"
+        },
+        {
+          "letter": "vii",
+          "text": "The artificiality of modern tourism"
+        },
+        {
+          "letter": "viii",
+          "text": "The role of modern tour guides"
+        },
+        {
+          "letter": "ix",
+          "text": "Creating an alternative to the everyday experience 28 Paragraph A 29 Paragraph B 30 Paragraph C 31 Paragraph E 31 Paragraph F"
         }
       ]
     },

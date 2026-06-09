@@ -289,222 +289,546 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Key people that made a difference"
+        },
+        {
+          "number": "ii",
+          "text": "An alternative to fingerprinting"
+        },
+        {
+          "number": "iii",
+          "text": "The significance of prints"
+        },
+        {
+          "number": "iv",
+          "text": "How to identify a criminal"
+        },
+        {
+          "number": "v",
+          "text": "Patterns in the making"
+        },
+        {
+          "number": "vi",
+          "text": "Family connections"
+        },
+        {
+          "number": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "number": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "number": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "number": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below. List of Headings i Key people that made a difference ii An alternative to fingerprinting iii The significance of prints iv How to identify a criminal v Patterns in the making vi Family connections vii Exciting new developments viii",
+      "instructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange coincidence ix Punishing a criminal x An uncertain past Example Paragraph A iii 27. Paragraph"
+          "letter": "i",
+          "text": "Key people that made a difference"
         },
         {
-          "letter": "B",
-          "text": "28. Paragraph"
+          "letter": "ii",
+          "text": "An alternative to fingerprinting"
         },
         {
-          "letter": "C",
-          "text": "29. Paragraph"
+          "letter": "iii",
+          "text": "The significance of prints"
         },
         {
-          "letter": "D",
-          "text": "30. Paragraph"
+          "letter": "iv",
+          "text": "How to identify a criminal"
         },
         {
-          "letter": "E",
-          "text": "31. Paragraph"
+          "letter": "v",
+          "text": "Patterns in the making"
         },
         {
-          "letter": "F",
-          "text": "32. Paragraph"
+          "letter": "vi",
+          "text": "Family connections"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Exciting new developments"
+        },
+        {
+          "letter": "viii",
+          "text": "A strange coincidence"
+        },
+        {
+          "letter": "ix",
+          "text": "Punishing a criminal"
+        },
+        {
+          "letter": "x",
+          "text": "An uncertain past Example Paragraph A iii 27. Paragraph B 28. Paragraph C 29. Paragraph D 30. Paragraph E 31. Paragraph F 32. Paragraph G"
         }
       ]
     },

@@ -139,198 +139,498 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Tackling the issue using a different approach"
+        },
+        {
+          "number": "ii",
+          "text": "A significant improvement on last time"
+        },
+        {
+          "number": "iii",
+          "text": "How robots can save human lives"
+        },
+        {
+          "number": "iv",
+          "text": "Examples of robots at work"
+        },
+        {
+          "number": "v",
+          "text": "Not what it seemed to be"
+        },
+        {
+          "number": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "number": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "number": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "number": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings (i-ix) below. List of headings i Tackling the issue using a different approach ii",
+      "instructions": "The text on the following pages has six paragraphs, A-F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "significant improvement on last time iii How robots can save human lives iv Examples of robots at work v Not what it seemed to be vi Why timescales are impossible to predict vii Th"
+          "letter": "i",
+          "text": "Tackling the issue using a different approach"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "A significant improvement on last time"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "How robots can save human lives"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph"
+          "letter": "iv",
+          "text": "Examples of robots at work"
         },
         {
-          "letter": "E",
-          "text": "19 Paragraph"
+          "letter": "v",
+          "text": "Not what it seemed to be"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why timescales are impossible to predict"
+        },
+        {
+          "letter": "vii",
+          "text": "The reason why robots rarely move"
+        },
+        {
+          "letter": "viii",
+          "text": "Following the pattern of an earlier development"
+        },
+        {
+          "letter": "ix",
+          "text": "The ethical issues of robotics 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph E 19 Paragraph F"
         }
       ]
     },

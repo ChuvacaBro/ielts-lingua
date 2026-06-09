@@ -497,222 +497,594 @@
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Growing Coffee"
+        },
+        {
+          "number": "ii",
+          "text": "Problems with Manufacture"
+        },
+        {
+          "number": "iii",
+          "text": "Processing the Bean"
+        },
+        {
+          "number": "iv",
+          "text": "First Contact"
+        },
+        {
+          "number": "v",
+          "text": "Arabian Coffee"
+        },
+        {
+          "number": "vi",
+          "text": "Coffee Varieties"
+        },
+        {
+          "number": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "number": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "number": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "number": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "number": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the list of headings below choose the most suitable headings for paragraphs B – G. List of headings i Growing Coffee ii Problems with Manufacture iii Processing the Bean iv First Contact v Arabian Coffee vi Coffee Varieties vii Modern Coffee viii The Spread of Coffee ix Consuming Coffee x Climates for Coffee xi The Coffee Plant Example: Paragraph",
+      "instructions": "The reading passage on The Story of Coffee has 7 paragraphs A – G. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "iv 28 Paragraph"
+          "letter": "i",
+          "text": "Growing Coffee"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "Problems with Manufacture"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Processing the Bean"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "First Contact"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "Arabian Coffee"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Coffee Varieties"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Modern Coffee"
+        },
+        {
+          "letter": "viii",
+          "text": "The Spread of Coffee"
+        },
+        {
+          "letter": "ix",
+          "text": "Consuming Coffee"
+        },
+        {
+          "letter": "x",
+          "text": "Climates for Coffee"
+        },
+        {
+          "letter": "xi",
+          "text": "The Coffee Plant Example: Paragraph A iv 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 Paragraph G"
         }
       ]
     },

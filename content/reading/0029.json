@@ -217,51 +217,639 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Common objections"
+        },
+        {
+          "number": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "number": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "number": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "number": "v",
+          "text": "Early trials"
+        },
+        {
+          "number": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "number": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "number": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "number": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "number": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the list of headings below. Write the appropriate numbers (i—x) in boxes 27-33 on your answer sheet. NB There are more headings than paragraphs, so you will not use all of them. List of headings i. Common objections ii. Who’s planning what iii. This type sells best in shops iv. The figures say it all v. Early trials vi. They can’t get in without these vii. How does it work? viii. Fighting fraud ix. Systems to avoid x. Accepting the inevitable"
+      "instructions": "Reading Passage 3 has eight paragraphs (A-H). Choose the most suitable headings for paragraphs B-H from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Common objections"
+        },
+        {
+          "letter": "ii",
+          "text": "Who’s planning what"
+        },
+        {
+          "letter": "iii",
+          "text": "This type sells best in shops"
+        },
+        {
+          "letter": "iv",
+          "text": "The figures say it all"
+        },
+        {
+          "letter": "v",
+          "text": "Early trials"
+        },
+        {
+          "letter": "vi",
+          "text": "They can’t get in without these"
+        },
+        {
+          "letter": "vii",
+          "text": "How does it work?"
+        },
+        {
+          "letter": "viii",
+          "text": "Fighting fraud"
+        },
+        {
+          "letter": "ix",
+          "text": "Systems to avoid"
+        },
+        {
+          "letter": "x",
+          "text": "Accepting the inevitable 27 Paragraph B 28 Paragraph C 29 Paragraph D 30 Paragraph E 31 Paragraph F 32 Paragraph G 33 Paragraph H"
+        }
+      ]
     },
     {
       "number": 34,

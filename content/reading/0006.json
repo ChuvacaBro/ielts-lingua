@@ -137,132 +137,332 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph B Example Answer Paragraph C v",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Predicting climatic changes"
+        },
+        {
+          "number": "ii",
+          "text": "The relevance of the Little Ice Age today"
+        },
+        {
+          "number": "iii",
+          "text": "How cities contribute to climate change"
+        },
+        {
+          "number": "iv",
+          "text": "Human impact on the climate"
+        },
+        {
+          "number": "v",
+          "text": "How past climatic conditions can be determined"
+        },
+        {
+          "number": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "number": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "number": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "number": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
+        }
+      ],
       "groupId": "q14-17",
-      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the list of headings below. Write the correct number, i—ix, in boxes 14-17 on your answer sheet. List of Headings i Predicting climatic changes ii The relevance of the Little Ice Age today iii How cities contribute to climate change iv Human impact on the climate v How past climatic conditions can be determined vi",
+      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "growing need for weather records vii A study covering a thousand years viii People have always responded to climate change ix Enough food at last Example Answer Paragraph A viii 14."
+          "letter": "i",
+          "text": "Predicting climatic changes"
         },
         {
-          "letter": "B",
-          "text": "Example Answer Paragraph"
+          "letter": "ii",
+          "text": "The relevance of the Little Ice Age today"
         },
         {
-          "letter": "C",
-          "text": "v 15 Paragraph"
+          "letter": "iii",
+          "text": "How cities contribute to climate change"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "Human impact on the climate"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "How past climatic conditions can be determined"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "letter": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "letter": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "letter": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
         }
       ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Predicting climatic changes"
+        },
+        {
+          "number": "ii",
+          "text": "The relevance of the Little Ice Age today"
+        },
+        {
+          "number": "iii",
+          "text": "How cities contribute to climate change"
+        },
+        {
+          "number": "iv",
+          "text": "Human impact on the climate"
+        },
+        {
+          "number": "v",
+          "text": "How past climatic conditions can be determined"
+        },
+        {
+          "number": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "number": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "number": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "number": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
+        }
+      ],
       "groupId": "q14-17",
-      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the list of headings below. Write the correct number, i—ix, in boxes 14-17 on your answer sheet. List of Headings i Predicting climatic changes ii The relevance of the Little Ice Age today iii How cities contribute to climate change iv Human impact on the climate v How past climatic conditions can be determined vi",
+      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "growing need for weather records vii A study covering a thousand years viii People have always responded to climate change ix Enough food at last Example Answer Paragraph A viii 14."
+          "letter": "i",
+          "text": "Predicting climatic changes"
         },
         {
-          "letter": "B",
-          "text": "Example Answer Paragraph"
+          "letter": "ii",
+          "text": "The relevance of the Little Ice Age today"
         },
         {
-          "letter": "C",
-          "text": "v 15 Paragraph"
+          "letter": "iii",
+          "text": "How cities contribute to climate change"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "Human impact on the climate"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "How past climatic conditions can be determined"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "letter": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "letter": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "letter": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Predicting climatic changes"
+        },
+        {
+          "number": "ii",
+          "text": "The relevance of the Little Ice Age today"
+        },
+        {
+          "number": "iii",
+          "text": "How cities contribute to climate change"
+        },
+        {
+          "number": "iv",
+          "text": "Human impact on the climate"
+        },
+        {
+          "number": "v",
+          "text": "How past climatic conditions can be determined"
+        },
+        {
+          "number": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "number": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "number": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "number": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
+        }
+      ],
       "groupId": "q14-17",
-      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the list of headings below. Write the correct number, i—ix, in boxes 14-17 on your answer sheet. List of Headings i Predicting climatic changes ii The relevance of the Little Ice Age today iii How cities contribute to climate change iv Human impact on the climate v How past climatic conditions can be determined vi",
+      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "growing need for weather records vii A study covering a thousand years viii People have always responded to climate change ix Enough food at last Example Answer Paragraph A viii 14."
+          "letter": "i",
+          "text": "Predicting climatic changes"
         },
         {
-          "letter": "B",
-          "text": "Example Answer Paragraph"
+          "letter": "ii",
+          "text": "The relevance of the Little Ice Age today"
         },
         {
-          "letter": "C",
-          "text": "v 15 Paragraph"
+          "letter": "iii",
+          "text": "How cities contribute to climate change"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "Human impact on the climate"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "How past climatic conditions can be determined"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "letter": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "letter": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "letter": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Predicting climatic changes"
+        },
+        {
+          "number": "ii",
+          "text": "The relevance of the Little Ice Age today"
+        },
+        {
+          "number": "iii",
+          "text": "How cities contribute to climate change"
+        },
+        {
+          "number": "iv",
+          "text": "Human impact on the climate"
+        },
+        {
+          "number": "v",
+          "text": "How past climatic conditions can be determined"
+        },
+        {
+          "number": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "number": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "number": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "number": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
+        }
+      ],
       "groupId": "q14-17",
-      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the list of headings below. Write the correct number, i—ix, in boxes 14-17 on your answer sheet. List of Headings i Predicting climatic changes ii The relevance of the Little Ice Age today iii How cities contribute to climate change iv Human impact on the climate v How past climatic conditions can be determined vi",
+      "instructions": "Reading Passage 2 has six paragraphs, A—F. Choose the correct heading for paragraphs B and D—F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "growing need for weather records vii A study covering a thousand years viii People have always responded to climate change ix Enough food at last Example Answer Paragraph A viii 14."
+          "letter": "i",
+          "text": "Predicting climatic changes"
         },
         {
-          "letter": "B",
-          "text": "Example Answer Paragraph"
+          "letter": "ii",
+          "text": "The relevance of the Little Ice Age today"
         },
         {
-          "letter": "C",
-          "text": "v 15 Paragraph"
+          "letter": "iii",
+          "text": "How cities contribute to climate change"
         },
         {
-          "letter": "D",
-          "text": "16 Paragraph"
+          "letter": "iv",
+          "text": "Human impact on the climate"
         },
         {
-          "letter": "E",
-          "text": "17 Paragraph"
+          "letter": "v",
+          "text": "How past climatic conditions can be determined"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "A growing need for weather records"
+        },
+        {
+          "letter": "vii",
+          "text": "A study covering a thousand years"
+        },
+        {
+          "letter": "viii",
+          "text": "People have always responded to climate change"
+        },
+        {
+          "letter": "ix",
+          "text": "Enough food at last Example Answer Paragraph A viii"
         }
       ]
     },
@@ -626,198 +826,450 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The difficulties of talking about smells"
+        },
+        {
+          "number": "ii",
+          "text": "The role of smell in personal relationships"
+        },
+        {
+          "number": "iii",
+          "text": "Future studies into smell"
+        },
+        {
+          "number": "iv",
+          "text": "The relationship between the brain and the nose"
+        },
+        {
+          "number": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
+        },
+        {
+          "number": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "number": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "number": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
+        }
+      ],
       "groupId": "q27-32",
-      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i—viii, in boxes 27-32 on your answer sheet. List of Headings i The difficulties of talking about smells ii The role of smell in personal relationships iii Future studies into smell iv The relationship between the brain and the nose v The interpretation of smells as a factor in defining groups vi Why our sense of smell is not appreciated vii…",
+      "instructions": "Reading Passage 3 has six paragraphs, A—F. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "28 Paragraph"
+          "letter": "i",
+          "text": "The difficulties of talking about smells"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "The role of smell in personal relationships"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Future studies into smell"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "The relationship between the brain and the nose"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The interpretation of smells as a factor in defining groups"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "Why our sense of smell is not appreciated"
+        },
+        {
+          "letter": "vii",
+          "text": "Smell is our superior sense"
+        },
+        {
+          "letter": "viii",
+          "text": "The relationship between smell and feelings 27 Paragraph A 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F"
         }
       ]
     },

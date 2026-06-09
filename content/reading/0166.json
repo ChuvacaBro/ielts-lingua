@@ -59,222 +59,498 @@
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },
     {
       "number": 8,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },
     {
       "number": 9,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "No single definition of intelligence"
+        },
+        {
+          "number": "ii",
+          "text": "Faulty testing, wrong conclusion"
+        },
+        {
+          "number": "iii",
+          "text": "Welsh research supports IQ testing"
+        },
+        {
+          "number": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
+        },
+        {
+          "number": "v",
+          "text": "International research supports bilingualism"
+        },
+        {
+          "number": "vi",
+          "text": "Current thought on the advantage bilinguals have"
+        },
+        {
+          "number": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "number": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "number": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
+        }
+      ],
       "groupId": "q4-9",
-      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below List of Headings i No single definition of intelligence ii Faulty testing, wrong conclusion iii Welsh research supports IQ testing iv Beware: inadequate for Selling intelligence v International research supports bilingualism vi Current thought on the advantage bilinguals have vii Early beliefs…",
+      "instructions": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "vii 4. Paragraph"
+          "letter": "i",
+          "text": "No single definition of intelligence"
         },
         {
-          "letter": "B",
-          "text": "5. Paragraph"
+          "letter": "ii",
+          "text": "Faulty testing, wrong conclusion"
         },
         {
-          "letter": "C",
-          "text": "6. Paragraph"
+          "letter": "iii",
+          "text": "Welsh research supports IQ testing"
         },
         {
-          "letter": "D",
-          "text": "7. Paragraph"
+          "letter": "iv",
+          "text": "Beware: inadequate for Selling intelligence"
         },
         {
-          "letter": "E",
-          "text": "8. Paragraph"
+          "letter": "v",
+          "text": "International research supports bilingualism"
         },
         {
-          "letter": "F",
-          "text": "9. Paragraph"
+          "letter": "vi",
+          "text": "Current thought on the advantage bilinguals have"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Early beliefs regarding bilingualism"
+        },
+        {
+          "letter": "viii",
+          "text": "Monolinguals ahead of their bilingual peers"
+        },
+        {
+          "letter": "ix",
+          "text": "Exemplifying the bilingual advantage Example Paragraph A vii"
         }
       ]
     },

@@ -134,44 +134,548 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "number": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "number": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "number": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "number": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "number": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "number": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "number": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "number": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "number": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet. List of Headings i Disobeying FAA Regulations ii Aviation disaster prompts action iii Two coincidental developments iv Setting Altitude Zones v An oversimplified view vi Controlling pilots’ licence vii Defining airspace categories viii Setting rules to weather conditions ix Taking of Safety x First…"
+      "instructions": "Reading passage 2 has seven paragraphs A-G. Choose the correct heading for paragraphs A and C-G from the list below. Write the correct number i-x in boxes 14-19 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Disobeying FAA Regulations"
+        },
+        {
+          "letter": "ii",
+          "text": "Aviation disaster prompts action"
+        },
+        {
+          "letter": "iii",
+          "text": "Two coincidental developments"
+        },
+        {
+          "letter": "iv",
+          "text": "Setting Altitude Zones"
+        },
+        {
+          "letter": "v",
+          "text": "An oversimplified view"
+        },
+        {
+          "letter": "vi",
+          "text": "Controlling pilots’ licence"
+        },
+        {
+          "letter": "vii",
+          "text": "Defining airspace categories"
+        },
+        {
+          "letter": "viii",
+          "text": "Setting rules to weather conditions"
+        },
+        {
+          "letter": "ix",
+          "text": "Taking of Safety"
+        },
+        {
+          "letter": "x",
+          "text": "First step towards ATC Example – Paragraph B x 14 Paragraph A 15 Paragraph C 16 Paragraph D 17 Paragraph E 18 Paragraph F 19 Paragraph G"
+        }
+      ]
     },
     {
       "number": 20,

@@ -511,51 +511,695 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "number": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "number": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "number": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "number": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "number": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "number": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "number": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "number": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "number": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "number": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet. List of Headings i Financial hardship of community ii"
+      "instructions": "Reading Passage has seven paragraphs, A-G. Choose the correct heading for paragraphs, A-G from the list below. Write the correct number, i-xi, in boxes 27-33 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Financial hardship of community"
+        },
+        {
+          "letter": "ii",
+          "text": "A good tendency of strengthening the supervision"
+        },
+        {
+          "letter": "iii",
+          "text": "Details of plans for the community’s makeover and upgrade"
+        },
+        {
+          "letter": "iv",
+          "text": "Architecture suits families of various ethnic origins"
+        },
+        {
+          "letter": "v",
+          "text": "Problems arise then the mentality of alienation developed later"
+        },
+        {
+          "letter": "vi",
+          "text": "Introduction of a social housing community with unexpected high standard"
+        },
+        {
+          "letter": "vii",
+          "text": "A practical design and need assist and cooperate in future"
+        },
+        {
+          "letter": "viii",
+          "text": "closer relationship among neighbors in original site"
+        },
+        {
+          "letter": "ix",
+          "text": "different need from a makeup of a low financial background should be considered"
+        },
+        {
+          "letter": "x",
+          "text": "How to make the community feel safe"
+        },
+        {
+          "letter": "xi",
+          "text": "a plan with details for house structure"
+        }
+      ]
     },
     {
       "number": 34,

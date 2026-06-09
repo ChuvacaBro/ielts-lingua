@@ -136,175 +136,693 @@
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 20,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },
     {
       "number": 21,
       "type": "matchHeadings",
-      "prompt": "Paragraph H List of Headings i Wide differences in leisure activities according to income ii Possible inconsistencies in Ms Costa’s data iii More personal income and time influence leisure activities iv Investigating the lifestyle problem from a new angle v Increased incomes fail to benefit everyone vi A controversial development offers cheaper leisure activities vii Technology heightens differences in living standards viii The gap between income and leisure spending closes ix Two factors have led to a broader range of options for all x Have people’s lifestyles improved?",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Wide differences in leisure activities according to income"
+        },
+        {
+          "number": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
+        },
+        {
+          "number": "iii",
+          "text": "More personal income and time influence leisure activities"
+        },
+        {
+          "number": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "number": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "number": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "number": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "number": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "number": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "number": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "number": "xi",
+          "text": "High earners spend less on leisure"
+        }
+      ],
       "groupId": "q15-21",
-      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the list of headings below choose the most suitable heading for each paragraph. Write the appropriate numbers (i-xi) in boxes 15-21 on your answer sheet.",
+      "instructions": "Reading Passage 2 has nine paragraphs A-I. From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "16. Paragraph"
+          "letter": "i",
+          "text": "Wide differences in leisure activities according to income"
         },
         {
-          "letter": "B",
-          "text": "17. Paragraph"
+          "letter": "ii",
+          "text": "Possible inconsistencies in Ms Costa’s data"
         },
         {
-          "letter": "C",
-          "text": "18. Paragraph"
+          "letter": "iii",
+          "text": "More personal income and time influence leisure activities"
         },
         {
-          "letter": "D",
-          "text": "19."
+          "letter": "iv",
+          "text": "Investigating the lifestyle problem from a new angle"
+        },
+        {
+          "letter": "v",
+          "text": "Increased incomes fail to benefit everyone"
+        },
+        {
+          "letter": "vi",
+          "text": "A controversial development offers cheaper leisure activities"
+        },
+        {
+          "letter": "vii",
+          "text": "Technology heightens differences in living standards"
+        },
+        {
+          "letter": "viii",
+          "text": "The gap between income and leisure spending closes"
+        },
+        {
+          "letter": "ix",
+          "text": "Two factors have led to a broader range of options for all"
+        },
+        {
+          "letter": "x",
+          "text": "Have people’s lifestyles improved?"
+        },
+        {
+          "letter": "xi",
+          "text": "High earners spend less on leisure"
         }
       ]
     },

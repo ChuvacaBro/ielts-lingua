@@ -35,259 +35,637 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "General points of agreements and disagreements of researchers"
+        },
+        {
+          "number": "ii",
+          "text": "How much children really know about food"
+        },
+        {
+          "number": "iii",
+          "text": "Need to take action"
+        },
+        {
+          "number": "iv",
+          "text": "Advertising effects of the “Big Four”"
+        },
+        {
+          "number": "v",
+          "text": "Connection of advertising and children’s weight problems"
+        },
+        {
+          "number": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
+        },
+        {
+          "number": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "number": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "number": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "number": "x",
+          "text": "Underestimating the effects advertising has on children"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the list of headings below. Write the appropriate number, i-x, in boxes 1-7 on your answer sheet. List of Headings i General points of agreements and disagreements of researchers ii How much children really know about food iii Need to take action iv Advertising effects of the “Big Four” v Connection of advertising and children’s weight problems vi Evidence that advertising affects what children…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the most suitable heading for paragraphs A-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. paragraph"
+          "letter": "i",
+          "text": "General points of agreements and disagreements of researchers"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How much children really know about food"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Need to take action"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Advertising effects of the “Big Four”"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Connection of advertising and children’s weight problems"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Evidence that advertising affects what children buy to eat"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "How parents influence children’s eating habits"
+        },
+        {
+          "letter": "viii",
+          "text": "Advertising’s focus on unhealthy options"
+        },
+        {
+          "letter": "ix",
+          "text": "Children often buy what they want"
+        },
+        {
+          "letter": "x",
+          "text": "Underestimating the effects advertising has on children"
         }
       ]
     },

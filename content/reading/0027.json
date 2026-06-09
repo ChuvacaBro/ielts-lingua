@@ -207,125 +207,415 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The probable effects of the new international trade agreement"
+        },
+        {
+          "number": "ii",
+          "text": "The environmental impact of modern farming"
+        },
+        {
+          "number": "iii",
+          "text": "Farming and soil erosion"
+        },
+        {
+          "number": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "number": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "number": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "number": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "number": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "number": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
+        }
+      ],
       "groupId": "q14-18",
-      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the list of headings below. Write the appropriate numbers i-ix in boxes 14-18 on your answer sheet. List of Headings i The probable effects of the new international trade agreement ii The environmental impact of modern farming iii Farming and soil erosion iv The effects of government policy in rich countries v Governments and management of the environment vi The effects of government policy in…",
+      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "15 Paragraph"
+          "letter": "i",
+          "text": "The probable effects of the new international trade agreement"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "The environmental impact of modern farming"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Farming and soil erosion"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph F"
+          "letter": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "letter": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "letter": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "letter": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "letter": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "letter": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
         }
       ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The probable effects of the new international trade agreement"
+        },
+        {
+          "number": "ii",
+          "text": "The environmental impact of modern farming"
+        },
+        {
+          "number": "iii",
+          "text": "Farming and soil erosion"
+        },
+        {
+          "number": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "number": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "number": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "number": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "number": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "number": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
+        }
+      ],
       "groupId": "q14-18",
-      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the list of headings below. Write the appropriate numbers i-ix in boxes 14-18 on your answer sheet. List of Headings i The probable effects of the new international trade agreement ii The environmental impact of modern farming iii Farming and soil erosion iv The effects of government policy in rich countries v Governments and management of the environment vi The effects of government policy in…",
+      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "15 Paragraph"
+          "letter": "i",
+          "text": "The probable effects of the new international trade agreement"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "The environmental impact of modern farming"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Farming and soil erosion"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph F"
+          "letter": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "letter": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "letter": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "letter": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "letter": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "letter": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
         }
       ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The probable effects of the new international trade agreement"
+        },
+        {
+          "number": "ii",
+          "text": "The environmental impact of modern farming"
+        },
+        {
+          "number": "iii",
+          "text": "Farming and soil erosion"
+        },
+        {
+          "number": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "number": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "number": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "number": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "number": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "number": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
+        }
+      ],
       "groupId": "q14-18",
-      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the list of headings below. Write the appropriate numbers i-ix in boxes 14-18 on your answer sheet. List of Headings i The probable effects of the new international trade agreement ii The environmental impact of modern farming iii Farming and soil erosion iv The effects of government policy in rich countries v Governments and management of the environment vi The effects of government policy in…",
+      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "15 Paragraph"
+          "letter": "i",
+          "text": "The probable effects of the new international trade agreement"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "The environmental impact of modern farming"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Farming and soil erosion"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph F"
+          "letter": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "letter": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "letter": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "letter": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "letter": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "letter": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
         }
       ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The probable effects of the new international trade agreement"
+        },
+        {
+          "number": "ii",
+          "text": "The environmental impact of modern farming"
+        },
+        {
+          "number": "iii",
+          "text": "Farming and soil erosion"
+        },
+        {
+          "number": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "number": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "number": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "number": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "number": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "number": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
+        }
+      ],
       "groupId": "q14-18",
-      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the list of headings below. Write the appropriate numbers i-ix in boxes 14-18 on your answer sheet. List of Headings i The probable effects of the new international trade agreement ii The environmental impact of modern farming iii Farming and soil erosion iv The effects of government policy in rich countries v Governments and management of the environment vi The effects of government policy in…",
+      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "15 Paragraph"
+          "letter": "i",
+          "text": "The probable effects of the new international trade agreement"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "The environmental impact of modern farming"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Farming and soil erosion"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph F"
+          "letter": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "letter": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "letter": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "letter": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "letter": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "letter": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
         }
       ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The probable effects of the new international trade agreement"
+        },
+        {
+          "number": "ii",
+          "text": "The environmental impact of modern farming"
+        },
+        {
+          "number": "iii",
+          "text": "Farming and soil erosion"
+        },
+        {
+          "number": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "number": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "number": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "number": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "number": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "number": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
+        }
+      ],
       "groupId": "q14-18",
-      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the list of headings below. Write the appropriate numbers i-ix in boxes 14-18 on your answer sheet. List of Headings i The probable effects of the new international trade agreement ii The environmental impact of modern farming iii Farming and soil erosion iv The effects of government policy in rich countries v Governments and management of the environment vi The effects of government policy in…",
+      "instructions": "Reading Passage 2 has six sections A-F. Choose the most suitable headings for sections A-D and F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "15 Paragraph"
+          "letter": "i",
+          "text": "The probable effects of the new international trade agreement"
         },
         {
-          "letter": "B",
-          "text": "16 Paragraph"
+          "letter": "ii",
+          "text": "The environmental impact of modern farming"
         },
         {
-          "letter": "C",
-          "text": "17 Paragraph"
+          "letter": "iii",
+          "text": "Farming and soil erosion"
         },
         {
-          "letter": "D",
-          "text": "18 Paragraph F"
+          "letter": "iv",
+          "text": "The effects of government policy in rich countries"
+        },
+        {
+          "letter": "v",
+          "text": "Governments and management of the environment"
+        },
+        {
+          "letter": "vi",
+          "text": "The effects of government policy in poor countries"
+        },
+        {
+          "letter": "vii",
+          "text": "Farming and food output"
+        },
+        {
+          "letter": "viii",
+          "text": "The effects of government policy on food output"
+        },
+        {
+          "letter": "ix",
+          "text": "The new prospects for world trade 14 Paragraph A 15 Paragraph B 16 Paragraph C 17 Paragraph D 18 Paragraph F"
         }
       ]
     },

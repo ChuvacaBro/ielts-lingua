@@ -35,198 +35,498 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Action already taken by the United Nations"
+        },
+        {
+          "number": "ii",
+          "text": "Marketing the hydrogen car"
+        },
+        {
+          "number": "iii",
+          "text": "Making the new technology available worldwide"
+        },
+        {
+          "number": "iv",
+          "text": "Some negative predictions from one group of experts"
+        },
+        {
+          "number": "v",
+          "text": "How the new vehicle technology works"
+        },
+        {
+          "number": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "number": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "number": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "number": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the list of headings below. List of Headings i. Action already taken by the United Nations ii. Marketing the hydrogen car iii. Making the new technology available worldwide iv. Some negative predictions from one group of experts v. How the new vehicle technology works vi. The history of fuel-cell technology vii.",
+      "instructions": "Reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "holistic view of climatic change viii. Locating the essential ingredient ix. Sustaining car manufacture 1. Paragraph A 2. Paragraph"
+          "letter": "i",
+          "text": "Action already taken by the United Nations"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "Marketing the hydrogen car"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Making the new technology available worldwide"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Some negative predictions from one group of experts"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "How the new vehicle technology works"
         },
         {
-          "letter": "F",
-          "text": ""
+          "letter": "vi",
+          "text": "The history of fuel-cell technology"
+        },
+        {
+          "letter": "vii",
+          "text": "A holistic view of climatic change"
+        },
+        {
+          "letter": "viii",
+          "text": "Locating the essential ingredient"
+        },
+        {
+          "letter": "ix",
+          "text": "Sustaining car manufacture 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F"
         }
       ]
     },
@@ -321,65 +621,749 @@
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "matchHeadings",
-      "prompt": "Paragraph H",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph I Growing up in New Zealand",
+      "paragraphLetter": "I",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "number": "ii",
+          "text": "The safest day"
+        },
+        {
+          "number": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "number": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "number": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "number": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "number": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "number": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "number": "ix",
+          "text": "Bodily adaptations"
+        }
+      ],
       "groupId": "q19-27",
-      "instructions": "Read reading passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only. List of headings i. Exact cause of heart attacks ii. The safest day iii. Breathless, sweaty and crushed iv. Reducing heart attack hazard v. High-risk Monday vi. Mondays: riskier than food and way of life vii. Jobless but safer viii. Elderly also at risk ix. Bodily adaptations"
+      "instructions": "Read reading passage and from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Write the appropriate number i-ix, in the spaces numbered 6-14 on the answer sheet."
+        },
+        {
+          "letter": "ii",
+          "text": "The safest day"
+        },
+        {
+          "letter": "iii",
+          "text": "Breathless, sweaty and crushed"
+        },
+        {
+          "letter": "iv",
+          "text": "Reducing heart attack hazard"
+        },
+        {
+          "letter": "v",
+          "text": "High-risk Monday"
+        },
+        {
+          "letter": "vi",
+          "text": "Mondays: riskier than food and way of life"
+        },
+        {
+          "letter": "vii",
+          "text": "Jobless but safer"
+        },
+        {
+          "letter": "viii",
+          "text": "Elderly also at risk"
+        },
+        {
+          "letter": "ix",
+          "text": "Bodily adaptations"
+        }
+      ]
     },
     {
       "number": 28,

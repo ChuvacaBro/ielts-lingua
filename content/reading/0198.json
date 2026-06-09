@@ -295,51 +295,639 @@
     {
       "number": 27,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "number": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "number": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "number": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "number": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "number": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "number": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "number": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "number": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "number": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ],
       "groupId": "q27-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the list of headings below choose the most suitable heading for each paragraph. List of headings i The long-term impact ii"
+      "instructions": "Reading Passage 3 has seven paragraphs A-G. From the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "The long-term impact"
+        },
+        {
+          "letter": "ii",
+          "text": "A celebrated achievement"
+        },
+        {
+          "letter": "iii",
+          "text": "Early brilliance passes unrecognised"
+        },
+        {
+          "letter": "iv",
+          "text": "Outdated methods retain popularity"
+        },
+        {
+          "letter": "v",
+          "text": "The basis of a new design is born"
+        },
+        {
+          "letter": "vi",
+          "text": "Frustration at never getting the design right"
+        },
+        {
+          "letter": "vii",
+          "text": "Further refinements meet persistent objections"
+        },
+        {
+          "letter": "viii",
+          "text": "Different in all respects"
+        },
+        {
+          "letter": "ix",
+          "text": "Bridge-makers look elsewhere"
+        },
+        {
+          "letter": "x",
+          "text": "Transport developments spark a major change"
+        }
+      ]
     },
     {
       "number": 34,

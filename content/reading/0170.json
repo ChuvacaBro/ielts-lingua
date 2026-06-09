@@ -39,222 +39,546 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Uses of spice"
+        },
+        {
+          "number": "ii",
+          "text": "Spices for cooking"
+        },
+        {
+          "number": "iii",
+          "text": "Changing leaders"
+        },
+        {
+          "number": "iv",
+          "text": "A strange choice"
+        },
+        {
+          "number": "v",
+          "text": "Preserving flavours"
+        },
+        {
+          "number": "vi",
+          "text": "Famous spice routes"
+        },
+        {
+          "number": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "number": "viii",
+          "text": "Some spices"
+        },
+        {
+          "number": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "number": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
+        }
+      ],
       "groupId": "q1-6",
-      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the list of headings. List of Headings i Uses of spice ii Spices for cooking iii Changing leaders iv",
+      "instructions": "Reading Passage One has seven paragraphs, A-G. Choose the correct heading for Paragraphs B-G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "strange choice v Preserving flavours vi Famous spice routes vii The power of spice viii Some spices ix Medicinal spices x Spice providers Example Answer Paragraph A iv 1. Paragraph"
+          "letter": "i",
+          "text": "Uses of spice"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Spices for cooking"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Changing leaders"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "A strange choice"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph"
+          "letter": "v",
+          "text": "Preserving flavours"
         },
         {
-          "letter": "F",
-          "text": "6. Paragraph"
+          "letter": "vi",
+          "text": "Famous spice routes"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The power of spice"
+        },
+        {
+          "letter": "viii",
+          "text": "Some spices"
+        },
+        {
+          "letter": "ix",
+          "text": "Medicinal spices"
+        },
+        {
+          "letter": "x",
+          "text": "Spice providers Example Answer Paragraph A iv 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph F 6. Paragraph G"
         }
       ]
     },

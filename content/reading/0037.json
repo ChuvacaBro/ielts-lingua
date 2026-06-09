@@ -35,259 +35,581 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The search for the reasons for an increase in population"
+        },
+        {
+          "number": "ii",
+          "text": "Industrialisation and the fear of unemployment"
+        },
+        {
+          "number": "iii",
+          "text": "The development of cities in Japan"
+        },
+        {
+          "number": "iv",
+          "text": "The time and place of the Industrial Revolution"
+        },
+        {
+          "number": "v",
+          "text": "The cases of Holland, France and China"
+        },
+        {
+          "number": "vi",
+          "text": "Changes in drinking habits in Britain"
+        },
+        {
+          "number": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "number": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "number": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i The search for the reasons for an increase in population ii Industrialisation and the fear of unemployment iii The development of cities in Japan iv The time and place of the Industrial Revolution v The cases of Holland, France and China vi Changes in drinking habits in Britain…",
+      "instructions": "Reading passage 1 has 7 paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Paragraph"
+          "letter": "i",
+          "text": "The search for the reasons for an increase in population"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Industrialisation and the fear of unemployment"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "The development of cities in Japan"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "The time and place of the Industrial Revolution"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "The cases of Holland, France and China"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "Changes in drinking habits in Britain"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Two keys to Britain’s industrial revolution"
+        },
+        {
+          "letter": "viii",
+          "text": "Conditions required for industrialization"
+        },
+        {
+          "letter": "ix",
+          "text": "Comparisons with Japan lead to the answer 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },

@@ -38,116 +38,268 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A Example Answer Paragraphs B ii",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
+        },
+        {
+          "number": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
+        },
+        {
+          "number": "iii",
+          "text": "Why children are not highly valued"
+        },
+        {
+          "number": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
+        },
+        {
+          "number": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "number": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "number": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
+        }
+      ],
       "groupId": "q1-4",
-      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the list of headings below. List of Headings i The evolution and development of educational concepts of different thinkers ii Why children had to work to alleviate the burden on family iii Why children are not highly valued iv An explanation for children dying in hospital at an early age v The first appearance of modern…",
+      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "Example Answer Paragraphs"
+          "letter": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
         },
         {
-          "letter": "B",
-          "text": "ii 2. Paragraph"
+          "letter": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Why children are not highly valued"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
         },
         {
-          "letter": "E",
-          "text": ""
+          "letter": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "letter": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "letter": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
+        },
+        {
+          "number": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
+        },
+        {
+          "number": "iii",
+          "text": "Why children are not highly valued"
+        },
+        {
+          "number": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
+        },
+        {
+          "number": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "number": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "number": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
+        }
+      ],
       "groupId": "q1-4",
-      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the list of headings below. List of Headings i The evolution and development of educational concepts of different thinkers ii Why children had to work to alleviate the burden on family iii Why children are not highly valued iv An explanation for children dying in hospital at an early age v The first appearance of modern…",
+      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "Example Answer Paragraphs"
+          "letter": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
         },
         {
-          "letter": "B",
-          "text": "ii 2. Paragraph"
+          "letter": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Why children are not highly valued"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
         },
         {
-          "letter": "E",
-          "text": ""
+          "letter": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "letter": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "letter": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
+        },
+        {
+          "number": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
+        },
+        {
+          "number": "iii",
+          "text": "Why children are not highly valued"
+        },
+        {
+          "number": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
+        },
+        {
+          "number": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "number": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "number": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
+        }
+      ],
       "groupId": "q1-4",
-      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the list of headings below. List of Headings i The evolution and development of educational concepts of different thinkers ii Why children had to work to alleviate the burden on family iii Why children are not highly valued iv An explanation for children dying in hospital at an early age v The first appearance of modern…",
+      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "Example Answer Paragraphs"
+          "letter": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
         },
         {
-          "letter": "B",
-          "text": "ii 2. Paragraph"
+          "letter": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Why children are not highly valued"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
         },
         {
-          "letter": "E",
-          "text": ""
+          "letter": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "letter": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "letter": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
+        },
+        {
+          "number": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
+        },
+        {
+          "number": "iii",
+          "text": "Why children are not highly valued"
+        },
+        {
+          "number": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
+        },
+        {
+          "number": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "number": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "number": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
+        }
+      ],
       "groupId": "q1-4",
-      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the list of headings below. List of Headings i The evolution and development of educational concepts of different thinkers ii Why children had to work to alleviate the burden on family iii Why children are not highly valued iv An explanation for children dying in hospital at an early age v The first appearance of modern…",
+      "instructions": "Reading Passage 1 has six paragraphs, A-F. Choose the correct heading for paragraphs A and C-E from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "Example Answer Paragraphs"
+          "letter": "i",
+          "text": "The evolution and development of educational concepts of different thinkers"
         },
         {
-          "letter": "B",
-          "text": "ii 2. Paragraph"
+          "letter": "ii",
+          "text": "Why children had to work to alleviate the burden on family"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Why children are not highly valued"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "An explanation for children dying in hospital at an early age"
         },
         {
-          "letter": "E",
-          "text": ""
+          "letter": "v",
+          "text": "The first appearance of modern educational philosophy"
+        },
+        {
+          "letter": "vi",
+          "text": "The application of a creative learning method on a wild child"
+        },
+        {
+          "letter": "vii",
+          "text": "The emergence and spread of the notion of kindergarten"
         }
       ]
     },

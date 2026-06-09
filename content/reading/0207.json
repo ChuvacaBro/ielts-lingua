@@ -224,44 +224,548 @@
     {
       "number": 14,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "matchHeadings",
-      "prompt": "Paragraph G List of Headings i A description of the procedure ii An international research project iii An experiment to investigate consumer responses iv Marketing an alternative name v A misleading name vi A potentially profitable line of research vii Medical dangers of the technique viii Drawbacks to marketing tools ix Broadening applications x What is neuromarketing?",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "number": "ii",
+          "text": "An international research project"
+        },
+        {
+          "number": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "number": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "number": "v",
+          "text": "A misleading name"
+        },
+        {
+          "number": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "number": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "number": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "number": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "number": "x",
+          "text": "What is neuromarketing?"
+        }
+      ],
       "groupId": "q14-19",
-      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the list of headings below."
+      "instructions": "Reading Passage 2 has ten paragraphs A-J. Choose the correct heading for Paragraphs B-G from the",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "A description of the procedure"
+        },
+        {
+          "letter": "ii",
+          "text": "An international research project"
+        },
+        {
+          "letter": "iii",
+          "text": "An experiment to investigate consumer responses"
+        },
+        {
+          "letter": "iv",
+          "text": "Marketing an alternative name"
+        },
+        {
+          "letter": "v",
+          "text": "A misleading name"
+        },
+        {
+          "letter": "vi",
+          "text": "A potentially profitable line of research"
+        },
+        {
+          "letter": "vii",
+          "text": "Medical dangers of the technique"
+        },
+        {
+          "letter": "viii",
+          "text": "Drawbacks to marketing tools"
+        },
+        {
+          "letter": "ix",
+          "text": "Broadening applications"
+        },
+        {
+          "letter": "x",
+          "text": "What is neuromarketing?"
+        }
+      ]
     },
     {
       "number": 20,

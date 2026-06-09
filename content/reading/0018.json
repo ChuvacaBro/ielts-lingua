@@ -35,63 +35,177 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "has six paragraphs, A-C.",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The expansion of international tourism in recent years"
+        },
+        {
+          "number": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "number": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "number": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "number": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
+        }
+      ],
       "groupId": "q1-3",
       "instructions": "Reading Passage",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "The expansion of international tourism in recent years"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
         },
         {
-          "letter": "C",
-          "text": ""
+          "letter": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "letter": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "letter": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Section B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The expansion of international tourism in recent years"
+        },
+        {
+          "number": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "number": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "number": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "number": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
+        }
+      ],
       "groupId": "q1-3",
       "instructions": "Reading Passage",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "The expansion of international tourism in recent years"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
         },
         {
-          "letter": "C",
-          "text": ""
+          "letter": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "letter": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "letter": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Section C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "The expansion of international tourism in recent years"
+        },
+        {
+          "number": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
+        },
+        {
+          "number": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "number": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "number": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "number": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
+        }
+      ],
       "groupId": "q1-3",
       "instructions": "Reading Passage",
       "bank": [
         {
-          "letter": "A",
-          "text": "2 Section"
+          "letter": "i",
+          "text": "The expansion of international tourism in recent years"
         },
         {
-          "letter": "B",
-          "text": "3 Section"
+          "letter": "ii",
+          "text": "How local communities can balance their own needs with the demands of wilderness tourism"
         },
         {
-          "letter": "C",
-          "text": ""
+          "letter": "iii",
+          "text": "Fragile regions and the reasons for the expansion of tourism there"
+        },
+        {
+          "letter": "iv",
+          "text": "Traditional methods of food-supply in fragile regions"
+        },
+        {
+          "letter": "v",
+          "text": "Some of the disruptive effects of wilderness tourism"
+        },
+        {
+          "letter": "vi",
+          "text": "The economic benefits of mass tourism 1 Section A 2 Section B 3 Section C"
         }
       ]
     },

@@ -405,222 +405,498 @@
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A tragic ending"
+        },
+        {
+          "number": "ii",
+          "text": "A revolutionary life"
+        },
+        {
+          "number": "iii",
+          "text": "Being different"
+        },
+        {
+          "number": "iv",
+          "text": "Contradictory behavior"
+        },
+        {
+          "number": "v",
+          "text": "The work of Thomas Paine"
+        },
+        {
+          "number": "vi",
+          "text": "Reactions to revolution"
+        },
+        {
+          "number": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "number": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "number": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the list of headings below. Paragraph headings i",
+      "instructions": "Reading Passage 3 has seven paragraphs A – C. Choose the most suitable headings for paragraphs A – G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "tragic ending ii A revolutionary life iii Being different iv Contradictory behavior v The work of Thomas Paine vi Reactions to revolution vii A life in perspective viii The first r"
+          "letter": "i",
+          "text": "A tragic ending"
         },
         {
-          "letter": "B",
-          "text": "29 Paragraph"
+          "letter": "ii",
+          "text": "A revolutionary life"
         },
         {
-          "letter": "C",
-          "text": "30 Paragraph"
+          "letter": "iii",
+          "text": "Being different"
         },
         {
-          "letter": "D",
-          "text": "31 Paragraph"
+          "letter": "iv",
+          "text": "Contradictory behavior"
         },
         {
-          "letter": "E",
-          "text": "32 Paragraph"
+          "letter": "v",
+          "text": "The work of Thomas Paine"
         },
         {
-          "letter": "F",
-          "text": "33 Paragraph"
+          "letter": "vi",
+          "text": "Reactions to revolution"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "A life in perspective"
+        },
+        {
+          "letter": "viii",
+          "text": "The first reaction to Burke"
+        },
+        {
+          "letter": "ix",
+          "text": "Asserting the rights of women Example: Paragraph A Answer vi 28 Paragraph B 29 Paragraph C 30 Paragraph D 31 Paragraph E 32 Paragraph F 33 P"
         }
       ]
     },

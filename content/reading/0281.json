@@ -35,145 +35,455 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A misunderstanding in the history of science"
+        },
+        {
+          "number": "ii",
+          "text": "Thomas Harriot’s biography"
+        },
+        {
+          "number": "iii",
+          "text": "Unknown reasons for his unpublished works"
+        },
+        {
+          "number": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
+        },
+        {
+          "number": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "number": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "number": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "number": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "number": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "number": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i.",
+      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "misunderstanding in the history of science ii."
+          "letter": "i",
+          "text": "A misunderstanding in the history of science"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Thomas Harriot’s biography"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Unknown reasons for his unpublished works"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph G"
+          "letter": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "letter": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "letter": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "letter": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "letter": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "letter": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A misunderstanding in the history of science"
+        },
+        {
+          "number": "ii",
+          "text": "Thomas Harriot’s biography"
+        },
+        {
+          "number": "iii",
+          "text": "Unknown reasons for his unpublished works"
+        },
+        {
+          "number": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
+        },
+        {
+          "number": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "number": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "number": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "number": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "number": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "number": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i.",
+      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "misunderstanding in the history of science ii."
+          "letter": "i",
+          "text": "A misunderstanding in the history of science"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Thomas Harriot’s biography"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Unknown reasons for his unpublished works"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph G"
+          "letter": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "letter": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "letter": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "letter": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "letter": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "letter": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A misunderstanding in the history of science"
+        },
+        {
+          "number": "ii",
+          "text": "Thomas Harriot’s biography"
+        },
+        {
+          "number": "iii",
+          "text": "Unknown reasons for his unpublished works"
+        },
+        {
+          "number": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
+        },
+        {
+          "number": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "number": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "number": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "number": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "number": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "number": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i.",
+      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "misunderstanding in the history of science ii."
+          "letter": "i",
+          "text": "A misunderstanding in the history of science"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Thomas Harriot’s biography"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Unknown reasons for his unpublished works"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph G"
+          "letter": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "letter": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "letter": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "letter": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "letter": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "letter": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A misunderstanding in the history of science"
+        },
+        {
+          "number": "ii",
+          "text": "Thomas Harriot’s biography"
+        },
+        {
+          "number": "iii",
+          "text": "Unknown reasons for his unpublished works"
+        },
+        {
+          "number": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
+        },
+        {
+          "number": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "number": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "number": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "number": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "number": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "number": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i.",
+      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "misunderstanding in the history of science ii."
+          "letter": "i",
+          "text": "A misunderstanding in the history of science"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Thomas Harriot’s biography"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Unknown reasons for his unpublished works"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph G"
+          "letter": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "letter": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "letter": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "letter": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "letter": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "letter": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "A misunderstanding in the history of science"
+        },
+        {
+          "number": "ii",
+          "text": "Thomas Harriot’s biography"
+        },
+        {
+          "number": "iii",
+          "text": "Unknown reasons for his unpublished works"
+        },
+        {
+          "number": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
+        },
+        {
+          "number": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "number": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "number": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "number": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "number": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "number": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
+        }
+      ],
       "groupId": "q1-5",
-      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the list of headings below. Write the correct number, i-x, in boxes 1-5 on your answer sheet. List of Headings i.",
+      "instructions": "Reading passage has 7 paragraphs A-G. Choose the correct heading for paragraphs B-E and G from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "misunderstanding in the history of science ii."
+          "letter": "i",
+          "text": "A misunderstanding in the history of science"
         },
         {
-          "letter": "B",
-          "text": "2. Paragraph"
+          "letter": "ii",
+          "text": "Thomas Harriot’s biography"
         },
         {
-          "letter": "C",
-          "text": "3. Paragraph"
+          "letter": "iii",
+          "text": "Unknown reasons for his unpublished works"
         },
         {
-          "letter": "D",
-          "text": "4. Paragraph"
+          "letter": "iv",
+          "text": "Harriot’s 1588 publication on North America studies"
         },
         {
-          "letter": "E",
-          "text": "5. Paragraph G"
+          "letter": "v",
+          "text": "Expedition to the New World"
+        },
+        {
+          "letter": "vi",
+          "text": "Reluctant cooperation with Kepler"
+        },
+        {
+          "letter": "vii",
+          "text": "Belated appreciation of Harriot’s contribution"
+        },
+        {
+          "letter": "viii",
+          "text": "Religious pressures keeping him from publishing"
+        },
+        {
+          "letter": "ix",
+          "text": "Correspondence with Kepler"
+        },
+        {
+          "letter": "x",
+          "text": "Interests and researches into multiple fields of study 1. Paragraph B 2. Paragraph C 3. Paragraph D 4. Paragraph E 5. Paragraph G"
         }
       ]
     },

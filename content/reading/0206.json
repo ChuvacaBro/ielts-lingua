@@ -228,198 +228,450 @@
     {
       "number": 28,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },
     {
       "number": 29,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },
     {
       "number": 30,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },
     {
       "number": 31,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },
     {
       "number": 32,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },
     {
       "number": 33,
       "type": "matchHeadings",
-      "prompt": "Paragraph F List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history combined vi The increasing acclaim for Aboriginal art vii Belief in continuity viii Oppression of a minority people",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Amazing results from a project"
+        },
+        {
+          "number": "ii",
+          "text": "New religious ceremonies"
+        },
+        {
+          "number": "iii",
+          "text": "Community art centres"
+        },
+        {
+          "number": "iv",
+          "text": "Early painting techniques and marketing systems"
+        },
+        {
+          "number": "v",
+          "text": "Mythology and history combined"
+        },
+        {
+          "number": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "number": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "number": "viii",
+          "text": "Oppression of a minority people"
+        }
+      ],
       "groupId": "q28-33",
-      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the list of headings below.",
+      "instructions": "Reading Passage 3 has nine paragraphs A-l. Choose the most suitable heading for paragraphs A-F from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "29. Paragraph"
+          "letter": "i",
+          "text": "Amazing results from a project"
         },
         {
-          "letter": "B",
-          "text": "30. Paragraph"
+          "letter": "ii",
+          "text": "New religious ceremonies"
         },
         {
-          "letter": "C",
-          "text": "31. Paragraph"
+          "letter": "iii",
+          "text": "Community art centres"
         },
         {
-          "letter": "D",
-          "text": "32. Paragraph"
+          "letter": "iv",
+          "text": "Early painting techniques and marketing systems"
         },
         {
-          "letter": "E",
-          "text": "33. Paragraph"
+          "letter": "v",
+          "text": "Mythology and history combined"
         },
         {
-          "letter": "F",
-          "text": "List of Headings i Amazing results from a project ii New religious ceremonies iii Community art centres iv Early painting techniques and marketing systems v Mythology and history c"
+          "letter": "vi",
+          "text": "The increasing acclaim for Aboriginal art"
+        },
+        {
+          "letter": "vii",
+          "text": "Belief in continuity"
+        },
+        {
+          "letter": "viii",
+          "text": "Oppression of a minority people"
         }
       ]
     },

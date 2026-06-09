@@ -35,259 +35,637 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "How deforestation harms isolated trees"
+        },
+        {
+          "number": "ii",
+          "text": "How other plants can cause harm"
+        },
+        {
+          "number": "iii",
+          "text": "Which big trees support the most diverse species"
+        },
+        {
+          "number": "iv",
+          "text": "Impact of big tree loss on the wider environment"
+        },
+        {
+          "number": "v",
+          "text": "Measures to prevent further decline in big tree populations"
+        },
+        {
+          "number": "vi",
+          "text": "How wildlife benefits from big trees"
+        },
+        {
+          "number": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "number": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "number": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "number": "x",
+          "text": "Factors that enable trees to grow to significant heights"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet. List of Headings i How deforestation harms isolated trees ii How other plants can cause harm iii Which big trees support the most diverse species iv Impact of big tree loss on the wider environment v Measures to prevent further decline in big tree populations vi How wildlife benefits from big trees…",
+      "instructions": "Reading Passage 1 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "How deforestation harms isolated trees"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "How other plants can cause harm"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "Which big trees support the most diverse species"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Impact of big tree loss on the wider environment"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Measures to prevent further decline in big tree populations"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "How wildlife benefits from big trees"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Risk from pests and infection"
+        },
+        {
+          "letter": "viii",
+          "text": "Ways in which industry uses big tree products"
+        },
+        {
+          "letter": "ix",
+          "text": "How higher temperatures slow the rate of tree growth"
+        },
+        {
+          "letter": "x",
+          "text": "Factors that enable trees to grow to significant heights"
         }
       ]
     },

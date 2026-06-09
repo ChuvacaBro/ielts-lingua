@@ -35,259 +35,637 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Award-winning wine"
+        },
+        {
+          "number": "ii",
+          "text": "Temperature vital to production"
+        },
+        {
+          "number": "iii",
+          "text": "Early caution and challenge"
+        },
+        {
+          "number": "iv",
+          "text": "A delicious taste"
+        },
+        {
+          "number": "v",
+          "text": "Picking the grapes, the only easy step"
+        },
+        {
+          "number": "vi",
+          "text": "From grape to wine"
+        },
+        {
+          "number": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "number": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "number": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "number": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "From the list of headings below, choose the most suitable heading for each paragraph. List of Headings i. Award-winning wine ii. Temperature vital to production iii. Early caution and challenge iv.",
+      "instructions": "From the",
       "bank": [
         {
-          "letter": "A",
-          "text": "delicious taste v."
+          "letter": "i",
+          "text": "Award-winning wine"
         },
         {
-          "letter": "B",
-          "text": "3 Paragraph"
+          "letter": "ii",
+          "text": "Temperature vital to production"
         },
         {
-          "letter": "C",
-          "text": "4 Paragraph"
+          "letter": "iii",
+          "text": "Early caution and challenge"
         },
         {
-          "letter": "D",
-          "text": "5 Paragraph"
+          "letter": "iv",
+          "text": "A delicious taste"
         },
         {
-          "letter": "E",
-          "text": "6 Paragraph"
+          "letter": "v",
+          "text": "Picking the grapes, the only easy step"
         },
         {
-          "letter": "F",
-          "text": "7 Paragraph"
+          "letter": "vi",
+          "text": "From grape to wine"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "The juice flows quickly"
+        },
+        {
+          "letter": "viii",
+          "text": "Disease brings benefits"
+        },
+        {
+          "letter": "ix",
+          "text": "The role of climate in taste"
+        },
+        {
+          "letter": "x",
+          "text": "Obstacles to production 1 Paragraph A 2 Paragraph B 3 Paragraph C 4 Paragraph D 5 Paragraph E 6 Paragraph F 7 Paragraph G"
         }
       ]
     },

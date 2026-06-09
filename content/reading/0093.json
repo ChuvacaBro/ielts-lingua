@@ -35,259 +35,637 @@
     {
       "number": 1,
       "type": "matchHeadings",
-      "prompt": "Paragraph A",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 2,
       "type": "matchHeadings",
-      "prompt": "Paragraph B",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 3,
       "type": "matchHeadings",
-      "prompt": "Paragraph C",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 4,
       "type": "matchHeadings",
-      "prompt": "Paragraph D",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 5,
       "type": "matchHeadings",
-      "prompt": "Paragraph E",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 6,
       "type": "matchHeadings",
-      "prompt": "Paragraph F",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
     {
       "number": 7,
       "type": "matchHeadings",
-      "prompt": "Paragraph G",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Early years of Gilbert"
+        },
+        {
+          "number": "ii",
+          "text": "What was new about his scientific research method"
+        },
+        {
+          "number": "iii",
+          "text": "The development of chemistry"
+        },
+        {
+          "number": "iv",
+          "text": "Questioning traditional astronomy"
+        },
+        {
+          "number": "v",
+          "text": "Pioneers of the early science"
+        },
+        {
+          "number": "vi",
+          "text": "Professional and social recognition"
+        },
+        {
+          "number": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "number": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "number": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "number": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
+        }
+      ],
       "groupId": "q1-7",
-      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the list of headings below. List of headings i Early years of Gilbert ii What was new about his scientific research method iii The development of chemistry iv Questioning traditional astronomy v Pioneers of the early science vi Professional and social recognition vii Becoming the president of the Royal Science Society viii…",
+      "instructions": "Reading Passage 1 has seven paragraphs A-G. Choose the correct heading for each paragraph from the",
       "bank": [
         {
-          "letter": "A",
-          "text": "2. Paragraph"
+          "letter": "i",
+          "text": "Early years of Gilbert"
         },
         {
-          "letter": "B",
-          "text": "3. Paragraph"
+          "letter": "ii",
+          "text": "What was new about his scientific research method"
         },
         {
-          "letter": "C",
-          "text": "4. Paragraph"
+          "letter": "iii",
+          "text": "The development of chemistry"
         },
         {
-          "letter": "D",
-          "text": "5. Paragraph"
+          "letter": "iv",
+          "text": "Questioning traditional astronomy"
         },
         {
-          "letter": "E",
-          "text": "6. Paragraph"
+          "letter": "v",
+          "text": "Pioneers of the early science"
         },
         {
-          "letter": "F",
-          "text": "7. Paragraph"
+          "letter": "vi",
+          "text": "Professional and social recognition"
         },
         {
-          "letter": "G",
-          "text": ""
+          "letter": "vii",
+          "text": "Becoming the president of the Royal Science Society"
+        },
+        {
+          "letter": "viii",
+          "text": "The great works of Gilbert"
+        },
+        {
+          "letter": "ix",
+          "text": "His discovery about magnetism"
+        },
+        {
+          "letter": "x",
+          "text": "His change of focus 1. Paragraph A 2. Paragraph B 3. Paragraph C 4. Paragraph D 5. Paragraph E 6. Paragraph F 7. Paragraph G"
         }
       ]
     },
