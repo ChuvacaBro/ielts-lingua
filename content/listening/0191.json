@@ -40,79 +40,135 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "on surfing holidays Jack’s advice • Recommends surfing for (1) holidays in summer • Need to be quite (2) Irish surfing locations • County Clare o Lahinch has some good q",
-      "groupId": "q1-7"
+      "prompt": "Advice on surfing holidays Jack’s advice • Recommends surfing for ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "mends surfing for (1) holidays in summer • Need to be quite (2) Irish surfing locations • County Clare o Lahinch has some good quality (3) and surf schools o There are fa",
-      "groupId": "q1-7"
+      "prompt": "holidays in summer • Need to be quite ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ng locations • County Clare o Lahinch has some good quality (3) and surf schools o There are famous cliffs nearby • County Mayo o Good surf school at (4) beach o Surf cam",
-      "groupId": "q1-7"
+      "prompt": "Irish surfing locations • County Clare o Lahinch has some good quality ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "re famous cliffs nearby • County Mayo o Good surf school at (4) beach o Surf camp lasts for one (5) o Can also explore the local (6) by kayak Weather • Best month to go (",
-      "groupId": "q1-7"
+      "prompt": "and surf schools o There are famous cliffs nearby • County Mayo o Good surf school at ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "o o Good surf school at (4) beach o Surf camp lasts for one (5) o Can also explore the local (6) by kayak Weather • Best month to go (7) • Average temperature in summer –",
-      "groupId": "q1-7"
+      "prompt": "beach o Surf camp lasts for one ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "o Surf camp lasts for one (5) o Can also explore the local (6) by kayak Weather • Best month to go (7) • Average temperature in summer – approx. (8) degrees Costs • Equi",
-      "groupId": "q1-7"
+      "prompt": "o Can also explore the local ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Questions 1-7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s",
-      "groupId": "q1-7"
+      "prompt": "by kayak Weather • Best month to go ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Advice on surfing holidays Jack’s advice • Recommends surfing for"
     },
     {
       "number": 8,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 8"
+      "prompt": "Question 8",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 9,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 9"
+      "prompt": "Question 9",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 10,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 10"
+      "prompt": "Question 10",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO facts are given about the school’s extended hours childcare servi",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO facts are given about the school’s extended hours childcare service?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It started recently."
+        },
+        {
+          "letter": "B",
+          "text": "More children attend after school than before school."
+        },
+        {
+          "letter": "C",
+          "text": "An average of 50 children attend in the mornings."
+        },
+        {
+          "letter": "D",
+          "text": "A child cannot attend both the before and after school sessions."
+        },
+        {
+          "letter": "E",
+          "text": "The maximum number of children who can attend is 70."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO facts are given about the school’s extended hours childcare service? A I",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO facts are given about the school’s extended hours childcare service?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It started recently."
+        },
+        {
+          "letter": "B",
+          "text": "More children attend after school than before school."
+        },
+        {
+          "letter": "C",
+          "text": "An average of 50 children attend in the mornings."
+        },
+        {
+          "letter": "D",
+          "text": "A child cannot attend both the before and after school sessions."
+        },
+        {
+          "letter": "E",
+          "text": "The maximum number of children who can attend is 70."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B or C. 13. How much does childcare cost for a complete afternoon session per child?",
+      "stem": "How much does childcare cost for a complete afternoon session per child?",
       "options": [
         {
           "letter": "A",
@@ -127,7 +183,8 @@
           "text": "£7.20"
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 14,
@@ -147,7 +204,8 @@
           "text": "Children are given a proper meal at 5 p.m."
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 15,
@@ -167,42 +225,48 @@
           "text": "A greater number of children can attend."
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 What information is given about each of the following activities on offer? Choose FIVE answers from the box",
-      "groupId": "q16-20"
+      "prompt": "Question 20",
+      "groupId": "q16-20",
+      "instructions": "What information is given about each of the following activities on offer? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter, A, B or C. Holly’s Work Placement Tutorial 21. Holly has chosen the Orion Stadium placement because",
+      "stem": "Holly has chosen the Orion Stadium placement because",
       "options": [
         {
           "letter": "A",
@@ -217,7 +281,8 @@
           "text": "it sounds like fun."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Holly’s Work Placement Tutorial"
     },
     {
       "number": 22,
@@ -237,7 +302,8 @@
           "text": "removing obstacles in changing rooms"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Holly’s Work Placement Tutorial"
     },
     {
       "number": 23,
@@ -257,7 +323,8 @@
           "text": "They shouldn’t take photographs."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Holly’s Work Placement Tutorial"
     },
     {
       "number": 24,
@@ -277,113 +344,130 @@
           "text": "extra time"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Holly’s Work Placement Tutorial"
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What do Holly and her tutor agree is an important aspect of each of the following events management skills?",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What do Holly and her tutor agree is an important aspect of each of the following events management skills? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ed that birds hibernated underwater or buried themselves in (31) • This theory was later disproved by experiments on caged birds. Transmutation theory • Aristotle believe",
+      "prompt": "to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "n autumn he observed that redstart’s experience the loss of (32) and thought that they turned into robins. – Aristotle’s assumptions were logical because the two species",
+      "prompt": "from one species into another in summer and winter. – In autumn he observed that redstart’s experience the loss of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "were logical because the two species of birds had a similar (33) 17th century • Charles Morton popularised the idea that birds fly to the (34) in winter. Scientific devel",
+      "prompt": "that they turned into robins. – Aristotle’s assumptions were logical because the two species of birds had a similar ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "• Charles Morton popularised the idea that birds fly to the (34) in winter. Scientific developments • In 1822, a stork was killed in Germany which had an African spear in",
+      "prompt": "17th century • Charles Morton popularised the idea that birds fly to the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ork was killed in Germany which had an African spear in its (35) – previously there had been no (36) that storks migrate to Africa • Little was known about the (37) and j",
+      "prompt": "in winter. Scientific developments • In 1822, a stork was killed in Germany which had an African spear in its ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "an African spear in its (35) – previously there had been no (36) that storks migrate to Africa • Little was known about the (37) and journeys of migrating birds until the",
+      "prompt": "– previously there had been no ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "that storks migrate to Africa • Little was known about the (37) and journeys of migrating birds until the practice of ringing was established. – It was thought large bir",
+      "prompt": "that storks migrate to Africa • Little was known about the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "se they were considered incapable of travelling across huge (38) – Ringing depended on what is called the (39) of dead birds. • In 1931, the first (40) to show the migrat",
+      "prompt": "large birds carried small birds on some journeys because they were considered incapable of travelling across huge ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "g across huge (38) – Ringing depended on what is called the (39) of dead birds. • In 1931, the first (40) to show the migration of European birds was printed.",
+      "prompt": "– Ringing depended on what is called the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believe",
+      "prompt": "of dead birds. • In 1931, the first ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Bird Migration Theory Most birds are believed to migrate seasonally. Hibernation theory • It was believed that birds hibernated underwater or buried themselves in"
     }
   ],
   "answerKey": {

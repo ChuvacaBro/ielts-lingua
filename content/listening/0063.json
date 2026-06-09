@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "NUMBER. House Rental Name: Mary Collins Facility available: (1) General layout: upstairs: living room Bedrooms Downstairs: (2) Car park: availability of a large (3) Shopp",
+      "prompt": "House Rental Name: Mary Collins Facility available: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "General layout: upstairs: living room Bedrooms Downstairs: (2) Car park: availability of a large (3) Shopping: at the (4) Place for children playing: (5) Education resou",
+      "prompt": "General layout: upstairs: living room Bedrooms Downstairs: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "Bedrooms Downstairs: (2) Car park: availability of a large (3) Shopping: at the (4) Place for children playing: (5) Education resources: a (6) in the community Rent: $98",
+      "prompt": "Car park: availability of a large ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "(2) Car park: availability of a large (3) Shopping: at the (4) Place for children playing: (5) Education resources: a (6) in the community Rent: $980 a month (including",
+      "prompt": "Shopping: at the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "large (3) Shopping: at the (4) Place for children playing: (5) Education resources: a (6) in the community Rent: $980 a month (including the maintenance fees of the (7)",
+      "prompt": "Place for children playing: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "(4) Place for children playing: (5) Education resources: a (6) in the community Rent: $980 a month (including the maintenance fees of the (7) ) Date of house available:",
+      "prompt": "Education resources: a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "y Rent: $980 a month (including the maintenance fees of the (7) ) Date of house available: (8) Viewing arrangement (time): meet at (9) Postcode: GA58ER Address: 8 (10) Pa",
+      "prompt": "in the community Rent: $980 a month (including the maintenance fees of the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "the maintenance fees of the (7) ) Date of house available: (8) Viewing arrangement (time): meet at (9) Postcode: GA58ER Address: 8 (10) Part 2:",
+      "prompt": "Date of house available: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "of house available: (8) Viewing arrangement (time): meet at (9) Postcode: GA58ER Address: 8 (10) Part 2:",
+      "prompt": "Viewing arrangement (time): meet at ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 1-10 Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Coll",
+      "prompt": "Postcode: GA58ER Address: 8 ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the information below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. House Rental Name: Mary Collins Facility available:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. 11. What’s the new improvement about the zoo this time?",
+      "stem": "What’s the new improvement about the zoo this time?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "The zoo has expanded its exhibition area."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "Visitors are allowed to see the animals until the late night."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "Feeding"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "Because the pye-dog zone is under construction."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,42 +219,48 @@
           "text": "Reception desk"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Bird hide",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Pye-dog zone",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Rest area",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Kangaroo visiting site",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write the correct letter A-H next to",
-      "groupId": "q16-20"
+      "prompt": "Photo shop",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter A, B or C. 21. The course has improved the environment since",
+      "stem": "The course has improved the environment since",
       "options": [
         {
           "letter": "A",
@@ -255,7 +275,8 @@
           "text": "more species were brought from other places."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -275,7 +296,8 @@
           "text": "It got the governmental fund in the first year."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -295,7 +317,8 @@
           "text": "The environment has been terribly damaged."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -315,113 +338,262 @@
           "text": "researchers"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO problems does the report focus on? A air pollution B soil erosion C",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO problems does the report focus on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "air pollution"
+        },
+        {
+          "letter": "B",
+          "text": "soil erosion"
+        },
+        {
+          "letter": "C",
+          "text": "overgrazing"
+        },
+        {
+          "letter": "D",
+          "text": "forest exploitation"
+        },
+        {
+          "letter": "E",
+          "text": "water pollution"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO problems does the report focus on? A air pollution B soil erosion C overgr",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO problems does the report focus on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "air pollution"
+        },
+        {
+          "letter": "B",
+          "text": "soil erosion"
+        },
+        {
+          "letter": "C",
+          "text": "overgrazing"
+        },
+        {
+          "letter": "D",
+          "text": "forest exploitation"
+        },
+        {
+          "letter": "E",
+          "text": "water pollution"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO benefits of this activity to the students are mentioned by the pro",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO benefits of this activity to the students are mentioned by the professor?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they become more punctual"
+        },
+        {
+          "letter": "B",
+          "text": "they feel more confident"
+        },
+        {
+          "letter": "C",
+          "text": "they get practical experience"
+        },
+        {
+          "letter": "D",
+          "text": "they learn how to collect data"
+        },
+        {
+          "letter": "E",
+          "text": "they know the importance of environment protection"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO benefits of this activity to the students are mentioned by the professor?",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO benefits of this activity to the students are mentioned by the professor?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they become more punctual"
+        },
+        {
+          "letter": "B",
+          "text": "they feel more confident"
+        },
+        {
+          "letter": "C",
+          "text": "they get practical experience"
+        },
+        {
+          "letter": "D",
+          "text": "they learn how to collect data"
+        },
+        {
+          "letter": "E",
+          "text": "they know the importance of environment protection"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. What TWO things will the woman do in the rest of the time when no activities",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. What TWO things will the woman do in the rest of the time when no activities are going on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read more reference books"
+        },
+        {
+          "letter": "B",
+          "text": "study in library"
+        },
+        {
+          "letter": "C",
+          "text": "interview some teachers"
+        },
+        {
+          "letter": "D",
+          "text": "participate in one of fun hobbies"
+        },
+        {
+          "letter": "E",
+          "text": "join in some tutorials Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. What TWO things will the woman do in the rest of the time when no activities are go",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. What TWO things will the woman do in the rest of the time when no activities are going on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read more reference books"
+        },
+        {
+          "letter": "B",
+          "text": "study in library"
+        },
+        {
+          "letter": "C",
+          "text": "interview some teachers"
+        },
+        {
+          "letter": "D",
+          "text": "participate in one of fun hobbies"
+        },
+        {
+          "letter": "E",
+          "text": "join in some tutorials Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "e most important principal of the company is to improve the (31) development of camera technology. Aim • It was founded by Dwayne Roberts in 1957 and mainly explore (32)",
+      "prompt": "ROBERTS COMPANY Founding • The most important principal of the company is to improve the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "It was founded by Dwayne Roberts in 1957 and mainly explore (32) Potential applications • recording high-definition video • discovering (33) • searching plants in the rai",
+      "prompt": "development of camera technology. Aim • It was founded by Dwayne Roberts in 1957 and mainly explore ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "pplications • recording high-definition video • discovering (33) • searching plants in the rainforest to experiment (34) • distributing more across the road network to co",
+      "prompt": "Potential applications • recording high-definition video • discovering ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ing (33) • searching plants in the rainforest to experiment (34) • distributing more across the road network to control (35) At present • (36) are the best sellers in the",
+      "prompt": "• searching plants in the rainforest to experiment ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "(34) • distributing more across the road network to control (35) At present • (36) are the best sellers in the company. • They are designed to look like (37) • The compan",
+      "prompt": "• distributing more across the road network to control ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "g more across the road network to control (35) At present • (36) are the best sellers in the company. • They are designed to look like (37) • The company is working on a",
+      "prompt": "At present • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "st sellers in the company. • They are designed to look like (37) • The company is working on a tiny (38) to change the way people see photography. Other applications • Su",
+      "prompt": "are the best sellers in the company. • They are designed to look like ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "signed to look like (37) • The company is working on a tiny (38) to change the way people see photography. Other applications • Surgeries could be faster and more (39) In",
+      "prompt": "• The company is working on a tiny ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "hy. Other applications • Surgeries could be faster and more (39) Internship opportunity • To get it, the students can participate in the (40) organised by the company eve",
+      "prompt": "to change the way people see photography. Other applications • Surgeries could be faster and more ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most",
+      "prompt": "Internship opportunity • To get it, the students can participate in the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. ROBERTS COMPANY Founding • The most important principal of the company is to improve the"
     }
   ],
   "answerKey": {

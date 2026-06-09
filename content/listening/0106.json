@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "rship • Full membership costs $260; this covers cycling and (1) all over Australia • Recreational membership costs $108 • Cost of membership includes the club fee and (2)",
+      "prompt": "city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "p costs $108 • Cost of membership includes the club fee and (2) • The club kit is made by a company called (3) Training rides • Chance to improve cycling skills and fitne",
+      "prompt": "all over Australia • Recreational membership costs $108 • Cost of membership includes the club fee and ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "club fee and (2) • The club kit is made by a company called (3) Training rides • Chance to improve cycling skills and fitness • Level B: speed about (4) kph • Weekly sess",
+      "prompt": "• The club kit is made by a company called ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "o improve cycling skills and fitness • Level B: speed about (4) kph • Weekly sessions o Tuesdays at 5.30 am, meet at the (5) o Thursdays at 5.30 am, meet at the entrance",
+      "prompt": "Training rides • Chance to improve cycling skills and fitness • Level B: speed about ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "evel B: speed about (4) kph • Weekly sessions o Tuesdays at 5.30 am, meet at the (5) o Thursdays at 5.30 am, meet at the entrance to the (6) Further information • Rides a",
+      "prompt": "30 am, meet at the (5) o Thursdays at 5.30 am, meet at the entrance to the",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "the (5) o Thursdays at 5.30 am, meet at the entrance to the (6) Further information • Rides are about an hour and half • Members often have (7) together afterwards • Ther",
+      "prompt": "30 am, meet at the (5) o Thursdays at 5.30 am, meet at the entrance to the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ion • Rides are about an hour and half • Members often have (7) together afterwards • There is not always a (8) with the group on these rides • Check and print the (9) on",
+      "prompt": "Further information • Rides are about an hour and half • Members often have ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "often have (7) together afterwards • There is not always a (8) with the group on these rides • Check and print the (9) on the website beforehand • Bikes must have (10) P",
+      "prompt": "together afterwards • There is not always a ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "s a (8) with the group on these rides • Check and print the (9) on the website beforehand • Bikes must have (10) Part 2:",
+      "prompt": "with the group on these rides • Check and print the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim H",
+      "prompt": "on the website beforehand • Bikes must have ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. South city cycling club Name of club secretary: Jim Hunter Membership • Full membership costs $260; this covers cycling and"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. Information on company volunteering projects 11. How much time for volunteering does the company allow per employee?",
+      "stem": "How much time for volunteering does the company allow per employee?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "8 hours per year"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "relationships with colleagues"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "communication skills"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "charity"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "in a community centre"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 16,
@@ -225,36 +240,129 @@
           "text": "get permission from their managers"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Information on company volunteering projects"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things are mentioned about the participants on the last Digital In",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO things are mentioned about the participants on the last Digital Inclusion Day?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they were all over 70"
+        },
+        {
+          "letter": "B",
+          "text": "they never used their computer"
+        },
+        {
+          "letter": "C",
+          "text": "their phones were mostly old fashioned"
+        },
+        {
+          "letter": "D",
+          "text": "they only used their phones for making calls"
+        },
+        {
+          "letter": "E",
+          "text": "they initially showed little interest"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things are mentioned about the participants on the last Digital Inclusion",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO things are mentioned about the participants on the last Digital Inclusion Day?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they were all over 70"
+        },
+        {
+          "letter": "B",
+          "text": "they never used their computer"
+        },
+        {
+          "letter": "C",
+          "text": "their phones were mostly old fashioned"
+        },
+        {
+          "letter": "D",
+          "text": "they only used their phones for making calls"
+        },
+        {
+          "letter": "E",
+          "text": "they initially showed little interest"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO activities on the last Digital Inclusion Day did participants descr",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What TWO activities on the last Digital Inclusion Day did participants describe as useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "learning to use tablets"
+        },
+        {
+          "letter": "B",
+          "text": "communicating with family"
+        },
+        {
+          "letter": "C",
+          "text": "shopping online"
+        },
+        {
+          "letter": "D",
+          "text": "playing online games"
+        },
+        {
+          "letter": "E",
+          "text": "sending emails Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO activities on the last Digital Inclusion Day did participants describe as",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What TWO activities on the last Digital Inclusion Day did participants describe as useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "learning to use tablets"
+        },
+        {
+          "letter": "B",
+          "text": "communicating with family"
+        },
+        {
+          "letter": "C",
+          "text": "shopping online"
+        },
+        {
+          "letter": "D",
+          "text": "playing online games"
+        },
+        {
+          "letter": "E",
+          "text": "sending emails Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. Planning a presentation on nanotechnology 21. Russ says that his difficulty in planning the presentation is due to",
+      "stem": "Russ says that his difficulty in planning the presentation is due to",
       "options": [
         {
           "letter": "A",
@@ -269,7 +377,8 @@
           "text": "the short time that he has for preparation."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C. Planning a presentation on nanotechnology"
     },
     {
       "number": 22,
@@ -289,7 +398,8 @@
           "text": "to show the range of applications of nanotechnology."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C. Planning a presentation on nanotechnology"
     },
     {
       "number": 23,
@@ -309,7 +419,8 @@
           "text": "consider omitting slides altogether."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C. Planning a presentation on nanotechnology"
     },
     {
       "number": 24,
@@ -329,7 +440,8 @@
           "text": "to provide an example."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C. Planning a presentation on nanotechnology"
     },
     {
       "number": 25,
@@ -349,107 +461,273 @@
           "text": "list the topics he wants to cover"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C. Planning a presentation on nanotechnology"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "structure",
+      "groupId": "q26-30",
+      "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter A-G next to questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lacked a conclusion"
+        },
+        {
+          "letter": "B",
+          "text": "useful in the future"
+        },
+        {
+          "letter": "C",
+          "text": "not enough"
+        },
+        {
+          "letter": "D",
+          "text": "sometimes distracting"
+        },
+        {
+          "letter": "E",
+          "text": "showed originality"
+        },
+        {
+          "letter": "F",
+          "text": "covered a wide range"
+        },
+        {
+          "letter": "G",
+          "text": "not too technical Aspects of Russ’s previous presentation 26. structure 27. eye contact 28. body language 29. choice of words 30. handouts Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "eye contact",
+      "groupId": "q26-30",
+      "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter A-G next to questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lacked a conclusion"
+        },
+        {
+          "letter": "B",
+          "text": "useful in the future"
+        },
+        {
+          "letter": "C",
+          "text": "not enough"
+        },
+        {
+          "letter": "D",
+          "text": "sometimes distracting"
+        },
+        {
+          "letter": "E",
+          "text": "showed originality"
+        },
+        {
+          "letter": "F",
+          "text": "covered a wide range"
+        },
+        {
+          "letter": "G",
+          "text": "not too technical Aspects of Russ’s previous presentation 26. structure 27. eye contact 28. body language 29. choice of words 30. handouts Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "body language",
+      "groupId": "q26-30",
+      "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter A-G next to questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lacked a conclusion"
+        },
+        {
+          "letter": "B",
+          "text": "useful in the future"
+        },
+        {
+          "letter": "C",
+          "text": "not enough"
+        },
+        {
+          "letter": "D",
+          "text": "sometimes distracting"
+        },
+        {
+          "letter": "E",
+          "text": "showed originality"
+        },
+        {
+          "letter": "F",
+          "text": "covered a wide range"
+        },
+        {
+          "letter": "G",
+          "text": "not too technical Aspects of Russ’s previous presentation 26. structure 27. eye contact 28. body language 29. choice of words 30. handouts Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "choice of words",
+      "groupId": "q26-30",
+      "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter A-G next to questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lacked a conclusion"
+        },
+        {
+          "letter": "B",
+          "text": "useful in the future"
+        },
+        {
+          "letter": "C",
+          "text": "not enough"
+        },
+        {
+          "letter": "D",
+          "text": "sometimes distracting"
+        },
+        {
+          "letter": "E",
+          "text": "showed originality"
+        },
+        {
+          "letter": "F",
+          "text": "covered a wide range"
+        },
+        {
+          "letter": "G",
+          "text": "not too technical Aspects of Russ’s previous presentation 26. structure 27. eye contact 28. body language 29. choice of words 30. handouts Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Cho",
-      "groupId": "q26-30"
+      "prompt": "handouts",
+      "groupId": "q26-30",
+      "instructions": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation? Choose FIVE answers from the box and write the correct letter A-G next to questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lacked a conclusion"
+        },
+        {
+          "letter": "B",
+          "text": "useful in the future"
+        },
+        {
+          "letter": "C",
+          "text": "not enough"
+        },
+        {
+          "letter": "D",
+          "text": "sometimes distracting"
+        },
+        {
+          "letter": "E",
+          "text": "showed originality"
+        },
+        {
+          "letter": "F",
+          "text": "covered a wide range"
+        },
+        {
+          "letter": "G",
+          "text": "not too technical Aspects of Russ’s previous presentation 26. structure 27. eye contact 28. body language 29. choice of words 30. handouts Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ic memory • The ability to recall details e.g. the time and (31) of past events • Different to semantic memory- the ability to remember general information about the (32)",
+      "prompt": "Episodic memory • The ability to recall details e.g. the time and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "mory- the ability to remember general information about the (32) which does not involve recalling (33) information Forming episodic memories involves three steps: Encodin",
+      "prompt": "of past events • Different to semantic memory- the ability to remember general information about the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "information about the (32) which does not involve recalling (33) information Forming episodic memories involves three steps: Encoding • Involves receiving and processing",
+      "prompt": "which does not involve recalling ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "• Involves receiving and processing information • The more (34) given to an event the more successfully it can be encoded • To remember a (35) it is useful to have a str",
+      "prompt": "Forming episodic memories involves three steps: Encoding • Involves receiving and processing information • The more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ent the more successfully it can be encoded • To remember a (35) it is useful to have a strategy for encoding such information Consolidation • How memories are strengthen",
+      "prompt": "given to an event the more successfully it can be encoded • To remember a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "and stored • Most effective when memories can be added to a (36) • The (37) of retrieval affects the strength of memories Retrieval • Memory retrieval often depends on us",
+      "prompt": "information Consolidation • How memories are strengthened and stored • Most effective when memories can be added to a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "• Most effective when memories can be added to a (36) • The (37) of retrieval affects the strength of memories Retrieval • Memory retrieval often depends on using a promp",
+      "prompt": "• The ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "• Memory retrieval often depends on using a prompt e.g. the (38) of an object near to the place where you left your car Episodic memory impairments • These affect people",
+      "prompt": "of retrieval affects the strength of memories Retrieval • Memory retrieval often depends on using a prompt e.g. the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ide range of medical conditions • Games which stimulate the (39) have been found to help people with schizophrenia • Children with autism may have difficulty forming epis",
+      "prompt": "Episodic memory impairments • These affect people with a wide range of medical conditions • Games which stimulate the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall deta",
+      "prompt": "• Children with autism may have difficulty forming episodic memories – possibly because their concept of the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Episodic memory • The ability to recall details e.g. the time and"
     }
   ],
   "answerKey": {

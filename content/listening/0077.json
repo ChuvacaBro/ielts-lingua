@@ -40,163 +40,543 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "7 Complete the table below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "mplete the table below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "te the table below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "he table below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "able below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "Questions 1-7 Complete the table below. Write ONE WORD AND/OR A NUMBER. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/OR A NUMBER."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "B mainly for adults C suitable for people of all ages Plays 8. The Mystery of Muldoon 9. Fire and Flood 10. Silly Sailor Part 2:",
-      "groupId": "q8-10"
+      "prompt": "The Mystery of Muldoon",
+      "groupId": "q8-10",
+      "instructions": "Who is each play suitable for? Write the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "mainly for children"
+        },
+        {
+          "letter": "B",
+          "text": "mainly for adults"
+        },
+        {
+          "letter": "C",
+          "text": "suitable for people of all ages Plays 8. The Mystery of Muldoon 9. Fire and Flood 10. Silly Sailor Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "able for people of all ages Plays 8. The Mystery of Muldoon 9. Fire and Flood 10. Silly Sailor Part 2:",
-      "groupId": "q8-10"
+      "prompt": "Fire and Flood",
+      "groupId": "q8-10",
+      "instructions": "Who is each play suitable for? Write the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "mainly for children"
+        },
+        {
+          "letter": "B",
+          "text": "mainly for adults"
+        },
+        {
+          "letter": "C",
+          "text": "suitable for people of all ages Plays 8. The Mystery of Muldoon 9. Fire and Flood 10. Silly Sailor Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Who is each play suitable for? Write the correct letter A, B or C. A mainly for children B mainly for adult",
-      "groupId": "q8-10"
+      "prompt": "Silly Sailor",
+      "groupId": "q8-10",
+      "instructions": "Who is each play suitable for? Write the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "mainly for children"
+        },
+        {
+          "letter": "B",
+          "text": "mainly for adults"
+        },
+        {
+          "letter": "C",
+          "text": "suitable for people of all ages Plays 8. The Mystery of Muldoon 9. Fire and Flood 10. Silly Sailor Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "ountry G has had some of its contents relocated Collections 11. 20th-and 21st-century paintings 12. 19th-century paintings 13. Sculptures 14. ‘Around the world’ exhibitio",
-      "groupId": "q11-16"
+      "prompt": "20th-and 21st-century paintings",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "s relocated Collections 11. 20th-and 21st-century paintings 12. 19th-century paintings 13. Sculptures 14. ‘Around the world’ exhibition 15. Coins 16. Porcelain and glass",
-      "groupId": "q11-16"
+      "prompt": "19th-century paintings",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "20th-and 21st-century paintings 12. 19th-century paintings 13. Sculptures 14. ‘Around the world’ exhibition 15. Coins 16. Porcelain and glass",
-      "groupId": "q11-16"
+      "prompt": "Sculptures",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "century paintings 12. 19th-century paintings 13. Sculptures 14. ‘Around the world’ exhibition 15. Coins 16. Porcelain and glass",
-      "groupId": "q11-16"
+      "prompt": "‘Around the world’ exhibition",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "paintings 13. Sculptures 14. ‘Around the world’ exhibition 15. Coins 16. Porcelain and glass",
-      "groupId": "q11-16"
+      "prompt": "Coins",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 What does the speaker say about each of the following collections? Choose SIX answers from the box and writ",
-      "groupId": "q11-16"
+      "prompt": "Porcelain and glass",
+      "groupId": "q11-16",
+      "instructions": "What does the speaker say about each of the following collections? Choose SIX answers from the box and write the correct letter A-G. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was given by one person"
+        },
+        {
+          "letter": "B",
+          "text": "was recently publicized in the media"
+        },
+        {
+          "letter": "C",
+          "text": "includes some items given by members of the public"
+        },
+        {
+          "letter": "D",
+          "text": "includes some items given by the artists"
+        },
+        {
+          "letter": "E",
+          "text": "includes the most popular exhibits in the museum"
+        },
+        {
+          "letter": "F",
+          "text": "is the largest of its kind in the country"
+        },
+        {
+          "letter": "G",
+          "text": "has had some of its contents relocated Collections 11."
+        }
+      ]
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the plan below. Write the correct letter A-H, next to questions 17-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the plan below. Write the correct letter A-H, next to questions 17-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the plan below. Write the correct letter A-H, next to questions 17-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 17-20 Label the plan below. Write the correct letter A-H, next to",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the plan below. Write the correct letter A-H, next to questions 17-20."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO characteristics were shared by the subjects of Joanna’s psychology",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They had all won prizes for their music"
+        },
+        {
+          "letter": "B",
+          "text": "They had all made music recordings"
+        },
+        {
+          "letter": "C",
+          "text": "They were all under 27 years old"
+        },
+        {
+          "letter": "D",
+          "text": "They had all toured internationally"
+        },
+        {
+          "letter": "E",
+          "text": "They all played a string instrument"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They had all won prizes for their music"
+        },
+        {
+          "letter": "B",
+          "text": "They had all made music recordings"
+        },
+        {
+          "letter": "C",
+          "text": "They were all under 27 years old"
+        },
+        {
+          "letter": "D",
+          "text": "They had all toured internationally"
+        },
+        {
+          "letter": "E",
+          "text": "They all played a string instrument"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO points does Joanna make about her use of telephone interviews? A",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO points does Joanna make about her use of telephone interviews?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It meant rich data could be collected"
+        },
+        {
+          "letter": "B",
+          "text": "It allowed the involvement of top performers"
+        },
+        {
+          "letter": "C",
+          "text": "It led to a stressful atmosphere at times"
+        },
+        {
+          "letter": "D",
+          "text": "It meant interview times had to be limited"
+        },
+        {
+          "letter": "E",
+          "text": "It caused some technical problems"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO points does Joanna make about her use of telephone interviews? A It mean",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO points does Joanna make about her use of telephone interviews?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It meant rich data could be collected"
+        },
+        {
+          "letter": "B",
+          "text": "It allowed the involvement of top performers"
+        },
+        {
+          "letter": "C",
+          "text": "It led to a stressful atmosphere at times"
+        },
+        {
+          "letter": "D",
+          "text": "It meant interview times had to be limited"
+        },
+        {
+          "letter": "E",
+          "text": "It caused some technical problems"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters, A-E. Which TWO topics did Joanna originally intend to investigate in her researc",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters, A-E. Which TWO topics did Joanna originally intend to investigate in her research?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "regulations concerning concert dress"
+        },
+        {
+          "letter": "B",
+          "text": "audience reactions to the dress of performers"
+        },
+        {
+          "letter": "C",
+          "text": "changes in performer attitudes to concert dress"
+        },
+        {
+          "letter": "D",
+          "text": "how choice of dress relates to performer roles"
+        },
+        {
+          "letter": "E",
+          "text": "links between musical instrument and dress choice"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters, A-E. Which TWO topics did Joanna originally intend to investigate in her research? A re",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters, A-E. Which TWO topics did Joanna originally intend to investigate in her research?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "regulations concerning concert dress"
+        },
+        {
+          "letter": "B",
+          "text": "audience reactions to the dress of performers"
+        },
+        {
+          "letter": "C",
+          "text": "changes in performer attitudes to concert dress"
+        },
+        {
+          "letter": "D",
+          "text": "how choice of dress relates to performer roles"
+        },
+        {
+          "letter": "E",
+          "text": "links between musical instrument and dress choice"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 27. Joanna concentrated on women performers because",
+      "stem": "Joanna concentrated on women performers because",
       "options": [
         {
           "letter": "A",
@@ -211,7 +591,8 @@
           "text": "women’s code of dress is less strict than men’s"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -231,7 +612,8 @@
           "text": "their reaction to the masculine nature of the music"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -251,7 +633,8 @@
           "text": "The audience should make the effort to dress appropriately"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -271,77 +654,88 @@
           "text": "the way clothing may protect against physical injury"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "agricultural soils • Erosion is more likely in soil that is (31) • Lai found soil in Africa that was very (32) • It was suggested that carbon from soil was entering the a",
+      "prompt": "that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "soil that is (31) • Lai found soil in Africa that was very (32) • It was suggested that carbon from soil was entering the atmosphere Soil and Carbon: • Plants turn CO2 f",
+      "prompt": "• Lai found soil in Africa that was very ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "s turn CO2 from the air into carbon based substance such as (33) • Some CO2 moves from the (34) of plants to microbes in soil • Carbon was lost from the soil when agricul",
+      "prompt": "soil was entering the atmosphere Soil and Carbon: • Plants turn CO2 from the air into carbon based substance such as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "rbon based substance such as (33) • Some CO2 moves from the (34) of plants to microbes in soil • Carbon was lost from the soil when agriculture was invented Regenerative",
+      "prompt": "• Some CO2 moves from the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "established practices to make sure soil remains fertile and (35) • e.g. through year-round planting and increasing the (36) of plants that are grown California study: • t",
+      "prompt": "agriculture was invented Regenerative agriculture: • uses established practices to make sure soil remains fertile and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "(35) • e.g. through year-round planting and increasing the (36) of plants that are grown California study: • taking place on a big (37) farm • uses compost made from was",
+      "prompt": "• e.g. through year-round planting and increasing the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ts that are grown California study: • taking place on a big (37) farm • uses compost made from waste from agriculture and (38) Australia study: • aims to increase soil ca",
+      "prompt": "of plants that are grown California study: • taking place on a big ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "7) farm • uses compost made from waste from agriculture and (38) Australia study: • aims to increase soil carbon by using (39) that are always green Future developments m",
+      "prompt": "farm • uses compost made from waste from agriculture and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "8) Australia study: • aims to increase soil carbon by using (39) that are always green Future developments may include: • reducing the amount of fertilizer used in farmin",
+      "prompt": "Australia study: • aims to increase soil carbon by using ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosp",
+      "prompt": "are always green Future developments may include: • reducing the amount of fertilizer used in farming • giving farmers ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. The use of soil to reduce carbon dioxide (CO2) in the atmosphere Rattan Lal: • Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils • Erosion is more likely in soil that is"
     }
   ],
   "answerKey": {

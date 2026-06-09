@@ -40,74 +40,162 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ame: Price First name: Angela Mary Address: apartment 3, 86 (1) street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of",
+      "prompt": "Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86 ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ary Address: apartment 3, 86 (1) street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year",
+      "prompt": "street, Pimlico Post code: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "street, Pimlico Post code: (2) Telephone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year: 1981",
+      "prompt": "Telephone: 8763 5142 (home) ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "phone: 8763 5142 (home) (3) (work) Driver’s licence number: (4) Date of birth: Day: 24 Month: (5) Year: 1981",
+      "prompt": "(work) Driver’s licence number: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price F",
+      "prompt": "Date of birth: Day: 24 Month: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER. Library application form Surname: Price First name: Angela Mary Address: apartment 3, 86"
     },
     {
       "number": 6,
       "type": "gapFill",
       "prompt": "Question 6",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What type of books does Angela like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "sport"
+        },
+        {
+          "letter": "B",
+          "text": "travel"
+        },
+        {
+          "letter": "C",
+          "text": "classics"
+        },
+        {
+          "letter": "D",
+          "text": "history"
+        },
+        {
+          "letter": "E",
+          "text": "cooking"
+        },
+        {
+          "letter": "F",
+          "text": "nature"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
       "prompt": "Question 7",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What type of books does Angela like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "sport"
+        },
+        {
+          "letter": "B",
+          "text": "travel"
+        },
+        {
+          "letter": "C",
+          "text": "classics"
+        },
+        {
+          "letter": "D",
+          "text": "history"
+        },
+        {
+          "letter": "E",
+          "text": "cooking"
+        },
+        {
+          "letter": "F",
+          "text": "nature"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 6-8 Circle THREE letters A-F. What type of books does Angela like? A sport B travel C classics D history E cooki",
-      "groupId": "q6-8"
+      "prompt": "Question 8",
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What type of books does Angela like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "sport"
+        },
+        {
+          "letter": "B",
+          "text": "travel"
+        },
+        {
+          "letter": "C",
+          "text": "classics"
+        },
+        {
+          "letter": "D",
+          "text": "history"
+        },
+        {
+          "letter": "E",
+          "text": "cooking"
+        },
+        {
+          "letter": "F",
+          "text": "nature"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. Whe",
+      "prompt": "How much does it cost to join the library?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. When will",
+      "prompt": "When will Angela’s card be ready?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "and 12 Choose the correct letter A, B or C. 11. What is one of the new advantages in the dining facilities?",
+      "stem": "What is one of the new advantages in the dining facilities?",
       "options": [
         {
           "letter": "A",
@@ -122,7 +210,8 @@
           "text": "more service"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -142,26 +231,29 @@
           "text": "students had to eat whatever was served"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Write NO MORE THAN THREE WORDS for each answer. 13. and pasta are an example of food 14. American fo",
+      "prompt": "and pasta are an example of food",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-14"
+      "groupId": "q13-14",
+      "instructions": "14 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Write NO MORE THAN THREE WORDS for each answer. 13. and pasta are an example of food 14. American food cons",
+      "prompt": "American food consists of",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-14"
+      "groupId": "q13-14",
+      "instructions": "14 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "multipleChoice",
-      "stem": "-18 Choose the correct letter A, B or C. 15. Why does the school say the food will be better?",
+      "stem": "Why does the school say the food will be better?",
       "options": [
         {
           "letter": "A",
@@ -176,7 +268,8 @@
           "text": "they will make more kinds"
         }
       ],
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -193,10 +286,15 @@
         },
         {
           "letter": "C",
-          "text": "12 pm and 6 pm D 12 pm and 6 am"
+          "text": "12 pm and 6 pm"
+        },
+        {
+          "letter": "D",
+          "text": "12 pm and 6 am"
         }
       ],
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -216,7 +314,8 @@
           "text": "go to the student store for snacks"
         }
       ],
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
@@ -236,154 +335,291 @@
           "text": "purchase meals from other students"
         }
       ],
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Select TWO answers. Which of the following are rules of the dining facilities? A do not waste food B",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Select TWO answers. Which of the following are rules of the dining facilities?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "do not waste food"
+        },
+        {
+          "letter": "B",
+          "text": "you may bring friends in to eat"
+        },
+        {
+          "letter": "C",
+          "text": "bring your own plates and trays"
+        },
+        {
+          "letter": "D",
+          "text": "clean your own plates and trays"
+        },
+        {
+          "letter": "E",
+          "text": "don’t litter Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Select TWO answers. Which of the following are rules of the dining facilities? A do not waste food B you ma",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Select TWO answers. Which of the following are rules of the dining facilities?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "do not waste food"
+        },
+        {
+          "letter": "B",
+          "text": "you may bring friends in to eat"
+        },
+        {
+          "letter": "C",
+          "text": "bring your own plates and trays"
+        },
+        {
+          "letter": "D",
+          "text": "clean your own plates and trays"
+        },
+        {
+          "letter": "E",
+          "text": "don’t litter Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "physical training",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letter A-C next to questions 26-30 According to the speaker for which dogs are the following kinds of training most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "small dogs"
+        },
+        {
+          "letter": "B",
+          "text": "intelligent dogs"
+        },
+        {
+          "letter": "C",
+          "text": "large dogs 26. physical training 27. search training 28. attack training 29. barking 30. biting Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "search training",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letter A-C next to questions 26-30 According to the speaker for which dogs are the following kinds of training most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "small dogs"
+        },
+        {
+          "letter": "B",
+          "text": "intelligent dogs"
+        },
+        {
+          "letter": "C",
+          "text": "large dogs 26. physical training 27. search training 28. attack training 29. barking 30. biting Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "attack training",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letter A-C next to questions 26-30 According to the speaker for which dogs are the following kinds of training most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "small dogs"
+        },
+        {
+          "letter": "B",
+          "text": "intelligent dogs"
+        },
+        {
+          "letter": "C",
+          "text": "large dogs 26. physical training 27. search training 28. attack training 29. barking 30. biting Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "barking",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letter A-C next to questions 26-30 According to the speaker for which dogs are the following kinds of training most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "small dogs"
+        },
+        {
+          "letter": "B",
+          "text": "intelligent dogs"
+        },
+        {
+          "letter": "C",
+          "text": "large dogs 26. physical training 27. search training 28. attack training 29. barking 30. biting Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Write the appropriate letter A-C next to",
-      "groupId": "q26-30"
+      "prompt": "biting",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letter A-C next to questions 26-30 According to the speaker for which dogs are the following kinds of training most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "small dogs"
+        },
+        {
+          "letter": "B",
+          "text": "intelligent dogs"
+        },
+        {
+          "letter": "C",
+          "text": "large dogs 26. physical training 27. search training 28. attack training 29. barking 30. biting Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 37. List three activities that Saturday Morning Outings have included in the past 38. There are spaces availab",
+      "prompt": "List three activities that Saturday Morning Outings have included in the past",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "ies that Saturday Morning Outings have included in the past 38. There are spaces available for the volleyball team. 39. The first rule of the building: must be kept to a",
+      "prompt": "There are spaces available for the volleyball team.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "ast 38. There are spaces available for the volleyball team. 39. The first rule of the building: must be kept to a minimum after 11 pm. The second rule of the building: Al",
+      "prompt": "The first rule of the building: must be kept to a minimum after 11 pm. The second rule of the building: All visitors must sign in at the front of the building.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 37-40 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 37. List thr",
+      "prompt": "The third rule of the building: are not permitted in the building.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

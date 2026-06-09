@@ -40,264 +40,688 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3 What did she have inside her briefcase? A wallet, pens and novel B papers and wallet C",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2."
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3 What did she have inside her briefcase? A wallet, pens and novel B papers and wallet C pens and n",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2."
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "ns 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3 What did she have inside her briefcase? A wallet, pens and novel B papers and wallet C pens and novel D pape",
-      "groupId": "q1-5"
+      "prompt": "What did she have inside her briefcase? A wallet, pens and novel B papers and wallet C pens and novel D papers, pen and novel A B C D 5 What time was it when she lost her briefcase? A 5.20 B 5.25 C 5.30 D 5.55",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2."
+        }
+      ]
     },
     {
       "number": 4,
       "type": "gapFill",
       "prompt": "Question 4",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2."
+        }
+      ]
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3 What did she have inside her briefcase? A wallet, pen",
-      "groupId": "q1-5"
+      "prompt": "Question 5",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2."
+        }
+      ]
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "REE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary (6) Address: Flat 2, (7) and (8) Road Canterbury Telephone: (9) Estimated value of lost item: (10) £ Part 2:",
+      "prompt": "PERSONAL DETAILS FORM Name: Mary ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "swer. PERSONAL DETAILS FORM Name: Mary (6) Address: Flat 2, (7) and (8) Road Canterbury Telephone: (9) Estimated value of lost item: (10) £ Part 2:",
+      "prompt": "Address: Flat 2, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "RSONAL DETAILS FORM Name: Mary (6) Address: Flat 2, (7) and (8) Road Canterbury Telephone: (9) Estimated value of lost item: (10) £ Part 2:",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "(6) Address: Flat 2, (7) and (8) Road Canterbury Telephone: (9) Estimated value of lost item: (10) £ Part 2:",
+      "prompt": "Road Canterbury Telephone: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 6-10 Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary (6) Addr",
+      "prompt": "Estimated value of lost item: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form Write NO MORE THAN THREE WORDS for each answer. PERSONAL DETAILS FORM Name: Mary"
     },
     {
       "number": 11,
       "type": "gapFill",
       "prompt": "Question 11",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Circle the THREE other items which are mentioned in the news headlines. NEWS HEADLINES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Rivers flood in the north"
+        },
+        {
+          "letter": "B",
+          "text": "Money promised for drought victims – Example"
+        },
+        {
+          "letter": "C",
+          "text": "Nurses on strike in Melbourne"
+        },
+        {
+          "letter": "D",
+          "text": "Passengers rescued from ship"
+        },
+        {
+          "letter": "E",
+          "text": "Passengers rescued from plane"
+        },
+        {
+          "letter": "F",
+          "text": "Bus and train drivers national strike threat"
+        },
+        {
+          "letter": "G",
+          "text": "Teachers demand more pay"
+        },
+        {
+          "letter": "H",
+          "text": "New uniform for QANTAS staff"
+        },
+        {
+          "letter": "I",
+          "text": "National airports under new management"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Circle the THREE other items which are mentioned in the news headlines. NEWS HEADLINES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Rivers flood in the north"
+        },
+        {
+          "letter": "B",
+          "text": "Money promised for drought victims – Example"
+        },
+        {
+          "letter": "C",
+          "text": "Nurses on strike in Melbourne"
+        },
+        {
+          "letter": "D",
+          "text": "Passengers rescued from ship"
+        },
+        {
+          "letter": "E",
+          "text": "Passengers rescued from plane"
+        },
+        {
+          "letter": "F",
+          "text": "Bus and train drivers national strike threat"
+        },
+        {
+          "letter": "G",
+          "text": "Teachers demand more pay"
+        },
+        {
+          "letter": "H",
+          "text": "New uniform for QANTAS staff"
+        },
+        {
+          "letter": "I",
+          "text": "National airports under new management"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 11-13 Circle the THREE other items which are mentioned in the news headlines. NEWS HEADLINES A Rivers flood in th",
-      "groupId": "q11-13"
+      "prompt": "Question 13",
+      "groupId": "q11-13",
+      "instructions": "Circle the THREE other items which are mentioned in the news headlines. NEWS HEADLINES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Rivers flood in the north"
+        },
+        {
+          "letter": "B",
+          "text": "Money promised for drought victims – Example"
+        },
+        {
+          "letter": "C",
+          "text": "Nurses on strike in Melbourne"
+        },
+        {
+          "letter": "D",
+          "text": "Passengers rescued from ship"
+        },
+        {
+          "letter": "E",
+          "text": "Passengers rescued from plane"
+        },
+        {
+          "letter": "F",
+          "text": "Bus and train drivers national strike threat"
+        },
+        {
+          "letter": "G",
+          "text": "Teachers demand more pay"
+        },
+        {
+          "letter": "H",
+          "text": "New uniform for QANTAS staff"
+        },
+        {
+          "letter": "I",
+          "text": "National airports under new management"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "WORDS in the spaces provided. The Government plans to give (14) $ to assist the farmers. This money was to be spent on improving Sydney’s (15) but has now been re-alloca",
+      "prompt": "The Government plans to give ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "e farmers. This money was to be spent on improving Sydney’s (15) but has now been re-allocated. Australia has experienced its worst drought in over fifty years. Farmers s",
+      "prompt": "$ to assist the farmers. This money was to be spent on improving Sydney’s ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "Farmers say that the money will not help them because it is (16) An aeroplane which was carrying a group of (17) was forced to land just (18) minutes after take-off. The",
+      "prompt": "has experienced its worst drought in over fifty years. Farmers say that the money will not help them because it is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "cause it is (16) An aeroplane which was carrying a group of (17) was forced to land just (18) minutes after take-off. The passengers were rescued by (19) The operation wa",
+      "prompt": "An aeroplane which was carrying a group of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "which was carrying a group of (17) was forced to land just (18) minutes after take-off. The passengers were rescued by (19) The operation was helped because of the good",
+      "prompt": "was forced to land just ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "(18) minutes after take-off. The passengers were rescued by (19) The operation was helped because of the good weather. The passengers thanked the (20) for saving their li",
+      "prompt": "minutes after take-off. The passengers were rescued by ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "ped because of the good weather. The passengers thanked the (20) for saving their lives but unfortunately they lost their (21) Part 3:",
+      "prompt": "The operation was helped because of the good weather. The passengers thanked the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "Questions 14-21 Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans t",
+      "prompt": "for saving their lives but unfortunately they lost their ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-21"
+      "groupId": "q14-21",
+      "instructions": "Complete the notes below by writing NO MORE THAN THREE WORDS in the spaces provided. The Government plans to give"
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 22-25 Circle the appropriate letter. 22 The orientation meeting A took place recently B took place last term C will take place tomorrow D will take",
-      "groupId": "q22-25"
+      "prompt": "The orientation meeting A took place recently B took place last term C will take place tomorrow D will take place next week",
+      "groupId": "q22-25",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "took place recently"
+        },
+        {
+          "letter": "B",
+          "text": "took place last term"
+        },
+        {
+          "letter": "C",
+          "text": "will take place tomorrow"
+        },
+        {
+          "letter": "D",
+          "text": "will take place next week 23 Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unnecessary 24 Tutorials take place A every morn"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "term C will take place tomorrow D will take place next week 23 Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unne",
-      "groupId": "q22-25"
+      "prompt": "Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unnecessary",
+      "groupId": "q22-25",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "took place recently"
+        },
+        {
+          "letter": "B",
+          "text": "took place last term"
+        },
+        {
+          "letter": "C",
+          "text": "will take place tomorrow"
+        },
+        {
+          "letter": "D",
+          "text": "will take place next week 23 Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unnecessary 24 Tutorials take place A every morn"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "ly monitored C difficult to enforce D sometimes unnecessary 24 Tutorials take place A every morning B twice a week C three mornings a week D three afternoons a week 25 Th",
-      "groupId": "q22-25"
+      "prompt": "Tutorials take place A every morning B twice a week C three mornings a week D three afternoons a week",
+      "groupId": "q22-25",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "took place recently"
+        },
+        {
+          "letter": "B",
+          "text": "took place last term"
+        },
+        {
+          "letter": "C",
+          "text": "will take place tomorrow"
+        },
+        {
+          "letter": "D",
+          "text": "will take place next week 23 Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unnecessary 24 Tutorials take place A every morn"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 22-25 Circle the appropriate letter. 22 The orientation meeting A took place recently B took place last term C wi",
-      "groupId": "q22-25"
+      "prompt": "The lecturer’s name is A Roberts B Rawson C Rogers D Robertson",
+      "groupId": "q22-25",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "took place recently"
+        },
+        {
+          "letter": "B",
+          "text": "took place last term"
+        },
+        {
+          "letter": "C",
+          "text": "will take place tomorrow"
+        },
+        {
+          "letter": "D",
+          "text": "will take place next week 23 Attendance at lectures is A optional after 4 pm B closely monitored C difficult to enforce D sometimes unnecessary 24 Tutorials take place A every morn"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "Paper: • A piece of work ON A given topic. Students must: • (26) for 25 minutes • (27) • give to lecturer for marking Essay Topic: usually (28) Type of exam: (29) Library",
+      "prompt": "Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "rk ON A given topic. Students must: • (26) for 25 minutes • (27) • give to lecturer for marking Essay Topic: usually (28) Type of exam: (29) Library: important books are",
+      "prompt": "for 25 minutes • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "• (27) • give to lecturer for marking Essay Topic: usually (28) Type of exam: (29) Library: important books are in (30) Focus of course: focus on (31) Part 4:",
+      "prompt": "• give to lecturer for marking Essay Topic: usually ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "ecturer for marking Essay Topic: usually (28) Type of exam: (29) Library: important books are in (30) Focus of course: focus on (31) Part 4:",
+      "prompt": "Type of exam: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "lly (28) Type of exam: (29) Library: important books are in (30) Focus of course: focus on (31) Part 4:",
+      "prompt": "Library: important books are in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 26-31 Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of w",
+      "prompt": "Focus of course: focus on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-31"
+      "groupId": "q26-31",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS. Course Requirements Tutorial Paper: • A piece of work ON A given topic. Students must: •"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 32 and 33 Circle the appropriate letter. 32 The speaker works within the Faculty of A Science and Technology B",
-      "groupId": "q32-33"
+      "prompt": "The speaker works within the Faculty of A Science and Technology B Arts and Social Sciences C Architecture D Law",
+      "groupId": "q32-33",
+      "instructions": "33 Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Science and Technology"
+        },
+        {
+          "letter": "B",
+          "text": "Arts and Social Sciences"
+        },
+        {
+          "letter": "C",
+          "text": "Architecture"
+        },
+        {
+          "letter": "D",
+          "text": "Law 33 The faculty consists firstly of A subjects B degrees C divisions D departments"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Questions 32 and 33 Circle the appropriate letter. 32 The speaker works within the Faculty of A Science and Technology B Arts a",
-      "groupId": "q32-33"
+      "prompt": "The faculty consists firstly of A subjects B degrees C divisions D departments",
+      "groupId": "q32-33",
+      "instructions": "33 Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Science and Technology"
+        },
+        {
+          "letter": "B",
+          "text": "Arts and Social Sciences"
+        },
+        {
+          "letter": "C",
+          "text": "Architecture"
+        },
+        {
+          "letter": "D",
+          "text": "Law 33 The faculty consists firstly of A subjects B degrees C divisions D departments"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "he first semester in this course are psychology, sociology, (34) and • Students may have problems with (35) and (36)",
+      "prompt": "• The subjects taken in the first semester in this course are psychology, sociology, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the notes with NO MORE THAN THREE WORDS. • The subjects taken in the first semester in this course are psychology, sociology,"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "logy, sociology, (34) and • Students may have problems with (35) and (36)",
+      "prompt": "and • Students may have problems with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the notes with NO MORE THAN THREE WORDS. • The subjects taken in the first semester in this course are psychology, sociology,"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "Questions 34-36 Complete the notes with NO MORE THAN THREE WORDS. • The subjects taken in the first semester in this course",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the notes with NO MORE THAN THREE WORDS. • The subjects taken in the first semester in this course are psychology, sociology,"
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Circle the appropriate letter. 37 The speaker says students can visit her A every morning B some mornings C mornings only D Friday morning 38",
-      "groupId": "q37-40"
+      "prompt": "The speaker says students can visit her A every morning B some mornings C mornings only D Friday morning",
+      "groupId": "q37-40",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "every morning"
+        },
+        {
+          "letter": "B",
+          "text": "some mornings"
+        },
+        {
+          "letter": "C",
+          "text": "mornings only"
+        },
+        {
+          "letter": "D",
+          "text": "Friday morning 38 According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a chance to share views D provides an alternative to gro"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ry morning B some mornings C mornings only D Friday morning 38 According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a",
-      "groupId": "q37-40"
+      "prompt": "According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a chance to share views D provides an alternative to groupwork",
+      "groupId": "q37-40",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "every morning"
+        },
+        {
+          "letter": "B",
+          "text": "some mornings"
+        },
+        {
+          "letter": "C",
+          "text": "mornings only"
+        },
+        {
+          "letter": "D",
+          "text": "Friday morning 38 According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a chance to share views D provides an alternative to gro"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "hance to share views D provides an alternative to groupwork 39 When writing essays, the speaker advises the students to A research their work well B name the books they h",
-      "groupId": "q37-40"
+      "prompt": "When writing essays, the speaker advises the students to A research their work well B name the books they have read C share work with their friends D avoid using other writers’ ideas",
+      "groupId": "q37-40",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "every morning"
+        },
+        {
+          "letter": "B",
+          "text": "some mornings"
+        },
+        {
+          "letter": "C",
+          "text": "mornings only"
+        },
+        {
+          "letter": "D",
+          "text": "Friday morning 38 According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a chance to share views D provides an alternative to gro"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Circle the appropriate letter. 37 The speaker says students can visit her A every morning B some mornings C",
-      "groupId": "q37-40"
+      "prompt": "The speaker thinks that plagiarism is A a common problem B an acceptable risk C a minor concern D a serious offence",
+      "groupId": "q37-40",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "every morning"
+        },
+        {
+          "letter": "B",
+          "text": "some mornings"
+        },
+        {
+          "letter": "C",
+          "text": "mornings only"
+        },
+        {
+          "letter": "D",
+          "text": "Friday morning 38 According to the speaker, a tutorial A is a type of lecture B is less important than a lecture C provides a chance to share views D provides an alternative to gro"
+        }
+      ]
     }
   ],
   "answerKey": {

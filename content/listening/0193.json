@@ -40,67 +40,77 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "t Survey Name : Sadie Jones Year of birth : 1991 Postcode : (1) Traveling by bus Date of bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus",
-      "groupId": "q1-10"
+      "prompt": "Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode : ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": ": 1991 Postcode : (1) Traveling by bus Date of bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at",
-      "groupId": "q1-10"
+      "prompt": "Traveling by bus Date of bus journey: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "bus journey: (2) Reason for trip: shopping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus to",
-      "groupId": "q1-10"
+      "prompt": "Reason for trip: shopping and visit to the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "pping and visit to the (3) Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the",
-      "groupId": "q1-10"
+      "prompt": "Travelled by bus because cost of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Travelled by bus because cost of (4) too high Got on bus at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes",
-      "groupId": "q1-10"
+      "prompt": "too high Got on bus at ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "us at (5) Street Complaints about bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes travel",
-      "groupId": "q1-10"
+      "prompt": "Street Complaints about bus service bus today was ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "out bus service bus today was (6) Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes traveling by bike in the city centre",
-      "groupId": "q1-10"
+      "prompt": "Frequency of buses in the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "Frequency of buses in the (7) Traveling by car Goes to the (8) By car Traveling by bicycle Dislikes traveling by bike in the city centre because of the (9) Doesn’t own a",
-      "groupId": "q1-10"
+      "prompt": "Traveling by car Goes to the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "islikes traveling by bike in the city centre because of the (9) Doesn’t own a bike because of a lack of (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "By car Traveling by bicycle Dislikes traveling by bike in the city centre because of the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jo",
-      "groupId": "q1-10"
+      "prompt": "Doesn’t own a bike because of a lack of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Transport Survey Name : Sadie Jones Year of birth : 1991 Postcode :"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-13 Choose the correct letter, A, B or C. Becoming a volunteer for ACE 11. Why does the speaker apologise about the seats?",
+      "stem": "Why does the speaker apologise about the seats?",
       "options": [
         {
           "letter": "A",
@@ -115,7 +125,8 @@
           "text": "Some of them are very close together."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter, A, B or C. Becoming a volunteer for ACE"
     },
     {
       "number": 12,
@@ -135,7 +146,8 @@
           "text": "Most volunteers are about 60 years old."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter, A, B or C. Becoming a volunteer for ACE"
     },
     {
       "number": 13,
@@ -155,54 +167,106 @@
           "text": "It takes place online."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter, A, B or C. Becoming a volunteer for ACE"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they",
-      "groupId": "q14-15"
+      "prompt": "Question 14",
+      "groupId": "q14-15",
+      "instructions": "15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "their financial situation"
+        },
+        {
+          "letter": "B",
+          "text": "their level of commitment"
+        },
+        {
+          "letter": "C",
+          "text": "their work experience"
+        },
+        {
+          "letter": "D",
+          "text": "their ambition"
+        },
+        {
+          "letter": "E",
+          "text": "their availability"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they apply t",
-      "groupId": "q14-15"
+      "prompt": "Question 15",
+      "groupId": "q14-15",
+      "instructions": "15 Choose TWO letters, A-E. Which TWO issues does the speaker ask the audience to consider before they apply to be volunteers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "their financial situation"
+        },
+        {
+          "letter": "B",
+          "text": "their level of commitment"
+        },
+        {
+          "letter": "C",
+          "text": "their work experience"
+        },
+        {
+          "letter": "D",
+          "text": "their ambition"
+        },
+        {
+          "letter": "E",
+          "text": "their availability"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FI",
-      "groupId": "q16-20"
+      "prompt": "Question 20",
+      "groupId": "q16-20",
+      "instructions": "What does the speaker suggest would be helpful for each of the following areas of voluntary work? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter, A, B or C. Talk on Jobs in fashion design 21. What problem did Chantal have at the start of the talk?",
+      "stem": "What problem did Chantal have at the start of the talk?",
       "options": [
         {
           "letter": "A",
@@ -217,7 +281,8 @@
           "text": "The students next to her were talking."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 22,
@@ -237,7 +302,8 @@
           "text": "Some areas of it are more exciting than others."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 23,
@@ -257,7 +323,8 @@
           "text": "critical of the industry."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 24,
@@ -277,7 +344,8 @@
           "text": "who gave the advice"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 25,
@@ -297,7 +365,8 @@
           "text": "why they would like a career in fashion."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 26,
@@ -317,101 +386,204 @@
           "text": "He thinks others want to change the practice."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C. Talk on Jobs in fashion design"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job? A being",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "being dishonest to her employer"
+        },
+        {
+          "letter": "B",
+          "text": "paying too much attention to how she looked"
+        },
+        {
+          "letter": "C",
+          "text": "expecting to become well-known"
+        },
+        {
+          "letter": "D",
+          "text": "trying to earn a lot of money"
+        },
+        {
+          "letter": "E",
+          "text": "openly disliking her client"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job? A being dishon",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters, A-E. Which TWO mistakes did the speaker admit she made in her first job?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "being dishonest to her employer"
+        },
+        {
+          "letter": "B",
+          "text": "paying too much attention to how she looked"
+        },
+        {
+          "letter": "C",
+          "text": "expecting to become well-known"
+        },
+        {
+          "letter": "D",
+          "text": "trying to earn a lot of money"
+        },
+        {
+          "letter": "E",
+          "text": "openly disliking her client"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be u",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the reasons people return fashion items"
+        },
+        {
+          "letter": "B",
+          "text": "how much time people have to shop for clothes"
+        },
+        {
+          "letter": "C",
+          "text": "fashion designs people want but can’t find"
+        },
+        {
+          "letter": "D",
+          "text": "the best time of year for fashion buying"
+        },
+        {
+          "letter": "E",
+          "text": "the most popular fashion sizes Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E. Which TWO pieces of retail information do Hugo and Chantal agree would be useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the reasons people return fashion items"
+        },
+        {
+          "letter": "B",
+          "text": "how much time people have to shop for clothes"
+        },
+        {
+          "letter": "C",
+          "text": "fashion designs people want but can’t find"
+        },
+        {
+          "letter": "D",
+          "text": "the best time of year for fashion buying"
+        },
+        {
+          "letter": "E",
+          "text": "the most popular fashion sizes Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "eater competition, causing hunger for elephants • damage to (31) in the park The translocation process • a suitable group of elephants from the same (32) was selected • v",
+      "prompt": "breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ation process • a suitable group of elephants from the same (32) was selected • vets and park staff made use of (33) to help guide the elephants into an open plain • elep",
+      "prompt": "in the park The translocation process • a suitable group of elephants from the same ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "he same (32) was selected • vets and park staff made use of (33) to help guide the elephants into an open plain • elephants were immobilised with tranquilisers o this pro",
+      "prompt": "was selected • vets and park staff made use of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "lisers o this process had to be completed quickly to reduce (34) o elephants had to be turned on their (35) to avoid damage to their lungs o elephants’ (36) had to be mon",
+      "prompt": "into an open plain • elephants were immobilised with tranquilisers o this process had to be completed quickly to reduce ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "uickly to reduce (34) o elephants had to be turned on their (35) to avoid damage to their lungs o elephants’ (36) had to be monitored constantly o tracking devices were f",
+      "prompt": "o elephants had to be turned on their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "d on their (35) to avoid damage to their lungs o elephants’ (36) had to be monitored constantly o tracking devices were fitted to the matriarchs o data including the size",
+      "prompt": "to avoid damage to their lungs o elephants’ ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "the matriarchs o data including the size of their tusks and (37) was taken • elephants were taken by truck to their new reserve Advantages of translocation at Nkhotakota",
+      "prompt": "be monitored constantly o tracking devices were fitted to the matriarchs o data including the size of their tusks and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "e Advantages of translocation at Nkhotakota Wildlife Park • (38) opportunities • a reduction in the number of poachers and (39) • an example of conservation that other pa",
+      "prompt": "was taken • elephants were taken by truck to their new reserve Advantages of translocation at Nkhotakota Wildlife Park • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": ") opportunities • a reduction in the number of poachers and (39) • an example of conservation that other parks can follow • an increase in (40) as a contributor to GDP",
+      "prompt": "opportunities • a reduction in the number of poachers and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopul",
+      "prompt": "• an example of conservation that other parks can follow • an increase in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Elephant translocation Reasons for overpopulation at Majete National Park • strict enforcement of anti-poaching laws • successful breeding Problems caused by elephant overpopulation • greater competition, causing hunger for elephants • damage to"
     }
   ],
   "answerKey": {

@@ -40,146 +40,180 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "r each answer. Architecture 21 conference Conference dates: (1) Conference venue: (2) Reservations phone no.: (3) Student rate per day: (4) Contact person: (5) Must act f",
+      "prompt": "Architecture 21 conference Conference dates: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "cture 21 conference Conference dates: (1) Conference venue: (2) Reservations phone no.: (3) Student rate per day: (4) Contact person: (5) Must act fast: Closing date for",
+      "prompt": "Conference venue: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ce dates: (1) Conference venue: (2) Reservations phone no.: (3) Student rate per day: (4) Contact person: (5) Must act fast: Closing date for talks: (6) Summary should ha",
+      "prompt": "Reservations phone no.: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "enue: (2) Reservations phone no.: (3) Student rate per day: (4) Contact person: (5) Must act fast: Closing date for talks: (6) Summary should have: (7) Maximum length: (8",
+      "prompt": "Student rate per day: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "ns phone no.: (3) Student rate per day: (4) Contact person: (5) Must act fast: Closing date for talks: (6) Summary should have: (7) Maximum length: (8) Also send: (9) Ema",
+      "prompt": "Contact person: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Contact person: (5) Must act fast: Closing date for talks: (6) Summary should have: (7) Maximum length: (8) Also send: (9) Email address: (10) @uniconf.edu.au Part 2:",
+      "prompt": "Must act fast: Closing date for talks: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "act fast: Closing date for talks: (6) Summary should have: (7) Maximum length: (8) Also send: (9) Email address: (10) @uniconf.edu.au Part 2:",
+      "prompt": "Summary should have: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ate for talks: (6) Summary should have: (7) Maximum length: (8) Also send: (9) Email address: (10) @uniconf.edu.au Part 2:",
+      "prompt": "Maximum length: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "(6) Summary should have: (7) Maximum length: (8) Also send: (9) Email address: (10) @uniconf.edu.au Part 2:",
+      "prompt": "Also send: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21",
+      "prompt": "Email address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Architecture 21 conference Conference dates:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "Question 11 Complete the sentence below. Write NO MORE THAN FOUR WORDS AND/ OR A NUMBER for the answer. 11. The house w",
+      "prompt": "The house was built between",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q11-11"
+      "groupId": "q11-11",
+      "instructions": "Complete the sentence below. Write NO MORE THAN FOUR WORDS AND/ OR A NUMBER for the answer."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12 Tick one letter A-C. 12. It was originally constructed as a/ an: A family home B office C public house",
-      "groupId": "q12-12"
+      "prompt": "It was originally constructed as a/ an: A family home B office C public house",
+      "groupId": "q12-12",
+      "instructions": "Tick one letter A-C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "family home"
+        },
+        {
+          "letter": "B",
+          "text": "office"
+        },
+        {
+          "letter": "C",
+          "text": "public house"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "ences below. Write NO MORE THAN FOUR WORDS for each answer. 13. The house contains art from 14. Until recently, the art gallery was 15. Tomorrow’s talk will be on",
+      "prompt": "The house contains art from",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "FOUR WORDS for each answer. 13. The house contains art from 14. Until recently, the art gallery was 15. Tomorrow’s talk will be on",
+      "prompt": "Until recently, the art gallery was",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 13-15 Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer. 13. The house contains art fro",
+      "prompt": "Tomorrow’s talk will be on",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "ences below. Write NO MORE THAN FOUR WORDS for each answer. 16. Breakfast is served in the cafeteria or 17. You can choose between English breakfast or 18. A car park was",
+      "prompt": "Breakfast is served in the cafeteria or",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "or each answer. 16. Breakfast is served in the cafeteria or 17. You can choose between English breakfast or 18. A car park was built because of an increase in 19. The gar",
+      "prompt": "You can choose between English breakfast or",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "afeteria or 17. You can choose between English breakfast or 18. A car park was built because of an increase in 19. The garden contains many 20. The animals at Apsley Hous",
+      "prompt": "A car park was built because of an increase in",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "kfast or 18. A car park was built because of an increase in 19. The garden contains many 20. The animals at Apsley House are all Part 3:",
+      "prompt": "The garden contains many",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 16-20 Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer. 16. Breakfast is served in the",
+      "prompt": "The animals at Apsley House are all",
       "wordLimit": "NO MORE THAN FOUR WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN FOUR WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. Which college does Chris suggest would be best?",
+      "stem": "Which college does Chris suggest would be best?",
       "options": [
         {
           "letter": "A",
@@ -194,7 +228,8 @@
           "text": "The Academy in London"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -214,7 +249,8 @@
           "text": "an interview"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -234,7 +270,8 @@
           "text": "£8000 a year"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -254,7 +291,8 @@
           "text": "train fare"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -274,107 +312,273 @@
           "text": "January 30th"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "Northdown College",
+      "groupId": "q26-30",
+      "instructions": "Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter A-G next to questions 26-30. Facilities",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "large gardens"
+        },
+        {
+          "letter": "B",
+          "text": "multiple sites"
+        },
+        {
+          "letter": "C",
+          "text": "practice rooms"
+        },
+        {
+          "letter": "D",
+          "text": "recording studio"
+        },
+        {
+          "letter": "E",
+          "text": "research facility"
+        },
+        {
+          "letter": "F",
+          "text": "student canteen"
+        },
+        {
+          "letter": "G",
+          "text": "technology suite Colleges 26."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "The Academy in London",
+      "groupId": "q26-30",
+      "instructions": "Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter A-G next to questions 26-30. Facilities",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "large gardens"
+        },
+        {
+          "letter": "B",
+          "text": "multiple sites"
+        },
+        {
+          "letter": "C",
+          "text": "practice rooms"
+        },
+        {
+          "letter": "D",
+          "text": "recording studio"
+        },
+        {
+          "letter": "E",
+          "text": "research facility"
+        },
+        {
+          "letter": "F",
+          "text": "student canteen"
+        },
+        {
+          "letter": "G",
+          "text": "technology suite Colleges 26."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "Leeds Conservatory of Contemporary Music",
+      "groupId": "q26-30",
+      "instructions": "Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter A-G next to questions 26-30. Facilities",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "large gardens"
+        },
+        {
+          "letter": "B",
+          "text": "multiple sites"
+        },
+        {
+          "letter": "C",
+          "text": "practice rooms"
+        },
+        {
+          "letter": "D",
+          "text": "recording studio"
+        },
+        {
+          "letter": "E",
+          "text": "research facility"
+        },
+        {
+          "letter": "F",
+          "text": "student canteen"
+        },
+        {
+          "letter": "G",
+          "text": "technology suite Colleges 26."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "The Henry Music Institute",
+      "groupId": "q26-30",
+      "instructions": "Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter A-G next to questions 26-30. Facilities",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "large gardens"
+        },
+        {
+          "letter": "B",
+          "text": "multiple sites"
+        },
+        {
+          "letter": "C",
+          "text": "practice rooms"
+        },
+        {
+          "letter": "D",
+          "text": "recording studio"
+        },
+        {
+          "letter": "E",
+          "text": "research facility"
+        },
+        {
+          "letter": "F",
+          "text": "student canteen"
+        },
+        {
+          "letter": "G",
+          "text": "technology suite Colleges 26."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter",
-      "groupId": "q26-30"
+      "prompt": "The James Academy of Music",
+      "groupId": "q26-30",
+      "instructions": "Which facilities do the colleges have? Choose FIVE answers from the list below and write the correct letter A-G next to questions 26-30. Facilities",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "large gardens"
+        },
+        {
+          "letter": "B",
+          "text": "multiple sites"
+        },
+        {
+          "letter": "C",
+          "text": "practice rooms"
+        },
+        {
+          "letter": "D",
+          "text": "recording studio"
+        },
+        {
+          "letter": "E",
+          "text": "research facility"
+        },
+        {
+          "letter": "F",
+          "text": "student canteen"
+        },
+        {
+          "letter": "G",
+          "text": "technology suite Colleges 26."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "UMBER for each answer. The health benefits of art and music 31. According to the speaker, art and music can benefit patients’ emotional and physical well-being. 32. Flore",
+      "prompt": "According to the speaker, art and music can benefit patients’ emotional and physical well-being.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health benefits of art and music"
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "ic can benefit patients’ emotional and physical well-being. 32. Florence Nightingale first noted the improvements in the year 33. The results of many did not prove a link",
+      "prompt": "Florence Nightingale first noted the improvements in the year",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health benefits of art and music"
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "orence Nightingale first noted the improvements in the year 33. The results of many did not prove a link between health and art as they were rarely 34. The American study",
+      "prompt": "The results of many did not prove a link between health and art as they were rarely",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health benefits of art and music"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "not prove a link between health and art as they were rarely 34. The American study looked at the effects of architecture on patients’ 35. The patients who were in a ward",
+      "prompt": "The American study looked at the effects of architecture on patients’",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health benefits of art and music"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-35 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health ben",
+      "prompt": "The patients who were in a ward with a were not in hospital for as long and needed less medication.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The health benefits of art and music"
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

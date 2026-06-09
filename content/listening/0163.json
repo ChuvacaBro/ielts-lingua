@@ -40,110 +40,169 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": ". MINTONS CAR MART Customer Enquiry Make: Lida Engine size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchan",
+      "prompt": "MINTONS CAR MART Customer Enquiry Make: Lida Engine size: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "quiry Make: Lida Engine size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name:",
+      "prompt": "Model: Max Type of gears: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "ne size: (1) Model: Max Type of gears: (2) Preferred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6)",
+      "prompt": "Preferred color: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "referred color: (3) blue FINANCE Customer wishes to arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact numb",
+      "prompt": "blue FINANCE Customer wishes to arrange ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "arrange (4) Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Cont",
+      "prompt": "Part exchange? Yes PERSONAL DETAILS Name: Wendy ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Part exchange? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Na",
+      "prompt": "Title: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "e? Yes PERSONAL DETAILS Name: Wendy (5) Title: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year:",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "le: (6) Address: (7) hampshire GU8 9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year: 1994 Mileage: maximum 70,000 Color: metall",
+      "prompt": "9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name:",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "r (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: (9) Year: 1994 Mileage: maximum 70,000 Color: metallic grey Condition: (10) Part 2:",
+      "prompt": "9EW Contact number: (for (8) only) 0798257643 CURRENT CAR Make: Conti Model: Name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Cu",
+      "prompt": "Year: 1994 Mileage: maximum 70,000 Color: metallic grey Condition: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. MINTONS CAR MART Customer Enquiry Make: Lida Engine size:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the stud",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the students he is speaking to?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "higher than average results in examinations"
+        },
+        {
+          "letter": "B",
+          "text": "good transport links with central London"
+        },
+        {
+          "letter": "C",
+          "text": "near London Airport"
+        },
+        {
+          "letter": "D",
+          "text": "special government funding"
+        },
+        {
+          "letter": "E",
+          "text": "good links with local industry"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the students he",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. What TWO advantages does the speaker say Rexford University has for the students he is speaking to?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "higher than average results in examinations"
+        },
+        {
+          "letter": "B",
+          "text": "good transport links with central London"
+        },
+        {
+          "letter": "C",
+          "text": "near London Airport"
+        },
+        {
+          "letter": "D",
+          "text": "special government funding"
+        },
+        {
+          "letter": "E",
+          "text": "good links with local industry"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "may be slowed down by – postal problems – delays in sending (13) • University tries to put international applicants in touch with a student From the same (14) who can giv",
+      "prompt": "confirmation will be sent • Application processing may be slowed down by – postal problems – delays in sending ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the table below. Write NO MORE THAN ONE WORD for each answer. • When application is received, confirmation will be sent • Application processing may be slowed down by – postal problems – delays in sending"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "ernational applicants in touch with a student From the same (14) who can give information and advice – on academic atmosphere leisure facilities – English (15) and food w",
+      "prompt": "• University tries to put international applicants in touch with a student From the same ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the table below. Write NO MORE THAN ONE WORD for each answer. • When application is received, confirmation will be sent • Application processing may be slowed down by – postal problems – delays in sending"
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 13-15 Choose the table below. Write NO MORE THAN ONE WORD for each answer. • When application is received, confir",
+      "prompt": "who can give information and advice – on academic atmosphere leisure facilities – English ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the table below. Write NO MORE THAN ONE WORD for each answer. • When application is received, confirmation will be sent • Application processing may be slowed down by – postal problems – delays in sending"
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter, A, B or C. 16. The speaker says international students at UK universities will be",
+      "stem": "The speaker says international students at UK universities will be",
       "options": [
         {
           "letter": "A",
@@ -158,7 +217,8 @@
           "text": "expected to work independently."
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 17,
@@ -178,7 +238,8 @@
           "text": "A limited number of places are available for new postgraduates."
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 18,
@@ -198,7 +259,8 @@
           "text": "at the beginning of term."
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 19,
@@ -218,7 +280,8 @@
           "text": "ensure that students have suitable accommodation."
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 20,
@@ -238,147 +301,168 @@
           "text": "practise their spoken English before they arrive."
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "e: Communication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (",
+      "prompt": "Feedback Form Course: Communication in Business Course code: CB162 Dates: From ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "nication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30)",
+      "prompt": "to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "give your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "Please give your comments on the following aspects of the course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "your comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "comments on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "ents on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "on the following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "e following aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "lowing aspects of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 21-30 Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Cours",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Feedback Form Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING 31. By 2008, carbon dioxide emissions need to be lower than in 1990. 32. Recycling saves energy and reduces em",
+      "prompt": "By 2008, carbon dioxide emissions need to be lower than in 1990.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING"
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "08, carbon dioxide emissions need to be lower than in 1990. 32. Recycling saves energy and reduces emissions from landfill sites and 33. People say that one problem is a",
+      "prompt": "Recycling saves energy and reduces emissions from landfill sites and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING"
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "saves energy and reduces emissions from landfill sites and 33. People say that one problem is a lack of ‘ ‘ sites for household waste. 34. Glass designed to be utilised",
+      "prompt": "People say that one problem is a lack of ‘ ‘ sites for household waste.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "hat one problem is a lack of ‘ ‘ sites for household waste. 34. Glass designed to be utilised for cannot be recycled with other types of glass. 35. In the UK, tons of gla",
+      "prompt": "Glass designed to be utilised for cannot be recycled with other types of glass.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-35 Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE",
+      "prompt": "In the UK, tons of glass is recycled each year.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. HOUSEHOLD WASTE RECYCLING"
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 36-40 Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

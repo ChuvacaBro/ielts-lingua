@@ -40,268 +40,536 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ARY APPLICATION FORM First Names : Louise Cynthia Address : (1) Post code : (2) Telephone : 98356712(home), (3) (work) Driver’s licence number : (4) Date of birth : 25th",
+      "prompt": "First Names : Louise Cynthia Address : ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION FORM First Names : Louise Cynthia Address :"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "FORM First Names : Louise Cynthia Address : (1) Post code : (2) Telephone : 98356712(home), (3) (work) Driver’s licence number : (4) Date of birth : 25th (5) , 1977",
+      "prompt": "Post code : ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION FORM First Names : Louise Cynthia Address :"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "a Address : (1) Post code : (2) Telephone : 98356712(home), (3) (work) Driver’s licence number : (4) Date of birth : 25th (5) , 1977",
+      "prompt": "Telephone : 98356712(home), ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION FORM First Names : Louise Cynthia Address :"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "hone : 98356712(home), (3) (work) Driver’s licence number : (4) Date of birth : 25th (5) , 1977",
+      "prompt": "(work) Driver’s licence number : ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION FORM First Names : Louise Cynthia Address :"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Questions 1-5 Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION",
+      "prompt": "Date of birth : 25th ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. VIDEO LIBRARY APPLICATION FORM First Names : Louise Cynthia Address :"
     },
     {
       "number": 6,
       "type": "gapFill",
       "prompt": "Question 6",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What types of films does Louise like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Action"
+        },
+        {
+          "letter": "B",
+          "text": "Comedies"
+        },
+        {
+          "letter": "C",
+          "text": "Musicals"
+        },
+        {
+          "letter": "D",
+          "text": "Romance"
+        },
+        {
+          "letter": "E",
+          "text": "Westerns"
+        },
+        {
+          "letter": "F",
+          "text": "Wildlife"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
       "prompt": "Question 7",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What types of films does Louise like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Action"
+        },
+        {
+          "letter": "B",
+          "text": "Comedies"
+        },
+        {
+          "letter": "C",
+          "text": "Musicals"
+        },
+        {
+          "letter": "D",
+          "text": "Romance"
+        },
+        {
+          "letter": "E",
+          "text": "Westerns"
+        },
+        {
+          "letter": "F",
+          "text": "Wildlife"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 6-8 Circle THREE letters A-F. What types of films does Louise like? A Action B Comedies C Musicals D Romance E W",
-      "groupId": "q6-8"
+      "prompt": "Question 8",
+      "groupId": "q6-8",
+      "instructions": "Circle THREE letters A-F. What types of films does Louise like?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Action"
+        },
+        {
+          "letter": "B",
+          "text": "Comedies"
+        },
+        {
+          "letter": "C",
+          "text": "Musicals"
+        },
+        {
+          "letter": "D",
+          "text": "Romance"
+        },
+        {
+          "letter": "E",
+          "text": "Westerns"
+        },
+        {
+          "letter": "F",
+          "text": "Wildlife"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. Whe",
+      "prompt": "How much does it cost to join the library?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Write NO MORE THAN THREE WORDS for each answer. 9. How much does it cost to join the library? 10. When will",
+      "prompt": "When will Louise’s card be ready?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "ion Across Attora Mountains Leader: Charles Owen Prepared a (11) for the trip Total length of trip (12) Climbed highest peak in (13)",
+      "prompt": "Expedition Across Attora Mountains Leader: Charles Owen Prepared a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Expedition Across Attora Mountains Leader: Charles Owen Prepared a"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "rles Owen Prepared a (11) for the trip Total length of trip (12) Climbed highest peak in (13)",
+      "prompt": "for the trip Total length of trip ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Expedition Across Attora Mountains Leader: Charles Owen Prepared a"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "Questions 11-13 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Expedition Across Attora Mountain",
+      "prompt": "Climbed highest peak in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Expedition Across Attora Mountains Leader: Charles Owen Prepared a"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Circle the correct letter A-C. 14. What took the group by surprise? A the amount of rain B the numbe",
-      "groupId": "q14-15"
+      "prompt": "What took the group by surprise? A the amount of rain B the number of possible routes C the length of the journey",
+      "groupId": "q14-15",
+      "instructions": "15 Circle the correct letter A-C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the amount of rain"
+        },
+        {
+          "letter": "B",
+          "text": "the number of possible routes"
+        },
+        {
+          "letter": "C",
+          "text": "the length of the journey 15. How did Charles feel about having to change routes? A He reluctantly accepted it B He was irritate by the diversion C It made no difference to him"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Circle the correct letter A-C. 14. What took the group by surprise? A the amount of rain B the number of po",
-      "groupId": "q14-15"
+      "prompt": "How did Charles feel about having to change routes? A He reluctantly accepted it B He was irritate by the diversion C It made no difference to him",
+      "groupId": "q14-15",
+      "instructions": "15 Circle the correct letter A-C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the amount of rain"
+        },
+        {
+          "letter": "B",
+          "text": "the number of possible routes"
+        },
+        {
+          "letter": "C",
+          "text": "the length of the journey 15. How did Charles feel about having to change routes? A He reluctantly accepted it B He was irritate by the diversion C It made no difference to him"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Charles say about his friends?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He met them at one stage on the trip"
+        },
+        {
+          "letter": "B",
+          "text": "They kept all their meeting arrangements"
+        },
+        {
+          "letter": "C",
+          "text": "One of them helped arrange the transport"
+        },
+        {
+          "letter": "D",
+          "text": "One of them owned the hotel they stayed in"
+        },
+        {
+          "letter": "E",
+          "text": "Some of them travelled with him"
+        },
+        {
+          "letter": "F",
+          "text": "Only one group lasted 96 days"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Charles say about his friends?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He met them at one stage on the trip"
+        },
+        {
+          "letter": "B",
+          "text": "They kept all their meeting arrangements"
+        },
+        {
+          "letter": "C",
+          "text": "One of them helped arrange the transport"
+        },
+        {
+          "letter": "D",
+          "text": "One of them owned the hotel they stayed in"
+        },
+        {
+          "letter": "E",
+          "text": "Some of them travelled with him"
+        },
+        {
+          "letter": "F",
+          "text": "Only one group lasted 96 days"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 16-18 Circle THREE letters A-F. What does Charles say about his friends? A He met them at one stage on the trip B",
-      "groupId": "q16-18"
+      "prompt": "Question 18",
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Charles say about his friends?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He met them at one stage on the trip"
+        },
+        {
+          "letter": "B",
+          "text": "They kept all their meeting arrangements"
+        },
+        {
+          "letter": "C",
+          "text": "One of them helped arrange the transport"
+        },
+        {
+          "letter": "D",
+          "text": "One of them owned the hotel they stayed in"
+        },
+        {
+          "letter": "E",
+          "text": "Some of them travelled with him"
+        },
+        {
+          "letter": "F",
+          "text": "Only one group lasted 96 days"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Circle TWO letters A-E. What does Charles say about the donkeys? A He rode them when he was tired B",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Circle TWO letters A-E. What does Charles say about the donkeys?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He rode them when he was tired"
+        },
+        {
+          "letter": "B",
+          "text": "He named them after places"
+        },
+        {
+          "letter": "C",
+          "text": "One of them died"
+        },
+        {
+          "letter": "D",
+          "text": "They behaved unpredictably"
+        },
+        {
+          "letter": "E",
+          "text": "They were very small Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Circle TWO letters A-E. What does Charles say about the donkeys? A He rode them when he was tired B He name",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Circle TWO letters A-E. What does Charles say about the donkeys?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He rode them when he was tired"
+        },
+        {
+          "letter": "B",
+          "text": "He named them after places"
+        },
+        {
+          "letter": "C",
+          "text": "One of them died"
+        },
+        {
+          "letter": "D",
+          "text": "They behaved unpredictably"
+        },
+        {
+          "letter": "E",
+          "text": "They were very small Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "tions 26-30 Write NO MORE THAN THREE WORDS for each answer. 26. What is Jane’s study strategy in lectures? 27. What is Tim’s study strategy for reading? 28. What is the s",
+      "prompt": "What is Jane’s study strategy in lectures?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "each answer. 26. What is Jane’s study strategy in lectures? 27. What is Tim’s study strategy for reading? 28. What is the subject of Tim’s first lecture? 29. What is the",
+      "prompt": "What is Tim’s study strategy for reading?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "in lectures? 27. What is Tim’s study strategy for reading? 28. What is the subject of Tim’s first lecture? 29. What is the title of Tim’s first essay? 30. What is the su",
+      "prompt": "What is the subject of Tim’s first lecture?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "or reading? 28. What is the subject of Tim’s first lecture? 29. What is the title of Tim’s first essay? 30. What is the subject of Jane’s first essay? Part 3:",
+      "prompt": "What is the title of Tim’s first essay?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Write NO MORE THAN THREE WORDS for each answer. 26. What is Jane’s study strategy in lectures? 27. What is",
+      "prompt": "What is the subject of Jane’s first essay?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "E THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "N TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (31) (32) (33) (34)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Question 37",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G against question 36-40."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "Question 38",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G against question 36-40."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "Question 39",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G against question 36-40."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write the appropriate letters A-G against",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G against question 36-40."
     }
   ],
   "answerKey": {

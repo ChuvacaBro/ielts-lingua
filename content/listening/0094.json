@@ -40,171 +40,266 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Question 1",
-      "groupId": "q1-6"
+      "prompt": "children’s play centre",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Question 2",
-      "groupId": "q1-6"
+      "prompt": "hairdresser",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "Question 3",
-      "groupId": "q1-6"
+      "prompt": "toy store",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "Question 4",
-      "groupId": "q1-6"
+      "prompt": "toilets",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Question 5",
-      "groupId": "q1-6"
+      "prompt": "phone kiosk",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 1-6 Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next t",
-      "groupId": "q1-6"
+      "prompt": "elevator",
+      "groupId": "q1-6",
+      "instructions": "Label the floor plan below. Choose FIVE answers from the floor plan and write the correct letters A-I next to questions 1-6."
     },
     {
       "number": 7,
       "type": "shortAnswer",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 7. How much does it cost to leave your car in the car park for four hours? 8. What is the minimum age for chil",
+      "prompt": "How much does it cost to leave your car in the car park for four hours?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "shortAnswer",
-      "prompt": "s it cost to leave your car in the car park for four hours? 8. What is the minimum age for children at the children’s play centre? 9. Which level is the food court locate",
+      "prompt": "What is the minimum age for children at the children’s play centre?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "shortAnswer",
-      "prompt": "the minimum age for children at the children’s play centre? 9. Which level is the food court located on? 10. What is located on the top floor of the building? Part 2:",
+      "prompt": "Which level is the food court located on?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "shortAnswer",
-      "prompt": "Questions 7-10 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 7. How much does",
+      "prompt": "What is located on the top floor of the building?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "r each answer. The agency • Contented Homes agency began in (11) • Agency does most work using the (12) How the system operates • Minimum time period for housesitting is",
+      "prompt": "The agency • Contented Homes agency began in ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "omes agency began in (11) • Agency does most work using the (12) How the system operates • Minimum time period for housesitting is (13) • Housesitters do not pay (14) • H",
+      "prompt": "• Agency does most work using the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "e system operates • Minimum time period for housesitting is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) tha",
+      "prompt": "How the system operates • Minimum time period for housesitting is ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "e period for housesitting is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of",
+      "prompt": "• Housesitters do not pay ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "g is (13) • Housesitters do not pay (14) • Homeowners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of having housesitters • Pr",
+      "prompt": "• Homeowners check ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "owners check (15) of housesitters • Housesitters have fewer (16) than normal tenants Advantages of having housesitters • Prevent (17) • Take care of your (18) and Charges",
+      "prompt": "of housesitters • Housesitters have fewer ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "normal tenants Advantages of having housesitters • Prevent (17) • Take care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends t",
+      "prompt": "than normal tenants Advantages of having housesitters • Prevent ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "s of having housesitters • Prevent (17) • Take care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends that homeowners organize (",
+      "prompt": "• Take care of your ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "care of your (18) and Charges • Agency charges housesitters (19) to register • Agency recommends that homeowners organize (20) Part 3:",
+      "prompt": "and Charges • Agency charges housesitters ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 11-20 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Conte",
+      "prompt": "to register • Agency recommends that homeowners organize ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The agency • Contented Homes agency began in"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-25"
+      "prompt": "British",
+      "groupId": "q21-25",
+      "instructions": "Where did a majority of the nationalities listed below settle? Choose your answers from the list and write correct letters A-C next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Melbourne"
+        },
+        {
+          "letter": "B",
+          "text": "Sydney"
+        },
+        {
+          "letter": "C",
+          "text": "Other places in Australia 21. British 22. Chinese 23. Lebanese 24. Malaysians 25. New Zealanders"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-25"
+      "prompt": "Chinese",
+      "groupId": "q21-25",
+      "instructions": "Where did a majority of the nationalities listed below settle? Choose your answers from the list and write correct letters A-C next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Melbourne"
+        },
+        {
+          "letter": "B",
+          "text": "Sydney"
+        },
+        {
+          "letter": "C",
+          "text": "Other places in Australia 21. British 22. Chinese 23. Lebanese 24. Malaysians 25. New Zealanders"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-25"
+      "prompt": "Lebanese",
+      "groupId": "q21-25",
+      "instructions": "Where did a majority of the nationalities listed below settle? Choose your answers from the list and write correct letters A-C next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Melbourne"
+        },
+        {
+          "letter": "B",
+          "text": "Sydney"
+        },
+        {
+          "letter": "C",
+          "text": "Other places in Australia 21. British 22. Chinese 23. Lebanese 24. Malaysians 25. New Zealanders"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-25"
+      "prompt": "Malaysians",
+      "groupId": "q21-25",
+      "instructions": "Where did a majority of the nationalities listed below settle? Choose your answers from the list and write correct letters A-C next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Melbourne"
+        },
+        {
+          "letter": "B",
+          "text": "Sydney"
+        },
+        {
+          "letter": "C",
+          "text": "Other places in Australia 21. British 22. Chinese 23. Lebanese 24. Malaysians 25. New Zealanders"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 Where did a majority of the nationalities listed below settle? Choose your answers from the list and write",
-      "groupId": "q21-25"
+      "prompt": "New Zealanders",
+      "groupId": "q21-25",
+      "instructions": "Where did a majority of the nationalities listed below settle? Choose your answers from the list and write correct letters A-C next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Melbourne"
+        },
+        {
+          "letter": "B",
+          "text": "Sydney"
+        },
+        {
+          "letter": "C",
+          "text": "Other places in Australia 21. British 22. Chinese 23. Lebanese 24. Malaysians 25. New Zealanders"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 26. Most migrants chose where to live based on",
+      "stem": "Most migrants chose where to live based on",
       "options": [
         {
           "letter": "A",
@@ -219,7 +314,8 @@
           "text": "real estate"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -239,7 +335,8 @@
           "text": "so they can have more money in retirement"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -259,7 +356,8 @@
           "text": "60%"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -279,7 +377,8 @@
           "text": "employing people outside Sydney and Melbourne"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -299,74 +398,85 @@
           "text": "the same as the statistics indicate"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Questions 31-37 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (31) (32) (33) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "Question 38",
-      "groupId": "q38-40"
+      "prompt": "Hemp can be a source of foods and health products. It can produce ____",
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Choose your answers from the box and write correct letter A-G next to questions 38-40. Hemp can be a source of foods and health products. It can produce"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "Question 39",
-      "groupId": "q38-40"
+      "prompt": "containing a higher level of protein. It has many applications in the home. Pain made from hemp is ____",
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Choose your answers from the box and write correct letter A-G next to questions 38-40. Hemp can be a source of foods and health products. It can produce"
     },
     {
       "number": 40,
       "type": "summaryCompletion",
-      "prompt": "Questions 38-40 Complete the summary below. Choose your answers from the box and write correct letter A-G next to",
-      "groupId": "q38-40"
+      "prompt": "Hemp grows well under ____",
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Choose your answers from the box and write correct letter A-G next to questions 38-40. Hemp can be a source of foods and health products. It can produce"
     }
   ],
   "answerKey": {

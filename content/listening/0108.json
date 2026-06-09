@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "bout the applicant: • At first Alex did his training in the (1) department • Alex did not have a qualification from school in (2) • Alex thinks he should have done the di",
+      "prompt": "Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "partment • Alex did not have a qualification from school in (2) • Alex thinks he should have done the diploma in (3) skills • Age of other trainees: the youngest was (4)",
+      "prompt": "department • Alex did not have a qualification from school in ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ool in (2) • Alex thinks he should have done the diploma in (3) skills • Age of other trainees: the youngest was (4) Benefits of doing training at JPNW: • Lots of opportu",
+      "prompt": "• Alex thinks he should have done the diploma in ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "oma in (3) skills • Age of other trainees: the youngest was (4) Benefits of doing training at JPNW: • Lots of opportunities because of the size of the organization • Trai",
+      "prompt": "skills • Age of other trainees: the youngest was ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "e of the organization • Trainees receive the same amount of (5) as permanent staff • The training experience increases people’s confidence a lot • Trainees go to (6) one",
+      "prompt": "training at JPNW: • Lots of opportunities because of the size of the organization • Trainees receive the same amount of ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "rience increases people’s confidence a lot • Trainees go to (6) one day per month • The company is in a convenient (7) Advice for interview: • Do not wear (8) • Do not be",
+      "prompt": "as permanent staff • The training experience increases people’s confidence a lot • Trainees go to ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "o to (6) one day per month • The company is in a convenient (7) Advice for interview: • Do not wear (8) • Do not be (9) • Make sure you (10) Part 2:",
+      "prompt": "one day per month • The company is in a convenient ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "is in a convenient (7) Advice for interview: • Do not wear (8) • Do not be (9) • Make sure you (10) Part 2:",
+      "prompt": "Advice for interview: • Do not wear ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "ent (7) Advice for interview: • Do not wear (8) • Do not be (9) • Make sure you (10) Part 2:",
+      "prompt": "• Do not be ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 A",
+      "prompt": "• Make sure you ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Alex’s Training Alex completed his training in 2014 About the applicant: • At first Alex did his training in the"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. The Snow Centre 11. Annie recommends that when cross-country skiing, the visitors should",
+      "stem": "Annie recommends that when cross-country skiing, the visitors should",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "go at a slow speed at the beginning."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "One group member will be chosen to lead the trail."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "Each team is led by a teacher."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "climb to the top of a mountain."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "cooked meals."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 16,
@@ -225,36 +240,145 @@
           "text": "use the emergency locator beacon."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. The Snow Centre"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "Highland trail",
+      "groupId": "q17-20",
+      "instructions": "What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers from the options below and write the correct letter A-F next to questions 17-20 Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has a good place to stop and rest"
+        },
+        {
+          "letter": "B",
+          "text": "it is suitable for all abilities"
+        },
+        {
+          "letter": "C",
+          "text": "it involves crossing a river"
+        },
+        {
+          "letter": "D",
+          "text": "it demands a lot of skill"
+        },
+        {
+          "letter": "E",
+          "text": "it may be closed in bad weather"
+        },
+        {
+          "letter": "F",
+          "text": "it has some very narrow sections Mountain trails 17. Highland trail 18. Pine trail 19. Stony trail 20. Loser’s trail Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "Pine trail",
+      "groupId": "q17-20",
+      "instructions": "What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers from the options below and write the correct letter A-F next to questions 17-20 Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has a good place to stop and rest"
+        },
+        {
+          "letter": "B",
+          "text": "it is suitable for all abilities"
+        },
+        {
+          "letter": "C",
+          "text": "it involves crossing a river"
+        },
+        {
+          "letter": "D",
+          "text": "it demands a lot of skill"
+        },
+        {
+          "letter": "E",
+          "text": "it may be closed in bad weather"
+        },
+        {
+          "letter": "F",
+          "text": "it has some very narrow sections Mountain trails 17. Highland trail 18. Pine trail 19. Stony trail 20. Loser’s trail Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "Stony trail",
+      "groupId": "q17-20",
+      "instructions": "What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers from the options below and write the correct letter A-F next to questions 17-20 Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has a good place to stop and rest"
+        },
+        {
+          "letter": "B",
+          "text": "it is suitable for all abilities"
+        },
+        {
+          "letter": "C",
+          "text": "it involves crossing a river"
+        },
+        {
+          "letter": "D",
+          "text": "it demands a lot of skill"
+        },
+        {
+          "letter": "E",
+          "text": "it may be closed in bad weather"
+        },
+        {
+          "letter": "F",
+          "text": "it has some very narrow sections Mountain trails 17. Highland trail 18. Pine trail 19. Stony trail 20. Loser’s trail Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers",
-      "groupId": "q17-20"
+      "prompt": "Loser’s trail",
+      "groupId": "q17-20",
+      "instructions": "What information does Annie give about skiing on each of the following mountain trails? Choose FOUR answers from the options below and write the correct letter A-F next to questions 17-20 Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has a good place to stop and rest"
+        },
+        {
+          "letter": "B",
+          "text": "it is suitable for all abilities"
+        },
+        {
+          "letter": "C",
+          "text": "it involves crossing a river"
+        },
+        {
+          "letter": "D",
+          "text": "it demands a lot of skill"
+        },
+        {
+          "letter": "E",
+          "text": "it may be closed in bad weather"
+        },
+        {
+          "letter": "F",
+          "text": "it has some very narrow sections Mountain trails 17. Highland trail 18. Pine trail 19. Stony trail 20. Loser’s trail Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. Labels giving nutritional information on food packaging 21. What was Jack’s attitude to nutritional food labels before this project?",
+      "stem": "What was Jack’s attitude to nutritional food labels before this project?",
       "options": [
         {
           "letter": "A",
@@ -269,7 +393,8 @@
           "text": "He thought they were too complicated."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 22,
@@ -289,7 +414,8 @@
           "text": "she was only interested in the number of calories."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 23,
@@ -309,7 +435,8 @@
           "text": "the nutritional label is misleading."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 24,
@@ -329,7 +456,8 @@
           "text": "more comprehensive."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 25,
@@ -349,7 +477,8 @@
           "text": "The labels did not list all the ingredients."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 26,
@@ -369,101 +498,204 @@
           "text": "It made unrealistic recommendations"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Labels giving nutritional information on food packaging"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO things surprised the students about the traffic-light system for n",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO things surprised the students about the traffic-light system for nutritional labels?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "its widespread use"
+        },
+        {
+          "letter": "B",
+          "text": "the fact that it is voluntary for supermarkets"
+        },
+        {
+          "letter": "C",
+          "text": "how little research was done before its introduction"
+        },
+        {
+          "letter": "D",
+          "text": "its unpopularity with food manufacturers"
+        },
+        {
+          "letter": "E",
+          "text": "the way that certain colours are used"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO things surprised the students about the traffic-light system for nutritio",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO things surprised the students about the traffic-light system for nutritional labels?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "its widespread use"
+        },
+        {
+          "letter": "B",
+          "text": "the fact that it is voluntary for supermarkets"
+        },
+        {
+          "letter": "C",
+          "text": "how little research was done before its introduction"
+        },
+        {
+          "letter": "D",
+          "text": "its unpopularity with food manufacturers"
+        },
+        {
+          "letter": "E",
+          "text": "the way that certain colours are used"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E Which TWO things are true about the participants in the study on the traffic",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E Which TWO things are true about the participants in the study on the traffic-light system?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They had low literacy levels."
+        },
+        {
+          "letter": "B",
+          "text": "They were regular consumers of packaged food."
+        },
+        {
+          "letter": "C",
+          "text": "They were selected randomly."
+        },
+        {
+          "letter": "D",
+          "text": "They were from all socio-economic groups."
+        },
+        {
+          "letter": "E",
+          "text": "They were interviewed face-to-face. Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E Which TWO things are true about the participants in the study on the traffic-light",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E Which TWO things are true about the participants in the study on the traffic-light system?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They had low literacy levels."
+        },
+        {
+          "letter": "B",
+          "text": "They were regular consumers of packaged food."
+        },
+        {
+          "letter": "C",
+          "text": "They were selected randomly."
+        },
+        {
+          "letter": "D",
+          "text": "They were from all socio-economic groups."
+        },
+        {
+          "letter": "E",
+          "text": "They were interviewed face-to-face. Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "medicine. • 1623: In Constantinople, the ruler ordered the (31) of every coffee house. Coffee arrives in Europe (17th century) • Coffee shops were compared to (32) • The",
+      "prompt": "1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "es in Europe (17th century) • Coffee shops were compared to (32) • They played an important part in social and (33) changes. Coffee and European colonisation • European p",
+      "prompt": "of every coffee house. Coffee arrives in Europe (17th century) • Coffee shops were compared to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "pared to (32) • They played an important part in social and (33) changes. Coffee and European colonisation • European powers established coffee plantations in their colon",
+      "prompt": "• They played an important part in social and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "olonies • Types of coffee were often named according to the (34) they came from. • In Brazil and the Caribbean, most cultivation depended on (35) • In Java, coffee was us",
+      "prompt": "• European powers established coffee plantations in their colonies • Types of coffee were often named according to the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "• In Brazil and the Caribbean, most cultivation depended on (35) • In Java, coffee was used as a form of (36) • Coffee became almost as important as (37) • The move towar",
+      "prompt": "they came from. • In Brazil and the Caribbean, most cultivation depended on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "on depended on (35) • In Java, coffee was used as a form of (36) • Coffee became almost as important as (37) • The move towards the consumption of (38) in Britain did not",
+      "prompt": "• In Java, coffee was used as a form of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ed as a form of (36) • Coffee became almost as important as (37) • The move towards the consumption of (38) in Britain did not also take place in the USA. Coffee in the 1",
+      "prompt": "• Coffee became almost as important as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "as important as (37) • The move towards the consumption of (38) in Britain did not also take place in the USA. Coffee in the 19th century • Prices dropped because of imp",
+      "prompt": "• The move towards the consumption of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "he 19th century • Prices dropped because of improvements in (39) • Industrial workers found coffee helped them to work at (40)",
+      "prompt": "in Britain did not also take place in the USA. Coffee in the 19th century • Prices dropped because of improvements in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab wor",
+      "prompt": "• Industrial workers found coffee helped them to work at ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of coffee Coffee in the Arab world • There was small-scale trade in wild coffee from Ethiopia. • 1522: Coffee was approved in the Ottoman court as a type of medicine. • 1623: In Constantinople, the ruler ordered the"
     }
   ],
   "answerKey": {

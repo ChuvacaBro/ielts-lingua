@@ -40,144 +40,254 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR SOME NUMBERS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR SOME NUMBERS."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "ach answer. Tenancy service Online advertising form Gender: (7) Job: (8) Rent: (9) Move in: (10) Part 2:",
+      "prompt": "Tenancy service Online advertising form Gender: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tenancy service Online advertising form Gender:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "r. Tenancy service Online advertising form Gender: (7) Job: (8) Rent: (9) Move in: (10) Part 2:",
+      "prompt": "Job: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tenancy service Online advertising form Gender:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "service Online advertising form Gender: (7) Job: (8) Rent: (9) Move in: (10) Part 2:",
+      "prompt": "Rent: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tenancy service Online advertising form Gender:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 7-10 Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tenancy service Onl",
+      "prompt": "Move in: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tenancy service Online advertising form Gender:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 11. The crime rate in the speaker’s city is 12. Students will receive much benefit if they do some 13. Advice",
+      "prompt": "The crime rate in the speaker’s city is",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "or each answer. 11. The crime rate in the speaker’s city is 12. Students will receive much benefit if they do some 13. Advice can be obtained from friends, homestay paren",
+      "prompt": "Students will receive much benefit if they do some",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "y is 12. Students will receive much benefit if they do some 13. Advice can be obtained from friends, homestay parents and 14. A 24 hour police station is called a 15. For",
+      "prompt": "Advice can be obtained from friends, homestay parents and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": ". Advice can be obtained from friends, homestay parents and 14. A 24 hour police station is called a 15. For late night travel use a 16. Dialing 000 will put you through",
+      "prompt": "A 24 hour police station is called a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "mestay parents and 14. A 24 hour police station is called a 15. For late night travel use a 16. Dialing 000 will put you through to 17. To save time, students should have",
+      "prompt": "For late night travel use a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "police station is called a 15. For late night travel use a 16. Dialing 000 will put you through to 17. To save time, students should have the nearest station’s",
+      "prompt": "Dialing 000 will put you through to",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-17 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 11. The crime rate in the speak",
+      "prompt": "To save time, students should have the nearest station’s",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Which THREE pieces of advice does the police officer give? (18) (19) (20) List of advice A avoid dangerous areas B avoid strangers C carry a personal siren D do not stay",
-      "groupId": "q18-20"
+      "prompt": "Which THREE pieces of advice does the police officer give? ____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers A-G from the list. Which THREE pieces of advice does the police officer give?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "avoid dangerous areas"
+        },
+        {
+          "letter": "B",
+          "text": "avoid strangers"
+        },
+        {
+          "letter": "C",
+          "text": "carry a personal siren"
+        },
+        {
+          "letter": "D",
+          "text": "do not stay out late"
+        },
+        {
+          "letter": "E",
+          "text": "stay in well lit areas"
+        },
+        {
+          "letter": "F",
+          "text": "use common sense"
+        },
+        {
+          "letter": "G",
+          "text": "carry pepper spray Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "h THREE pieces of advice does the police officer give? (18) (19) (20) List of advice A avoid dangerous areas B avoid strangers C carry a personal siren D do not stay out",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers A-G from the list. Which THREE pieces of advice does the police officer give?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "avoid dangerous areas"
+        },
+        {
+          "letter": "B",
+          "text": "avoid strangers"
+        },
+        {
+          "letter": "C",
+          "text": "carry a personal siren"
+        },
+        {
+          "letter": "D",
+          "text": "do not stay out late"
+        },
+        {
+          "letter": "E",
+          "text": "stay in well lit areas"
+        },
+        {
+          "letter": "F",
+          "text": "use common sense"
+        },
+        {
+          "letter": "G",
+          "text": "carry pepper spray Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Choose THREE answers A-G from the list. Which THREE pieces of advice does the police officer give? (18) (19",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers A-G from the list. Which THREE pieces of advice does the police officer give?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "avoid dangerous areas"
+        },
+        {
+          "letter": "B",
+          "text": "avoid strangers"
+        },
+        {
+          "letter": "C",
+          "text": "carry a personal siren"
+        },
+        {
+          "letter": "D",
+          "text": "do not stay out late"
+        },
+        {
+          "letter": "E",
+          "text": "stay in well lit areas"
+        },
+        {
+          "letter": "F",
+          "text": "use common sense"
+        },
+        {
+          "letter": "G",
+          "text": "carry pepper spray Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. Nicole interviewed",
+      "stem": "Nicole interviewed",
       "options": [
         {
           "letter": "A",
@@ -192,7 +302,8 @@
           "text": "less than 50 students"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -212,7 +323,8 @@
           "text": "two thirds"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -232,7 +344,8 @@
           "text": "the facilities"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -252,7 +365,8 @@
           "text": "90%"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -272,47 +386,53 @@
           "text": "CEO"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "ORD ONLY for each answer. Nicole’s interviewing technique • (26) the right place to conduct the interview • (27) the interviewee has sufficient time • (28) the purpose of",
+      "prompt": "Nicole’s interviewing technique • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique •"
     },
     {
       "number": 27,
       "type": "flowChartCompletion",
-      "prompt": "technique • (26) the right place to conduct the interview • (27) the interviewee has sufficient time • (28) the purpose of the interview • Guarantee complete confidential",
+      "prompt": "the right place to conduct the interview • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique •"
     },
     {
       "number": 28,
       "type": "flowChartCompletion",
-      "prompt": "the interview • (27) the interviewee has sufficient time • (28) the purpose of the interview • Guarantee complete confidentiality • (29) the interview of beneficial outc",
+      "prompt": "the interviewee has sufficient time • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique •"
     },
     {
       "number": 29,
       "type": "flowChartCompletion",
-      "prompt": "ose of the interview • Guarantee complete confidentiality • (29) the interview of beneficial outcomes • Give them a (30) (e.g. lottery ticket) Part 4:",
+      "prompt": "the purpose of the interview • Guarantee complete confidentiality • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique •"
     },
     {
       "number": 30,
       "type": "flowChartCompletion",
-      "prompt": "Questions 26-30 Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique • (26)",
+      "prompt": "the interview of beneficial outcomes • Give them a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer. Nicole’s interviewing technique •"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. ‘Hard’ HRM is",
+      "stem": "‘Hard’ HRM is",
       "options": [
         {
           "letter": "A",
@@ -327,7 +447,8 @@
           "text": "necessary"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -347,7 +468,8 @@
           "text": "regards workers as tools"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -367,56 +489,64 @@
           "text": "mostly apply to factories and shops"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 34-40 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "sentenceCompletion",
-      "prompt": "ences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. 1. Keep your in a safe place throughout your visit. 2. Pass through the to enter and leave the museum. 3. You",
+      "prompt": "Keep your in a safe place throughout your visit.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER."
     },
     {
       "number": 2,
       "type": "sentenceCompletion",
-      "prompt": "NUMBER. 1. Keep your in a safe place throughout your visit. 2. Pass through the to enter and leave the museum. 3. You need to buy a if you want to use a camera in the mus",
+      "prompt": "Pass through the to enter and leave the museum.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER."
     },
     {
       "number": 3,
       "type": "sentenceCompletion",
-      "prompt": "r visit. 2. Pass through the to enter and leave the museum. 3. You need to buy a if you want to use a camera in the museum. 4. Look after your and mobile phone. 5. Arrive",
+      "prompt": "You need to buy a if you want to use a camera in the museum.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER."
     },
     {
       "number": 4,
       "type": "sentenceCompletion",
-      "prompt": "ou need to buy a if you want to use a camera in the museum. 4. Look after your and mobile phone. 5. Arrive at the cinema about before the start of the show.",
+      "prompt": "Look after your and mobile phone.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER."
     },
     {
       "number": 5,
       "type": "sentenceCompletion",
-      "prompt": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER. 1. Keep your in a safe place th",
+      "prompt": "Arrive at the cinema about before the start of the show.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 6-10 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (1",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-17 Choose the correct letter A, B or C. 11. The main purpose of the service is to",
+      "stem": "The main purpose of the service is to",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "provide people with comfort"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "440"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "their skill at locating narcotics"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "72,000"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "will be given a warning"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -225,7 +240,8 @@
           "text": "parcels"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -245,33 +261,37 @@
           "text": "it is passed on to higher level authorities"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 18. The acceptable material for packing goods in Australia is 19. The belongings most of the time are refused",
+      "prompt": "The acceptable material for packing goods in Australia is",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": ". The acceptable material for packing goods in Australia is 19. The belongings most of the time are refused due to problems with the 20. The customs must be given notice",
+      "prompt": "The belongings most of the time are refused due to problems with the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 18. The acceptable material f",
+      "prompt": "The customs must be given notice of the goods from days before it arrives in Australia.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 21. The continuing education program is for people who",
+      "stem": "The continuing education program is for people who",
       "options": [
         {
           "letter": "A",
@@ -286,7 +306,8 @@
           "text": "cannot find employment elsewhere"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -306,7 +327,8 @@
           "text": "being an entrepreneur"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -326,7 +348,8 @@
           "text": "is more expensive"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -346,7 +369,8 @@
           "text": "normal working hours"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -366,7 +390,8 @@
           "text": "at the suburban satellite campus"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -386,7 +411,8 @@
           "text": "making friends in class"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -406,7 +432,8 @@
           "text": "writing for academic classes"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -426,7 +453,8 @@
           "text": "sign up for classes"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -446,7 +474,8 @@
           "text": "more expensive than going to the city centre campus"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -466,77 +495,88 @@
           "text": "available online"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source 31. There are some man-made materials like 32. Before being used, material undergoes 33. Wood should be cut an",
+      "prompt": "There are some man-made materials like",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "h answer. Source 31. There are some man-made materials like 32. Before being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35.",
+      "prompt": "Before being used, material undergoes",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "de materials like 32. Before being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one sho",
+      "prompt": "Wood should be cut and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "e being used, material undergoes 33. Wood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one should take into account durin",
+      "prompt": "Stone should be cut and Selection",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ood should be cut and 34. Stone should be cut and Selection 35. Aside from environmental factors, one should take into account during construction. 36. Some properties of",
+      "prompt": "Aside from environmental factors, one should take into account during construction.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "factors, one should take into account during construction. 36. Some properties of materials affect mood, such as , texture, and color. 37. Use a mathematical formula to",
+      "prompt": "Some properties of materials affect mood, such as , texture, and color.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "Questions 31-37 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source 31. There a",
+      "prompt": "Use a mathematical formula to choose the type of wood, because are subjective, which are ambiguous in verbal descriptions",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Source"
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 38-40 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

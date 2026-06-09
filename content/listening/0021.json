@@ -39,9 +39,11 @@
   "questions": [
     {
       "number": 1,
-      "type": "multipleChoice",
-      "stem": "-6 Choose the correct letter A, B or C. 1. The Family Welcome event in the art gallery begins at",
-      "options": [
+      "type": "gapFill",
+      "prompt": "The Family Welcome event in the art gallery begins at A 10 am B 10.30 am C",
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
           "text": "10 am"
@@ -52,15 +54,14 @@
         },
         {
           "letter": "C",
-          "text": "2 pm"
+          "text": "2 pm 2."
         }
-      ],
-      "groupId": "q1-6"
+      ]
     },
     {
       "number": 2,
       "type": "multipleChoice",
-      "stem": "The film that is now shown in the Family Welcome event is about",
+      "stem": "pm 2. The film that is now shown in the Family Welcome event is about",
       "options": [
         {
           "letter": "A",
@@ -75,7 +76,8 @@
           "text": "ceramics"
         }
       ],
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "in the evening"
         }
       ],
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
@@ -115,7 +118,8 @@
           "text": "in a library"
         }
       ],
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
@@ -135,7 +139,8 @@
           "text": "Oxford marina"
         }
       ],
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 6,
@@ -155,40 +160,45 @@
           "text": "has won several regional competitions"
         }
       ],
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 7,
       "type": "sentenceCompletion",
-      "prompt": "Write ONE WORD ONLY for each answer. Paxton Nature Reserve 7. Paxton is a good for seeing rare all year around. 8. This is a particularly good time for seeing certain un",
+      "prompt": "Paxton is a good for seeing rare all year around.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve"
     },
     {
       "number": 8,
       "type": "sentenceCompletion",
-      "prompt": "eserve 7. Paxton is a good for seeing rare all year around. 8. This is a particularly good time for seeing certain unusual 9. Visitors will be able to learn about and the",
+      "prompt": "This is a particularly good time for seeing certain unusual",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve"
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "This is a particularly good time for seeing certain unusual 9. Visitors will be able to learn about and then collect some. 10. Part of the has been made suitable for swim",
+      "prompt": "Visitors will be able to learn about and then collect some.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve"
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 7-10 Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve 7. Paxton is a goo",
+      "prompt": "Part of the has been made suitable for swimming.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. Paxton Nature Reserve"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. Changes in Barford over the last 50 years 11. In Shona’s opinion why do fewer people use buses in Barford these days?",
+      "stem": "In Shona’s opinion why do fewer people use buses in Barford these days?",
       "options": [
         {
           "letter": "A",
@@ -203,7 +213,8 @@
           "text": "there are not so many bus routes"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Changes in Barford over the last 50 years"
     },
     {
       "number": 12,
@@ -223,7 +234,8 @@
           "text": "the banning of cars from certain streets"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Changes in Barford over the last 50 years"
     },
     {
       "number": 13,
@@ -243,7 +255,8 @@
           "text": "lack of restaurants and cafes"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Changes in Barford over the last 50 years"
     },
     {
       "number": 14,
@@ -263,7 +276,8 @@
           "text": "the number of dentists is too low"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Changes in Barford over the last 50 years"
     },
     {
       "number": 15,
@@ -283,173 +297,421 @@
           "text": "education"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Changes in Barford over the last 50 years"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "railway station car park",
+      "groupId": "q16-20",
+      "instructions": "What is planned for each of the following facilities? Choose FIVE answers from the box and write the correct letter A-G next to questions 16-20 Plans",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it will move to a new location"
+        },
+        {
+          "letter": "B",
+          "text": "it will have its opening hours extended"
+        },
+        {
+          "letter": "C",
+          "text": "it will be refurbished"
+        },
+        {
+          "letter": "D",
+          "text": "it will be used for a different purpose"
+        },
+        {
+          "letter": "E",
+          "text": "it will have its opening hours reduced"
+        },
+        {
+          "letter": "F",
+          "text": "it will have new management"
+        },
+        {
+          "letter": "G",
+          "text": "it will be expanded Facilities 16. railway station car park 17. cinema 18. indoor market 19. library 20. nature reserve Part 3:"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "cinema",
+      "groupId": "q16-20",
+      "instructions": "What is planned for each of the following facilities? Choose FIVE answers from the box and write the correct letter A-G next to questions 16-20 Plans",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it will move to a new location"
+        },
+        {
+          "letter": "B",
+          "text": "it will have its opening hours extended"
+        },
+        {
+          "letter": "C",
+          "text": "it will be refurbished"
+        },
+        {
+          "letter": "D",
+          "text": "it will be used for a different purpose"
+        },
+        {
+          "letter": "E",
+          "text": "it will have its opening hours reduced"
+        },
+        {
+          "letter": "F",
+          "text": "it will have new management"
+        },
+        {
+          "letter": "G",
+          "text": "it will be expanded Facilities 16. railway station car park 17. cinema 18. indoor market 19. library 20. nature reserve Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "indoor market",
+      "groupId": "q16-20",
+      "instructions": "What is planned for each of the following facilities? Choose FIVE answers from the box and write the correct letter A-G next to questions 16-20 Plans",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it will move to a new location"
+        },
+        {
+          "letter": "B",
+          "text": "it will have its opening hours extended"
+        },
+        {
+          "letter": "C",
+          "text": "it will be refurbished"
+        },
+        {
+          "letter": "D",
+          "text": "it will be used for a different purpose"
+        },
+        {
+          "letter": "E",
+          "text": "it will have its opening hours reduced"
+        },
+        {
+          "letter": "F",
+          "text": "it will have new management"
+        },
+        {
+          "letter": "G",
+          "text": "it will be expanded Facilities 16. railway station car park 17. cinema 18. indoor market 19. library 20. nature reserve Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "library",
+      "groupId": "q16-20",
+      "instructions": "What is planned for each of the following facilities? Choose FIVE answers from the box and write the correct letter A-G next to questions 16-20 Plans",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it will move to a new location"
+        },
+        {
+          "letter": "B",
+          "text": "it will have its opening hours extended"
+        },
+        {
+          "letter": "C",
+          "text": "it will be refurbished"
+        },
+        {
+          "letter": "D",
+          "text": "it will be used for a different purpose"
+        },
+        {
+          "letter": "E",
+          "text": "it will have its opening hours reduced"
+        },
+        {
+          "letter": "F",
+          "text": "it will have new management"
+        },
+        {
+          "letter": "G",
+          "text": "it will be expanded Facilities 16. railway station car park 17. cinema 18. indoor market 19. library 20. nature reserve Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 What is planned for each of the following facilities? Choose FIVE answers from the box and write the correc",
-      "groupId": "q16-20"
+      "prompt": "nature reserve",
+      "groupId": "q16-20",
+      "instructions": "What is planned for each of the following facilities? Choose FIVE answers from the box and write the correct letter A-G next to questions 16-20 Plans",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it will move to a new location"
+        },
+        {
+          "letter": "B",
+          "text": "it will have its opening hours extended"
+        },
+        {
+          "letter": "C",
+          "text": "it will be refurbished"
+        },
+        {
+          "letter": "D",
+          "text": "it will be used for a different purpose"
+        },
+        {
+          "letter": "E",
+          "text": "it will have its opening hours reduced"
+        },
+        {
+          "letter": "F",
+          "text": "it will have new management"
+        },
+        {
+          "letter": "G",
+          "text": "it will be expanded Facilities 16. railway station car park 17. cinema 18. indoor market 19. library 20. nature reserve Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "plete the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "w. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Questions 21-26 Complete the table below. Write ONE WORD ONLY for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "how they planned the project",
+      "groupId": "q27-30",
+      "instructions": "Who is going to write each of the following parts of the report? Write the correct letter A-D next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Helen only"
+        },
+        {
+          "letter": "B",
+          "text": "Jeremy only"
+        },
+        {
+          "letter": "C",
+          "text": "both Helen and Jeremy"
+        },
+        {
+          "letter": "D",
+          "text": "neither Helen nor Jeremy Parts of the report 27."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "how they had ideas for their stories",
+      "groupId": "q27-30",
+      "instructions": "Who is going to write each of the following parts of the report? Write the correct letter A-D next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Helen only"
+        },
+        {
+          "letter": "B",
+          "text": "Jeremy only"
+        },
+        {
+          "letter": "C",
+          "text": "both Helen and Jeremy"
+        },
+        {
+          "letter": "D",
+          "text": "neither Helen nor Jeremy Parts of the report 27."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "an interpretation of their stories",
+      "groupId": "q27-30",
+      "instructions": "Who is going to write each of the following parts of the report? Write the correct letter A-D next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Helen only"
+        },
+        {
+          "letter": "B",
+          "text": "Jeremy only"
+        },
+        {
+          "letter": "C",
+          "text": "both Helen and Jeremy"
+        },
+        {
+          "letter": "D",
+          "text": "neither Helen nor Jeremy Parts of the report 27."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 Who is going to write each of the following parts of the report? Write the correct letter A-D next to",
-      "groupId": "q27-30"
+      "prompt": "comments on the illustrations",
+      "groupId": "q27-30",
+      "instructions": "Who is going to write each of the following parts of the report? Write the correct letter A-D next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Helen only"
+        },
+        {
+          "letter": "B",
+          "text": "Jeremy only"
+        },
+        {
+          "letter": "C",
+          "text": "both Helen and Jeremy"
+        },
+        {
+          "letter": "D",
+          "text": "neither Helen nor Jeremy Parts of the report 27."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "an be used in business: • To investigate customer needs and (31) • To help companies develop new designs Examples of ethnographic research in business Kitchen equipment •",
+      "prompt": "Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ent • Researchers found that cooks could not easily see the (32) in measuring cups Cell phone • In Uganda, customers paid to use the cell phones of entrepreneurs. • These",
+      "prompt": "Examples of ethnographic research in business Kitchen equipment • Researchers found that cooks could not easily see the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "nes of entrepreneurs. • These customers wanted to check the (33) used. Computer companies • There was a need to develop (34) to improve communication between system admin",
+      "prompt": "Cell phone • In Uganda, customers paid to use the cell phones of entrepreneurs. • These customers wanted to check the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "(33) used. Computer companies • There was a need to develop (34) to improve communication between system administrators and colleagues. Hospitals • Nurses needed to acces",
+      "prompt": "used. Computer companies • There was a need to develop ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "gues. Hospitals • Nurses needed to access information about (35) in different parts of the hospital Airlines • Respondents recorded information about their (36) while tra",
+      "prompt": "communication between system administrators and colleagues. Hospitals • Nurses needed to access information about ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "tal Airlines • Respondents recorded information about their (36) while travelling. Principles of ethnographic research in business • The researched does not start off wit",
+      "prompt": "in different parts of the hospital Airlines • Respondents recorded information about their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "sis • Participants may be selected by criteria such as age, (37) or product used • The participants must feel (38) about taking part in the research. • There is usually d",
+      "prompt": "business • The researched does not start off with a hypothesis • Participants may be selected by criteria such as age, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "h as age, (37) or product used • The participants must feel (38) about taking part in the research. • There is usually direct (39) of the participants • The interview is",
+      "prompt": "or product used • The participants must feel ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "bout taking part in the research. • There is usually direct (39) of the participants • The interview is guided by the participant • A lot of time is needed for the (40) o",
+      "prompt": "about taking part in the research. • There is usually direct ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: researc",
+      "prompt": "of the participants • The interview is guided by the participant • A lot of time is needed for the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ethnography in Business Ethnography: research which explores human cultures It can be used in business: • To investigate customer needs and"
     }
   ],
   "answerKey": {

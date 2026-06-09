@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-5 Choose the correct letter A, B or C. 1. What did Nadia buy at the bookshop?",
+      "stem": "What did Nadia buy at the bookshop?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "crossword puzzles"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "a doctor"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "a boring play"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
@@ -115,7 +118,8 @@
           "text": "black with no sugar"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
@@ -135,238 +139,349 @@
           "text": "chocolate"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Question 6",
-      "groupId": "q6-10"
+      "prompt": "the Tower of London",
+      "groupId": "q6-10",
+      "instructions": "How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they will definitely visit"
+        },
+        {
+          "letter": "B",
+          "text": "they might visit"
+        },
+        {
+          "letter": "C",
+          "text": "they will not visit 6. the Tower of London 7. the Wheel 8. Westminster 9. the British Museum 10. Buckingham Palace Part 2:"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Question 7",
-      "groupId": "q6-10"
+      "prompt": "the Wheel",
+      "groupId": "q6-10",
+      "instructions": "How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they will definitely visit"
+        },
+        {
+          "letter": "B",
+          "text": "they might visit"
+        },
+        {
+          "letter": "C",
+          "text": "they will not visit 6. the Tower of London 7. the Wheel 8. Westminster 9. the British Museum 10. Buckingham Palace Part 2:"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 8",
-      "groupId": "q6-10"
+      "prompt": "Westminster",
+      "groupId": "q6-10",
+      "instructions": "How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they will definitely visit"
+        },
+        {
+          "letter": "B",
+          "text": "they might visit"
+        },
+        {
+          "letter": "C",
+          "text": "they will not visit 6. the Tower of London 7. the Wheel 8. Westminster 9. the British Museum 10. Buckingham Palace Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Question 9",
-      "groupId": "q6-10"
+      "prompt": "the British Museum",
+      "groupId": "q6-10",
+      "instructions": "How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they will definitely visit"
+        },
+        {
+          "letter": "B",
+          "text": "they might visit"
+        },
+        {
+          "letter": "C",
+          "text": "they will not visit 6. the Tower of London 7. the Wheel 8. Westminster 9. the British Museum 10. Buckingham Palace Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next",
-      "groupId": "q6-10"
+      "prompt": "Buckingham Palace",
+      "groupId": "q6-10",
+      "instructions": "How likely are Thomas and Nadia to visit the following attractions? Write the correct letter A, B or C next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they will definitely visit"
+        },
+        {
+          "letter": "B",
+          "text": "they might visit"
+        },
+        {
+          "letter": "C",
+          "text": "they will not visit 6. the Tower of London 7. the Wheel 8. Westminster 9. the British Museum 10. Buckingham Palace Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "shortAnswer",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 11. What time does the museum open on Thursday morning? 12. How much does it cost to hire a multi-media guide?",
+      "prompt": "What time does the museum open on Thursday morning?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "shortAnswer",
-      "prompt": "er. 11. What time does the museum open on Thursday morning? 12. How much does it cost to hire a multi-media guide? 13. Where should visitors leave their coats and bags? 1",
+      "prompt": "How much does it cost to hire a multi-media guide?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "shortAnswer",
-      "prompt": "ing? 12. How much does it cost to hire a multi-media guide? 13. Where should visitors leave their coats and bags? 14. How much does it cost to leave a package there? 15.",
+      "prompt": "Where should visitors leave their coats and bags?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "shortAnswer",
-      "prompt": "uide? 13. Where should visitors leave their coats and bags? 14. How much does it cost to leave a package there? 15. Where can visitors buy a cup of tea?",
+      "prompt": "How much does it cost to leave a package there?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "shortAnswer",
-      "prompt": "Questions 11-15 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 11. What time do",
+      "prompt": "Where can visitors buy a cup of tea?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "type": "mapPlanLabelling",
+      "prompt": "____",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "type": "mapPlanLabelling",
+      "prompt": "____",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "type": "mapPlanLabelling",
+      "prompt": "____",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "type": "mapPlanLabelling",
+      "prompt": "____",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "questions 16-20. A they will definitely visit B they might visit C they will not visit 6. the Tower of London 7. the Wheel",
-      "groupId": "q16-20"
+      "type": "mapPlanLabelling",
+      "prompt": "____",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "logy • Use scientific method based on empirical evidence (= (21) ) • Find a research problem or question o a commonly held belief e.g. lack of sleep has negative impact o",
+      "prompt": "Research Methodology • Use scientific method based on empirical evidence (= ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "monly held belief e.g. lack of sleep has negative impact on (22) o Review the literature o an everyday problem e.g. research different memorization (23) • Define your var",
+      "prompt": "• Find a research problem or question o a commonly held belief e.g. lack of sleep has negative impact on ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "o an everyday problem e.g. research different memorization (23) • Define your variables • Develop a hypothesis • Conduct (24) research o Books, journals, online database",
+      "prompt": "o Review the literature o an everyday problem e.g. research different memorization ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "3) • Define your variables • Develop a hypothesis • Conduct (24) research o Books, journals, online databases and websites o Make notes and create (25) • Select an experi",
+      "prompt": "• Define your variables • Develop a hypothesis • Conduct ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "nals, online databases and websites o Make notes and create (25) • Select an experimental design o Pre-experimental = experimental group only o Quasi-experimental = inclu",
+      "prompt": "research o Books, journals, online databases and websites o Make notes and create ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "rimental = both kinds of groups + random • Standardize your (26) o Compare like with like • Choose your participants • Use different (27) o Random sample – sample from sa",
+      "prompt": "= include control group but not random o True experimental = both kinds of groups + random • Standardize your ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "e like with like • Choose your participants • Use different (27) o Random sample – sample from same group o Stratified random sample – select from subsets with different",
+      "prompt": "o Compare like with like • Choose your participants • Use different ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "ratified random sample – select from subsets with different (28) • Conduct tests and collect data • Analyse the results o Use (29) methods (to be covered next week) • Wri",
+      "prompt": "o Random sample – sample from same group o Stratified random sample – select from subsets with different ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "Conduct tests and collect data • Analyse the results o Use (29) methods (to be covered next week) • Write up and communicate results o (30) and of paper is important; ti",
+      "prompt": "• Conduct tests and collect data • Analyse the results o Use ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 21-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientif",
+      "prompt": "methods (to be covered next week) • Write up and communicate results o ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Research Methodology • Use scientific method based on empirical evidence (="
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "lete the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
-      "groupId": "q31-34"
+      "prompt": "____",
+      "groupId": "q31-34",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER only."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
-      "groupId": "q31-34"
+      "prompt": "____",
+      "groupId": "q31-34",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER only."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "able below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
-      "groupId": "q31-34"
+      "prompt": "____",
+      "groupId": "q31-34",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER only."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "Questions 31-34 Complete the table below. Write ONE WORD AND/ OR A NUMBER only. (31) (32) (33) (34)",
-      "groupId": "q31-34"
+      "prompt": "____",
+      "groupId": "q31-34",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER only."
     },
     {
       "number": 35,
       "type": "summaryCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS for each answer. Rice gives more (35) per hectare than other cereal crops and production has increased over 100% in recent years because of bet",
+      "prompt": "Rice gives more ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-39"
+      "groupId": "q35-39",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more"
     },
     {
       "number": 36,
       "type": "summaryCompletion",
-      "prompt": "ed for wet land so availability of land is quite limited by (36) type and (37) supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been",
+      "prompt": "yields. Land area has only increased by 30% due to the need for wet land so availability of land is quite limited by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-39"
+      "groupId": "q35-39",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more"
     },
     {
       "number": 37,
       "type": "summaryCompletion",
-      "prompt": "d so availability of land is quite limited by (36) type and (37) supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been developed yet",
+      "prompt": "type and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-39"
+      "groupId": "q35-39",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more"
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "supply. The dry-land variety gives poorer yields and poorer (38) No weed killers have been developed yet that do not harm the main crop. Heavy machines are unable to work",
+      "prompt": "supply. The dry-land variety gives poorer yields and poorer ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-39"
+      "groupId": "q35-39",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "Questions 35-39 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more (35) per hectare",
+      "prompt": "yet that do not harm the main crop. Heavy machines are unable to work in paddy fields so most rice is still grown ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-39"
+      "groupId": "q35-39",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Rice gives more"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40 Complete the diagram below. Write ONE WORD ONLY for each answer. (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q40-40"
+      "groupId": "q40-40",
+      "instructions": "Complete the diagram below. Write ONE WORD ONLY for each answer."
     }
   ],
   "answerKey": {

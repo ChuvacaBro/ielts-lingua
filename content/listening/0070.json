@@ -40,270 +40,606 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "l – Claim form Claimant’s name: Emily-Jane Appleby Address: 1 Yeronga Street, (1) Postcode: 4105 Telephone No. (home): (2) Respondent: (3) Trading name: ABC appliances lt",
+      "prompt": "Yeronga Street, (1) Postcode: 4105 Telephone No. (home):",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "1 Yeronga Street, (1) Postcode: 4105 Telephone No. (home): (2) Respondent: (3) Trading name: ABC appliances ltd Address: (4) avenue, Bardon Postcode: (5) Telephone no. (",
+      "prompt": "Yeronga Street, (1) Postcode: 4105 Telephone No. (home): ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "t, (1) Postcode: 4105 Telephone No. (home): (2) Respondent: (3) Trading name: ABC appliances ltd Address: (4) avenue, Bardon Postcode: (5) Telephone no. (work): 72324681",
+      "prompt": "Respondent: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": ") Respondent: (3) Trading name: ABC appliances ltd Address: (4) avenue, Bardon Postcode: (5) Telephone no. (work): 72324681 Date (of transaction): 3/2/2011 Warranty: (6)",
+      "prompt": "Trading name: ABC appliances ltd Address: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "e: ABC appliances ltd Address: (4) avenue, Bardon Postcode: (5) Telephone no. (work): 72324681 Date (of transaction): 3/2/2011 Warranty: (6)",
+      "prompt": "avenue, Bardon Postcode: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribuna",
+      "prompt": "Telephone no. (work): 72324681 Date (of transaction): 3/2/2011 Warranty: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. Small claims tribunal – Claim form Claimant’s name: Emily-Jane Appleby Address:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "R A NUMBER for each answer. Full particulars of claim Good: (7) – (‘Mallard’ brand, ‘Whisper’ model, serial no. XY303) Agreed to pay: (8) £ Good delivered on 5/3/2011 ABC",
+      "prompt": "Full particulars of claim Good: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Full particulars of claim Good:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "d’ brand, ‘Whisper’ model, serial no. XY303) Agreed to pay: (8) £ Good delivered on 5/3/2011 ABC appliances picked up the trade in on the same date. Salesman said: Mallar",
+      "prompt": "– (‘Mallard’ brand, ‘Whisper’ model, serial no. XY303) Agreed to pay: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Full particulars of claim Good:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "energy because it has shorter cycle • Reduces the amount of (9) used • Whisper quiet Complaint: the cycle is longer and the appliance is very (10) Part 2:",
+      "prompt": "same date. Salesman said: Mallard Whisper model • Uses less energy because it has shorter cycle • Reduces the amount of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Full particulars of claim Good:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 7-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Full particulars o",
+      "prompt": "used • Whisper quiet Complaint: the cycle is longer and the appliance is very ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Full particulars of claim Good:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 11. The coach is comfortable because it is 12. After all passengers are aboard, the coach will make its first",
+      "prompt": "The coach is comfortable because it is",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "for each answer. 11. The coach is comfortable because it is 12. After all passengers are aboard, the coach will make its first stop at Island 13. The ‘Tree top walk’ is a",
+      "prompt": "After all passengers are aboard, the coach will make its first stop at Island",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "rs are aboard, the coach will make its first stop at Island 13. The ‘Tree top walk’ is above a 14. Passengers will have a with the alpacas before boarding the bus for hom",
+      "prompt": "The ‘Tree top walk’ is above a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-14 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 11. The coach is comfortable be",
+      "prompt": "Passengers will have a with the alpacas before boarding the bus for home.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (15) (16) (17) (18",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "shortAnswer",
-      "prompt": "stions below. Write NO MORE THAN TWO WORDS for each answer. 21. According to the liaison officer, what do volunteers help provide? 22. What can volunteers help students c",
+      "prompt": "According to the liaison officer, what do volunteers help provide?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 22,
       "type": "shortAnswer",
-      "prompt": "ng to the liaison officer, what do volunteers help provide? 22. What can volunteers help students check and correct? 23. What aspects of students’ self-management can vol",
+      "prompt": "What can volunteers help students check and correct?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 23,
       "type": "shortAnswer",
-      "prompt": "e? 22. What can volunteers help students check and correct? 23. What aspects of students’ self-management can volunteers assist greatly with improving? 24. What will volu",
+      "prompt": "What aspects of students’ self-management can volunteers assist greatly with improving?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 24,
       "type": "shortAnswer",
-      "prompt": "lf-management can volunteers assist greatly with improving? 24. What will volunteers try to develop in the students so that they exert themselves more? 25. What is it tha",
+      "prompt": "What will volunteers try to develop in the students so that they exert themselves more?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 25,
       "type": "shortAnswer",
-      "prompt": "Questions 21-25 Answer the questions below. Write NO MORE THAN TWO WORDS for each answer. 21. According to the liaison offi",
+      "prompt": "What is it that teachers have that allows them to respond to individual student requirements? Many different",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 26,
       "type": "summaryCompletion",
-      "prompt": "the phrases from the box. Sharon and Lester have different (26) Sharon studied business while Lester studied science. They are volunteering to help out at a school which",
-      "groupId": "q26-30"
+      "prompt": "Sharon and Lester have different ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below using the phrases from the box. Sharon and Lester have different",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "vocational learning experiences"
+        },
+        {
+          "letter": "B",
+          "text": "practical components"
+        },
+        {
+          "letter": "C",
+          "text": "self learning software"
+        },
+        {
+          "letter": "D",
+          "text": "academic backgrounds"
+        },
+        {
+          "letter": "E",
+          "text": "marine studies"
+        },
+        {
+          "letter": "F",
+          "text": "interesting developments"
+        },
+        {
+          "letter": "G",
+          "text": "scholastic competitions"
+        },
+        {
+          "letter": "H",
+          "text": "building and construction Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "summaryCompletion",
-      "prompt": "g to help out at a school which is increasing its students’ (27) in a number of subject areas. The (28) programme is well underway. It’s a well equipped school and the li",
-      "groupId": "q26-30"
+      "prompt": "business while Lester studied science. They are volunteering to help out at a school which is increasing its students’ ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below using the phrases from the box. Sharon and Lester have different",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "vocational learning experiences"
+        },
+        {
+          "letter": "B",
+          "text": "practical components"
+        },
+        {
+          "letter": "C",
+          "text": "self learning software"
+        },
+        {
+          "letter": "D",
+          "text": "academic backgrounds"
+        },
+        {
+          "letter": "E",
+          "text": "marine studies"
+        },
+        {
+          "letter": "F",
+          "text": "interesting developments"
+        },
+        {
+          "letter": "G",
+          "text": "scholastic competitions"
+        },
+        {
+          "letter": "H",
+          "text": "building and construction Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": "easing its students’ (27) in a number of subject areas. The (28) programme is well underway. It’s a well equipped school and the liaison officer is particularly impressed",
-      "groupId": "q26-30"
+      "prompt": "in a number of subject areas. The ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below using the phrases from the box. Sharon and Lester have different",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "vocational learning experiences"
+        },
+        {
+          "letter": "B",
+          "text": "practical components"
+        },
+        {
+          "letter": "C",
+          "text": "self learning software"
+        },
+        {
+          "letter": "D",
+          "text": "academic backgrounds"
+        },
+        {
+          "letter": "E",
+          "text": "marine studies"
+        },
+        {
+          "letter": "F",
+          "text": "interesting developments"
+        },
+        {
+          "letter": "G",
+          "text": "scholastic competitions"
+        },
+        {
+          "letter": "H",
+          "text": "building and construction Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "ol and the liaison officer is particularly impressed by the (29) The school offers many things to do outside the curriculum and students are encouraged to take part in (3",
-      "groupId": "q26-30"
+      "prompt": "programme is well underway. It’s a well equipped school and the liaison officer is particularly impressed by the ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below using the phrases from the box. Sharon and Lester have different",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "vocational learning experiences"
+        },
+        {
+          "letter": "B",
+          "text": "practical components"
+        },
+        {
+          "letter": "C",
+          "text": "self learning software"
+        },
+        {
+          "letter": "D",
+          "text": "academic backgrounds"
+        },
+        {
+          "letter": "E",
+          "text": "marine studies"
+        },
+        {
+          "letter": "F",
+          "text": "interesting developments"
+        },
+        {
+          "letter": "G",
+          "text": "scholastic competitions"
+        },
+        {
+          "letter": "H",
+          "text": "building and construction Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 26-30 Complete the summary below using the phrases from the box. Sharon and Lester have different (26) Sharon stu",
-      "groupId": "q26-30"
+      "prompt": "The school offers many things to do outside the curriculum and students are encouraged to take part in ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below using the phrases from the box. Sharon and Lester have different",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "vocational learning experiences"
+        },
+        {
+          "letter": "B",
+          "text": "practical components"
+        },
+        {
+          "letter": "C",
+          "text": "self learning software"
+        },
+        {
+          "letter": "D",
+          "text": "academic backgrounds"
+        },
+        {
+          "letter": "E",
+          "text": "marine studies"
+        },
+        {
+          "letter": "F",
+          "text": "interesting developments"
+        },
+        {
+          "letter": "G",
+          "text": "scholastic competitions"
+        },
+        {
+          "letter": "H",
+          "text": "building and construction Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 31. Someone in an anxiety state has worse than normal. 32. A phobia may stem from heredity or 33. The reason f",
+      "prompt": "Someone in an anxiety state has worse than normal.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "wer. 31. Someone in an anxiety state has worse than normal. 32. A phobia may stem from heredity or 33. The reason for the final breakdown is generally linked with like th",
+      "prompt": "A phobia may stem from heredity or",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-33 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 31. Someone in an anxiety state",
+      "prompt": "The reason for the final breakdown is generally linked with like the loss of a loved one or a health crisis.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Question 34",
-      "groupId": "q34-40"
+      "prompt": "Feels extremely shy in company",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Question 35",
-      "groupId": "q34-40"
+      "prompt": "Likes to sleep with the lights on",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "Question 36",
-      "groupId": "q34-40"
+      "prompt": "Fears leaving the house",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q34-40"
+      "prompt": "Gets sweaty hands",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
-      "groupId": "q34-40"
+      "prompt": "Fears a particular creature",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
-      "groupId": "q34-40"
+      "prompt": "Fears small spaces",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 34-40 Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the let",
-      "groupId": "q34-40"
+      "prompt": "Has difficulty speaking in front of other people",
+      "groupId": "q34-40",
+      "instructions": "Match the phobic state in the box to the symptoms below. Choose your answers from the box and write the letters A-D next to questions 34-40. Phobic States",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Single Phobia"
+        },
+        {
+          "letter": "B",
+          "text": "Agoraphobia"
+        },
+        {
+          "letter": "C",
+          "text": "Claustrophobia"
+        },
+        {
+          "letter": "D",
+          "text": "Social phobia The sufferer: 34."
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -40,67 +40,77 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Personal Information Name: Julie Anne Garcia Contact phone: (1) Date of birth: (2) , 1992 Occupation works as a: (3) Insurance company: (4) Life insurance Details of the",
-      "groupId": "q1-10"
+      "prompt": "TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "n Name: Julie Anne Garcia Contact phone: (1) Date of birth: (2) , 1992 Occupation works as a: (3) Insurance company: (4) Life insurance Details of the problem Type of pro",
-      "groupId": "q1-10"
+      "prompt": "Date of birth: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "phone: (1) Date of birth: (2) , 1992 Occupation works as a: (3) Insurance company: (4) Life insurance Details of the problem Type of problem: pain in her left (5) When it",
-      "groupId": "q1-10"
+      "prompt": "1992 Occupation works as a: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "h: (2) , 1992 Occupation works as a: (3) Insurance company: (4) Life insurance Details of the problem Type of problem: pain in her left (5) When it began: (6) ago Action",
-      "groupId": "q1-10"
+      "prompt": "Insurance company: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "ce Details of the problem Type of problem: pain in her left (5) When it began: (6) ago Action already taken: has taken painkillers and applied ice Other information Sport",
-      "groupId": "q1-10"
+      "prompt": "Life insurance Details of the problem Type of problem: pain in her left ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "roblem Type of problem: pain in her left (5) When it began: (6) ago Action already taken: has taken painkillers and applied ice Other information Sports played: belongs t",
-      "groupId": "q1-10"
+      "prompt": "When it began: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "d applied ice Other information Sports played: belongs to a (7) club goes (8) regularly Medical history: injured her (9) last year no allergies no regular medication apar",
-      "groupId": "q1-10"
+      "prompt": "ago Action already taken: has taken painkillers and applied ice Other information Sports played: belongs to a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "Other information Sports played: belongs to a (7) club goes (8) regularly Medical history: injured her (9) last year no allergies no regular medication apart from (10) Pa",
-      "groupId": "q1-10"
+      "prompt": "club goes ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "a (7) club goes (8) regularly Medical history: injured her (9) last year no allergies no regular medication apart from (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "regularly Medical history: injured her ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAI",
-      "groupId": "q1-10"
+      "prompt": "last year no allergies no regular medication apart from ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. TOTAL HEALTH CLINIC PATIENT DETAILS Personal Information Name: Julie Anne Garcia Contact phone:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "– 15 Choose the correct letter, A, B or C. Visit to Branley Castle 11. Before Queen Elizabeth I visited the castle in 1576,",
+      "stem": "Before Queen Elizabeth I visited the castle in 1576,",
       "options": [
         {
           "letter": "A",
@@ -115,7 +125,8 @@
           "text": "a fire damaged part of the main hall."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Visit to Branley Castle"
     },
     {
       "number": 12,
@@ -135,7 +146,8 @@
           "text": "an entertainment company."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Visit to Branley Castle"
     },
     {
       "number": 13,
@@ -155,7 +167,8 @@
           "text": "see models of historical figures moving and talking."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Visit to Branley Castle"
     },
     {
       "number": 14,
@@ -175,7 +188,8 @@
           "text": "visit a small zoo."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Visit to Branley Castle"
     },
     {
       "number": 15,
@@ -195,42 +209,48 @@
           "text": "a photograph together on the Great Staircase."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Visit to Branley Castle"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16 – 20 Label the plan below. Write the correct letter A-H next to",
-      "groupId": "q16-20"
+      "prompt": "Starting point for walking the walls",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Bow and arrow display",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Hunting birds display",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Traditional dancing",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16 – 20 Label the plan below. Write the correct letter A-H next to",
-      "groupId": "q16-20"
+      "prompt": "Shop",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "– 24 Choose the correct letter, A, B or C. Woolly mammoths on St Paul’s Island 21 How will Rosie and Martin introduce their presentation?",
+      "stem": "How will Rosie and Martin introduce their presentation?",
       "options": [
         {
           "letter": "A",
@@ -242,134 +262,196 @@
         },
         {
           "letter": "C",
-          "text": "with a video clip about woolly mammoths 22 What was surprising about the mammoth tooth found by Russell Graham? A It was still embedded in the mammoth’s jawbone. B It was from an unknown species of mammoth. C It was not as old as mammoth remains from elsewhere. 23 The students will use an animated diagram to demonstrate how the mammoths A became isolated on the island. B spread from the island to other areas. C coexisted with other animals on the island. 24 According to Martin, what is unusual about the date of the mammoths’ extinction on the island? A how exact it is B how early it is C how it was established"
+          "text": "with a video clip about woolly mammoths"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Woolly mammoths on St Paul’s Island"
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 22"
+      "type": "multipleChoice",
+      "stem": "What was surprising about the mammoth tooth found by Russell Graham?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "It was still embedded in the mammoth’s jawbone."
+        },
+        {
+          "letter": "B",
+          "text": "It was from an unknown species of mammoth."
+        },
+        {
+          "letter": "C",
+          "text": "It was not as old as mammoth remains from elsewhere."
+        }
+      ],
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Woolly mammoths on St Paul’s Island"
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 23"
+      "type": "multipleChoice",
+      "stem": "The students will use an animated diagram to demonstrate how the mammoths",
+      "options": [
+        {
+          "letter": "A",
+          "text": "became isolated on the island."
+        },
+        {
+          "letter": "B",
+          "text": "spread from the island to other areas."
+        },
+        {
+          "letter": "C",
+          "text": "coexisted with other animals on the island."
+        }
+      ],
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Woolly mammoths on St Paul’s Island"
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 24"
+      "type": "multipleChoice",
+      "stem": "According to Martin, what is unusual about the date of the mammoths’ extinction on the island?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how exact it is"
+        },
+        {
+          "letter": "B",
+          "text": "how early it is"
+        },
+        {
+          "letter": "C",
+          "text": "how it was established"
+        }
+      ],
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Woolly mammoths on St Paul’s Island"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 – 30 What action will the students take for each of the following sections of their presentation? Choose SI",
-      "groupId": "q25-30"
+      "prompt": "Question 25",
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25 – 30 What action will the students take for each of the following sections of their presentation? Choose SIX ans",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What action will the students take for each of the following sections of their presentation? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Anci",
+      "prompt": "cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ple needed to observe and interpret the sky to ensure their (32) • around 650 BC, Babylonians started forecasting, using weather phenomena such as (33) • by 300 BC, the C",
+      "prompt": "and other ceremonies to make the weather gods friendly • people needed to observe and interpret the sky to ensure their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "onians started forecasting, using weather phenomena such as (33) • by 300 BC, the Chinese had a calendar made up of a number of (34) connected with the weather Ancient Gr",
+      "prompt": "• around 650 BC, Babylonians started forecasting, using weather phenomena such as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "y 300 BC, the Chinese had a calendar made up of a number of (34) connected with the weather Ancient Greeks • a more scientific approach • Aristotle tried to explain the f",
+      "prompt": "• by 300 BC, the Chinese had a calendar made up of a number of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ous weather phenomena • Aristotle also described haloes and (35) Middle Ages • Aristotle’s work considered accurate • many proverbs, e.g. about the significance of the co",
+      "prompt": "approach • Aristotle tried to explain the formation of various weather phenomena • Aristotle also described haloes and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "proverbs, e.g. about the significance of the colour of the (36) , passed on accurate information. 15th-19th centuries • 15th century: scientists recognised value of (37)",
+      "prompt": "Middle Ages • Aristotle’s work considered accurate • many proverbs, e.g. about the significance of the colour of the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "th centuries • 15th century: scientists recognised value of (37) for the first time • Galileo invented the (38) • Pascal showed relationship between atmospheric pressure",
+      "prompt": "passed on accurate information. 15th-19th centuries • 15th century: scientists recognised value of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "sed value of (37) for the first time • Galileo invented the (38) • Pascal showed relationship between atmospheric pressure and altitude • from the 17th century, scientist",
+      "prompt": "for the first time • Galileo invented the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "erature • 18th century: Franklin identified the movement of (39) • 19th century: data from different locations could be sent to the same place by (40)",
+      "prompt": "scientists could measure atmospheric pressure and temperature • 18th century: Franklin identified the movement of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient c",
+      "prompt": "• 19th century: data from different locations could be sent to the same place by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The history of weather forecasting Ancient cultures • many cultures believed that floods and other disasters were involved in the creation of the world • many cultures invented"
     }
   ],
   "answerKey": {

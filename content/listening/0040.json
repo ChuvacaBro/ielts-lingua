@@ -40,43 +40,133 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "ys MAYBE C if she says DEFINITELY NOT House free of damp? B 1. Current gas safety certificate? 2. Gas inspection within last twelve months? 3. Electricity checked in last",
-      "groupId": "q1-6"
+      "prompt": "Current gas safety certificate?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "OT House free of damp? B 1. Current gas safety certificate? 2. Gas inspection within last twelve months? 3. Electricity checked in last five years? 4. Sufficient electric",
-      "groupId": "q1-6"
+      "prompt": "Gas inspection within last twelve months?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "y certificate? 2. Gas inspection within last twelve months? 3. Electricity checked in last five years? 4. Sufficient electric sockets? 5. Fire detection equipment that wo",
-      "groupId": "q1-6"
+      "prompt": "Electricity checked in last five years?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "t twelve months? 3. Electricity checked in last five years? 4. Sufficient electric sockets? 5. Fire detection equipment that works? 6. Previous tenants all returned keys?",
-      "groupId": "q1-6"
+      "prompt": "Sufficient electric sockets?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "checked in last five years? 4. Sufficient electric sockets? 5. Fire detection equipment that works? 6. Previous tenants all returned keys?",
-      "groupId": "q1-6"
+      "prompt": "Fire detection equipment that works?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 1-6 How does the owner answer? Write A if she says YES, DEFINITELY B if she says MAYBE C if she says DEFINITELY",
-      "groupId": "q1-6"
+      "prompt": "Previous tenants all returned keys?",
+      "groupId": "q1-6",
+      "instructions": "How does the owner answer? Write",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if she says YES, DEFINITELY"
+        },
+        {
+          "letter": "B",
+          "text": "if she says MAYBE"
+        },
+        {
+          "letter": "C",
+          "text": "if she says DEFINITELY NOT House free of damp? B 1."
+        }
+      ]
     },
     {
       "number": 7,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A-C. 7. On which floor is the storeroom?",
+      "stem": "On which floor is the storeroom?",
       "options": [
         {
           "letter": "A",
@@ -91,7 +181,8 @@
           "text": "third"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 8,
@@ -111,7 +202,8 @@
           "text": "70"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 9,
@@ -131,7 +223,8 @@
           "text": "150 m2"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 10,
@@ -151,12 +244,13 @@
           "text": "90 cm"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "and 12 Choose the correct letter A-C. 11. At the Wildlife Haven there are not any",
+      "stem": "At the Wildlife Haven there are not any",
       "options": [
         {
           "letter": "A",
@@ -171,7 +265,8 @@
           "text": "telephones or TVs"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A-C."
     },
     {
       "number": 12,
@@ -191,200 +286,307 @@
           "text": "find their own rooms"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A-C."
     },
     {
       "number": 13,
       "type": "formCompletion",
-      "prompt": "form below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "formCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "formCompletion",
-      "prompt": "Questions 13-15 Complete the form below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "clothing does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "prompt": "What THREE items of clothing does the speaker recommend for the national park? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the national park?"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "hing does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the national park?"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "does the speaker recommend for the national park? (16) (17) (18) Which TWO things in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the national park?"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "in the national park does the speaker give a warning about? (19) (20) Part 3:",
+      "prompt": "Which TWO things in the national park does the speaker give a warning about? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the national park?"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the national park?"
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "e: Communication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (2",
+      "prompt": "Course: Communication in Business Course code: CB162 Dates: From ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "nication in Business Course code: CB162 Dates: From (21) to (22) Please give your comments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30)",
+      "prompt": "to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "e give your comments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "Please give your comments on the following aspect of the course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "e your comments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "r comments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ments on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "on the following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "he following aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "llowing aspect of the course: (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 21-30 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communic",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Course: Communication in Business Course code: CB162 Dates: From"
     },
     {
       "number": 31,
       "type": "shortAnswer",
-      "prompt": "ite NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. 31. Where was a Stone Age rubbish dump found? 32. In Medieval Times what type of waste was most common? 33. Wh",
+      "prompt": "Where was a Stone Age rubbish dump found?",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Answer the questions below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "shortAnswer",
-      "prompt": "each answer. 31. Where was a Stone Age rubbish dump found? 32. In Medieval Times what type of waste was most common? 33. What did science link with waste? 34. Which inve",
+      "prompt": "In Medieval Times what type of waste was most common?",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Answer the questions below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "shortAnswer",
-      "prompt": "? 32. In Medieval Times what type of waste was most common? 33. What did science link with waste? 34. Which invention is the biggest problem for the environment?",
+      "prompt": "What did science link with waste?",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Answer the questions below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "shortAnswer",
-      "prompt": "Questions 31-34 Answer the questions below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. 31. Where was a S",
+      "prompt": "Which invention is the biggest problem for the environment?",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Answer the questions below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "ase in waste. Write NO MORE THAN TWO WORDS for each answer. (35) (36) (37)",
+      "prompt": "List THREE factors which led to the increase in waste.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "List THREE factors which led to the increase in waste. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "n waste. Write NO MORE THAN TWO WORDS for each answer. (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "List THREE factors which led to the increase in waste. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 35-37 List THREE factors which led to the increase in waste. Write NO MORE THAN TWO WORDS for each answer. (35) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "List THREE factors which led to the increase in waste. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "w A-F. A Denmark B Germany C Japan D Switzerland E UK F USA 38. incineration 39. landfill 40. recycling",
-      "groupId": "q38-40"
+      "prompt": "incineration",
+      "groupId": "q38-40",
+      "instructions": "Which country uses the highest proportion of each method of waste disposal? Choose your answers from the options below A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Denmark"
+        },
+        {
+          "letter": "B",
+          "text": "Germany"
+        },
+        {
+          "letter": "C",
+          "text": "Japan"
+        },
+        {
+          "letter": "D",
+          "text": "Switzerland"
+        },
+        {
+          "letter": "E",
+          "text": "UK"
+        },
+        {
+          "letter": "F",
+          "text": "USA 38. incineration 39. landfill 40. recycling"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "B Germany C Japan D Switzerland E UK F USA 38. incineration 39. landfill 40. recycling",
-      "groupId": "q38-40"
+      "prompt": "landfill",
+      "groupId": "q38-40",
+      "instructions": "Which country uses the highest proportion of each method of waste disposal? Choose your answers from the options below A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Denmark"
+        },
+        {
+          "letter": "B",
+          "text": "Germany"
+        },
+        {
+          "letter": "C",
+          "text": "Japan"
+        },
+        {
+          "letter": "D",
+          "text": "Switzerland"
+        },
+        {
+          "letter": "E",
+          "text": "UK"
+        },
+        {
+          "letter": "F",
+          "text": "USA 38. incineration 39. landfill 40. recycling"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 38-40 Which country uses the highest proportion of each method of waste disposal? Choose your answers from the op",
-      "groupId": "q38-40"
+      "prompt": "recycling",
+      "groupId": "q38-40",
+      "instructions": "Which country uses the highest proportion of each method of waste disposal? Choose your answers from the options below A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Denmark"
+        },
+        {
+          "letter": "B",
+          "text": "Germany"
+        },
+        {
+          "letter": "C",
+          "text": "Japan"
+        },
+        {
+          "letter": "D",
+          "text": "Switzerland"
+        },
+        {
+          "letter": "E",
+          "text": "UK"
+        },
+        {
+          "letter": "F",
+          "text": "USA 38. incineration 39. landfill 40. recycling"
+        }
+      ]
     }
   ],
   "answerKey": {

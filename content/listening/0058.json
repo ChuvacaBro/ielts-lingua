@@ -41,182 +41,310 @@
       "number": 1,
       "type": "gapFill",
       "prompt": "Question 1",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose THREE letters B-H. Which THREE other activities does the customer want to do?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "visit family"
+        },
+        {
+          "letter": "B",
+          "text": "save money"
+        },
+        {
+          "letter": "C",
+          "text": "study geography"
+        },
+        {
+          "letter": "D",
+          "text": "study English"
+        },
+        {
+          "letter": "E",
+          "text": "do some winter sports"
+        },
+        {
+          "letter": "F",
+          "text": "go sailing"
+        },
+        {
+          "letter": "G",
+          "text": "join a walking tour"
+        },
+        {
+          "letter": "H",
+          "text": "meet young people"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
       "prompt": "Question 2",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose THREE letters B-H. Which THREE other activities does the customer want to do?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "visit family"
+        },
+        {
+          "letter": "B",
+          "text": "save money"
+        },
+        {
+          "letter": "C",
+          "text": "study geography"
+        },
+        {
+          "letter": "D",
+          "text": "study English"
+        },
+        {
+          "letter": "E",
+          "text": "do some winter sports"
+        },
+        {
+          "letter": "F",
+          "text": "go sailing"
+        },
+        {
+          "letter": "G",
+          "text": "join a walking tour"
+        },
+        {
+          "letter": "H",
+          "text": "meet young people"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "Questions 1-3 Choose THREE letters B-H. Which THREE other activities does the customer want to do? A visit family B save m",
-      "groupId": "q1-3"
+      "prompt": "Question 3",
+      "groupId": "q1-3",
+      "instructions": "Choose THREE letters B-H. Which THREE other activities does the customer want to do?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "visit family"
+        },
+        {
+          "letter": "B",
+          "text": "save money"
+        },
+        {
+          "letter": "C",
+          "text": "study geography"
+        },
+        {
+          "letter": "D",
+          "text": "study English"
+        },
+        {
+          "letter": "E",
+          "text": "do some winter sports"
+        },
+        {
+          "letter": "F",
+          "text": "go sailing"
+        },
+        {
+          "letter": "G",
+          "text": "join a walking tour"
+        },
+        {
+          "letter": "H",
+          "text": "meet young people"
+        }
+      ]
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "prompt": "CUSTOMER’S DETAILS Name: Su Minx Lee Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "STOMER’S DETAILS Name: Su Minx Lee Address: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "prompt": "Kew Mobile: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "ddress: (4) Kew Mobile: (5) 0402 Day and date of departure: (6) Length of course (7) Method of payment credit card",
+      "prompt": "0402 Day and date of departure: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "Questions 4-7 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS",
+      "prompt": "Length of course ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. CUSTOMER’S DETAILS Name: Su Minx Lee Address:"
     },
     {
       "number": 8,
       "type": "mapPlanLabelling",
-      "prompt": "Question 8",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 8-10."
     },
     {
       "number": 9,
       "type": "mapPlanLabelling",
-      "prompt": "Question 9",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 8-10."
     },
     {
       "number": 10,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 8-10 Label the map below. Write the correct letter A-G next to",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 8-10."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 11. are often known by their famous bridges. 12. The speaker compares a bridge to a cathedral or 13. Sydney Ha",
+      "prompt": "are often known by their famous bridges.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "r each answer. 11. are often known by their famous bridges. 12. The speaker compares a bridge to a cathedral or 13. Sydney Harbour Bridge is nicknamed",
+      "prompt": "The speaker compares a bridge to a cathedral or",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "Question 11-13 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 11. are often known by their",
+      "prompt": "Sydney Harbour Bridge is nicknamed",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "formCompletion",
-      "prompt": "lved: – knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "prompt": "Contract signed with engineering firm Construction involved: – knocking down (16) ____ – creation of many jobs ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-18"
+      "groupId": "q14-18",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed with engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs"
     },
     {
       "number": 15,
       "type": "formCompletion",
-      "prompt": "– knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-18"
+      "groupId": "q14-18",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed with engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs"
     },
     {
       "number": 16,
       "type": "formCompletion",
-      "prompt": "ith engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-18"
+      "groupId": "q14-18",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed with engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs"
     },
     {
       "number": 17,
       "type": "formCompletion",
-      "prompt": "g down (16) ________ – creation of many jobs (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-18"
+      "groupId": "q14-18",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed with engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs"
     },
     {
       "number": 18,
       "type": "formCompletion",
-      "prompt": "Questions 14-18 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed wi",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-18"
+      "groupId": "q14-18",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Contract signed with engineering firm Construction involved: – knocking down (16) ________ – creation of many jobs"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. Ho",
+      "prompt": "How long is the tunnel?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. How long",
+      "prompt": "Name ONE thing the tunnel can withstand.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21 21. Which graph shows the distribution of animals painted on the caves? (22) (23) (24) (25) (26) (27)",
+      "prompt": "Which graph shows the distribution of animals painted on the caves? (22) (23) (24) (25) (26) (27)",
       "groupId": "q21-21"
     },
     {
       "number": 22,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 22"
+      "prompt": "Question 22",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 23,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 23"
+      "prompt": "Question 23",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 24,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 24"
+      "prompt": "Question 24",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 25,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 25"
+      "prompt": "Question 25",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 26,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 26"
+      "prompt": "Question 26",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 27,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 27"
+      "prompt": "Question 27",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 28,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 28. The cave was closed in 1963 because.",
+      "stem": "The cave was closed in 1963 because.",
       "options": [
         {
           "letter": "A",
@@ -231,7 +359,8 @@
           "text": "so few people were visiting the site"
         }
       ],
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -251,7 +380,8 @@
           "text": "He has no views on the matter"
         }
       ],
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -271,73 +401,140 @@
           "text": "A replica of the cave has been built"
         }
       ],
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32. Write NO MORE THAN THREE WORDS for each answer. What is marketing? (31) and represent only two aspe",
+      "prompt": "What is marketing? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32. Write NO MORE THAN THREE WORDS for each answer. What is marketing?"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32. Write NO MORE THAN THREE WORDS for each answer. What is marketing? (31) and represent only two aspects of",
+      "prompt": "and represent only two aspects of marketing. Marketing involves • finding customers • ensuring customer satisfaction • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32. Write NO MORE THAN THREE WORDS for each answer. What is marketing?"
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "e chart below. Write NO MORE THAN TWO WORDS for each answer (33) (34)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-34"
+      "groupId": "q33-34",
+      "instructions": "Complete the chart below. Write NO MORE THAN TWO WORDS for each answer"
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Questions 33-34 Complete the chart below. Write NO MORE THAN TWO WORDS for each answer (33) (34)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-34"
+      "groupId": "q33-34",
+      "instructions": "Complete the chart below. Write NO MORE THAN TWO WORDS for each answer"
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Question 35",
-      "groupId": "q35-38"
+      "prompt": "supermarkets",
+      "groupId": "q35-38",
+      "instructions": "Which market research method is used by each of these businesses? Write the correct letters A-C next to questions 35-38.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "customer observation"
+        },
+        {
+          "letter": "B",
+          "text": "free offers"
+        },
+        {
+          "letter": "C",
+          "text": "in-store surveys"
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "Question 36",
-      "groupId": "q35-38"
+      "prompt": "department stores",
+      "groupId": "q35-38",
+      "instructions": "Which market research method is used by each of these businesses? Write the correct letters A-C next to questions 35-38.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "customer observation"
+        },
+        {
+          "letter": "B",
+          "text": "free offers"
+        },
+        {
+          "letter": "C",
+          "text": "in-store surveys"
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q35-38"
+      "prompt": "fast-food companies",
+      "groupId": "q35-38",
+      "instructions": "Which market research method is used by each of these businesses? Write the correct letters A-C next to questions 35-38.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "customer observation"
+        },
+        {
+          "letter": "B",
+          "text": "free offers"
+        },
+        {
+          "letter": "C",
+          "text": "in-store surveys"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Questions 35-38 Which market research method is used by each of these businesses? Write the correct letters A-C next to",
-      "groupId": "q35-38"
+      "prompt": "theme parks A customer observation B free offers C in-store surveys",
+      "groupId": "q35-38",
+      "instructions": "Which market research method is used by each of these businesses? Write the correct letters A-C next to questions 35-38.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "customer observation"
+        },
+        {
+          "letter": "B",
+          "text": "free offers"
+        },
+        {
+          "letter": "C",
+          "text": "in-store surveys"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "for each answer. – poor – good – (40) ________ – unhappy – (39) ________ – delighted (39) (40)",
+      "prompt": "– poor – good – (40) ____ – unhappy – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q39-40"
+      "groupId": "q39-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. – poor – good – (40) ________ – unhappy –"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 39-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. – poor – good – (40) ________ – u",
+      "prompt": "____ – delighted (39) ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q39-40"
+      "groupId": "q39-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. – poor – good – (40) ________ – unhappy –"
     }
   ],
   "answerKey": {

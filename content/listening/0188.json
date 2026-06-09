@@ -40,67 +40,77 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "y Fitzgerald Granary Cottage • available for week beginning (1) May • cost for the week: (2) £ • (3) Cottage • cost for the week: £480 • building was originally a (4) • w",
-      "groupId": "q1-10"
+      "prompt": "Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "• available for week beginning (1) May • cost for the week: (2) £ • (3) Cottage • cost for the week: £480 • building was originally a (4) • walk through doors from living",
-      "groupId": "q1-10"
+      "prompt": "May • cost for the week: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ble for week beginning (1) May • cost for the week: (2) £ • (3) Cottage • cost for the week: £480 • building was originally a (4) • walk through doors from living room in",
-      "groupId": "q1-10"
+      "prompt": "£ • ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ttage • cost for the week: £480 • building was originally a (4) • walk through doors from living room into a (5) • several (6) spaces at the front • bathroom has a shower",
-      "groupId": "q1-10"
+      "prompt": "Cottage • cost for the week: £480 • building was originally a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "iginally a (4) • walk through doors from living room into a (5) • several (6) spaces at the front • bathroom has a shower • central heating and stove that burns (7) • vie",
-      "groupId": "q1-10"
+      "prompt": "• walk through doors from living room into a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "• walk through doors from living room into a (5) • several (6) spaces at the front • bathroom has a shower • central heating and stove that burns (7) • views of old (8)",
-      "groupId": "q1-10"
+      "prompt": "• several ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "athroom has a shower • central heating and stove that burns (7) • views of old (8) from living room • view of hilltop (9) from the bedroom Payment • deposit: £144 • deadl",
-      "groupId": "q1-10"
+      "prompt": "spaces at the front • bathroom has a shower • central heating and stove that burns ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "r • central heating and stove that burns (7) • views of old (8) from living room • view of hilltop (9) from the bedroom Payment • deposit: £144 • deadline for final payme",
-      "groupId": "q1-10"
+      "prompt": "• views of old ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "s (7) • views of old (8) from living room • view of hilltop (9) from the bedroom Payment • deposit: £144 • deadline for final payment: end of (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "from living room • view of hilltop ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Ja",
-      "groupId": "q1-10"
+      "prompt": "from the bedroom Payment • deposit: £144 • deadline for final payment: end of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Holiday rental Owners’ names: Jack Fitzgerald and Shirley Fitzgerald Granary Cottage • available for week beginning"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter, A, B or C. Local council report on traffic and highways 11.",
+      "stem": "Question 11",
       "options": [
         {
           "letter": "A",
@@ -115,7 +125,8 @@
           "text": "changes in the type of traffic."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. Local council report on traffic and highways"
     },
     {
       "number": 12,
@@ -135,7 +146,8 @@
           "text": "It will be resurfaced."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. Local council report on traffic and highways"
     },
     {
       "number": 13,
@@ -155,7 +167,8 @@
           "text": "funding is not available at present."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. Local council report on traffic and highways"
     },
     {
       "number": 14,
@@ -175,173 +188,200 @@
           "text": "warning pedestrians to leave enough time when crossing the railway line."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. Local council report on traffic and highways"
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
       "prompt": "Question 15",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
       "prompt": "Question 16",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
       "prompt": "Question 17",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
       "prompt": "Question 18",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
       "prompt": "Question 19",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 15-20 Label the map below. Write the correct letter, A-l, next to",
-      "groupId": "q15-20"
+      "prompt": "Question 20",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO benefits of city bike-sharing schemes do the students agree are t",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO benefits of city bike-sharing schemes do the students agree are the most important? A reducing noise pollution B reducing traffic congestion C improving air quality D encouraging health and fitness E making cycling affordable"
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO benefits of city bike-sharing schemes do the students agree are the most",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO benefits of city bike-sharing schemes do the students agree are the most important? A reducing noise pollution B reducing traffic congestion C improving air quality D encouraging health and fitness E making cycling affordable"
     },
     {
       "number": 23,
       "type": "gapFill",
       "prompt": "Question 23",
-      "groupId": "q23-24"
+      "groupId": "q23-24",
+      "instructions": "Choose TWO letters, A-E. Which TWO things do the students think are necessary for successful bike-sharing schemes? A Bikes should have a GPS system. B The app should be easy to use. C Public awareness should be raised. D Only one scheme should be available. E There should be a large network of cycle lanes."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23-24 Choose TWO letters, A-E. Which TWO things do the students think are necessary for successful bike-sharing s",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "Choose TWO letters, A-E. Which TWO things do the students think are necessary for successful bike-sharing schemes? A Bikes should have a GPS system. B The app should be easy to use. C Public awareness should be raised. D Only one scheme should be available. E There should be a large network of cycle lanes."
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answe",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "f Mauritius. History • 1507 – Portuguese ships transporting (31) stopped at the island to collect food and water. • 1638 – The Dutch established a (32) on the island. • T",
+      "prompt": "a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "to collect food and water. • 1638 – The Dutch established a (32) on the island. • They killed the dodo birds for their meat. • The last one was killed in 1681. Descriptio",
+      "prompt": "stopped at the island to collect food and water. • 1638 – The Dutch established a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "unreliable). • A Dutch painting suggests the dodo was very (33) • The only remaining soft tissue is a dried (34) • Recent studies of a dodo skeleton suggest the birds we",
+      "prompt": "we have is written descriptions and pictures (possibly unreliable). • A Dutch painting suggests the dodo was very ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "o was very (33) • The only remaining soft tissue is a dried (34) • Recent studies of a dodo skeleton suggest the birds were capable of rapid (35) • It’s thought they were",
+      "prompt": "• The only remaining soft tissue is a dried ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "of a dodo skeleton suggest the birds were capable of rapid (35) • It’s thought they were able to use their small wings to maintain (36) • Their (37) was of average size.",
+      "prompt": "• Recent studies of a dodo skeleton suggest the birds were capable of rapid ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "thought they were able to use their small wings to maintain (36) • Their (37) was of average size. • Their sense of (38) enabled them to find food. Reasons for extinction",
+      "prompt": "• It’s thought they were able to use their small wings to maintain ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "were able to use their small wings to maintain (36) • Their (37) was of average size. • Their sense of (38) enabled them to find food. Reasons for extinction • Hunting wa",
+      "prompt": "• Their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "ain (36) • Their (37) was of average size. • Their sense of (38) enabled them to find food. Reasons for extinction • Hunting was probably not the main cause. • Sailors br",
+      "prompt": "was of average size. • Their sense of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "y not the main cause. • Sailors brought dogs and monkeys. • (39) also escaped onto the island and ate the birds’ eggs. • The arrival of farming meant the (40) was destroy",
+      "prompt": "to find food. Reasons for extinction • Hunting was probably not the main cause. • Sailors brought dogs and monkeys. • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was",
+      "prompt": "also escaped onto the island and ate the birds’ eggs. • The arrival of farming meant the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. THE EXTINCTION OF THE DODO BIRD The dodo was a large flightless bird which used to inhabit the island of Mauritius. History • 1507 – Portuguese ships transporting"
     }
   ],
   "answerKey": {

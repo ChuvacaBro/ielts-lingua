@@ -40,101 +40,203 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ting area with magazines • An expanded section for books on (1) • A new section on local (2) • A community room for meetings (also possible to (3) there) • A new section",
+      "prompt": "The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "expanded section for books on (1) • A new section on local (2) • A community room for meetings (also possible to (3) there) • A new section of books for (4) For younger",
+      "prompt": "• A new section on local ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "local (2) • A community room for meetings (also possible to (3) there) • A new section of books for (4) For younger children • The next Science club meeting: experiments",
+      "prompt": "• A community room for meetings (also possible to ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "s (also possible to (3) there) • A new section of books for (4) For younger children • The next Science club meeting: experiments using things from your (5) • Reading cha",
+      "prompt": "there) • A new section of books for ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "xt Science club meeting: experiments using things from your (5) • Reading challenge: read six books during the holidays For adults • This Friday: a local author talks abo",
+      "prompt": "For younger children • The next Science club meeting: experiments using things from your ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Friday: a local author talks about a novel based on a real (6) • IT support is available on Tuesday-no (7) is necessary • Free check of blood (8) and cholesterol levels",
+      "prompt": "read six books during the holidays For adults • This Friday: a local author talks about a novel based on a real ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "based on a real (6) • IT support is available on Tuesday-no (7) is necessary • Free check of blood (8) and cholesterol levels Other information • The library shop sells w",
+      "prompt": "• IT support is available on Tuesday-no ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ilable on Tuesday-no (7) is necessary • Free check of blood (8) and cholesterol levels Other information • The library shop sells wall charts, cards and (9) • Evenings an",
+      "prompt": "is necessary • Free check of blood ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "information • The library shop sells wall charts, cards and (9) • Evenings and weekends: free (10) is available Part 2:",
+      "prompt": "and cholesterol levels Other information • The library shop sells wall charts, cards and ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The libra",
+      "prompt": "• Evenings and weekends: free ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Public Library The library re-opened last month The library now has • A seating area with magazines • An expanded section for books on"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO age groups are taking increasing numbers of holidays with BC Trave",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO age groups are taking increasing numbers of holidays with BC Travel?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "16-30 years"
+        },
+        {
+          "letter": "B",
+          "text": "31-42 years"
+        },
+        {
+          "letter": "C",
+          "text": "43-54 years"
+        },
+        {
+          "letter": "D",
+          "text": "55-64 years"
+        },
+        {
+          "letter": "E",
+          "text": "over 65 years"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO age groups are taking increasing numbers of holidays with BC Travel? A 16",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO age groups are taking increasing numbers of holidays with BC Travel?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "16-30 years"
+        },
+        {
+          "letter": "B",
+          "text": "31-42 years"
+        },
+        {
+          "letter": "C",
+          "text": "43-54 years"
+        },
+        {
+          "letter": "D",
+          "text": "55-64 years"
+        },
+        {
+          "letter": "E",
+          "text": "over 65 years"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO are the main reasons given for the popularity of activity holidays",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. Which TWO are the main reasons given for the popularity of activity holidays?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "clients make new friends"
+        },
+        {
+          "letter": "B",
+          "text": "clients learn a useful skill"
+        },
+        {
+          "letter": "C",
+          "text": "clients learn about a different culture"
+        },
+        {
+          "letter": "D",
+          "text": "clients are excited by the risk involved"
+        },
+        {
+          "letter": "E",
+          "text": "clients find them good value for money"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO are the main reasons given for the popularity of activity holidays? A cli",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. Which TWO are the main reasons given for the popularity of activity holidays?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "clients make new friends"
+        },
+        {
+          "letter": "B",
+          "text": "clients learn a useful skill"
+        },
+        {
+          "letter": "C",
+          "text": "clients learn about a different culture"
+        },
+        {
+          "letter": "D",
+          "text": "clients are excited by the risk involved"
+        },
+        {
+          "letter": "E",
+          "text": "clients find them good value for money"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "multipleChoice",
-      "stem": "-17 Choose the correct letter A, B or C. 15. How does BC Travel plan to expand the painting holidays?",
+      "stem": "How does BC Travel plan to expand the painting holidays?",
       "options": [
         {
           "letter": "A",
@@ -149,7 +251,8 @@
           "text": ". by employing more teachers"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -169,7 +272,8 @@
           "text": ". they mainly involve vegetarian dishes"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -189,69 +293,79 @@
           "text": ". advice is given on selling photographs"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "plete the table below. Write ONE WORD ONLY for each answer. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "the table below. Write ONE WORD ONLY for each answer. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 18-20 Complete the table below. Write ONE WORD ONLY for each answer. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 21,
       "type": "flowChartCompletion",
-      "prompt": "and read relevant articles, noting key information and also (21) identify a problem or need • Select interviewees – these may be site (22) , visitors for city (23) • Prep",
-      "groupId": "q21-26"
+      "prompt": "STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 22,
       "type": "flowChartCompletion",
-      "prompt": "a problem or need • Select interviewees – these may be site (22) , visitors for city (23) • Prepare and carry out interview. If possible collect statistics. • Check wheth",
-      "groupId": "q21-26"
+      "prompt": "identify a problem or need • Select interviewees – these may be site ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 23,
       "type": "flowChartCompletion",
-      "prompt": "t interviewees – these may be site (22) , visitors for city (23) • Prepare and carry out interview. If possible collect statistics. • Check whether (24) of interviewees c",
-      "groupId": "q21-26"
+      "prompt": "visitors for city ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 24,
       "type": "flowChartCompletion",
-      "prompt": "interview. If possible collect statistics. • Check whether (24) of interviewees can be used ANALYSIS • Select relevant information and try to identify (25) • Decide on t",
-      "groupId": "q21-26"
+      "prompt": "• Prepare and carry out interview. If possible collect statistics. • Check whether ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 25,
       "type": "flowChartCompletion",
-      "prompt": "ANALYSIS • Select relevant information and try to identify (25) • Decide on the best form of visuals WRITING THE CASE STUDY • Give some background writing the main secti",
-      "groupId": "q21-26"
+      "prompt": "of interviewees can be used ANALYSIS • Select relevant information and try to identify ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "Questions 21-26 Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURI",
-      "groupId": "q21-26"
+      "prompt": "on the best form of visuals WRITING THE CASE STUDY • Give some background writing the main sections • Do not end with ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the options A-H given below. STAGES IN DOING A TOURISM CASE STUDY RESEARCH • Locate and read relevant articles, noting key information and also"
     },
     {
       "number": 27,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. The Horton Castle Site 27. Natalie and Dave agree one reason why so few people visit Horton Castle is that",
+      "stem": "Natalie and Dave agree one reason why so few people visit Horton Castle is that",
       "options": [
         {
           "letter": "A",
@@ -266,7 +380,8 @@
           "text": ". there is little there of interest"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C. The Horton Castle Site"
     },
     {
       "number": 28,
@@ -286,7 +401,8 @@
           "text": ". dealing with planning restrictions"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C. The Horton Castle Site"
     },
     {
       "number": 29,
@@ -306,7 +422,8 @@
           "text": ". there are opportunities for skilled worker"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C. The Horton Castle Site"
     },
     {
       "number": 30,
@@ -326,77 +443,88 @@
           "text": ". limit visitor numbers"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C. The Horton Castle Site"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "has also recently been found to affect birds which feed on (31) Research on effects of mercury on birds • Claire Varian Ramos is investigating: o The effects on birds’ (",
+      "prompt": "from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "aire Varian Ramos is investigating: o The effects on birds’ (32) or mental processes e.g. memory o The effects on bird song (usually learned from a bird’s (33) ) • Findin",
+      "prompt": "Research on effects of mercury on birds • Claire Varian Ramos is investigating: o The effects on birds’ ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "y o The effects on bird song (usually learned from a bird’s (33) ) • Findings: o Songs learned by birds exposed to mercury are less (34) o This may have a negative effect",
+      "prompt": "or mental processes e.g. memory o The effects on bird song (usually learned from a bird’s ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "dings: o Songs learned by birds exposed to mercury are less (34) o This may have a negative effect on birds’ (35) • Lab based studies: o Allow more (36) for the experimen",
+      "prompt": "• Findings: o Songs learned by birds exposed to mercury are less ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "y are less (34) o This may have a negative effect on birds’ (35) • Lab based studies: o Allow more (36) for the experimenter Implications for humans • Migrating birds suc",
+      "prompt": "o This may have a negative effect on birds’ ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "ive effect on birds’ (35) • Lab based studies: o Allow more (36) for the experimenter Implications for humans • Migrating birds such as (37) containing mercury may be eat",
+      "prompt": "• Lab based studies: o Allow more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "erimenter Implications for humans • Migrating birds such as (37) containing mercury may be eaten by humans • Mercury also causes problems in learning (38) • Mercury in a",
+      "prompt": "for the experimenter Implications for humans • Migrating birds such as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "eaten by humans • Mercury also causes problems in learning (38) • Mercury in a mother’s body from (39) may affect the unborn child • New regulations for mercury emission",
+      "prompt": "containing mercury may be eaten by humans • Mercury also causes problems in learning ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "problems in learning (38) • Mercury in a mother’s body from (39) may affect the unborn child • New regulations for mercury emissions will affect everyone’s energy (40)",
+      "prompt": "• Mercury in a mother’s body from ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds",
+      "prompt": "may affect the unborn child • New regulations for mercury emissions will affect everyone’s energy ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The effects of environmental change on birds Mercury (Hg) • Highly toxic • Released into the atmosphere from coal • In water it may be consumed by fish • It has also recently been found to affect birds which feed on"
     }
   ],
   "answerKey": {

@@ -40,101 +40,203 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Green Email address : dan1068@market.com Home address : 52 (1) Street, Peacetown Heard about us : from a (2) Reasons for joining: to enter competitions and to (3) Type o",
+      "prompt": "Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52 ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "address : 52 (1) Street, Peacetown Heard about us : from a (2) Reasons for joining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "prompt": "Street, Peacetown Heard about us : from a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "rom a (2) Reasons for joining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "prompt": "Reasons for joining: to enter competitions and to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ining: to enter competitions and to (3) Type of membership: (4) membership (£ 30)",
+      "prompt": "Type of membership: ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Da",
+      "prompt": "Question 5",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Wayside Camera Club Membership Form Name : Dan Green Email address : dan1068@market.com Home address : 52"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms? A Don’t pick more",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Don’t pick more than one variety of mushroom at a time."
+        },
+        {
+          "letter": "B",
+          "text": "Don’t pick mushrooms near busy roads."
+        },
+        {
+          "letter": "C",
+          "text": "Don’t eat mushrooms given to you."
+        },
+        {
+          "letter": "D",
+          "text": "Don’t eat mushrooms while picking them."
+        },
+        {
+          "letter": "E",
+          "text": "Don’t pick old mushrooms."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms? A Don’t pick more than o",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO warnings does Dan give about picking mushrooms?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Don’t pick more than one variety of mushroom at a time."
+        },
+        {
+          "letter": "B",
+          "text": "Don’t pick mushrooms near busy roads."
+        },
+        {
+          "letter": "C",
+          "text": "Don’t eat mushrooms given to you."
+        },
+        {
+          "letter": "D",
+          "text": "Don’t eat mushrooms while picking them."
+        },
+        {
+          "letter": "E",
+          "text": "Don’t pick old mushrooms."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct? A Mushrooms",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mushrooms should always be peeled before eating."
+        },
+        {
+          "letter": "B",
+          "text": "Mushrooms eaten by animals may be unsafe."
+        },
+        {
+          "letter": "C",
+          "text": "Cooking destroys toxins in mushrooms."
+        },
+        {
+          "letter": "D",
+          "text": "Brightly coloured mushrooms can be edible."
+        },
+        {
+          "letter": "E",
+          "text": "All poisonous mushrooms have a bad smell."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct? A Mushrooms should",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO ideas about wild mushrooms does Dan say are correct?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mushrooms should always be peeled before eating."
+        },
+        {
+          "letter": "B",
+          "text": "Mushrooms eaten by animals may be unsafe."
+        },
+        {
+          "letter": "C",
+          "text": "Cooking destroys toxins in mushrooms."
+        },
+        {
+          "letter": "D",
+          "text": "Brightly coloured mushrooms can be edible."
+        },
+        {
+          "letter": "E",
+          "text": "All poisonous mushrooms have a bad smell."
+        }
+      ]
     },
     {
       "number": 15,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter, A, B or C. 15. What advice does Dan give about picking mushrooms in parks?",
+      "stem": "What advice does Dan give about picking mushrooms in parks?",
       "options": [
         {
           "letter": "A",
@@ -149,7 +251,8 @@
           "text": "Get there early."
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 16,
@@ -169,7 +272,8 @@
           "text": "take a reference book."
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 17,
@@ -189,7 +293,8 @@
           "text": "avoiding areas where rare mushroom species grow"
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 18,
@@ -209,7 +314,8 @@
           "text": "a rise in building developments locally."
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 19,
@@ -229,7 +335,8 @@
           "text": "leave them for a period after washing them."
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 20,
@@ -249,137 +356,246 @@
           "text": "Cook them for a long time."
         }
       ],
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express? A Their acti",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Their actions were ineffective."
+        },
+        {
+          "letter": "B",
+          "text": "They are still influential today."
+        },
+        {
+          "letter": "C",
+          "text": "They have received unfair criticism."
+        },
+        {
+          "letter": "D",
+          "text": "They were proved right."
+        },
+        {
+          "letter": "E",
+          "text": "Their attitude is understandable."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express? A Their actions wer",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO opinions about the Luddites do the students express?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Their actions were ineffective."
+        },
+        {
+          "letter": "B",
+          "text": "They are still influential today."
+        },
+        {
+          "letter": "C",
+          "text": "They have received unfair criticism."
+        },
+        {
+          "letter": "D",
+          "text": "They were proved right."
+        },
+        {
+          "letter": "E",
+          "text": "Their attitude is understandable."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful ab",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Work will be more rewarding."
+        },
+        {
+          "letter": "B",
+          "text": "Unemployment will fall."
+        },
+        {
+          "letter": "C",
+          "text": "People will want to delay retiring."
+        },
+        {
+          "letter": "D",
+          "text": "Working hours will be shorter."
+        },
+        {
+          "letter": "E",
+          "text": "People will change jobs more frequently."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about? A",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO predictions about the future of work are the students doubtful about?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Work will be more rewarding."
+        },
+        {
+          "letter": "B",
+          "text": "Unemployment will fall."
+        },
+        {
+          "letter": "C",
+          "text": "People will want to delay retiring."
+        },
+        {
+          "letter": "D",
+          "text": "Working hours will be shorter."
+        },
+        {
+          "letter": "E",
+          "text": "People will change jobs more frequently."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What comment do the students make about each of the following jobs? Choose SIX answers from the box and wri",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about each of the following jobs? Choose SIX answers from the box and write the correct letter, A—G, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ellites rather than planes. • would aim to set up legal and (31) ways of improving safety. • does not actually exist at present. Problems in developing effective Space Tr",
+      "prompt": "• is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "fective Space Traffic Management • Satellites are now quite (32) and therefore more widespread (e.g. there are constellations made up of (33) of satellites). • At present",
+      "prompt": "not actually exist at present. Problems in developing effective Space Traffic Management • Satellites are now quite ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "e more widespread (e.g. there are constellations made up of (33) of satellites). • At present, satellites are not required to transmit information to help with their (34)",
+      "prompt": "and therefore more widespread (e.g. there are constellations made up of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "are not required to transmit information to help with their (34) • There are few systems for (35) satellites. • Small pieces of debris may be difficult to identify. • Ope",
+      "prompt": "of satellites). • At present, satellites are not required to transmit information to help with their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "rmation to help with their (34) • There are few systems for (35) satellites. • Small pieces of debris may be difficult to identify. • Operators may be unwilling to share",
+      "prompt": "• There are few systems for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "rs may be unwilling to share details of satellites used for (36) or commercial reasons. • It may be hard to collect details of the object’s (37) at a given time. • Scient",
+      "prompt": "pieces of debris may be difficult to identify. • Operators may be unwilling to share details of satellites used for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "easons. • It may be hard to collect details of the object’s (37) at a given time. • Scientists can only make a (38) about where the satellite will go. Solutions 1. Common",
+      "prompt": "or commercial reasons. • It may be hard to collect details of the object’s ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "object’s (37) at a given time. • Scientists can only make a (38) about where the satellite will go. Solutions 1. Common standards should be agreed on for the presentation",
+      "prompt": "at a given time. • Scientists can only make a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "f information. 2. The information should be combined in one (39) 3. A coordinated system must be designed to create (40) in its users.",
+      "prompt": "Common standards should be agreed on for the presentation of information. 2. The information should be combined in one ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Man",
+      "prompt": "3. A coordinated system must be designed to create ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Space Traffic Management A Space Traffic Management system • is a concept similar to Air Traffic Control, but for satellites rather than planes. • would aim to set up legal and"
     }
   ],
   "answerKey": {

@@ -40,148 +40,258 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ype of group: non-profit Frequency of newspaper collection: (1) Name: (2) Address: (3) Email: (4) Postcode: (5)",
+      "prompt": "Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "up: non-profit Frequency of newspaper collection: (1) Name: (2) Address: (3) Email: (4) Postcode: (5)",
+      "prompt": "Name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "t Frequency of newspaper collection: (1) Name: (2) Address: (3) Email: (4) Postcode: (5)",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "of newspaper collection: (1) Name: (2) Address: (3) Email: (4) Postcode: (5)",
+      "prompt": "Email: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting e",
+      "prompt": "Postcode: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Aim: protecting environment through recycling Type of group: non-profit Frequency of newspaper collection:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "e form below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "rm below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": ". Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 6-10 Complete the form below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "HREE WORDS for each answer. CV and Interview skills seminar 11. The speaker suggests that the students use the when they begin writing resumes. 12. The students should be",
+      "prompt": "The speaker suggests that the students use the when they begin writing resumes.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "that the students use the when they begin writing resumes. 12. The students should be sure not to keep the CV 13. A cover letter is useful when applying for a job and sh",
+      "prompt": "The students should be sure not to keep the CV",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "resumes. 12. The students should be sure not to keep the CV 13. A cover letter is useful when applying for a job and should be included. 14. The speaker believes the CV s",
+      "prompt": "A cover letter is useful when applying for a job and should be included.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "r is useful when applying for a job and should be included. 14. The speaker believes the CV should have a beautiful 15. The CV should not have any spelling and grammar 16",
+      "prompt": "The speaker believes the CV should have a beautiful",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "ed. 14. The speaker believes the CV should have a beautiful 15. The CV should not have any spelling and grammar 16. The words in a CV can describe your 17. Don’t forget t",
+      "prompt": "The CV should not have any spelling and grammar",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "autiful 15. The CV should not have any spelling and grammar 16. The words in a CV can describe your 17. Don’t forget to put down a on the CV.",
+      "prompt": "The words in a CV can describe your",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-17 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills semin",
+      "prompt": "Don’t forget to put down a on the CV.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. CV and Interview skills seminar"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-G, and write next to questions 18-20. What THREE details should job applicants know in the interview?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Working hours"
+        },
+        {
+          "letter": "B",
+          "text": "Promotion prospect"
+        },
+        {
+          "letter": "C",
+          "text": "Salary range"
+        },
+        {
+          "letter": "D",
+          "text": "Pension contribution bonus"
+        },
+        {
+          "letter": "E",
+          "text": "Training"
+        },
+        {
+          "letter": "F",
+          "text": "Holidays"
+        },
+        {
+          "letter": "G",
+          "text": "Location Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-G, and write next to questions 18-20. What THREE details should job applicants know in the interview?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Working hours"
+        },
+        {
+          "letter": "B",
+          "text": "Promotion prospect"
+        },
+        {
+          "letter": "C",
+          "text": "Salary range"
+        },
+        {
+          "letter": "D",
+          "text": "Pension contribution bonus"
+        },
+        {
+          "letter": "E",
+          "text": "Training"
+        },
+        {
+          "letter": "F",
+          "text": "Holidays"
+        },
+        {
+          "letter": "G",
+          "text": "Location Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Choose THREE letters A-G, and write next to",
-      "groupId": "q18-20"
+      "prompt": "Question 20",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-G, and write next to questions 18-20. What THREE details should job applicants know in the interview?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Working hours"
+        },
+        {
+          "letter": "B",
+          "text": "Promotion prospect"
+        },
+        {
+          "letter": "C",
+          "text": "Salary range"
+        },
+        {
+          "letter": "D",
+          "text": "Pension contribution bonus"
+        },
+        {
+          "letter": "E",
+          "text": "Training"
+        },
+        {
+          "letter": "F",
+          "text": "Holidays"
+        },
+        {
+          "letter": "G",
+          "text": "Location Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C.",
+      "stem": "What does the man want to have?",
       "options": [
         {
           "letter": "A",
-          "text": "Consultation with the Returning Students Advisor 21. What does the man want to have? A a break"
+          "text": "a break"
         },
         {
           "letter": "B",
@@ -192,7 +302,8 @@
           "text": "a class"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -212,7 +323,8 @@
           "text": "mature"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -232,7 +344,8 @@
           "text": "adults"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -252,7 +365,8 @@
           "text": "taught them"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -272,7 +386,8 @@
           "text": "being introverted"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -292,7 +407,8 @@
           "text": "when she was 35 years old"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -312,7 +428,8 @@
           "text": "stressed"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -332,7 +449,8 @@
           "text": "impressive"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -352,7 +470,8 @@
           "text": "liberal arts"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -372,40 +491,45 @@
           "text": "university facilities"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 31. The university uses as their teaching method. 32. Research skills included writing and 33. Books of Econom",
+      "prompt": "The university uses as their teaching method.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "h answer. 31. The university uses as their teaching method. 32. Research skills included writing and 33. Books of Economics are kept in the 34. Maths books are kept in th",
+      "prompt": "Research skills included writing and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "r teaching method. 32. Research skills included writing and 33. Books of Economics are kept in the 34. Maths books are kept in the Building.",
+      "prompt": "Books of Economics are kept in the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-34 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. The university uses as th",
+      "prompt": "Maths books are kept in the Building.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "multipleChoice",
-      "stem": "and 36 Choose the correct letter A, B or C. 35. Which is NOT provided for students in most of the large buildings?",
+      "stem": "Which is NOT provided for students in most of the large buildings?",
       "options": [
         {
           "letter": "A",
@@ -420,7 +544,8 @@
           "text": "typing"
         }
       ],
-      "groupId": "q35-36"
+      "groupId": "q35-36",
+      "instructions": "36 Choose the correct letter A, B or C."
     },
     {
       "number": 36,
@@ -440,31 +565,156 @@
           "text": "laser printers"
         }
       ],
-      "groupId": "q35-36"
+      "groupId": "q35-36",
+      "instructions": "36 Choose the correct letter A, B or C."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q37-40"
+      "prompt": "If you go straight out those doors, the is directly opposite this building.",
+      "groupId": "q37-40",
+      "instructions": "Choose FOUR answers from the list below and write the correct letter A-G next to questions 37-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Student Union Building"
+        },
+        {
+          "letter": "B",
+          "text": "Nursery"
+        },
+        {
+          "letter": "C",
+          "text": "Media Centre"
+        },
+        {
+          "letter": "D",
+          "text": "Medical Services Centre"
+        },
+        {
+          "letter": "E",
+          "text": "Maths Department Building"
+        },
+        {
+          "letter": "F",
+          "text": "New Library"
+        },
+        {
+          "letter": "G",
+          "text": "Old Library 37."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
-      "groupId": "q37-40"
+      "prompt": "If you make a right turn outside the door and go to the second building, that’s the",
+      "groupId": "q37-40",
+      "instructions": "Choose FOUR answers from the list below and write the correct letter A-G next to questions 37-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Student Union Building"
+        },
+        {
+          "letter": "B",
+          "text": "Nursery"
+        },
+        {
+          "letter": "C",
+          "text": "Media Centre"
+        },
+        {
+          "letter": "D",
+          "text": "Medical Services Centre"
+        },
+        {
+          "letter": "E",
+          "text": "Maths Department Building"
+        },
+        {
+          "letter": "F",
+          "text": "New Library"
+        },
+        {
+          "letter": "G",
+          "text": "Old Library 37."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
-      "groupId": "q37-40"
+      "prompt": "You can see the if you look out of that window.",
+      "groupId": "q37-40",
+      "instructions": "Choose FOUR answers from the list below and write the correct letter A-G next to questions 37-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Student Union Building"
+        },
+        {
+          "letter": "B",
+          "text": "Nursery"
+        },
+        {
+          "letter": "C",
+          "text": "Media Centre"
+        },
+        {
+          "letter": "D",
+          "text": "Medical Services Centre"
+        },
+        {
+          "letter": "E",
+          "text": "Maths Department Building"
+        },
+        {
+          "letter": "F",
+          "text": "New Library"
+        },
+        {
+          "letter": "G",
+          "text": "Old Library 37."
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Choose FOUR answers from the list below and write the correct letter A-G next to",
-      "groupId": "q37-40"
+      "prompt": "The Media Centre is in front of the",
+      "groupId": "q37-40",
+      "instructions": "Choose FOUR answers from the list below and write the correct letter A-G next to questions 37-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Student Union Building"
+        },
+        {
+          "letter": "B",
+          "text": "Nursery"
+        },
+        {
+          "letter": "C",
+          "text": "Media Centre"
+        },
+        {
+          "letter": "D",
+          "text": "Medical Services Centre"
+        },
+        {
+          "letter": "E",
+          "text": "Maths Department Building"
+        },
+        {
+          "letter": "F",
+          "text": "New Library"
+        },
+        {
+          "letter": "G",
+          "text": "Old Library 37."
+        }
+      ]
     }
   ],
   "answerKey": {

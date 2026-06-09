@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in: (1) Length of exhibition: (2) A wide range of manufacturers will be showcased. Some cars are available to obse",
+      "prompt": "BIRMINGHAM EXHIBITION Open in: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "r. BIRMINGHAM EXHIBITION Open in: (1) Length of exhibition: (2) A wide range of manufacturers will be showcased. Some cars are available to observe and others are for (3)",
+      "prompt": "Length of exhibition: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ased. Some cars are available to observe and others are for (3) The (4) is prohibited to take into the museum. Every ticket includes one fere photo. Price of the ticket:",
+      "prompt": "A wide range of manufacturers will be showcased. Some cars are available to observe and others are for ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "me cars are available to observe and others are for (3) The (4) is prohibited to take into the museum. Every ticket includes one fere photo. Price of the ticket: (5) £ (i",
+      "prompt": "The ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Every ticket includes one fere photo. Price of the ticket: (5) £ (in advance). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from",
+      "prompt": "is prohibited to take into the museum. Every ticket includes one fere photo. Price of the ticket: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": ". Price of the ticket: (5) £ (in advance). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way",
+      "prompt": "£ (in advance). Transfer to Mark ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ce). Transfer to Mark (6) (Box Office Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "prompt": "(Box Office Manager). Held in the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ce Manager). Held in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "prompt": "Palace this year. Not far from ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "in the (7) Palace this year. Not far from (8) Website: www. (9) .com. Best way to contact: (10) Part 2:",
+      "prompt": "Website: www. ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITI",
+      "prompt": "com. Best way to contact: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. BIRMINGHAM EXHIBITION Open in:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B, or C. 11. How many patients does the hospital consult every year?",
+      "stem": "How many patients does the hospital consult every year?",
       "options": [
         {
           "letter": "A",
@@ -122,16 +132,32 @@
         },
         {
           "letter": "C",
-          "text": "11,"
+          "text": "11,000."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 12"
+      "type": "multipleChoice",
+      "stem": "When can patients meet the female doctor?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "On weekday mornings."
+        },
+        {
+          "letter": "B",
+          "text": "Three days a week."
+        },
+        {
+          "letter": "C",
+          "text": "Only on Mondays and Fridays."
+        }
+      ],
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 13,
@@ -151,7 +177,8 @@
           "text": "Mr. Edwards."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 14,
@@ -171,7 +198,8 @@
           "text": "The health care’s pharmacy."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 15,
@@ -191,72 +219,233 @@
           "text": "Meeting students in group discussion."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Reception",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Mr. Green’s room",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Medical Records Office",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Surgery Room",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write the correct letter, A-H, next to",
-      "groupId": "q16-20"
+      "prompt": "Manager’s Office",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to questions 16-20."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-25"
+      "prompt": "Ken Simpson",
+      "groupId": "q21-25",
+      "instructions": "What is the main opinion of each of the following people? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 21-25. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lightning restrictions"
+        },
+        {
+          "letter": "B",
+          "text": "alternative lighting"
+        },
+        {
+          "letter": "C",
+          "text": "reduce the number of insects"
+        },
+        {
+          "letter": "D",
+          "text": "decline in the number of species"
+        },
+        {
+          "letter": "E",
+          "text": "climate changes"
+        },
+        {
+          "letter": "F",
+          "text": "impacts on the growth of animals"
+        },
+        {
+          "letter": "G",
+          "text": "impacts on water quality 21. Ken Simpson 22. Dave Kepler 23. Sharon Grey 24. Maria Jackson 25. Barbara Swallow"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-25"
+      "prompt": "Dave Kepler",
+      "groupId": "q21-25",
+      "instructions": "What is the main opinion of each of the following people? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 21-25. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lightning restrictions"
+        },
+        {
+          "letter": "B",
+          "text": "alternative lighting"
+        },
+        {
+          "letter": "C",
+          "text": "reduce the number of insects"
+        },
+        {
+          "letter": "D",
+          "text": "decline in the number of species"
+        },
+        {
+          "letter": "E",
+          "text": "climate changes"
+        },
+        {
+          "letter": "F",
+          "text": "impacts on the growth of animals"
+        },
+        {
+          "letter": "G",
+          "text": "impacts on water quality 21. Ken Simpson 22. Dave Kepler 23. Sharon Grey 24. Maria Jackson 25. Barbara Swallow"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-25"
+      "prompt": "Sharon Grey",
+      "groupId": "q21-25",
+      "instructions": "What is the main opinion of each of the following people? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 21-25. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lightning restrictions"
+        },
+        {
+          "letter": "B",
+          "text": "alternative lighting"
+        },
+        {
+          "letter": "C",
+          "text": "reduce the number of insects"
+        },
+        {
+          "letter": "D",
+          "text": "decline in the number of species"
+        },
+        {
+          "letter": "E",
+          "text": "climate changes"
+        },
+        {
+          "letter": "F",
+          "text": "impacts on the growth of animals"
+        },
+        {
+          "letter": "G",
+          "text": "impacts on water quality 21. Ken Simpson 22. Dave Kepler 23. Sharon Grey 24. Maria Jackson 25. Barbara Swallow"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-25"
+      "prompt": "Maria Jackson",
+      "groupId": "q21-25",
+      "instructions": "What is the main opinion of each of the following people? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 21-25. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lightning restrictions"
+        },
+        {
+          "letter": "B",
+          "text": "alternative lighting"
+        },
+        {
+          "letter": "C",
+          "text": "reduce the number of insects"
+        },
+        {
+          "letter": "D",
+          "text": "decline in the number of species"
+        },
+        {
+          "letter": "E",
+          "text": "climate changes"
+        },
+        {
+          "letter": "F",
+          "text": "impacts on the growth of animals"
+        },
+        {
+          "letter": "G",
+          "text": "impacts on water quality 21. Ken Simpson 22. Dave Kepler 23. Sharon Grey 24. Maria Jackson 25. Barbara Swallow"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 What is the main opinion of each of the following people? Choose FIVE answers from the box and write the co",
-      "groupId": "q21-25"
+      "prompt": "Barbara Swallow",
+      "groupId": "q21-25",
+      "instructions": "What is the main opinion of each of the following people? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 21-25. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lightning restrictions"
+        },
+        {
+          "letter": "B",
+          "text": "alternative lighting"
+        },
+        {
+          "letter": "C",
+          "text": "reduce the number of insects"
+        },
+        {
+          "letter": "D",
+          "text": "decline in the number of species"
+        },
+        {
+          "letter": "E",
+          "text": "climate changes"
+        },
+        {
+          "letter": "F",
+          "text": "impacts on the growth of animals"
+        },
+        {
+          "letter": "G",
+          "text": "impacts on water quality 21. Ken Simpson 22. Dave Kepler 23. Sharon Grey 24. Maria Jackson 25. Barbara Swallow"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "and 27 Choose the correct letter, A, B or C. 26. What does Jim think about the difference among species in natural and artificial light?",
+      "stem": "What does Jim think about the difference among species in natural and artificial light?",
       "options": [
         {
           "letter": "A",
@@ -271,7 +460,8 @@
           "text": "Species will die out in artificial light."
         }
       ],
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Choose the correct letter, A, B or C."
     },
     {
       "number": 27,
@@ -291,85 +481,99 @@
           "text": "many theories lack solid proof in the field."
         }
       ],
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Choose the correct letter, A, B or C."
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics are they interested in studying in the future? A quality of life tourism В wildlife park animals С migration birds D animals living in rural areas E animals living in tropical climate F the impact of different environment on animals G pandas in the zoo Part 4:"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics are they interested in studying in the future? A quality of life tourism В wildlife park animals С migration birds D animals living in rural areas E animals living in tropical climate F the impact of different environment on animals G pandas in the zoo Part 4:"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters, A-G. Which THREE topics are they interested in studying in the future? A quality of l",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics are they interested in studying in the future? A quality of life tourism В wildlife park animals С migration birds D animals living in rural areas E animals living in tropical climate F the impact of different environment on animals G pandas in the zoo Part 4:"
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on?",
-      "groupId": "q31-32"
+      "prompt": "Question 31",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on? A cooperation В competition С moral values D player’s physical protection E business model"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on? A coop",
-      "groupId": "q31-32"
+      "prompt": "Question 32",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letters, A-E Which TWO aspects did the new rules at the end of the 19th century focus on? A cooperation В competition С moral values D player’s physical protection E business model"
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "why UK schools push football education is the pressure from (33) • Prior to the 19th, football players used different (34) of rules. • People attempted to standardise the",
-      "groupId": "q33-40"
+      "prompt": "Football in the UK • At present the main reason why UK schools push football education is the pressure from ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "m (33) • Prior to the 19th, football players used different (34) of rules. • People attempted to standardise the rules from the whole (35) , known as the ‘Cambridge Rules",
-      "groupId": "q33-40"
+      "prompt": "• Prior to the 19th, football players used different ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "• People attempted to standardise the rules from the whole (35) , known as the ‘Cambridge Rules’ in 1848. • Attendences were increasing due to the improvement of infrast",
-      "groupId": "q33-40"
+      "prompt": "of rules. • People attempted to standardise the rules from the whole ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "increasing due to the improvement of infrastructure and the (36) system. • Football became popular and it is regarded as a (37) event. • The football clubs were responsib",
-      "groupId": "q33-40"
+      "prompt": "known as the ‘Cambridge Rules’ in 1848. • Attendences were increasing due to the improvement of infrastructure and the ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": ") system. • Football became popular and it is regarded as a (37) event. • The football clubs were responsible for most of the (38) and development for the football associ",
-      "groupId": "q33-40"
+      "prompt": "system. • Football became popular and it is regarded as a ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "vent. • The football clubs were responsible for most of the (38) and development for the football association. • (39) against other teams were also organised by the footb",
-      "groupId": "q33-40"
+      "prompt": "event. • The football clubs were responsible for most of the ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "of the (38) and development for the football association. • (39) against other teams were also organised by the football clubs. • In 1910s, (40) football players were app",
-      "groupId": "q33-40"
+      "prompt": "and development for the football association. • ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 33-40 Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main",
-      "groupId": "q33-40"
+      "prompt": "against other teams were also organised by the football clubs. • In 1910s, ____",
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write ONLY ONE WORD for each answer. Football in the UK • At present the main reason why UK schools push football education is the pressure from"
     }
   ],
   "answerKey": {

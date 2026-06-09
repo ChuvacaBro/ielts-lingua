@@ -41,18 +41,64 @@
       "number": 1,
       "type": "gapFill",
       "prompt": "Question 1",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "Choose TWO letters A-E. Annie’s mother",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "has arthritis"
+        },
+        {
+          "letter": "B",
+          "text": "is pleased with her new medicine"
+        },
+        {
+          "letter": "C",
+          "text": "can hardly move her fingers"
+        },
+        {
+          "letter": "D",
+          "text": "needs an operation on her leg"
+        },
+        {
+          "letter": "E",
+          "text": "has medical insurance"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Questions 1-2 Choose TWO letters A-E. Annie’s mother A has arthritis B is pleased with her new medicine C can hardly move",
-      "groupId": "q1-2"
+      "prompt": "Question 2",
+      "groupId": "q1-2",
+      "instructions": "Choose TWO letters A-E. Annie’s mother",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "has arthritis"
+        },
+        {
+          "letter": "B",
+          "text": "is pleased with her new medicine"
+        },
+        {
+          "letter": "C",
+          "text": "can hardly move her fingers"
+        },
+        {
+          "letter": "D",
+          "text": "needs an operation on her leg"
+        },
+        {
+          "letter": "E",
+          "text": "has medical insurance"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A-C 3. Bud’s uncle",
+      "stem": "Bud’s uncle",
       "options": [
         {
           "letter": "A",
@@ -67,210 +113,495 @@
           "text": "knows some medical staff"
         }
       ],
-      "groupId": "q3-3"
+      "groupId": "q3-3",
+      "instructions": "Choose the correct letter A-C"
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "Questions 4 and 5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are find",
+      "prompt": "Annie’s parents are finding it difficult to pay the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are finding it difficult to pay the"
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 4 and 5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are finding it",
+      "prompt": "and her sister has won a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. Annie’s parents are finding it difficult to pay the"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Bud’s cousin A is called Mary B met Annie at Annie’s party C works at a hotel",
-      "groupId": "q6-7"
+      "prompt": "Question 6",
+      "groupId": "q6-7",
+      "instructions": "7 Choose TWO letters A-E. Bud’s cousin",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is called Mary"
+        },
+        {
+          "letter": "B",
+          "text": "met Annie at Annie’s party"
+        },
+        {
+          "letter": "C",
+          "text": "works at a hotel"
+        },
+        {
+          "letter": "D",
+          "text": "wants to get promoted"
+        },
+        {
+          "letter": "E",
+          "text": "is nice to people when she first meets them"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Bud’s cousin A is called Mary B met Annie at Annie’s party C works at a hotel D want",
-      "groupId": "q6-7"
+      "prompt": "Question 7",
+      "groupId": "q6-7",
+      "instructions": "7 Choose TWO letters A-E. Bud’s cousin",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is called Mary"
+        },
+        {
+          "letter": "B",
+          "text": "met Annie at Annie’s party"
+        },
+        {
+          "letter": "C",
+          "text": "works at a hotel"
+        },
+        {
+          "letter": "D",
+          "text": "wants to get promoted"
+        },
+        {
+          "letter": "E",
+          "text": "is nice to people when she first meets them"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 8 and 9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a (8)",
+      "prompt": "Bud’s father has a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q8-9"
+      "groupId": "q8-9",
+      "instructions": "9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 8 and 9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a (8) to bui",
+      "prompt": "to build a supermarket and all his workers have to belong to the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q8-9"
+      "groupId": "q8-9",
+      "instructions": "9 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. Bud’s father has a"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Question 10 Answer the question in ONE WORD AND/ OR A NUMBER. 10. How many years have Bud’s parents been married? Part",
-      "groupId": "q10-10"
+      "prompt": "How many years have Bud’s parents been married?",
+      "groupId": "q10-10",
+      "instructions": "Answer the question in ONE WORD AND/ OR A NUMBER."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says peopl",
+      "prompt": "The manager says people want to save money for retirement, children’s education, a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says people want to save money for retirement, children’s education, a"
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says people want",
+      "prompt": "and a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The manager says people want to save money for retirement, children’s education, a"
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should sav",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should save",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "depends on individual tastes"
+        },
+        {
+          "letter": "B",
+          "text": "is clearer as one gets older"
+        },
+        {
+          "letter": "C",
+          "text": "depends entirely on how many children one has"
+        },
+        {
+          "letter": "D",
+          "text": "should be decided after writing out a budget for daily necessities"
+        },
+        {
+          "letter": "E",
+          "text": "partly depends on one’s health"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should save A dep",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. The manager says how much money one should spend and how much one should save",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "depends on individual tastes"
+        },
+        {
+          "letter": "B",
+          "text": "is clearer as one gets older"
+        },
+        {
+          "letter": "C",
+          "text": "depends entirely on how many children one has"
+        },
+        {
+          "letter": "D",
+          "text": "should be decided after writing out a budget for daily necessities"
+        },
+        {
+          "letter": "E",
+          "text": "partly depends on one’s health"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15 Write NO MORE THAN THREE WORDS for your answer. What does the manager say you should do if you have nearly",
+      "prompt": "Question 15",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-15"
+      "groupId": "q15-15",
+      "instructions": "Write NO MORE THAN THREE WORDS for your answer. What does the manager say you should do if you have nearly spent your budget for the month?"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 16 and 17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. 16. The manager refer",
+      "prompt": "The manager refers to keeping some money in a current account for use in emergencies as a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-17"
+      "groupId": "q16-17",
+      "instructions": "17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 16 and 17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer. 16. The manager refers to ke",
+      "prompt": "This has been described as a voluntary tax on fools",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-17"
+      "groupId": "q16-17",
+      "instructions": "17 Complete the following sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q18-20"
+      "prompt": "Blue chip stocks",
+      "groupId": "q18-20",
+      "instructions": "Select the correct letter A-F and write next to the questions 18 to 20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Best spread of risks to meet investors’ objectives"
+        },
+        {
+          "letter": "B",
+          "text": "Known, guaranteed returns for fixed period of time"
+        },
+        {
+          "letter": "C",
+          "text": "Should be purchased if buyer is optimistic"
+        },
+        {
+          "letter": "D",
+          "text": "High risk, potentially high returns"
+        },
+        {
+          "letter": "E",
+          "text": "Always mean investment in new, small companies with excellent technologies"
+        },
+        {
+          "letter": "F",
+          "text": "Provide steady returns Item 18. Blue chip stocks 19. Balanced portfolios 20. Venture capital investments Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q18-20"
+      "prompt": "Balanced portfolios",
+      "groupId": "q18-20",
+      "instructions": "Select the correct letter A-F and write next to the questions 18 to 20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Best spread of risks to meet investors’ objectives"
+        },
+        {
+          "letter": "B",
+          "text": "Known, guaranteed returns for fixed period of time"
+        },
+        {
+          "letter": "C",
+          "text": "Should be purchased if buyer is optimistic"
+        },
+        {
+          "letter": "D",
+          "text": "High risk, potentially high returns"
+        },
+        {
+          "letter": "E",
+          "text": "Always mean investment in new, small companies with excellent technologies"
+        },
+        {
+          "letter": "F",
+          "text": "Provide steady returns Item 18. Blue chip stocks 19. Balanced portfolios 20. Venture capital investments Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Select the correct letter A-F and write next to the",
-      "groupId": "q18-20"
+      "prompt": "Venture capital investments",
+      "groupId": "q18-20",
+      "instructions": "Select the correct letter A-F and write next to the questions 18 to 20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Best spread of risks to meet investors’ objectives"
+        },
+        {
+          "letter": "B",
+          "text": "Known, guaranteed returns for fixed period of time"
+        },
+        {
+          "letter": "C",
+          "text": "Should be purchased if buyer is optimistic"
+        },
+        {
+          "letter": "D",
+          "text": "High risk, potentially high returns"
+        },
+        {
+          "letter": "E",
+          "text": "Always mean investment in new, small companies with excellent technologies"
+        },
+        {
+          "letter": "F",
+          "text": "Provide steady returns Item 18. Blue chip stocks 19. Balanced portfolios 20. Venture capital investments Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which statements are correct? A Bill and Jane made a video documentary on ho",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which statements are correct?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill and Jane made a video documentary on homeless people"
+        },
+        {
+          "letter": "B",
+          "text": "Jane made a video on homeless people"
+        },
+        {
+          "letter": "C",
+          "text": "Prof. Edwards is not clear how much his students know about video cameras"
+        },
+        {
+          "letter": "D",
+          "text": "Few students have video cameras"
+        },
+        {
+          "letter": "E",
+          "text": "Bill have made a video documentary on homeless people"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which statements are correct? A Bill and Jane made a video documentary on homeless",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which statements are correct?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill and Jane made a video documentary on homeless people"
+        },
+        {
+          "letter": "B",
+          "text": "Jane made a video on homeless people"
+        },
+        {
+          "letter": "C",
+          "text": "Prof. Edwards is not clear how much his students know about video cameras"
+        },
+        {
+          "letter": "D",
+          "text": "Few students have video cameras"
+        },
+        {
+          "letter": "E",
+          "text": "Bill have made a video documentary on homeless people"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23 Complete the following sentence with ONE WORD ONLY. 23. Prof. Edwards thinks he should start his video cour",
+      "prompt": "Prof. Edwards thinks he should start his video course by explaining the of video cameras.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q23-23"
+      "groupId": "q23-23",
+      "instructions": "Complete the following sentence with ONE WORD ONLY."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Prof. Edwards say A his students must each have their own video camera B his",
-      "groupId": "q24-25"
+      "prompt": "Question 24",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Prof. Edwards say",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "his students must each have their own video camera"
+        },
+        {
+          "letter": "B",
+          "text": "his students cannot all afford to buy video cameras"
+        },
+        {
+          "letter": "C",
+          "text": "his students must be creative and plan their video projects properly"
+        },
+        {
+          "letter": "D",
+          "text": "his students need to use 3-CCD video cameras"
+        },
+        {
+          "letter": "E",
+          "text": "the film department has enough video cameras for his students to use"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Prof. Edwards say A his students must each have their own video camera B his studen",
-      "groupId": "q24-25"
+      "prompt": "Question 25",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Prof. Edwards say",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "his students must each have their own video camera"
+        },
+        {
+          "letter": "B",
+          "text": "his students cannot all afford to buy video cameras"
+        },
+        {
+          "letter": "C",
+          "text": "his students must be creative and plan their video projects properly"
+        },
+        {
+          "letter": "D",
+          "text": "his students need to use 3-CCD video cameras"
+        },
+        {
+          "letter": "E",
+          "text": "the film department has enough video cameras for his students to use"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 26 and 27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards m",
+      "prompt": "What two uses of wide-angle shots does Prof. Edwards metion? ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards metion?"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 26 and 27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards metion?",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Write NO MORE THAN TWO WORDS for each answer. What two uses of wide-angle shots does Prof. Edwards metion?"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "sentences. Write NO MORE THAN THREE WORDS for each answer. 28. Bill says a small hole in one’s pocket is useful for 29. Prof. Edwards says filming people without their k",
+      "prompt": "Bill says a small hole in one’s pocket is useful for",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the following sentences. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "r. 28. Bill says a small hole in one’s pocket is useful for 29. Prof. Edwards says filming people without their knowledge raises the question of 30. Jane wants to even fi",
+      "prompt": "Prof. Edwards says filming people without their knowledge raises the question of",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the following sentences. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Complete the following sentences. Write NO MORE THAN THREE WORDS for each answer. 28. Bill says a small hol",
+      "prompt": "Jane wants to even filming people without their knowledge",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the following sentences. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "oberts says much of history is concerned with conflict over (31) , (32) and (33)",
+      "prompt": "Prof. Roberts says much of history is concerned with conflict over ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Write NO MORE THAN TWO WORDS for each answer. Prof. Roberts says much of history is concerned with conflict over"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "says much of history is concerned with conflict over (31) , (32) and (33)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Write NO MORE THAN TWO WORDS for each answer. Prof. Roberts says much of history is concerned with conflict over"
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Questions 31-33 Write NO MORE THAN TWO WORDS for each answer. Prof. Roberts says much of history is concerned with conflict",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Write NO MORE THAN TWO WORDS for each answer. Prof. Roberts says much of history is concerned with conflict over"
     },
     {
       "number": 34,
       "type": "multipleChoice",
-      "stem": "and 35 Choose the correct letter A-C. 34. Prof Roberts implies that the concept of ‘hurting others’",
+      "stem": "Prof Roberts implies that the concept of ‘hurting others’",
       "options": [
         {
           "letter": "A",
@@ -285,7 +616,8 @@
           "text": "becomes an issue when there is no control by government"
         }
       ],
-      "groupId": "q34-35"
+      "groupId": "q34-35",
+      "instructions": "35 Choose the correct letter A-C."
     },
     {
       "number": 35,
@@ -305,40 +637,45 @@
           "text": "the concept of ownership is now here to stay"
         }
       ],
-      "groupId": "q34-35"
+      "groupId": "q34-35",
+      "instructions": "35 Choose the correct letter A-C."
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "ng sentences. Write NO MORE THAN TWO WORDS for each answer. 36. Many classical economists considered private land ownership a 37. Keeping land in good condition for the f",
+      "prompt": "Many classical economists considered private land ownership a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-39"
+      "groupId": "q36-39",
+      "instructions": "Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "ny classical economists considered private land ownership a 37. Keeping land in good condition for the future is the concept of 38. The need to protect has led to increas",
+      "prompt": "Keeping land in good condition for the future is the concept of",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-39"
+      "groupId": "q36-39",
+      "instructions": "Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ing land in good condition for the future is the concept of 38. The need to protect has led to increased restrictions on landowners’ rights in some countries 39. Prof. Ro",
+      "prompt": "The need to protect has led to increased restrictions on landowners’ rights in some countries",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-39"
+      "groupId": "q36-39",
+      "instructions": "Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 36-39 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 36. Many classical economis",
+      "prompt": "Prof. Roberts believes that is usually the best way to protect natural resources",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-39"
+      "groupId": "q36-39",
+      "instructions": "Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A-C. 40. The main difference between freehold and leasehold is",
+      "stem": "The main difference between freehold and leasehold is",
       "options": [
         {
           "letter": "A",
@@ -353,7 +690,8 @@
           "text": "leasehold docs not apply to land"
         }
       ],
-      "groupId": "q40-40"
+      "groupId": "q40-40",
+      "instructions": "Choose the correct letter A-C."
     }
   ],
   "answerKey": {

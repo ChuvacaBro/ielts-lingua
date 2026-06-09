@@ -40,107 +40,122 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "Recruitment Agency Employee record Surname: Thompson Email: (1) @haught.net Employer reference: Name: Jane Foot Job: (2) at Bermuda Girls’ School Character reference: Nam",
+      "prompt": "Recruitment Agency Employee record Surname: Thompson Email: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "l: (1) @haught.net Employer reference: Name: Jane Foot Job: (2) at Bermuda Girls’ School Character reference: Name: Monica Carmody Relationship: (3) since 1991 Main occup",
+      "prompt": "@haught.net Employer reference: Name: Jane Foot Job: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "ool Character reference: Name: Monica Carmody Relationship: (3) since 1991 Main occupation: (4) Additional qualifications: diploma in (5) Can also teach: (6) to GCSE leve",
+      "prompt": "at Bermuda Girls’ School Character reference: Name: Monica Carmody Relationship: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "onica Carmody Relationship: (3) since 1991 Main occupation: (4) Additional qualifications: diploma in (5) Can also teach: (6) to GCSE level",
+      "prompt": "since 1991 Main occupation: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Main occupation: (4) Additional qualifications: diploma in (5) Can also teach: (6) to GCSE level",
+      "prompt": "Additional qualifications: diploma in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency",
+      "prompt": "Can also teach: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Recruitment Agency Employee record Surname: Thompson Email:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "form below. Write NO MORE THAN THREE WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "ow. Write NO MORE THAN THREE WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 7-10 Complete the form below. Write NO MORE THAN THREE WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "mapPlanLabelling",
-      "prompt": "Question 11",
-      "groupId": "q11-15"
+      "prompt": "Christchurch",
+      "groupId": "q11-15",
+      "instructions": "Label the map below. Write correct letter A-H next to questions 11-15."
     },
     {
       "number": 12,
       "type": "mapPlanLabelling",
-      "prompt": "Question 12",
-      "groupId": "q11-15"
+      "prompt": "Collingwood",
+      "groupId": "q11-15",
+      "instructions": "Label the map below. Write correct letter A-H next to questions 11-15."
     },
     {
       "number": 13,
       "type": "mapPlanLabelling",
-      "prompt": "Question 13",
-      "groupId": "q11-15"
+      "prompt": "Bluff",
+      "groupId": "q11-15",
+      "instructions": "Label the map below. Write correct letter A-H next to questions 11-15."
     },
     {
       "number": 14,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14",
-      "groupId": "q11-15"
+      "prompt": "Lewis",
+      "groupId": "q11-15",
+      "instructions": "Label the map below. Write correct letter A-H next to questions 11-15."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 11-15 Label the map below. Write correct letter A-H next to",
-      "groupId": "q11-15"
+      "prompt": "Kaikoura",
+      "groupId": "q11-15",
+      "instructions": "Label the map below. Write correct letter A-H next to questions 11-15."
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B or C. 16. From what time onwards will all roads out of Christchurch be closed?",
+      "stem": "From what time onwards will all roads out of Christchurch be closed?",
       "options": [
         {
           "letter": "A",
@@ -155,7 +170,8 @@
           "text": "1 pm"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -175,7 +191,8 @@
           "text": "go directly to their hotel"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
@@ -195,7 +212,8 @@
           "text": "after 9 pm"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 19,
@@ -215,7 +233,8 @@
           "text": "avoid travel if at all possible"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 20,
@@ -235,137 +254,378 @@
           "text": "power cuts"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-24"
+      "prompt": "Physiological needs",
+      "groupId": "q21-24",
+      "instructions": "Write the correct letter A-E next to questions 21-24. Maslow’s hierarchy of needs",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": "21. Physiological needs 22. Self-actualisation needs 23. Love and belonging needs 24. Esteem needs"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-24"
+      "prompt": "Self-actualisation needs",
+      "groupId": "q21-24",
+      "instructions": "Write the correct letter A-E next to questions 21-24. Maslow’s hierarchy of needs",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": "21. Physiological needs 22. Self-actualisation needs 23. Love and belonging needs 24. Esteem needs"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-24"
+      "prompt": "Love and belonging needs",
+      "groupId": "q21-24",
+      "instructions": "Write the correct letter A-E next to questions 21-24. Maslow’s hierarchy of needs",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": "21. Physiological needs 22. Self-actualisation needs 23. Love and belonging needs 24. Esteem needs"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 21-24 Write the correct letter A-E next to",
-      "groupId": "q21-24"
+      "prompt": "Esteem needs",
+      "groupId": "q21-24",
+      "instructions": "Write the correct letter A-E next to questions 21-24. Maslow’s hierarchy of needs",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": ""
+        },
+        {
+          "letter": "E",
+          "text": "21. Physiological needs 22. Self-actualisation needs 23. Love and belonging needs 24. Esteem needs"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q25-30"
+      "prompt": "Case 1",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q25-30"
+      "prompt": "Case 2",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q25-30"
+      "prompt": "Case 3",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q25-30"
+      "prompt": "Case 4",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q25-30"
+      "prompt": "Case 5",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E nex",
-      "groupId": "q25-30"
+      "prompt": "Case 6",
+      "groupId": "q25-30",
+      "instructions": "What need level in Maslow’s hierarchy is the person in each case study at? Write the correct letter A-E next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Physiological"
+        },
+        {
+          "letter": "B",
+          "text": "Safety"
+        },
+        {
+          "letter": "C",
+          "text": "Love and belonging"
+        },
+        {
+          "letter": "D",
+          "text": "Esteem"
+        },
+        {
+          "letter": "E",
+          "text": "Self-actualisation 25. Case 1 26. Case 2 27. Case 3 28. Case 4 29. Case 5 30. Case 6 Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "diagramLabel",
-      "prompt": "gram below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "diagramLabel",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "diagramLabel",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "diagramLabel",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "diagramLabel",
       "prompt": "Question 35",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "diagramLabel",
-      "prompt": "Questions 31-36 Label the diagram below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (36)",
+      "prompt": "Question 36",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "flowChartCompletion",
-      "prompt": "ma Disaster: Sequence of events Earthquake strikes Reactors (37) (new source of power now needed for coolant system) Diesel generators powered on Tsunami hits after 50 mi",
+      "prompt": "The Fukushima Disaster: Sequence of events Earthquake strikes Reactors ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. The Fukushima Disaster: Sequence of events Earthquake strikes Reactors"
     },
     {
       "number": 38,
       "type": "flowChartCompletion",
-      "prompt": "Diesel generators powered on Tsunami hits after 50 minutes, (38) sea-wall defences Turbine halls become flooded (39) are disabled Back up battery power in Reactor 1 parti",
+      "prompt": "(new source of power now needed for coolant system) Diesel generators powered on Tsunami hits after 50 minutes, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. The Fukushima Disaster: Sequence of events Earthquake strikes Reactors"
     },
     {
       "number": 39,
       "type": "flowChartCompletion",
-      "prompt": "inutes, (38) sea-wall defences Turbine halls become flooded (39) are disabled Back up battery power in Reactor 1 partially fails Core temperature and pressure inside cont",
+      "prompt": "sea-wall defences Turbine halls become flooded ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. The Fukushima Disaster: Sequence of events Earthquake strikes Reactors"
     },
     {
       "number": 40,
       "type": "flowChartCompletion",
-      "prompt": "Questions 37-40 Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. The Fukushima Disaster: Sequ",
+      "prompt": "pressure inside containment building rise Explosion next day leaves containment building’s roof collapsed; meltdown is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. The Fukushima Disaster: Sequence of events Earthquake strikes Reactors"
     }
   ],
   "answerKey": {

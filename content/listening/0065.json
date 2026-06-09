@@ -40,56 +40,63 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "UMBER for each answer. The customer is going to France for: 1 week Traveller’s cheques can be replace within (1) Having a little cash is useful for things like (2) The ba",
+      "prompt": "week Traveller’s cheques can be replace within (1) Having a little cash is useful for things like",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. The customer is going to France for:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "e within (1) Having a little cash is useful for things like (2) The bank charges for ATM withdrawals with a (3)",
+      "prompt": "week Traveller’s cheques can be replace within (1) Having a little cash is useful for things like ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. The customer is going to France for:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Question 3",
+      "prompt": "The bank charges for ATM withdrawals with a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. The customer is going to France for:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. The customer is go",
+      "prompt": "Question 4",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. The customer is going to France for:"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "Questions 4-7 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 8. The bank will buy back unused traveller’s cheques",
+      "stem": "The bank will buy back unused traveller’s cheques",
       "options": [
         {
           "letter": "A",
@@ -104,7 +111,8 @@
           "text": "if they are returned in good condition"
         }
       ],
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 9,
@@ -124,7 +132,8 @@
           "text": "will be buying some at the airport"
         }
       ],
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -144,12 +153,13 @@
           "text": "sign for the cheques at home"
         }
       ],
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 11. NUS extra cards",
+      "stem": "NUS extra cards",
       "options": [
         {
           "letter": "A",
@@ -164,105 +174,206 @@
           "text": "give you a year’s worth of discounts"
         }
       ],
-      "groupId": "q11-11"
+      "groupId": "q11-11",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "people between 16 and 25 • Mature students 25+ studying in (12) • Get (13) train fares in the UK • 1 year (14) £ • 3 years (15)",
+      "prompt": "Student Railcards • For young people between 16 and 25 • Mature students 25+ studying in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-15"
+      "groupId": "q12-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student Railcards • For young people between 16 and 25 • Mature students 25+ studying in"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "ween 16 and 25 • Mature students 25+ studying in (12) • Get (13) train fares in the UK • 1 year (14) £ • 3 years (15)",
+      "prompt": "• Get ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-15"
+      "groupId": "q12-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student Railcards • For young people between 16 and 25 • Mature students 25+ studying in"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "studying in (12) • Get (13) train fares in the UK • 1 year (14) £ • 3 years (15)",
+      "prompt": "train fares in the UK • 1 year ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-15"
+      "groupId": "q12-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student Railcards • For young people between 16 and 25 • Mature students 25+ studying in"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "Questions 12-15 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student Railcard",
+      "prompt": "£ • 3 years ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-15"
+      "groupId": "q12-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student Railcards • For young people between 16 and 25 • Mature students 25+ studying in"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-17"
+      "groupId": "q16-17",
+      "instructions": "Choose TWO letters A-E. Local bus operators offer bus passes",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "especially for students"
+        },
+        {
+          "letter": "B",
+          "text": "for various lengths of time"
+        },
+        {
+          "letter": "C",
+          "text": "that are cheaper the longer the period"
+        },
+        {
+          "letter": "D",
+          "text": "for use only for commuting"
+        },
+        {
+          "letter": "E",
+          "text": "that can be used by your friends"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 16-17 Choose TWO letters A-E. Local bus operators offer bus passes A especially for students B for various length",
-      "groupId": "q16-17"
+      "prompt": "Question 17",
+      "groupId": "q16-17",
+      "instructions": "Choose TWO letters A-E. Local bus operators offer bus passes",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "especially for students"
+        },
+        {
+          "letter": "B",
+          "text": "for various lengths of time"
+        },
+        {
+          "letter": "C",
+          "text": "that are cheaper the longer the period"
+        },
+        {
+          "letter": "D",
+          "text": "for use only for commuting"
+        },
+        {
+          "letter": "E",
+          "text": "that can be used by your friends"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "A Household items B Vintage clothes C Second-hand textbooks 18. the university campus 19. charity shops 20. car boot sales Part 3:",
-      "groupId": "q18-20"
+      "prompt": "the university campus",
+      "groupId": "q18-20",
+      "instructions": "Write the correct letter A, B or C next to 18-20 Which places are useful for the following?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Household items"
+        },
+        {
+          "letter": "B",
+          "text": "Vintage clothes"
+        },
+        {
+          "letter": "C",
+          "text": "Second-hand textbooks 18. the university campus 19. charity shops 20. car boot sales Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "e clothes C Second-hand textbooks 18. the university campus 19. charity shops 20. car boot sales Part 3:",
-      "groupId": "q18-20"
+      "prompt": "charity shops",
+      "groupId": "q18-20",
+      "instructions": "Write the correct letter A, B or C next to 18-20 Which places are useful for the following?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Household items"
+        },
+        {
+          "letter": "B",
+          "text": "Vintage clothes"
+        },
+        {
+          "letter": "C",
+          "text": "Second-hand textbooks 18. the university campus 19. charity shops 20. car boot sales Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Write the correct letter A, B or C next to 18-20 Which places are useful for the following? A Household ite",
-      "groupId": "q18-20"
+      "prompt": "car boot sales",
+      "groupId": "q18-20",
+      "instructions": "Write the correct letter A, B or C next to 18-20 Which places are useful for the following?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Household items"
+        },
+        {
+          "letter": "B",
+          "text": "Vintage clothes"
+        },
+        {
+          "letter": "C",
+          "text": "Second-hand textbooks 18. the university campus 19. charity shops 20. car boot sales Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "RDS AND/ OR A NUMBER for each answer.Autumn term: Key dates (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key dates"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "ND/ OR A NUMBER for each answer.Autumn term: Key dates (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key dates"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "R A NUMBER for each answer.Autumn term: Key dates (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key dates"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "UMBER for each answer.Autumn term: Key dates (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key dates"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "Questions 21-25 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer.Autumn term: Key dates"
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 26. The college is trying to",
+      "stem": "The college is trying to",
       "options": [
         {
           "letter": "A",
@@ -277,7 +388,8 @@
           "text": "discover why students keep losing their work"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -297,7 +409,8 @@
           "text": "have to pay to do any printing"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -317,7 +430,8 @@
           "text": "thinks the online quizzes are more effective than the paper ones"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -337,7 +451,8 @@
           "text": "the majority of the quizzes are online"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -357,70 +472,80 @@
           "text": "allows tutors to identify areas where the students many be having difficulties"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 31. times are less common within the family 32. We may eat more than we need due to our 33. Eating habits can",
+      "prompt": "times are less common within the family",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "or each answer. 31. times are less common within the family 32. We may eat more than we need due to our 33. Eating habits can be affected by both emotions. 34. People who",
+      "prompt": "We may eat more than we need due to our",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "thin the family 32. We may eat more than we need due to our 33. Eating habits can be affected by both emotions. 34. People who are are more likely to eat more due to nega",
+      "prompt": "Eating habits can be affected by both emotions.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-34 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. times are less common wit",
+      "prompt": "People who are are more likely to eat more due to negative emotions.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "shortAnswer",
-      "prompt": "Write E for emotional hunger. Write P for physical hunger. 35. Experiences a sudden urge to eat 36. Hungers for any type of food 37. Need to satisfy the hunger as soon a",
-      "groupId": "q35-39"
+      "prompt": "Experiences a sudden urge to eat",
+      "groupId": "q35-39",
+      "instructions": "Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger. Write P for physical hunger."
     },
     {
       "number": 36,
       "type": "shortAnswer",
-      "prompt": "P for physical hunger. 35. Experiences a sudden urge to eat 36. Hungers for any type of food 37. Need to satisfy the hunger as soon as possible 38. Will stop eating once",
-      "groupId": "q35-39"
+      "prompt": "Hungers for any type of food",
+      "groupId": "q35-39",
+      "instructions": "Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger. Write P for physical hunger."
     },
     {
       "number": 37,
       "type": "shortAnswer",
-      "prompt": "ences a sudden urge to eat 36. Hungers for any type of food 37. Need to satisfy the hunger as soon as possible 38. Will stop eating once full 39. Will feel no sense of gu",
-      "groupId": "q35-39"
+      "prompt": "Need to satisfy the hunger as soon as possible",
+      "groupId": "q35-39",
+      "instructions": "Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger. Write P for physical hunger."
     },
     {
       "number": 38,
       "type": "shortAnswer",
-      "prompt": "of food 37. Need to satisfy the hunger as soon as possible 38. Will stop eating once full 39. Will feel no sense of guilt after eating",
-      "groupId": "q35-39"
+      "prompt": "Will stop eating once full",
+      "groupId": "q35-39",
+      "instructions": "Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger. Write P for physical hunger."
     },
     {
       "number": 39,
       "type": "shortAnswer",
-      "prompt": "Questions 35-39 Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger.",
-      "groupId": "q35-39"
+      "prompt": "Will feel no sense of guilt after eating",
+      "groupId": "q35-39",
+      "instructions": "Answer the questions below. Which type of hunger relates to the points below? Write E for emotional hunger. Write P for physical hunger."
     },
     {
       "number": 40,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 40. People suffering from obesity can be helped by",
+      "stem": "People suffering from obesity can be helped by",
       "options": [
         {
           "letter": "A",
@@ -435,7 +560,8 @@
           "text": "pinpointing stressful moments that can cause emotional hunger"
         }
       ],
-      "groupId": "q40-40"
+      "groupId": "q40-40",
+      "instructions": "Choose the correct letter A, B or C."
     }
   ],
   "answerKey": {

@@ -40,258 +40,490 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "bert Goddard Destination: Melbourne Total number of visits: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4)",
+      "prompt": "Robert Goddard Destination: Melbourne Total number of visits: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "urne Total number of visits: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4) Method of transport to destina",
+      "prompt": "Best thing about the city: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ts: (1) Best thing about the city: (2) Favorite attraction: (3) Best thing about destination’s dining options: (4) Method of transport to destination: by (5) Age group: (",
+      "prompt": "Favorite attraction: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "raction: (3) Best thing about destination’s dining options: (4) Method of transport to destination: by (5) Age group: (6) Income level: (7) Purpose of visit: on business",
+      "prompt": "Best thing about destination’s dining options: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "dining options: (4) Method of transport to destination: by (5) Age group: (6) Income level: (7) Purpose of visit: on business (8) Occupation: (9) Opinion of cost of acco",
+      "prompt": "Method of transport to destination: by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number o",
+      "prompt": "Age group: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Robert Goddard Destination: Melbourne Total number of visits:"
     },
     {
       "number": 7,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 7"
+      "prompt": "Question 7",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 8,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 8"
+      "prompt": "Question 8",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 9,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 9"
+      "prompt": "Question 9",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 10,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 10"
+      "prompt": "Question 10",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-15"
+      "prompt": "Science Museum",
+      "groupId": "q11-15",
+      "instructions": "Complete the map below. Write the correct letter A-E next to questions 11-15."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-15"
+      "prompt": "National History Museum",
+      "groupId": "q11-15",
+      "instructions": "Complete the map below. Write the correct letter A-E next to questions 11-15."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-15"
+      "prompt": "Car Park",
+      "groupId": "q11-15",
+      "instructions": "Complete the map below. Write the correct letter A-E next to questions 11-15."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-15"
+      "prompt": "Shopping Mall",
+      "groupId": "q11-15",
+      "instructions": "Complete the map below. Write the correct letter A-E next to questions 11-15."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 11-15 Complete the map below. Write the correct letter A-E next to",
-      "groupId": "q11-15"
+      "prompt": "Primary School",
+      "groupId": "q11-15",
+      "instructions": "Complete the map below. Write the correct letter A-E next to questions 11-15."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Car Park",
+      "groupId": "q16-20",
+      "instructions": "What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "New entrance"
+        },
+        {
+          "letter": "B",
+          "text": "Free lunch provided"
+        },
+        {
+          "letter": "C",
+          "text": "Free information provided"
+        },
+        {
+          "letter": "D",
+          "text": "Increase in size"
+        },
+        {
+          "letter": "E",
+          "text": "Additional signs"
+        },
+        {
+          "letter": "F",
+          "text": "New exhibitions"
+        },
+        {
+          "letter": "G",
+          "text": "New structure 16. Car Park 17. Primary School 18. Science Museum 19. National History Museum 20. Shopping Mall Part 3:"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Primary School",
+      "groupId": "q16-20",
+      "instructions": "What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "New entrance"
+        },
+        {
+          "letter": "B",
+          "text": "Free lunch provided"
+        },
+        {
+          "letter": "C",
+          "text": "Free information provided"
+        },
+        {
+          "letter": "D",
+          "text": "Increase in size"
+        },
+        {
+          "letter": "E",
+          "text": "Additional signs"
+        },
+        {
+          "letter": "F",
+          "text": "New exhibitions"
+        },
+        {
+          "letter": "G",
+          "text": "New structure 16. Car Park 17. Primary School 18. Science Museum 19. National History Museum 20. Shopping Mall Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Science Museum",
+      "groupId": "q16-20",
+      "instructions": "What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "New entrance"
+        },
+        {
+          "letter": "B",
+          "text": "Free lunch provided"
+        },
+        {
+          "letter": "C",
+          "text": "Free information provided"
+        },
+        {
+          "letter": "D",
+          "text": "Increase in size"
+        },
+        {
+          "letter": "E",
+          "text": "Additional signs"
+        },
+        {
+          "letter": "F",
+          "text": "New exhibitions"
+        },
+        {
+          "letter": "G",
+          "text": "New structure 16. Car Park 17. Primary School 18. Science Museum 19. National History Museum 20. Shopping Mall Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "National History Museum",
+      "groupId": "q16-20",
+      "instructions": "What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "New entrance"
+        },
+        {
+          "letter": "B",
+          "text": "Free lunch provided"
+        },
+        {
+          "letter": "C",
+          "text": "Free information provided"
+        },
+        {
+          "letter": "D",
+          "text": "Increase in size"
+        },
+        {
+          "letter": "E",
+          "text": "Additional signs"
+        },
+        {
+          "letter": "F",
+          "text": "New exhibitions"
+        },
+        {
+          "letter": "G",
+          "text": "New structure 16. Car Park 17. Primary School 18. Science Museum 19. National History Museum 20. Shopping Mall Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and wr",
-      "groupId": "q16-20"
+      "prompt": "Shopping Mall",
+      "groupId": "q16-20",
+      "instructions": "What is the improvement of each main point of interest in the area? Choose FIVE answers from the box and write the correct letter, A-G, next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "New entrance"
+        },
+        {
+          "letter": "B",
+          "text": "Free lunch provided"
+        },
+        {
+          "letter": "C",
+          "text": "Free information provided"
+        },
+        {
+          "letter": "D",
+          "text": "Increase in size"
+        },
+        {
+          "letter": "E",
+          "text": "Additional signs"
+        },
+        {
+          "letter": "F",
+          "text": "New exhibitions"
+        },
+        {
+          "letter": "G",
+          "text": "New structure 16. Car Park 17. Primary School 18. Science Museum 19. National History Museum 20. Shopping Mall Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21-23 Choose correct letter A, B or C. 21. The proposal will A be reviewed by two examiners. B be added to the final grade. C be returned with feedba",
-      "groupId": "q21-23"
+      "prompt": "The proposal will A be reviewed by two examiners. B be added to the final grade. C be returned with feedback.",
+      "groupId": "q21-23",
+      "instructions": "Choose correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be reviewed by two examiners."
+        },
+        {
+          "letter": "B",
+          "text": "be added to the final grade."
+        },
+        {
+          "letter": "C",
+          "text": "be returned with feedback."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "B be added to the final grade. C be returned with feedback. 22. The proposal will consist mostly of A topics. B methods. C results. 22. For the practice paper, the tutor",
-      "groupId": "q21-23"
+      "prompt": "The proposal will consist mostly of A topics. B methods. C results. 22. For the practice paper, the tutor has directed the students to make sure to A pay attention to time limits. B write at least 6,000 words. C keep on topic.",
+      "groupId": "q21-23",
+      "instructions": "Choose correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be reviewed by two examiners."
+        },
+        {
+          "letter": "B",
+          "text": "be added to the final grade."
+        },
+        {
+          "letter": "C",
+          "text": "be returned with feedback."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 21-23 Choose correct letter A, B or C. 21. The proposal will A be reviewed by two examiners. B be added to the fi",
-      "groupId": "q21-23"
+      "prompt": "Question 23",
+      "groupId": "q21-23",
+      "instructions": "Choose correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be reviewed by two examiners."
+        },
+        {
+          "letter": "B",
+          "text": "be added to the final grade."
+        },
+        {
+          "letter": "C",
+          "text": "be returned with feedback."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write ONE WORD AND/OR A NUMBER for each answer. 24. There is no need to lots of people. 25. Pay attention to the of the final report. 26. Prepare , one for th",
-      "groupId": "q24-30"
+      "prompt": "There is no need to lots of people.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "ER for each answer. 24. There is no need to lots of people. 25. Pay attention to the of the final report. 26. Prepare , one for the teaches, another for the students them",
-      "groupId": "q24-30"
+      "prompt": "Pay attention to the of the final report.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 26,
       "type": "sentenceCompletion",
-      "prompt": "ts of people. 25. Pay attention to the of the final report. 26. Prepare , one for the teaches, another for the students themselves. 27. The deadline of the final paper is",
-      "groupId": "q24-30"
+      "prompt": "Prepare , one for the teaches, another for the students themselves.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "sentenceCompletion",
-      "prompt": ", one for the teaches, another for the students themselves. 27. The deadline of the final paper is 28. The students can their topics before the beginning of April. 29. St",
-      "groupId": "q24-30"
+      "prompt": "The deadline of the final paper is",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "students themselves. 27. The deadline of the final paper is 28. The students can their topics before the beginning of April. 29. Students deciding to change topics must d",
-      "groupId": "q24-30"
+      "prompt": "The students can their topics before the beginning of April.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "he students can their topics before the beginning of April. 29. Students deciding to change topics must deliver a to the research in advance. 30. At the beginning of the",
-      "groupId": "q24-30"
+      "prompt": "Students deciding to change topics must deliver a to the research in advance.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 24-30 Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. 24. There is no need to lots",
-      "groupId": "q24-30"
+      "prompt": "At the beginning of the report, the hypothesis and an outline of the are needed.",
+      "groupId": "q24-30",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "e advertising effect The important factor to consider • The (31) customers must travel affects the probability that they will buy the product. Methods of communication •",
+      "prompt": "The advertising effect The important factor to consider • The ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "• Advertising slogans are easier to remember if there is a (32) played with them. • Mandy’s Candy Store appeals to people’s sense of (33) to draw in customers. • To an a",
+      "prompt": "that they will buy the product. Methods of communication • Advertising slogans are easier to remember if there is a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "th them. • Mandy’s Candy Store appeals to people’s sense of (33) to draw in customers. • To an ad campaign for digital products, it is (34) that is extremely important. E",
+      "prompt": "played with them. • Mandy’s Candy Store appeals to people’s sense of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "customers. • To an ad campaign for digital products, it is (34) that is extremely important. Effect on your product sales • The customer’s (35) after he or she experienc",
+      "prompt": "to draw in customers. • To an ad campaign for digital products, it is ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ly important. Effect on your product sales • The customer’s (35) after he or she experiences the ad is most important. Marketing strategies • On international flights, it",
+      "prompt": "that is extremely important. Effect on your product sales • The customer’s ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "is wise for the advertisement to be displayed in the common (36) of most passengers. • Very few young people buy (37) • The UNESCO website would be a good place to advert",
+      "prompt": "Marketing strategies • On international flights, it is wise for the advertisement to be displayed in the common ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "common (36) of most passengers. • Very few young people buy (37) • The UNESCO website would be a good place to advertise for companies aiming to improve the (38) • One go",
+      "prompt": "of most passengers. • Very few young people buy ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "good place to advertise for companies aiming to improve the (38) • One good location to place ads for sunscreen is the (39) • A good scene for a water purification commer",
+      "prompt": "• The UNESCO website would be a good place to advertise for companies aiming to improve the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "(38) • One good location to place ads for sunscreen is the (39) • A good scene for a water purification commercial would be (40)",
+      "prompt": "• One good location to place ads for sunscreen is the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The importan",
+      "prompt": "• A good scene for a water purification commercial would be ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The advertising effect The important factor to consider • The"
     }
   ],
   "answerKey": {

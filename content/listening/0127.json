@@ -40,71 +40,213 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Questions 1 and 2 Choose the correct letter A, B or C. 1. What does the applicant work on for a living? A B C 2. What ki",
-      "groupId": "q1-2"
+      "prompt": "What does the applicant work on for a living? A B C",
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "2. What kind of pet does the applicant have? A B C"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Questions 1 and 2 Choose the correct letter A, B or C. 1. What does the applicant work on for a living? A B C 2. What kind of",
-      "groupId": "q1-2"
+      "prompt": "What kind of pet does the applicant have? A B C",
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "2. What kind of pet does the applicant have? A B C"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "-6 Complete the table below using NO MORE THAN THREE WORDS. (3) (4) (5) Address: (6) Harbour Square",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "omplete the table below using NO MORE THAN THREE WORDS. (3) (4) (5) Address: (6) Harbour Square",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "ete the table below using NO MORE THAN THREE WORDS. (3) (4) (5) Address: (6) Harbour Square",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 3-6 Complete the table below using NO MORE THAN THREE WORDS. (3) (4) (5) Address: (6) Harbour Square",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 7 and 8 Circle TWO letters. Which TWO of the following are included at the apartment in Harbour Square? A garb",
-      "groupId": "q7-8"
+      "prompt": "Question 7",
+      "groupId": "q7-8",
+      "instructions": "8 Circle TWO letters. Which TWO of the following are included at the apartment in Harbour Square?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "garbage disposal"
+        },
+        {
+          "letter": "B",
+          "text": "swimming pool"
+        },
+        {
+          "letter": "C",
+          "text": "air conditioner"
+        },
+        {
+          "letter": "D",
+          "text": "double bed"
+        },
+        {
+          "letter": "E",
+          "text": "washing machine"
+        },
+        {
+          "letter": "F",
+          "text": "clock"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 7 and 8 Circle TWO letters. Which TWO of the following are included at the apartment in Harbour Square? A garbage di",
-      "groupId": "q7-8"
+      "prompt": "Question 8",
+      "groupId": "q7-8",
+      "instructions": "8 Circle TWO letters. Which TWO of the following are included at the apartment in Harbour Square?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "garbage disposal"
+        },
+        {
+          "letter": "B",
+          "text": "swimming pool"
+        },
+        {
+          "letter": "C",
+          "text": "air conditioner"
+        },
+        {
+          "letter": "D",
+          "text": "double bed"
+        },
+        {
+          "letter": "E",
+          "text": "washing machine"
+        },
+        {
+          "letter": "F",
+          "text": "clock"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Circle TWO letters. What TWO things does the client request before moving in? A new furniture B windo",
-      "groupId": "q9-10"
+      "prompt": "Question 9",
+      "groupId": "q9-10",
+      "instructions": "10 Circle TWO letters. What TWO things does the client request before moving in?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "new furniture"
+        },
+        {
+          "letter": "B",
+          "text": "windows fixed"
+        },
+        {
+          "letter": "C",
+          "text": "carpets cleaned"
+        },
+        {
+          "letter": "D",
+          "text": "new washer and dryer"
+        },
+        {
+          "letter": "E",
+          "text": "parking spot"
+        },
+        {
+          "letter": "F",
+          "text": "new kitchen floors Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Circle TWO letters. What TWO things does the client request before moving in? A new furniture B windows fix",
-      "groupId": "q9-10"
+      "prompt": "Question 10",
+      "groupId": "q9-10",
+      "instructions": "10 Circle TWO letters. What TWO things does the client request before moving in?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "new furniture"
+        },
+        {
+          "letter": "B",
+          "text": "windows fixed"
+        },
+        {
+          "letter": "C",
+          "text": "carpets cleaned"
+        },
+        {
+          "letter": "D",
+          "text": "new washer and dryer"
+        },
+        {
+          "letter": "E",
+          "text": "parking spot"
+        },
+        {
+          "letter": "F",
+          "text": "new kitchen floors Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "and 12 Choose the correct letter. 11. Why does Elizabeth encourage students to join the athletic programme?",
+      "stem": "Why does Elizabeth encourage students to join the athletic programme?",
       "options": [
         {
           "letter": "A",
@@ -119,7 +261,8 @@
           "text": "it has been a fun but painful experience"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter."
     },
     {
       "number": 12,
@@ -136,33 +279,119 @@
         },
         {
           "letter": "C",
-          "text": "she is very organized D she is very intelligent"
+          "text": "she is very organized"
+        },
+        {
+          "letter": "D",
+          "text": "she is very intelligent"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter."
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Circle THREE letters from A-F. What are Elizabeth’s study habits?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "take classes that she is interested in"
+        },
+        {
+          "letter": "B",
+          "text": "take easier classes"
+        },
+        {
+          "letter": "C",
+          "text": "study for all her classes at once"
+        },
+        {
+          "letter": "D",
+          "text": "study for each class one at a time"
+        },
+        {
+          "letter": "E",
+          "text": "she studies away from distractions"
+        },
+        {
+          "letter": "F",
+          "text": "she studies with the television on"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
       "prompt": "Question 14",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Circle THREE letters from A-F. What are Elizabeth’s study habits?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "take classes that she is interested in"
+        },
+        {
+          "letter": "B",
+          "text": "take easier classes"
+        },
+        {
+          "letter": "C",
+          "text": "study for all her classes at once"
+        },
+        {
+          "letter": "D",
+          "text": "study for each class one at a time"
+        },
+        {
+          "letter": "E",
+          "text": "she studies away from distractions"
+        },
+        {
+          "letter": "F",
+          "text": "she studies with the television on"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 13-15 Circle THREE letters from A-F. What are Elizabeth’s study habits? A take classes that she is interested in",
-      "groupId": "q13-15"
+      "prompt": "Question 15",
+      "groupId": "q13-15",
+      "instructions": "Circle THREE letters from A-F. What are Elizabeth’s study habits?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "take classes that she is interested in"
+        },
+        {
+          "letter": "B",
+          "text": "take easier classes"
+        },
+        {
+          "letter": "C",
+          "text": "study for all her classes at once"
+        },
+        {
+          "letter": "D",
+          "text": "study for each class one at a time"
+        },
+        {
+          "letter": "E",
+          "text": "she studies away from distractions"
+        },
+        {
+          "letter": "F",
+          "text": "she studies with the television on"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter. 16. Who helped to start Elizabeth’s participation in gymnastics?",
+      "stem": "Who helped to start Elizabeth’s participation in gymnastics?",
       "options": [
         {
           "letter": "A",
@@ -177,24 +406,71 @@
           "text": "her sister"
         }
       ],
-      "groupId": "q16-16"
+      "groupId": "q16-16",
+      "instructions": "Choose the correct letter."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Circle TWO letters A-E. Why does Elizabeth say that her first year of university was the best experi",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Circle TWO letters A-E. Why does Elizabeth say that her first year of university was the best experience of her life?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "she met her best friends"
+        },
+        {
+          "letter": "B",
+          "text": "she made the gymnastics team"
+        },
+        {
+          "letter": "C",
+          "text": "she met her boyfriend"
+        },
+        {
+          "letter": "D",
+          "text": "she learned to be independent"
+        },
+        {
+          "letter": "E",
+          "text": "she achieved high grades"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Circle TWO letters A-E. Why does Elizabeth say that her first year of university was the best experience of",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Circle TWO letters A-E. Why does Elizabeth say that her first year of university was the best experience of her life?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "she met her best friends"
+        },
+        {
+          "letter": "B",
+          "text": "she made the gymnastics team"
+        },
+        {
+          "letter": "C",
+          "text": "she met her boyfriend"
+        },
+        {
+          "letter": "D",
+          "text": "she learned to be independent"
+        },
+        {
+          "letter": "E",
+          "text": "she achieved high grades"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "multipleChoice",
-      "stem": "and 20 Choose the correct letter A, B or C. 19. What was the effect of Elizabeth breaking her wrist?",
+      "stem": "What was the effect of Elizabeth breaking her wrist?",
       "options": [
         {
           "letter": "A",
@@ -209,7 +485,8 @@
           "text": "she was unable to write at all"
         }
       ],
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Choose the correct letter A, B or C."
     },
     {
       "number": 20,
@@ -229,144 +506,243 @@
           "text": "she learned to value her participation in sports"
         }
       ],
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Choose the correct letter A, B or C."
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 21. Condors will be reestablished in their former 22. The last condors died out in Baja in the 23. The area is",
+      "prompt": "Condors will be reestablished in their former",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "h answer. 21. Condors will be reestablished in their former 22. The last condors died out in Baja in the 23. The area is preferred because it is very with not many people",
+      "prompt": "The last condors died out in Baja in the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "n their former 22. The last condors died out in Baja in the 23. The area is preferred because it is very with not many people. 24. Four to eight birds will be every year.",
+      "prompt": "The area is preferred because it is very with not many people.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "area is preferred because it is very with not many people. 24. Four to eight birds will be every year. 25. The number of birds an area can hold is called its",
+      "prompt": "Four to eight birds will be every year.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-25 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 21. Condors will be reestabli",
+      "prompt": "The number of birds an area can hold is called its",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Questions 26 and 27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. Programme goal (26) (27)",
+      "prompt": "Programme goal ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. Programme goal"
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Questions 26 and 27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. Programme goal (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. Programme goal"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Which THREE advantages of satellite transmitters does Mike mention? Circle the three correct letters. List of advantages",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "follow condors fast enough"
+        },
+        {
+          "letter": "B",
+          "text": "not bother people living nearby"
+        },
+        {
+          "letter": "C",
+          "text": "cheaper than other alternatives"
+        },
+        {
+          "letter": "D",
+          "text": "monitor where planes cannot"
+        },
+        {
+          "letter": "E",
+          "text": "keep you off dangerous roads"
+        },
+        {
+          "letter": "F",
+          "text": "gauge effectiveness of reintroduction Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Which THREE advantages of satellite transmitters does Mike mention? Circle the three correct letters. List of advantages",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "follow condors fast enough"
+        },
+        {
+          "letter": "B",
+          "text": "not bother people living nearby"
+        },
+        {
+          "letter": "C",
+          "text": "cheaper than other alternatives"
+        },
+        {
+          "letter": "D",
+          "text": "monitor where planes cannot"
+        },
+        {
+          "letter": "E",
+          "text": "keep you off dangerous roads"
+        },
+        {
+          "letter": "F",
+          "text": "gauge effectiveness of reintroduction Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Which THREE advantages of satellite transmitters does Mike mention? Circle the three correct letters. List",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Which THREE advantages of satellite transmitters does Mike mention? Circle the three correct letters. List of advantages",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "follow condors fast enough"
+        },
+        {
+          "letter": "B",
+          "text": "not bother people living nearby"
+        },
+        {
+          "letter": "C",
+          "text": "cheaper than other alternatives"
+        },
+        {
+          "letter": "D",
+          "text": "monitor where planes cannot"
+        },
+        {
+          "letter": "E",
+          "text": "keep you off dangerous roads"
+        },
+        {
+          "letter": "F",
+          "text": "gauge effectiveness of reintroduction Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "nfluence: Leopold’s concept that land should be viewed as a (31) • Theory: Restoration Ecology • Practice: Restore (32) to original condition Types of communities • Curti",
+      "prompt": "Origins: • Influence: Leopold’s concept that land should be viewed as a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "as a (31) • Theory: Restoration Ecology • Practice: Restore (32) to original condition Types of communities • Curtis Prairie is the (33) restored prairie in America. • Ed",
+      "prompt": "• Theory: Restoration Ecology • Practice: Restore ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "inal condition Types of communities • Curtis Prairie is the (33) restored prairie in America. • Edmond Moukala researched restoring (34) in the Congo based on the (35) fo",
+      "prompt": "to original condition Types of communities • Curtis Prairie is the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "d prairie in America. • Edmond Moukala researched restoring (34) in the Congo based on the (35) found in the soil of those former communities in his homeland. Academics •",
+      "prompt": "restored prairie in America. • Edmond Moukala researched restoring ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Moukala researched restoring (34) in the Congo based on the (35) found in the soil of those former communities in his homeland. Academics • Coursework in statistics, theo",
+      "prompt": "in the Congo based on the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": ". Academics • Coursework in statistics, theory, ecology and (36) • (37) help students gain practical experience. Graduates • He so far granted (38) Masters Degree and 122",
+      "prompt": "found in the soil of those former communities in his homeland. Academics • Coursework in statistics, theory, ecology and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "mics • Coursework in statistics, theory, ecology and (36) • (37) help students gain practical experience. Graduates • He so far granted (38) Masters Degree and 122 Ph.D.s",
+      "prompt": "• ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "ts gain practical experience. Graduates • He so far granted (38) Masters Degree and 122 Ph.D.s. One former student is now the (39) of the World Wide Fund for Nature, whil",
+      "prompt": "help students gain practical experience. Graduates • He so far granted ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "asters Degree and 122 Ph.D.s. One former student is now the (39) of the World Wide Fund for Nature, while many others continue to conduct (40) in their own university pro",
+      "prompt": "Masters Degree and 122 Ph.D.s. One former student is now the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s c",
+      "prompt": "of the World Wide Fund for Nature, while many others continue to conduct ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Origins: • Influence: Leopold’s concept that land should be viewed as a"
     }
   ],
   "answerKey": {

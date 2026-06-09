@@ -40,60 +40,158 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "WORDS. Customer details: • They will be coming to London on (1) • He’s going with his sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £",
+      "prompt": "Customer details: • They will be coming to London on ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "oming to London on (1) • He’s going with his sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and f",
+      "prompt": "• He’s going with his sister and his ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "s sister and his (2) Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and finish at (5)",
+      "prompt": "Tour details: • Bus tour o The cost is ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Tour details: • Bus tour o The cost is (3) £ for adults and (4) £ for children o Tours start at 7 am and finish at (5)",
+      "prompt": "£ for adults and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on",
+      "prompt": "£ for children o Tours start at 7 am and finish at ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Customer details: • They will be coming to London on"
     },
     {
       "number": 6,
       "type": "gapFill",
       "prompt": "Question 6",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Choose TWO letters A-G. Which three places does the tourist decide he’s likely to see?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Buckingham Palace"
+        },
+        {
+          "letter": "B",
+          "text": "Big Ben"
+        },
+        {
+          "letter": "C",
+          "text": "Harrods"
+        },
+        {
+          "letter": "D",
+          "text": "Houses of Parliament"
+        },
+        {
+          "letter": "E",
+          "text": "Hyde Park"
+        },
+        {
+          "letter": "F",
+          "text": "St Paul’s Cathedral"
+        },
+        {
+          "letter": "G",
+          "text": "London Eye"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
       "prompt": "Question 7",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Choose TWO letters A-G. Which three places does the tourist decide he’s likely to see?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Buckingham Palace"
+        },
+        {
+          "letter": "B",
+          "text": "Big Ben"
+        },
+        {
+          "letter": "C",
+          "text": "Harrods"
+        },
+        {
+          "letter": "D",
+          "text": "Houses of Parliament"
+        },
+        {
+          "letter": "E",
+          "text": "Hyde Park"
+        },
+        {
+          "letter": "F",
+          "text": "St Paul’s Cathedral"
+        },
+        {
+          "letter": "G",
+          "text": "London Eye"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 6-8 Choose TWO letters A-G. Which three places does the tourist decide he’s likely to see? A Buckingham Palace B",
-      "groupId": "q6-8"
+      "prompt": "Question 8",
+      "groupId": "q6-8",
+      "instructions": "Choose TWO letters A-G. Which three places does the tourist decide he’s likely to see?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Buckingham Palace"
+        },
+        {
+          "letter": "B",
+          "text": "Big Ben"
+        },
+        {
+          "letter": "C",
+          "text": "Harrods"
+        },
+        {
+          "letter": "D",
+          "text": "Houses of Parliament"
+        },
+        {
+          "letter": "E",
+          "text": "Hyde Park"
+        },
+        {
+          "letter": "F",
+          "text": "St Paul’s Cathedral"
+        },
+        {
+          "letter": "G",
+          "text": "London Eye"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 9. How will the tourist buy the tickets?",
+      "stem": "How will the tourist buy the tickets?",
       "options": [
         {
           "letter": "A",
@@ -108,7 +206,8 @@
           "text": "On the bus"
         }
       ],
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -128,12 +227,13 @@
           "text": "3 months"
         }
       ],
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-12 Choose the correct letter A, B or C. 11. Each day, pandas need to eat:",
+      "stem": "Each day, pandas need to eat:",
       "options": [
         {
           "letter": "A",
@@ -148,7 +248,8 @@
           "text": "330 pounds of bamboo"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -168,66 +269,119 @@
           "text": "30 years"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q13-14"
+      "groupId": "q13-14",
+      "instructions": "Choose TWO letters A-E. Select two things that are endangering pandas:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Public awareness"
+        },
+        {
+          "letter": "B",
+          "text": "Ecotourism"
+        },
+        {
+          "letter": "C",
+          "text": "Poaching"
+        },
+        {
+          "letter": "D",
+          "text": "Other wildlife"
+        },
+        {
+          "letter": "E",
+          "text": "Building of roads and railroads"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13-14 Choose TWO letters A-E. Select two things that are endangering pandas: A Public awareness B Ecotourism C Po",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "Choose TWO letters A-E. Select two things that are endangering pandas:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Public awareness"
+        },
+        {
+          "letter": "B",
+          "text": "Ecotourism"
+        },
+        {
+          "letter": "C",
+          "text": "Poaching"
+        },
+        {
+          "letter": "D",
+          "text": "Other wildlife"
+        },
+        {
+          "letter": "E",
+          "text": "Building of roads and railroads"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "ons 15-16 Write NO MORE THAN THREE WORDS AND / OR A NUMBER. 15. What proportion of the panda population in China is protected by reserves? 16. What did the WWF create whi",
+      "prompt": "What proportion of the panda population in China is protected by reserves?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-16"
+      "groupId": "q15-16",
+      "instructions": "Write NO MORE THAN THREE WORDS AND / OR A NUMBER."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 15-16 Write NO MORE THAN THREE WORDS AND / OR A NUMBER. 15. What proportion of the panda population in China is p",
+      "prompt": "What did the WWF create which encouraged people to support pandas?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-16"
+      "groupId": "q15-16",
+      "instructions": "Write NO MORE THAN THREE WORDS AND / OR A NUMBER."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 – 20 Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are",
+      "prompt": "Reasons that pandas may not be worth saving: • They are extremely ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extremely"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "extremely (17) to look after • They have a diet that is not (18) • They get sick easily and are hard to breed Reasons that pandas should not be allowed to die out: • They",
+      "prompt": "to look after • They have a diet that is not ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extremely"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "uld not be allowed to die out: • They are in danger because (19) are damaging the forests • We should protect their homes because other animals live there • The number of",
+      "prompt": "sick easily and are hard to breed Reasons that pandas should not be allowed to die out: • They are in danger because ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extremely"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17 – 20 Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extr",
+      "prompt": "the forests • We should protect their homes because other animals live there • The number of pandas in the wild is ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Write NO MORE THAN ONE WORD AND / OR A NUMBER. Reasons that pandas may not be worth saving: • They are extremely"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "and 22 Choose the correct letter A, B or C. 21. What is the problem that the students are having with the project?",
+      "stem": "What is the problem that the students are having with the project?",
       "options": [
         {
           "letter": "A",
@@ -242,7 +396,8 @@
           "text": "The project is taking too long"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -262,125 +417,352 @@
           "text": "Scheduling issues"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter A, B or C."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q23-27"
+      "prompt": "Princeton Windows",
+      "groupId": "q23-27",
+      "instructions": "Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "knowledge about their customers"
+        },
+        {
+          "letter": "B",
+          "text": "long-term gain"
+        },
+        {
+          "letter": "C",
+          "text": "competition"
+        },
+        {
+          "letter": "D",
+          "text": "customer satisfaction"
+        },
+        {
+          "letter": "E",
+          "text": "employees"
+        },
+        {
+          "letter": "F",
+          "text": "external factors 23. Princeton Windows 24. MK Cars 25. Lakeside Golf 26. Bryson’s Meats 27. Mojo’s Music Shop"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q23-27"
+      "prompt": "MK Cars",
+      "groupId": "q23-27",
+      "instructions": "Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "knowledge about their customers"
+        },
+        {
+          "letter": "B",
+          "text": "long-term gain"
+        },
+        {
+          "letter": "C",
+          "text": "competition"
+        },
+        {
+          "letter": "D",
+          "text": "customer satisfaction"
+        },
+        {
+          "letter": "E",
+          "text": "employees"
+        },
+        {
+          "letter": "F",
+          "text": "external factors 23. Princeton Windows 24. MK Cars 25. Lakeside Golf 26. Bryson’s Meats 27. Mojo’s Music Shop"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q23-27"
+      "prompt": "Lakeside Golf",
+      "groupId": "q23-27",
+      "instructions": "Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "knowledge about their customers"
+        },
+        {
+          "letter": "B",
+          "text": "long-term gain"
+        },
+        {
+          "letter": "C",
+          "text": "competition"
+        },
+        {
+          "letter": "D",
+          "text": "customer satisfaction"
+        },
+        {
+          "letter": "E",
+          "text": "employees"
+        },
+        {
+          "letter": "F",
+          "text": "external factors 23. Princeton Windows 24. MK Cars 25. Lakeside Golf 26. Bryson’s Meats 27. Mojo’s Music Shop"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q23-27"
+      "prompt": "Bryson’s Meats",
+      "groupId": "q23-27",
+      "instructions": "Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "knowledge about their customers"
+        },
+        {
+          "letter": "B",
+          "text": "long-term gain"
+        },
+        {
+          "letter": "C",
+          "text": "competition"
+        },
+        {
+          "letter": "D",
+          "text": "customer satisfaction"
+        },
+        {
+          "letter": "E",
+          "text": "employees"
+        },
+        {
+          "letter": "F",
+          "text": "external factors 23. Princeton Windows 24. MK Cars 25. Lakeside Golf 26. Bryson’s Meats 27. Mojo’s Music Shop"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 23-27 Choose your answers from the box and write the letters A–G next to",
-      "groupId": "q23-27"
+      "prompt": "Mojo’s Music Shop",
+      "groupId": "q23-27",
+      "instructions": "Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "knowledge about their customers"
+        },
+        {
+          "letter": "B",
+          "text": "long-term gain"
+        },
+        {
+          "letter": "C",
+          "text": "competition"
+        },
+        {
+          "letter": "D",
+          "text": "customer satisfaction"
+        },
+        {
+          "letter": "E",
+          "text": "employees"
+        },
+        {
+          "letter": "F",
+          "text": "external factors 23. Princeton Windows 24. MK Cars 25. Lakeside Golf 26. Bryson’s Meats 27. Mojo’s Music Shop"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q28-30"
+      "prompt": "Sarah",
+      "groupId": "q28-30",
+      "instructions": "Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It has good managers"
+        },
+        {
+          "letter": "B",
+          "text": "It has been operating for too long"
+        },
+        {
+          "letter": "C",
+          "text": "There aren’t enough music shops"
+        },
+        {
+          "letter": "D",
+          "text": "It needs more innovative marketing"
+        },
+        {
+          "letter": "E",
+          "text": "It will close down in the end"
+        },
+        {
+          "letter": "F",
+          "text": "It has a good long-term future 28. Sarah 29. John 30. Neil Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q28-30"
+      "prompt": "John",
+      "groupId": "q28-30",
+      "instructions": "Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It has good managers"
+        },
+        {
+          "letter": "B",
+          "text": "It has been operating for too long"
+        },
+        {
+          "letter": "C",
+          "text": "There aren’t enough music shops"
+        },
+        {
+          "letter": "D",
+          "text": "It needs more innovative marketing"
+        },
+        {
+          "letter": "E",
+          "text": "It will close down in the end"
+        },
+        {
+          "letter": "F",
+          "text": "It has a good long-term future 28. Sarah 29. John 30. Neil Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose your answers from the box and write the letters A-F next to",
-      "groupId": "q28-30"
+      "prompt": "Neil",
+      "groupId": "q28-30",
+      "instructions": "Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It has good managers"
+        },
+        {
+          "letter": "B",
+          "text": "It has been operating for too long"
+        },
+        {
+          "letter": "C",
+          "text": "There aren’t enough music shops"
+        },
+        {
+          "letter": "D",
+          "text": "It needs more innovative marketing"
+        },
+        {
+          "letter": "E",
+          "text": "It will close down in the end"
+        },
+        {
+          "letter": "F",
+          "text": "It has a good long-term future 28. Sarah 29. John 30. Neil Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Behavior or dolphins • almost 40 species of dolphin • found (31) • usually in shallower seas • carnivores SOCIALISING • very sociable and live in pods • super-pods may ha",
+      "prompt": "Behavior or dolphins • almost 40 species of dolphin • found ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "y sociable and live in pods • super-pods may have more than (32) dolphins • have strong social bonds • help other animals – Moko helped a whale and calf escape from (33)",
+      "prompt": "• usually in shallower seas • carnivores SOCIALISING • very sociable and live in pods • super-pods may have more than ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "lp other animals – Moko helped a whale and calf escape from (33) • have been known to assist swimmers CULTURE • discovered in May 2005 that young bottlenose dolphins lear",
+      "prompt": "dolphins • have strong social bonds • help other animals – Moko helped a whale and calf escape from ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "covered in May 2005 that young bottlenose dolphins learn to (34) • dolphins pass knowledge from mothers to daughters, whereas primates pass to (35) AGGRESSION • dolphins",
+      "prompt": "• have been known to assist swimmers CULTURE • discovered in May 2005 that young bottlenose dolphins learn to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "owledge from mothers to daughters, whereas primates pass to (35) AGGRESSION • dolphins may be aggressive towards each other • Like humans, this is due to disagreements ov",
+      "prompt": "• dolphins pass knowledge from mothers to daughters, whereas primates pass to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "each other • Like humans, this is due to disagreements over (36) and competition for females • Infanticide sometimes occurs and the killing of porpoises FOOD • dolphins h",
+      "prompt": "AGGRESSION • dolphins may be aggressive towards each other • Like humans, this is due to disagreements over ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "lphins have a variety of feeding methods, some of which are (37) to one population • methods include: o herding o corralling o (38) or strand feeding o whacking fish with",
+      "prompt": "sometimes occurs and the killing of porpoises FOOD • dolphins have a variety of feeding methods, some of which are ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "one population • methods include: o herding o corralling o (38) or strand feeding o whacking fish with their flukes PLAYING • have a variety of playful activities • comm",
+      "prompt": "to one population • methods include: o herding o corralling o ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ll animal include: o carrying it along o passing it along o (39) away from another dolphin throwing it out the water • may harass other animals • playful behaviour may in",
+      "prompt": "playful activities • common behaviour with an object or small animal include: o carrying it along o passing it along o ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolph",
+      "prompt": "away from another dolphin throwing it out the water • may harass other animals • playful behaviour may include other ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Behavior or dolphins • almost 40 species of dolphin • found"
     }
   ],
   "answerKey": {

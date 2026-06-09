@@ -40,147 +40,167 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": ". Tauber Insurance Company Insurance type: vehicle Policy#: (1) Make and model: Masda Marvel Engine size: (2) Name: Lisa Marie Haethcote Date of birth: (3) 1955 Password:",
+      "prompt": "Tauber Insurance Company Insurance type: vehicle Policy#: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Policy#:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "icle Policy#: (1) Make and model: Masda Marvel Engine size: (2) Name: Lisa Marie Haethcote Date of birth: (3) 1955 Password: (4) Change valuation? Yes Reduce value to: (5",
+      "prompt": "Make and model: Masda Marvel Engine size: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Policy#:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Engine size: (2) Name: Lisa Marie Haethcote Date of birth: (3) 1955 Password: (4) Change valuation? Yes Reduce value to: (5) $",
+      "prompt": "Name: Lisa Marie Haethcote Date of birth: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Policy#:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ame: Lisa Marie Haethcote Date of birth: (3) 1955 Password: (4) Change valuation? Yes Reduce value to: (5) $",
+      "prompt": "1955 Password: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Policy#:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Pol",
+      "prompt": "Change valuation? Yes Reduce value to: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Tauber Insurance Company Insurance type: vehicle Policy#:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "e: Samuel Michaels • Age: 28 • Relationship to main driver: (6) Reason: • (7) Client/ new driver to provide: • Verified (8) of driver’s licence • Clean driving (9) Start",
+      "prompt": "Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "aels • Age: 28 • Relationship to main driver: (6) Reason: • (7) Client/ new driver to provide: • Verified (8) of driver’s licence • Clean driving (9) Start date: • (10) c",
+      "prompt": "Reason: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "(6) Reason: • (7) Client/ new driver to provide: • Verified (8) of driver’s licence • Clean driving (9) Start date: • (10) cover for 2 weeks from today • Full cover when",
+      "prompt": "Client/ new driver to provide: • Verified ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "provide: • Verified (8) of driver’s licence • Clean driving (9) Start date: • (10) cover for 2 weeks from today • Full cover when paperwork approved Part 2:",
+      "prompt": "of driver’s licence • Clean driving ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 6-10 Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name",
+      "prompt": "Start date: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Notes to be added to policy: Add new driver: • Name: Samuel Michaels • Age: 28 • Relationship to main driver:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 11. You can become more confident by using 12. More confidence results in better 13. A good strategy to build",
+      "prompt": "You can become more confident by using",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "for each answer. 11. You can become more confident by using 12. More confidence results in better 13. A good strategy to build confidence is to get rid of negative memori",
+      "prompt": "More confidence results in better",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "re confident by using 12. More confidence results in better 13. A good strategy to build confidence is to get rid of negative memories of mistakes and failures and instea",
+      "prompt": "A good strategy to build confidence is to get rid of negative memories of mistakes and failures and instead concentrate on",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "emories of mistakes and failures and instead concentrate on 14. Frequent of positive imagery is necessary for success. 15. Mental positivity is not enough-you also have t",
+      "prompt": "Frequent of positive imagery is necessary for success.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "14. Frequent of positive imagery is necessary for success. 15. Mental positivity is not enough-you also have to act in a confident manner-so is important too. 16. Settin",
+      "prompt": "Mental positivity is not enough-you also have to act in a confident manner-so is important too.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-16 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 11. You can become more confide",
+      "prompt": "Setting and achieving goals results in brain activity that brings about an experience of",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "flowChartCompletion",
-      "prompt": "chart below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "flowChartCompletion",
-      "prompt": "t below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "flowChartCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "flowChartCompletion",
-      "prompt": "Questions 17-20 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. Julia and Bob’s science project is due",
+      "stem": "Julia and Bob’s science project is due",
       "options": [
         {
           "letter": "A",
@@ -195,7 +215,8 @@
           "text": "next year"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -215,16 +236,17 @@
           "text": "available in the lab"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
       "type": "multipleChoice",
-      "stem": "A Cartesian diver was called a devil by some people because",
+      "stem": "Question 23",
       "options": [
         {
           "letter": "A",
-          "text": "they saw it was black"
+          "text": "Cartesian diver was called a devil by some people because A they saw it was black"
         },
         {
           "letter": "B",
@@ -235,124 +257,186 @@
           "text": "they wanted the inventor to be famous"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Julia and Bob find some of the items they need A in Bob’s pencil case and th",
-      "groupId": "q24-25"
+      "prompt": "Question 24",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Julia and Bob find some of the items they need",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in Bob’s pencil case and the recycling bin"
+        },
+        {
+          "letter": "B",
+          "text": "in the cafeteria and the Resource Centre"
+        },
+        {
+          "letter": "C",
+          "text": "in the shop and Julia’s locker"
+        },
+        {
+          "letter": "D",
+          "text": "in Bob’s bag and his pocket"
+        },
+        {
+          "letter": "E",
+          "text": "in Tara’s packet and on the floor"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Julia and Bob find some of the items they need A in Bob’s pencil case and the recyc",
-      "groupId": "q24-25"
+      "prompt": "Question 25",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Julia and Bob find some of the items they need",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in Bob’s pencil case and the recycling bin"
+        },
+        {
+          "letter": "B",
+          "text": "in the cafeteria and the Resource Centre"
+        },
+        {
+          "letter": "C",
+          "text": "in the shop and Julia’s locker"
+        },
+        {
+          "letter": "D",
+          "text": "in Bob’s bag and his pocket"
+        },
+        {
+          "letter": "E",
+          "text": "in Tara’s packet and on the floor"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "MORE THAN TWO WORDS for each answer. Assembly Step 1: fold (26) in half Step 2: use (27) to secure the ends Step 3: attach (28) to diver Step 4: fill bottle with water a",
+      "prompt": "Assembly Step 1: fold ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "each answer. Assembly Step 1: fold (26) in half Step 2: use (27) to secure the ends Step 3: attach (28) to diver Step 4: fill bottle with water and replace (29) Step 5: d",
+      "prompt": "in half Step 2: use ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "in half Step 2: use (27) to secure the ends Step 3: attach (28) to diver Step 4: fill bottle with water and replace (29) Step 5: demonstrate by squeezing and releasing b",
+      "prompt": "to secure the ends Step 3: attach ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "ch (28) to diver Step 4: fill bottle with water and replace (29) Step 5: demonstrate by squeezing and releasing bottle. Compression causes diver to sink because diver bec",
+      "prompt": "to diver Step 4: fill bottle with water and replace ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold (26) in half",
+      "prompt": "Step 5: demonstrate by squeezing and releasing bottle. Compression causes diver to sink because diver becomes ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Assembly Step 1: fold"
     },
     {
       "number": 31,
       "type": "shortAnswer",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 31. When did Mt. Pinatubo erupt for the first time? 32. When was the earthquake measuring 7.8 recorded? 33. Wh",
+      "prompt": "When did Mt. Pinatubo erupt for the first time?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "shortAnswer",
-      "prompt": "answer. 31. When did Mt. Pinatubo erupt for the first time? 32. When was the earthquake measuring 7.8 recorded? 33. When did the experts begin to study Mt. Pinatubo? 34.",
+      "prompt": "When was the earthquake measuring 7.8 recorded?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "shortAnswer",
-      "prompt": "t time? 32. When was the earthquake measuring 7.8 recorded? 33. When did the experts begin to study Mt. Pinatubo? 34. What fell on the local villages on 2nd April? 35. Wh",
+      "prompt": "When did the experts begin to study Mt. Pinatubo?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "shortAnswer",
-      "prompt": "rded? 33. When did the experts begin to study Mt. Pinatubo? 34. What fell on the local villages on 2nd April? 35. What does a ‘level 5’ alert mean?",
+      "prompt": "What fell on the local villages on 2nd April?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "shortAnswer",
-      "prompt": "Questions 31-35 Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 31. When did M",
+      "prompt": "What does a ‘level 5’ alert mean?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "y the eruption of Pinatubo on 15th June 1991 because of the (36) of the summit. The caldera thus created considerably reduced the height of the mountain. At the same time",
+      "prompt": "Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "erably reduced the height of the mountain. At the same time (37) was passing by and the rain associated with it mixed with the cinders in the air to form a substance call",
+      "prompt": "of the summit. The caldera thus created considerably reduced the height of the mountain. At the same time ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "the air to form a substance called tephra which fell on the (38) of homes causing them to collapse, crushing hundreds of people. During the eruption large amounts of Sulp",
+      "prompt": "and the rain associated with it mixed with the cinders in the air to form a substance called tephra which fell on the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "ts of Sulphur dioxide gas were emitted, which combined with (39) to make sulphuric acid which was responsible for a great deal of ozone depletion above Antarctica. The ov",
+      "prompt": "crushing hundreds of people. During the eruption large amounts of Sulphur dioxide gas were emitted, which combined with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 36-40 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several larg",
+      "prompt": "deal of ozone depletion above Antarctica. The overall effect of the cloud from this great eruption was the lowering of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Several large earthquakes were triggered by the eruption of Pinatubo on 15th June 1991 because of the"
     }
   ],
   "answerKey": {

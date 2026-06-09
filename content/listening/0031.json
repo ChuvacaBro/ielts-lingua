@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "and 2 Choose the correct letter A, B or C. 1. What is the name of the pub?",
+      "stem": "What is the name of the pub?",
       "options": [
         {
           "letter": "A",
@@ -55,39 +55,58 @@
           "text": "The Lion’s Head"
         }
       ],
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C."
     },
     {
       "number": 2,
       "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 2"
+      "prompt": "Which map shows Jack’s route to Margaret’s party? A B C",
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The Lines Ahead"
+        },
+        {
+          "letter": "B",
+          "text": "The Lion’s Shed"
+        },
+        {
+          "letter": "C",
+          "text": "The Lion’s Head 2. Which map shows Jack’s route to Margaret’s party? A B C"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "r each answer. Complete the details for Margaret’s address: 3. Street: 4. Number: 5. Location: house on the left",
+      "prompt": "Street:",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Complete the details for Margaret’s address:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "er. Complete the details for Margaret’s address: 3. Street: 4. Number: 5. Location: house on the left",
+      "prompt": "Number:",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Complete the details for Margaret’s address:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 3-5 Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Complete the details for",
+      "prompt": "Location: house on the left",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Complete the details for Margaret’s address:"
     },
     {
       "number": 6,
       "type": "multipleChoice",
-      "stem": "and 7 Choose the correct letter A, B or C. 6. Which statement is correct?",
+      "stem": "Which statement is correct?",
       "options": [
         {
           "letter": "A",
@@ -102,7 +121,8 @@
           "text": "Mike has sent Jack a text message"
         }
       ],
-      "groupId": "q6-7"
+      "groupId": "q6-7",
+      "instructions": "7 Choose the correct letter A, B or C."
     },
     {
       "number": 7,
@@ -122,30 +142,78 @@
           "text": "early"
         }
       ],
-      "groupId": "q6-7"
+      "groupId": "q6-7",
+      "instructions": "7 Choose the correct letter A, B or C."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 8 What is Mike’s mobile number?",
-      "groupId": "q8-8"
+      "prompt": "Question 8",
+      "groupId": "q8-8",
+      "instructions": "What is Mike’s mobile number?"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Choose TWO letters A-E. Jack cannot find the house because A it is dark B it is hidden C the letterbo",
-      "groupId": "q9-10"
+      "prompt": "Question 9",
+      "groupId": "q9-10",
+      "instructions": "10 Choose TWO letters A-E. Jack cannot find the house because",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it is dark"
+        },
+        {
+          "letter": "B",
+          "text": "it is hidden"
+        },
+        {
+          "letter": "C",
+          "text": "the letterbox was behind a bush"
+        },
+        {
+          "letter": "D",
+          "text": "someone is coming down the street"
+        },
+        {
+          "letter": "E",
+          "text": "he has to call Mike Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Choose TWO letters A-E. Jack cannot find the house because A it is dark B it is hidden C the letterbox was",
-      "groupId": "q9-10"
+      "prompt": "Question 10",
+      "groupId": "q9-10",
+      "instructions": "10 Choose TWO letters A-E. Jack cannot find the house because",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it is dark"
+        },
+        {
+          "letter": "B",
+          "text": "it is hidden"
+        },
+        {
+          "letter": "C",
+          "text": "the letterbox was behind a bush"
+        },
+        {
+          "letter": "D",
+          "text": "someone is coming down the street"
+        },
+        {
+          "letter": "E",
+          "text": "he has to call Mike Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-13 Choose the correct letter A, B or C. 11. Who provides the money to run the park?",
+      "stem": "Who provides the money to run the park?",
       "options": [
         {
           "letter": "A",
@@ -160,7 +228,8 @@
           "text": "the visitors"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -180,7 +249,8 @@
           "text": "2003"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -200,96 +270,208 @@
           "text": "$16"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Write T (true) or F (false) 14. Once you pay the entry fee, there are no extra costs 15. The park is",
-      "groupId": "q14-15"
+      "prompt": "Once you pay the entry fee, there are no extra costs",
+      "groupId": "q14-15",
+      "instructions": "15 Write T (true) or F (false)"
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 14 and 15 Write T (true) or F (false) 14. Once you pay the entry fee, there are no extra costs 15. The park is open e",
-      "groupId": "q14-15"
+      "prompt": "The park is open every day of the year",
+      "groupId": "q14-15",
+      "instructions": "15 Write T (true) or F (false)"
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "MORE THAN ONE WORD OR A NUMBER for each answer. Attractions (16) (17) (18)",
+      "prompt": "Attractions ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Attractions"
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "THAN ONE WORD OR A NUMBER for each answer. Attractions (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Attractions"
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "Questions 16-18 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Attractions (16) (17) (1",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. Attractions"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO other attractions are also mentioned? A farmyard B children’s show",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO other attractions are also mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "farmyard"
+        },
+        {
+          "letter": "B",
+          "text": "children’s show"
+        },
+        {
+          "letter": "C",
+          "text": "working farm"
+        },
+        {
+          "letter": "D",
+          "text": "country show"
+        },
+        {
+          "letter": "E",
+          "text": "volunteer program Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO other attractions are also mentioned? A farmyard B children’s show C work",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO other attractions are also mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "farmyard"
+        },
+        {
+          "letter": "B",
+          "text": "children’s show"
+        },
+        {
+          "letter": "C",
+          "text": "working farm"
+        },
+        {
+          "letter": "D",
+          "text": "country show"
+        },
+        {
+          "letter": "E",
+          "text": "volunteer program Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 21. The project is about 22. It includes a group of fuels called 23. This type of fuel affects the weather by",
+      "prompt": "The project is about",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "RE THAN TWO WORDS for each answer. 21. The project is about 22. It includes a group of fuels called 23. This type of fuel affects the weather by creating",
+      "prompt": "It includes a group of fuels called",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-23 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 21. The project is about 22. It",
+      "prompt": "This type of fuel affects the weather by creating",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q24-26"
+      "prompt": "45 percent",
+      "groupId": "q24-26",
+      "instructions": "What percentage of each fuel is used in the world? Write the correct letter A-D next to questions 24-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "natural gas"
+        },
+        {
+          "letter": "B",
+          "text": "nuclear"
+        },
+        {
+          "letter": "C",
+          "text": "oil"
+        },
+        {
+          "letter": "D",
+          "text": "other 24. 45 percent 25. 20 percent 26. 8 percent"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q24-26"
+      "prompt": "20 percent",
+      "groupId": "q24-26",
+      "instructions": "What percentage of each fuel is used in the world? Write the correct letter A-D next to questions 24-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "natural gas"
+        },
+        {
+          "letter": "B",
+          "text": "nuclear"
+        },
+        {
+          "letter": "C",
+          "text": "oil"
+        },
+        {
+          "letter": "D",
+          "text": "other 24. 45 percent 25. 20 percent 26. 8 percent"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 24-26 What percentage of each fuel is used in the world? Write the correct letter A-D next to",
-      "groupId": "q24-26"
+      "prompt": "8 percent",
+      "groupId": "q24-26",
+      "instructions": "What percentage of each fuel is used in the world? Write the correct letter A-D next to questions 24-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "natural gas"
+        },
+        {
+          "letter": "B",
+          "text": "nuclear"
+        },
+        {
+          "letter": "C",
+          "text": "oil"
+        },
+        {
+          "letter": "D",
+          "text": "other 24. 45 percent 25. 20 percent 26. 8 percent"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 27. Richard believes that the main problem with using fossil fuels is",
+      "stem": "Richard believes that the main problem with using fossil fuels is",
       "options": [
         {
           "letter": "A",
@@ -304,7 +486,8 @@
           "text": "they create gases that pollute the air and damage all living things"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -324,7 +507,8 @@
           "text": "of public concerns over nuclear power stations situated close to where they live"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -344,7 +528,8 @@
           "text": "has not decided if he is going to research renewable energy sources"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -364,77 +549,88 @@
           "text": "nuclear power stations"
         }
       ],
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "summaryCompletion",
-      "prompt": "t do anything about the plants and animals that are already (31) we can do something about the many species in the world today that are in danger of becoming extinct in t",
+      "prompt": "Although we cannot do anything about the plants and animals that are already ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 32,
       "type": "summaryCompletion",
-      "prompt": "ct in the future. The main reason for the growing number of (32) species is the destruction of their (33) The rapidly (34) human population needs more land and resources",
+      "prompt": "in the world today that are in danger of becoming extinct in the future. The main reason for the growing number of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 33,
       "type": "summaryCompletion",
-      "prompt": "growing number of (32) species is the destruction of their (33) The rapidly (34) human population needs more land and resources for (35) This is changing and destroying",
+      "prompt": "species is the destruction of their ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 34,
       "type": "summaryCompletion",
-      "prompt": "f (32) species is the destruction of their (33) The rapidly (34) human population needs more land and resources for (35) This is changing and destroying the habitats that",
+      "prompt": "The rapidly ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 35,
       "type": "summaryCompletion",
-      "prompt": "dly (34) human population needs more land and resources for (35) This is changing and destroying the habitats that plant and animal species need for (36) One way we can s",
+      "prompt": "human population needs more land and resources for ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 36,
       "type": "summaryCompletion",
-      "prompt": "troying the habitats that plant and animal species need for (36) One way we can save endangered species and permanently (37) these habitats is to create and support natio",
+      "prompt": "This is changing and destroying the habitats that plant and animal species need for ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 37,
       "type": "summaryCompletion",
-      "prompt": "(36) One way we can save endangered species and permanently (37) these habitats is to create and support national parks and reserves. National parks encourage people to e",
+      "prompt": "One way we can save endangered species and permanently ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "and reserves. National parks encourage people to enjoy the (38) of species without harming them. People who visit these parks must be sure to obey few rules. These inclu",
+      "prompt": "these habitats is to create and support national parks and reserves. National parks encourage people to enjoy the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "ew rules. These include following fire regulations, leaving (39) placing all rubbish in a bin, not picking the flowers and not taking birds’ eggs. Public (40) will help e",
+      "prompt": "them. People who visit these parks must be sure to obey few rules. These include following fire regulations, leaving ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     },
     {
       "number": 40,
       "type": "summaryCompletion",
-      "prompt": "Questions 31-40 Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything",
+      "prompt": "placing all rubbish in a bin, not picking the flowers and not taking birds’ eggs. Public ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. Although we cannot do anything about the plants and animals that are already"
     }
   ],
   "answerKey": {

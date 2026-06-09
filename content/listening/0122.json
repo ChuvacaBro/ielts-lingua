@@ -40,144 +40,254 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "ble below. Write ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "Name of new tenant – Anders ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "below. Write ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "w. Write ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "rite ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 1-6 Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write ONE WORD ONLY. Name of new tenant – Anders"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "TWO WORDS for each answer. Issues to discuss Communication: (7) Friends: (8) Cigarettes: (9) Cleaning: must (10) Part 2:",
+      "prompt": "Issues to discuss Communication: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Issues to discuss Communication:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "each answer. Issues to discuss Communication: (7) Friends: (8) Cigarettes: (9) Cleaning: must (10) Part 2:",
+      "prompt": "Friends: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Issues to discuss Communication:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "sues to discuss Communication: (7) Friends: (8) Cigarettes: (9) Cleaning: must (10) Part 2:",
+      "prompt": "Cigarettes: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Issues to discuss Communication:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 7-10 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Issues to discuss Communication: (7",
+      "prompt": "Cleaning: must ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Issues to discuss Communication:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD ONLY for each answer. 11. It is important for everyone to know simple first aid 12. After an accident, one must firstly be aware of",
+      "prompt": "It is important for everyone to know simple first aid",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": ". 11. It is important for everyone to know simple first aid 12. After an accident, one must firstly be aware of 13. After that, the first aider must 14. Clearing of airwa",
+      "prompt": "After an accident, one must firstly be aware of",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "rst aid 12. After an accident, one must firstly be aware of 13. After that, the first aider must 14. Clearing of airways may not happen when patients are 15. The mouth mu",
+      "prompt": "After that, the first aider must",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "st firstly be aware of 13. After that, the first aider must 14. Clearing of airways may not happen when patients are 15. The mouth must be checked for 16. CPR must be don",
+      "prompt": "Clearing of airways may not happen when patients are",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "st 14. Clearing of airways may not happen when patients are 15. The mouth must be checked for 16. CPR must be done if breathing is absent or 17. CPR must be done up to th",
+      "prompt": "The mouth must be checked for",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "happen when patients are 15. The mouth must be checked for 16. CPR must be done if breathing is absent or 17. CPR must be done up to the arrival of",
+      "prompt": "CPR must be done if breathing is absent or",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-17 Complete the sentences below. Write ONE WORD ONLY for each answer. 11. It is important for everyone to know",
+      "prompt": "CPR must be done up to the arrival of",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q18-20"
+      "prompt": "Which THREE pieces of advice does the first-aid office say are most important? ____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers from the list, and write correct letter A-G next to questions 18-20. Which THREE pieces of advice does the first-aid office say are most important?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "have proper equipment"
+        },
+        {
+          "letter": "B",
+          "text": "give regular first-aid training"
+        },
+        {
+          "letter": "C",
+          "text": "have a safety officer"
+        },
+        {
+          "letter": "D",
+          "text": "instill safe behavior"
+        },
+        {
+          "letter": "E",
+          "text": "put posters on walls"
+        },
+        {
+          "letter": "F",
+          "text": "have safety meetings"
+        },
+        {
+          "letter": "G",
+          "text": "have first-aid boxes Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers from the list, and write correct letter A-G next to questions 18-20. Which THREE pieces of advice does the first-aid office say are most important?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "have proper equipment"
+        },
+        {
+          "letter": "B",
+          "text": "give regular first-aid training"
+        },
+        {
+          "letter": "C",
+          "text": "have a safety officer"
+        },
+        {
+          "letter": "D",
+          "text": "instill safe behavior"
+        },
+        {
+          "letter": "E",
+          "text": "put posters on walls"
+        },
+        {
+          "letter": "F",
+          "text": "have safety meetings"
+        },
+        {
+          "letter": "G",
+          "text": "have first-aid boxes Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Choose THREE answers from the list, and write correct letter A-G next to",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE answers from the list, and write correct letter A-G next to questions 18-20. Which THREE pieces of advice does the first-aid office say are most important?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "have proper equipment"
+        },
+        {
+          "letter": "B",
+          "text": "give regular first-aid training"
+        },
+        {
+          "letter": "C",
+          "text": "have a safety officer"
+        },
+        {
+          "letter": "D",
+          "text": "instill safe behavior"
+        },
+        {
+          "letter": "E",
+          "text": "put posters on walls"
+        },
+        {
+          "letter": "F",
+          "text": "have safety meetings"
+        },
+        {
+          "letter": "G",
+          "text": "have first-aid boxes Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. Nicole received the best information from",
+      "stem": "Nicole received the best information from",
       "options": [
         {
           "letter": "A",
@@ -192,7 +302,8 @@
           "text": "cleaners"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -212,7 +323,8 @@
           "text": "paper plates and cups"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -232,7 +344,8 @@
           "text": "55%"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -252,7 +365,8 @@
           "text": "one half"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -272,47 +386,53 @@
           "text": "uninformed"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "the flow chart below. Write ONE WORD ONLY for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 27,
       "type": "flowChartCompletion",
-      "prompt": "flow chart below. Write ONE WORD ONLY for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 28,
       "type": "flowChartCompletion",
-      "prompt": "chart below. Write ONE WORD ONLY for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 29,
       "type": "flowChartCompletion",
-      "prompt": "below. Write ONE WORD ONLY for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 30,
       "type": "flowChartCompletion",
-      "prompt": "Questions 26-30 Complete the flow chart below. Write ONE WORD ONLY for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. Society cannot",
+      "stem": "Society cannot",
       "options": [
         {
           "letter": "A",
@@ -327,7 +447,8 @@
           "text": "take carbon dioxide from power stations"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -347,7 +468,8 @@
           "text": "cannot happen naturally"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -367,56 +489,64 @@
           "text": "is highly acidic"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 34-40 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (34) (35) (36) (37",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

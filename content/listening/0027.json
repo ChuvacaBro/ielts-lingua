@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-3 Choose the correct letter A-D. 1. How much is the beginner’s course?",
+      "stem": "How much is the beginner’s course?",
       "options": [
         {
           "letter": "A",
@@ -52,10 +52,15 @@
         },
         {
           "letter": "C",
-          "text": "$330 D $430"
+          "text": "$330"
+        },
+        {
+          "letter": "D",
+          "text": "$430"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A-D."
     },
     {
       "number": 2,
@@ -72,10 +77,15 @@
         },
         {
           "letter": "C",
-          "text": "damage to people’s property D loss of personal belongings"
+          "text": "damage to people’s property"
+        },
+        {
+          "letter": "D",
+          "text": "loss of personal belongings"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A-D."
     },
     {
       "number": 3,
@@ -92,82 +102,157 @@
         },
         {
           "letter": "C",
-          "text": "car D bicycle"
+          "text": "car"
+        },
+        {
+          "letter": "D",
+          "text": "bicycle"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A-D."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": ". Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs (4) (5) Newcastle Fax no.: 0249 (6) Type of card: (7)",
+      "prompt": "Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "lephone Memo Name: Maria Gentle Address: C10 Mr and Mrs (4) (5) Newcastle Fax no.: 0249 (6) Type of card: (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "tle Address: C10 Mr and Mrs (4) (5) Newcastle Fax no.: 0249 (6) Type of card: (7)",
+      "prompt": "Newcastle Fax no.: 0249 ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Questions 4-7 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Telephone Memo Name: Maria Gentle",
+      "prompt": "Type of card: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-7"
+      "groupId": "q4-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Telephone Memo Name: Maria Gentle Address: C10 Mr and Mrs"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 8 and 9 Circle TWO letters from A-G. 8. Which TWO of the following items must people take with them? A sandals",
-      "groupId": "q8-9"
+      "prompt": "Which TWO of the following items must people take with them? A sandals B old clothes C pullover D shirt with long sleeves E soft drinks F hat G sunglasses",
+      "groupId": "q8-9",
+      "instructions": "9 Circle TWO letters from A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "sandals"
+        },
+        {
+          "letter": "B",
+          "text": "old clothes"
+        },
+        {
+          "letter": "C",
+          "text": "pullover"
+        },
+        {
+          "letter": "D",
+          "text": "shirt with long sleeves"
+        },
+        {
+          "letter": "E",
+          "text": "soft drinks"
+        },
+        {
+          "letter": "F",
+          "text": "hat"
+        },
+        {
+          "letter": "G",
+          "text": "sunglasses 9."
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 8 and 9 Circle TWO letters from A-G. 8. Which TWO of the following items must people take with them? A sandals B old",
-      "groupId": "q8-9"
+      "prompt": "Which TWO accommodation options mentioned are near the paragliding school? A camping B youth hostel C family D backpackers E caravan park F bed and breakfast G cheap hotel",
+      "groupId": "q8-9",
+      "instructions": "9 Circle TWO letters from A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "sandals"
+        },
+        {
+          "letter": "B",
+          "text": "old clothes"
+        },
+        {
+          "letter": "C",
+          "text": "pullover"
+        },
+        {
+          "letter": "D",
+          "text": "shirt with long sleeves"
+        },
+        {
+          "letter": "E",
+          "text": "soft drinks"
+        },
+        {
+          "letter": "F",
+          "text": "hat"
+        },
+        {
+          "letter": "G",
+          "text": "sunglasses 9."
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Question 10 Write NO MORE THE THREE WORDS for the answer. 10. Which weekend do the girls decide to go? Part 2:",
-      "groupId": "q10-10"
+      "prompt": "Which weekend do the girls decide to go?",
+      "groupId": "q10-10",
+      "instructions": "Write NO MORE THE THREE WORDS for the answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "go National Park Organiser: Alan Moore Purpose of the trip: (11) Recorded years of Aboriginal life: (12) Main feature of park is the: (13)",
+      "prompt": "Trip to Mungo National Park Organiser: Alan Moore Purpose of the trip: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Trip to Mungo National Park Organiser: Alan Moore Purpose of the trip:"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "urpose of the trip: (11) Recorded years of Aboriginal life: (12) Main feature of park is the: (13)",
+      "prompt": "Recorded years of Aboriginal life: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Trip to Mungo National Park Organiser: Alan Moore Purpose of the trip:"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "Questions 11-13 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Trip to Mungo National Park Organ",
+      "prompt": "Main feature of park is the: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Trip to Mungo National Park Organiser: Alan Moore Purpose of the trip:"
     },
     {
       "number": 14,
       "type": "multipleChoice",
-      "stem": "and 15 Choose the correct letter A-C. 14. What took Alan by surprise?",
+      "stem": "What took Alan by surprise?",
       "options": [
         {
           "letter": "A",
@@ -182,7 +267,8 @@
           "text": "evidence of Aboriginal life"
         }
       ],
-      "groupId": "q14-15"
+      "groupId": "q14-15",
+      "instructions": "15 Choose the correct letter A-C."
     },
     {
       "number": 15,
@@ -202,172 +288,320 @@
           "text": "it made no difference to his enjoyment"
         }
       ],
-      "groupId": "q14-15"
+      "groupId": "q14-15",
+      "instructions": "15 Choose the correct letter A-C."
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Alan say about those who helped him?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "there were no other campers nearby"
+        },
+        {
+          "letter": "B",
+          "text": "they willingly helped in the search"
+        },
+        {
+          "letter": "C",
+          "text": "they kept our spirits up"
+        },
+        {
+          "letter": "D",
+          "text": "they provided some dry clothes"
+        },
+        {
+          "letter": "E",
+          "text": "the park ranger was unable to get through"
+        },
+        {
+          "letter": "F",
+          "text": "the helicopter pilot led the search very well"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Alan say about those who helped him?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "there were no other campers nearby"
+        },
+        {
+          "letter": "B",
+          "text": "they willingly helped in the search"
+        },
+        {
+          "letter": "C",
+          "text": "they kept our spirits up"
+        },
+        {
+          "letter": "D",
+          "text": "they provided some dry clothes"
+        },
+        {
+          "letter": "E",
+          "text": "the park ranger was unable to get through"
+        },
+        {
+          "letter": "F",
+          "text": "the helicopter pilot led the search very well"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 16-18 Circle THREE letters A-F. What does Alan say about those who helped him? A there were no other campers near",
-      "groupId": "q16-18"
+      "prompt": "Question 18",
+      "groupId": "q16-18",
+      "instructions": "Circle THREE letters A-F. What does Alan say about those who helped him?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "there were no other campers nearby"
+        },
+        {
+          "letter": "B",
+          "text": "they willingly helped in the search"
+        },
+        {
+          "letter": "C",
+          "text": "they kept our spirits up"
+        },
+        {
+          "letter": "D",
+          "text": "they provided some dry clothes"
+        },
+        {
+          "letter": "E",
+          "text": "the park ranger was unable to get through"
+        },
+        {
+          "letter": "F",
+          "text": "the helicopter pilot led the search very well"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Circle TWO letters A-F. What does Alan say about the discoveries on the wall? A he took photos of th",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Circle TWO letters A-F. What does Alan say about the discoveries on the wall?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he took photos of them"
+        },
+        {
+          "letter": "B",
+          "text": "they could be clearly seen"
+        },
+        {
+          "letter": "C",
+          "text": "some were large"
+        },
+        {
+          "letter": "D",
+          "text": "they were unique"
+        },
+        {
+          "letter": "E",
+          "text": "they proved to be ancient Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Circle TWO letters A-F. What does Alan say about the discoveries on the wall? A he took photos of them B th",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Circle TWO letters A-F. What does Alan say about the discoveries on the wall?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he took photos of them"
+        },
+        {
+          "letter": "B",
+          "text": "they could be clearly seen"
+        },
+        {
+          "letter": "C",
+          "text": "some were large"
+        },
+        {
+          "letter": "D",
+          "text": "they were unique"
+        },
+        {
+          "letter": "E",
+          "text": "they proved to be ancient Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "tions 26-30 Write NO MORE THAN THREE WORDS for each answer. 26. What is Sally’s study strategy in lectures? 27. What is Ben’s study strategy for reading? 28. What is the",
+      "prompt": "What is Sally’s study strategy in lectures?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "ach answer. 26. What is Sally’s study strategy in lectures? 27. What is Ben’s study strategy for reading? 28. What is the subject of Ben’s first lecture? 29. What is the",
+      "prompt": "What is Ben’s study strategy for reading?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "in lectures? 27. What is Ben’s study strategy for reading? 28. What is the subject of Ben’s first lecture? 29. What is the title of Ben’s first tutorial paper? 30. What",
+      "prompt": "What is the subject of Ben’s first lecture?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "or reading? 28. What is the subject of Ben’s first lecture? 29. What is the title of Ben’s first tutorial paper? 30. What is the subject of Sally’s first tutorial paper?",
+      "prompt": "What is the title of Ben’s first tutorial paper?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Write NO MORE THAN THREE WORDS for each answer. 26. What is Sally’s study strategy in lectures? 27. What is",
+      "prompt": "What is the subject of Sally’s first tutorial paper?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "Questions 31-35 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "Question 36",
-      "groupId": "q36-40"
+      "prompt": "D a research psychologist E a housewife with time on her hands F a part time student G a career in an insurance office ____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G next to questions 36-40. Type of job"
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Question 37",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G next to questions 36-40. Type of job"
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "Question 38",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G next to questions 36-40. Type of job"
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "Question 39",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G next to questions 36-40. Type of job"
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write the appropriate letters A-G next to",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write the appropriate letters A-G next to questions 36-40. Type of job"
     }
   ],
   "answerKey": {

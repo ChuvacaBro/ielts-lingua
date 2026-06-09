@@ -40,263 +40,657 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "ing NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "ORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 1-5 Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below using NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "flowChartCompletion",
-      "prompt": "h answer. Process of booking a computer • Step 1: log in to (6) using your student number and (7) • Step 2: choose the resource type you would like to use • Step 3: selec",
+      "prompt": "",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer • Step 1: log in to"
     },
     {
       "number": 7,
       "type": "flowChartCompletion",
-      "prompt": "puter • Step 1: log in to (6) using your student number and (7) • Step 2: choose the resource type you would like to use • Step 3: select (8) of computer • Step 4: select",
+      "prompt": "using your student number and ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer • Step 1: log in to"
     },
     {
       "number": 8,
       "type": "flowChartCompletion",
-      "prompt": "se the resource type you would like to use • Step 3: select (8) of computer • Step 4: select date of booking using (9) options • Step 5: complete your booking. Your name",
+      "prompt": "• Step 2: choose the resource type you would like to use • Step 3: select ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer • Step 1: log in to"
     },
     {
       "number": 9,
       "type": "flowChartCompletion",
-      "prompt": "lect (8) of computer • Step 4: select date of booking using (9) options • Step 5: complete your booking. Your name should appear on the booking (10) Section 2:",
+      "prompt": "of computer • Step 4: select date of booking using ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer • Step 1: log in to"
     },
     {
       "number": 10,
       "type": "flowChartCompletion",
-      "prompt": "Questions 6-10 Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer •",
+      "prompt": "options • Step 5: complete your booking. Your name should appear on the booking ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN ONE WORD for each answer. Process of booking a computer • Step 1: log in to"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Choose TWO answers for each question. 11. Doors Open A is an annual event B lasts for one week C is a free event D happens in spring E is more than",
-      "groupId": "q11-14"
+      "prompt": "Doors Open A is an annual event B lasts for one week C is a free event D happens in spring E is more than 100 years old",
+      "groupId": "q11-14",
+      "instructions": "Choose TWO answers for each question.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is an annual event"
+        },
+        {
+          "letter": "B",
+          "text": "lasts for one week"
+        },
+        {
+          "letter": "C",
+          "text": "is a free event"
+        },
+        {
+          "letter": "D",
+          "text": "happens in spring"
+        },
+        {
+          "letter": "E",
+          "text": "is more than 100 years old 12."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "free event D happens in spring E is more than 100 years old 12. The Observatory A is situated in Edinburgh B was built 20 years ago C regularly participates in the Doors",
-      "groupId": "q11-14"
+      "prompt": "The Observatory A is situated in Edinburgh B was built 20 years ago C regularly participates in the Doors Open event D is 120 years old E is open to visitors every day of the year",
+      "groupId": "q11-14",
+      "instructions": "Choose TWO answers for each question.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is an annual event"
+        },
+        {
+          "letter": "B",
+          "text": "lasts for one week"
+        },
+        {
+          "letter": "C",
+          "text": "is a free event"
+        },
+        {
+          "letter": "D",
+          "text": "happens in spring"
+        },
+        {
+          "letter": "E",
+          "text": "is more than 100 years old 12."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "s 120 years old E is open to visitors every day of the year 13. Planetarium Shows A take place twice a day B are more popular on Saturday C run on Saturday and Sunday D r",
-      "groupId": "q11-14"
+      "prompt": "Planetarium Shows A take place twice a day B are more popular on Saturday C run on Saturday and Sunday D run four times a day E finish at half past ten",
+      "groupId": "q11-14",
+      "instructions": "Choose TWO answers for each question.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is an annual event"
+        },
+        {
+          "letter": "B",
+          "text": "lasts for one week"
+        },
+        {
+          "letter": "C",
+          "text": "is a free event"
+        },
+        {
+          "letter": "D",
+          "text": "happens in spring"
+        },
+        {
+          "letter": "E",
+          "text": "is more than 100 years old 12."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Choose TWO answers for each question. 11. Doors Open A is an annual event B lasts for one week C is a free",
-      "groupId": "q11-14"
+      "prompt": "All tickets A must be booked in advance B are already sold out C are on sale at the information point D must be booked online E are available for from midday",
+      "groupId": "q11-14",
+      "instructions": "Choose TWO answers for each question.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "is an annual event"
+        },
+        {
+          "letter": "B",
+          "text": "lasts for one week"
+        },
+        {
+          "letter": "C",
+          "text": "is a free event"
+        },
+        {
+          "letter": "D",
+          "text": "happens in spring"
+        },
+        {
+          "letter": "E",
+          "text": "is more than 100 years old 12."
+        }
+      ]
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "the sentences using NO MORE THAN TWO WORDS for each answer. 15. The tour of the telescope dome includes access to the of the building 16. Tour participants are advised to",
+      "prompt": "The tour of the telescope dome includes access to the of the building",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "f the telescope dome includes access to the of the building 16. Tour participants are advised to have suitable 17. Visitors to the Crawford Collection can see items from",
+      "prompt": "Tour participants are advised to have suitable",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "building 16. Tour participants are advised to have suitable 17. Visitors to the Crawford Collection can see items from the astronomical on display 18. The children’s craf",
+      "prompt": "Visitors to the Crawford Collection can see items from the astronomical on display",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "d Collection can see items from the astronomical on display 18. The children’s craft workshops take place in the 19. During the craft workshops children can construct a m",
+      "prompt": "The children’s craft workshops take place in the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "isplay 18. The children’s craft workshops take place in the 19. During the craft workshops children can construct a model of a 20. Children also have the opportunity to c",
+      "prompt": "During the craft workshops children can construct a model of a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 15-20 Complete the sentences using NO MORE THAN TWO WORDS for each answer. 15. The tour of the telescope dome inc",
+      "prompt": "Children also have the opportunity to colour a Section 3:",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the sentences using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "THREE examples of space junk are mentioned by the speaker? (21) (22) (23) A cans B cooling tanks C metal plates D metal screws E paint F satellites G whole rackets",
-      "groupId": "q21-23"
+      "prompt": "Which THREE examples of space junk are mentioned by the speaker? ____",
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters A-G. Which THREE examples of space junk are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "cans"
+        },
+        {
+          "letter": "B",
+          "text": "cooling tanks"
+        },
+        {
+          "letter": "C",
+          "text": "metal plates"
+        },
+        {
+          "letter": "D",
+          "text": "metal screws"
+        },
+        {
+          "letter": "E",
+          "text": "paint"
+        },
+        {
+          "letter": "F",
+          "text": "satellites"
+        },
+        {
+          "letter": "G",
+          "text": "whole rackets"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "E examples of space junk are mentioned by the speaker? (21) (22) (23) A cans B cooling tanks C metal plates D metal screws E paint F satellites G whole rackets",
-      "groupId": "q21-23"
+      "prompt": "____",
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters A-G. Which THREE examples of space junk are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "cans"
+        },
+        {
+          "letter": "B",
+          "text": "cooling tanks"
+        },
+        {
+          "letter": "C",
+          "text": "metal plates"
+        },
+        {
+          "letter": "D",
+          "text": "metal screws"
+        },
+        {
+          "letter": "E",
+          "text": "paint"
+        },
+        {
+          "letter": "F",
+          "text": "satellites"
+        },
+        {
+          "letter": "G",
+          "text": "whole rackets"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 21-23 Choose THREE letters A-G. Which THREE examples of space junk are mentioned by the speaker? (21) (22) (23) A",
-      "groupId": "q21-23"
+      "prompt": "____",
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters A-G. Which THREE examples of space junk are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "cans"
+        },
+        {
+          "letter": "B",
+          "text": "cooling tanks"
+        },
+        {
+          "letter": "C",
+          "text": "metal plates"
+        },
+        {
+          "letter": "D",
+          "text": "metal screws"
+        },
+        {
+          "letter": "E",
+          "text": "paint"
+        },
+        {
+          "letter": "F",
+          "text": "satellites"
+        },
+        {
+          "letter": "G",
+          "text": "whole rackets"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "ble for depositing the following percentages of space junk? (24) 28% (25) 29% (26) 37% A China B Europe C India D Russia E United States",
-      "groupId": "q24-26"
+      "prompt": "____",
+      "groupId": "q24-26",
+      "instructions": "Which country is responsible for depositing the following percentages of space junk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "China"
+        },
+        {
+          "letter": "B",
+          "text": "Europe"
+        },
+        {
+          "letter": "C",
+          "text": "India"
+        },
+        {
+          "letter": "D",
+          "text": "Russia"
+        },
+        {
+          "letter": "E",
+          "text": "United States"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "epositing the following percentages of space junk? (24) 28% (25) 29% (26) 37% A China B Europe C India D Russia E United States",
-      "groupId": "q24-26"
+      "prompt": "28% ____",
+      "groupId": "q24-26",
+      "instructions": "Which country is responsible for depositing the following percentages of space junk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "China"
+        },
+        {
+          "letter": "B",
+          "text": "Europe"
+        },
+        {
+          "letter": "C",
+          "text": "India"
+        },
+        {
+          "letter": "D",
+          "text": "Russia"
+        },
+        {
+          "letter": "E",
+          "text": "United States"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 24-26 Which country is responsible for depositing the following percentages of space junk? (24) 28% (25) 29% (26)",
-      "groupId": "q24-26"
+      "prompt": "29% ____",
+      "groupId": "q24-26",
+      "instructions": "Which country is responsible for depositing the following percentages of space junk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "China"
+        },
+        {
+          "letter": "B",
+          "text": "Europe"
+        },
+        {
+          "letter": "C",
+          "text": "India"
+        },
+        {
+          "letter": "D",
+          "text": "Russia"
+        },
+        {
+          "letter": "E",
+          "text": "United States"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Choose the answers from the options and write the appropriate letter A-I next to questions 27-30. Space Junk – Satellites"
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Choose the answers from the options and write the appropriate letter A-I next to questions 27-30. Space Junk – Satellites"
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Choose the answers from the options and write the appropriate letter A-I next to questions 27-30. Space Junk – Satellites"
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 27-30 Complete the table below. Choose the answers from the options and write the appropriate letter A-I next to",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Choose the answers from the options and write the appropriate letter A-I next to questions 27-30. Space Junk – Satellites"
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. Supermarket Layout (31) (32) (33) (34) (35)",
+      "prompt": "Supermarket Layout ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout"
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "ORE THAN TWO WORDS for each answer. Supermarket Layout (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout"
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "HAN TWO WORDS for each answer. Supermarket Layout (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout"
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "WO WORDS for each answer. Supermarket Layout (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout"
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "Questions 31-35 Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout (31) (32) (33) (34",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Use NO MORE THAN TWO WORDS for each answer. Supermarket Layout"
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "Question 36",
-      "groupId": "q36-40"
+      "prompt": "They are referred to as distress goods",
+      "groupId": "q36-40",
+      "instructions": "Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to questions 36-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fruit and vegetables"
+        },
+        {
+          "letter": "B",
+          "text": "bread and milk"
+        },
+        {
+          "letter": "C",
+          "text": "cheap tinned foods"
+        },
+        {
+          "letter": "D",
+          "text": "flowers"
+        },
+        {
+          "letter": "E",
+          "text": "sunglasses 36."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q36-40"
+      "prompt": "They are always located at the front of the supermarket",
+      "groupId": "q36-40",
+      "instructions": "Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to questions 36-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fruit and vegetables"
+        },
+        {
+          "letter": "B",
+          "text": "bread and milk"
+        },
+        {
+          "letter": "C",
+          "text": "cheap tinned foods"
+        },
+        {
+          "letter": "D",
+          "text": "flowers"
+        },
+        {
+          "letter": "E",
+          "text": "sunglasses 36."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
-      "groupId": "q36-40"
+      "prompt": "They are referred to as destination goods",
+      "groupId": "q36-40",
+      "instructions": "Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to questions 36-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fruit and vegetables"
+        },
+        {
+          "letter": "B",
+          "text": "bread and milk"
+        },
+        {
+          "letter": "C",
+          "text": "cheap tinned foods"
+        },
+        {
+          "letter": "D",
+          "text": "flowers"
+        },
+        {
+          "letter": "E",
+          "text": "sunglasses 36."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
-      "groupId": "q36-40"
+      "prompt": "They are normally located below eye level",
+      "groupId": "q36-40",
+      "instructions": "Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to questions 36-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fruit and vegetables"
+        },
+        {
+          "letter": "B",
+          "text": "bread and milk"
+        },
+        {
+          "letter": "C",
+          "text": "cheap tinned foods"
+        },
+        {
+          "letter": "D",
+          "text": "flowers"
+        },
+        {
+          "letter": "E",
+          "text": "sunglasses 36."
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 36-40 Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to",
-      "groupId": "q36-40"
+      "prompt": "They are often located at the check-out",
+      "groupId": "q36-40",
+      "instructions": "Which items do the following sentences apply to? Write correct letter A, B, C, D or E next to questions 36-40.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fruit and vegetables"
+        },
+        {
+          "letter": "B",
+          "text": "bread and milk"
+        },
+        {
+          "letter": "C",
+          "text": "cheap tinned foods"
+        },
+        {
+          "letter": "D",
+          "text": "flowers"
+        },
+        {
+          "letter": "E",
+          "text": "sunglasses 36."
+        }
+      ]
     }
   ],
   "answerKey": {

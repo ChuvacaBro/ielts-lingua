@@ -40,270 +40,610 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "S OR A NUMBER for each answer. Go-travel booking form Name: (1) Source of enquiry: saw ad in (2) magazine Holiday reference: (3) Number of people: (4) Preferred departure",
+      "prompt": "Go-travel booking form Name: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "-travel booking form Name: (1) Source of enquiry: saw ad in (2) magazine Holiday reference: (3) Number of people: (4) Preferred departure dates: (5) Number of nights: (6)",
+      "prompt": "Source of enquiry: saw ad in ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "ource of enquiry: saw ad in (2) magazine Holiday reference: (3) Number of people: (4) Preferred departure dates: (5) Number of nights: (6) Type of insurance: (7)",
+      "prompt": "magazine Holiday reference: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "ad in (2) magazine Holiday reference: (3) Number of people: (4) Preferred departure dates: (5) Number of nights: (6) Type of insurance: (7)",
+      "prompt": "Number of people: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "rence: (3) Number of people: (4) Preferred departure dates: (5) Number of nights: (6) Type of insurance: (7)",
+      "prompt": "Preferred departure dates: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "eople: (4) Preferred departure dates: (5) Number of nights: (6) Type of insurance: (7)",
+      "prompt": "Number of nights: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "Questions 1-7 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Na",
+      "prompt": "Type of insurance: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Go-travel booking form Name:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "unches F river trip G room with balcony H trip to mountains (8) (9) (10) Part 2:",
-      "groupId": "q8-10"
+      "prompt": "B dance show C museums trip D bus tour at night E picnic lunches F river trip G room with balcony H trip to mountains ____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-H. Which THREE options does the woman want to book?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "arts demonstration"
+        },
+        {
+          "letter": "B",
+          "text": "dance show"
+        },
+        {
+          "letter": "C",
+          "text": "museums trip"
+        },
+        {
+          "letter": "D",
+          "text": "bus tour at night"
+        },
+        {
+          "letter": "E",
+          "text": "picnic lunches"
+        },
+        {
+          "letter": "F",
+          "text": "river trip"
+        },
+        {
+          "letter": "G",
+          "text": "room with balcony"
+        },
+        {
+          "letter": "H",
+          "text": "trip to mountains (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "es F river trip G room with balcony H trip to mountains (8) (9) (10) Part 2:",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-H. Which THREE options does the woman want to book?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "arts demonstration"
+        },
+        {
+          "letter": "B",
+          "text": "dance show"
+        },
+        {
+          "letter": "C",
+          "text": "museums trip"
+        },
+        {
+          "letter": "D",
+          "text": "bus tour at night"
+        },
+        {
+          "letter": "E",
+          "text": "picnic lunches"
+        },
+        {
+          "letter": "F",
+          "text": "river trip"
+        },
+        {
+          "letter": "G",
+          "text": "room with balcony"
+        },
+        {
+          "letter": "H",
+          "text": "trip to mountains (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Choose THREE letters A-H. Which THREE options does the woman want to book? A arts demonstration B dance sho",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-H. Which THREE options does the woman want to book?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "arts demonstration"
+        },
+        {
+          "letter": "B",
+          "text": "dance show"
+        },
+        {
+          "letter": "C",
+          "text": "museums trip"
+        },
+        {
+          "letter": "D",
+          "text": "bus tour at night"
+        },
+        {
+          "letter": "E",
+          "text": "picnic lunches"
+        },
+        {
+          "letter": "F",
+          "text": "river trip"
+        },
+        {
+          "letter": "G",
+          "text": "room with balcony"
+        },
+        {
+          "letter": "H",
+          "text": "trip to mountains (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "Run-well charity Background to Run-Well charity • Set up in (11) • Aim: raise money for the (12) Race details • Teams to supply own (13) • Teams should (14) together • Im",
+      "prompt": "Run-well charity Background to Run-Well charity • Set up in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "un-Well charity • Set up in (11) • Aim: raise money for the (12) Race details • Teams to supply own (13) • Teams should (14) together • Important to bring enough (15) • R",
+      "prompt": "• Aim: raise money for the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "raise money for the (12) Race details • Teams to supply own (13) • Teams should (14) together • Important to bring enough (15) • Race will finish in the (16) • Prizes giv",
+      "prompt": "Race details • Teams to supply own ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "(12) Race details • Teams to supply own (13) • Teams should (14) together • Important to bring enough (15) • Race will finish in the (16) • Prizes given by the (17)",
+      "prompt": "• Teams should ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "3) • Teams should (14) together • Important to bring enough (15) • Race will finish in the (16) • Prizes given by the (17)",
+      "prompt": "together • Important to bring enough ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "• Important to bring enough (15) • Race will finish in the (16) • Prizes given by the (17)",
+      "prompt": "• Race will finish in the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "Questions 11-17 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity",
+      "prompt": "• Prizes given by the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Run-well charity Background to Run-Well charity • Set up in"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "r collecting F picnic G postcards H quiz I second hand sale (18) (19) (20) Part 3:",
-      "groupId": "q18-20"
+      "prompt": "and cake stall C swimming event D concert E door to door collecting F picnic G postcards H quiz I second hand sale ____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-H. Which THREE ways of raising money for the charity are recommended?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "badges"
+        },
+        {
+          "letter": "B",
+          "text": "bread and cake stall"
+        },
+        {
+          "letter": "C",
+          "text": "swimming event"
+        },
+        {
+          "letter": "D",
+          "text": "concert"
+        },
+        {
+          "letter": "E",
+          "text": "door to door collecting"
+        },
+        {
+          "letter": "F",
+          "text": "picnic"
+        },
+        {
+          "letter": "G",
+          "text": "postcards"
+        },
+        {
+          "letter": "H",
+          "text": "quiz"
+        },
+        {
+          "letter": "I",
+          "text": "second hand sale (18) (19) (20) Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "lecting F picnic G postcards H quiz I second hand sale (18) (19) (20) Part 3:",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-H. Which THREE ways of raising money for the charity are recommended?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "badges"
+        },
+        {
+          "letter": "B",
+          "text": "bread and cake stall"
+        },
+        {
+          "letter": "C",
+          "text": "swimming event"
+        },
+        {
+          "letter": "D",
+          "text": "concert"
+        },
+        {
+          "letter": "E",
+          "text": "door to door collecting"
+        },
+        {
+          "letter": "F",
+          "text": "picnic"
+        },
+        {
+          "letter": "G",
+          "text": "postcards"
+        },
+        {
+          "letter": "H",
+          "text": "quiz"
+        },
+        {
+          "letter": "I",
+          "text": "second hand sale (18) (19) (20) Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Choose THREE letters A-H. Which THREE ways of raising money for the charity are recommended? A badges B bre",
-      "groupId": "q18-20"
+      "prompt": "____",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-H. Which THREE ways of raising money for the charity are recommended?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "badges"
+        },
+        {
+          "letter": "B",
+          "text": "bread and cake stall"
+        },
+        {
+          "letter": "C",
+          "text": "swimming event"
+        },
+        {
+          "letter": "D",
+          "text": "concert"
+        },
+        {
+          "letter": "E",
+          "text": "door to door collecting"
+        },
+        {
+          "letter": "F",
+          "text": "picnic"
+        },
+        {
+          "letter": "G",
+          "text": "postcards"
+        },
+        {
+          "letter": "H",
+          "text": "quiz"
+        },
+        {
+          "letter": "I",
+          "text": "second hand sale (18) (19) (20) Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-26"
+      "prompt": "cultural aspects of naming people",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-26"
+      "prompt": "similarities across languages in naming practices",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-26"
+      "prompt": "meanings of first names",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-26"
+      "prompt": "place names describing geographic features",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q21-26"
+      "prompt": "influence of immigration on place names",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 21-26 Write the correct letter A, B or C next to",
-      "groupId": "q21-26"
+      "prompt": "origins of names of countries",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter A, B or C next to questions 21-26. What do the students decide about each topic for Joe’s presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Joe will definitely include this topic"
+        },
+        {
+          "letter": "B",
+          "text": "Joe might include this topic"
+        },
+        {
+          "letter": "C",
+          "text": "Joe will not include this topic 21."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "summaryCompletion",
-      "prompt": "owed a group of students many common nouns, brand names and (27) Students found it easier to identify brand names when they were shown in (28) Researchers think that (29)",
+      "prompt": "Researchers showed a group of students many common nouns, brand names and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Researchers showed a group of students many common nouns, brand names and"
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": "d it easier to identify brand names when they were shown in (28) Researchers think that (29) is important in making brand names special within the brain. Brand names crea",
+      "prompt": "Students found it easier to identify brand names when they were shown in ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Researchers showed a group of students many common nouns, brand names and"
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "d names when they were shown in (28) Researchers think that (29) is important in making brand names special within the brain. Brand names create a number of (30) within t",
+      "prompt": "Researchers think that ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Researchers showed a group of students many common nouns, brand names and"
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 27-30 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Researchers showed a group of stu",
+      "prompt": "is important in making brand names special within the brain. Brand names create a number of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. Researchers showed a group of students many common nouns, brand names and"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "TWO WORDS for each answer. Gas balloons Uses: • Instead of (31) in the US civil war • To make (32) • To (33) for research • As part of studies of (34) Hot air balloons C",
+      "prompt": "Gas balloons Uses: • Instead of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "loons Uses: • Instead of (31) in the US civil war • To make (32) • To (33) for research • As part of studies of (34) Hot air balloons Create less (35) than gas balloons A",
+      "prompt": "in the US civil war • To make ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": ": • Instead of (31) in the US civil war • To make (32) • To (33) for research • As part of studies of (34) Hot air balloons Create less (35) than gas balloons Airships Ea",
+      "prompt": "• To ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "To make (32) • To (33) for research • As part of studies of (34) Hot air balloons Create less (35) than gas balloons Airships Early examples had no (36) for crew To be ef",
+      "prompt": "for research • As part of studies of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "h • As part of studies of (34) Hot air balloons Create less (35) than gas balloons Airships Early examples had no (36) for crew To be efficient needed a (37) Development",
+      "prompt": "Hot air balloons Create less ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "less (35) than gas balloons Airships Early examples had no (36) for crew To be efficient needed a (37) Development of large airships stopped because of: • Success of (38",
+      "prompt": "than gas balloons Airships Early examples had no ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "arly examples had no (36) for crew To be efficient needed a (37) Development of large airships stopped because of: • Success of (38) • Series of (39) Recent interest in u",
+      "prompt": "for crew To be efficient needed a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "elopment of large airships stopped because of: • Success of (38) • Series of (39) Recent interest in use for carrying (40)",
+      "prompt": "Development of large airships stopped because of: • Success of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "airships stopped because of: • Success of (38) • Series of (39) Recent interest in use for carrying (40)",
+      "prompt": "• Series of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of (31",
+      "prompt": "Recent interest in use for carrying ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Gas balloons Uses: • Instead of"
     }
   ],
   "answerKey": {

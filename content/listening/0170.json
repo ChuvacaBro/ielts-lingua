@@ -40,258 +40,536 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. MIC HOUSE AGENCY REPAIRS Add",
+      "prompt": "MIC HOUSE AGENCY REPAIRS Address: Apartment 2, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. MIC HOUSE AGENCY REPAIRS Address: Apartment 2,"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. MIC HOUSE AGENCY REPAIRS Address:",
+      "prompt": "Newton Length of lease: one year Date moved in: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. MIC HOUSE AGENCY REPAIRS Address: Apartment 2,"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "wing week C if the repair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "week C if the repair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "k C if the repair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "if the repair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "he repair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "epair will be done in two or more weeks (3) (4) (5) (6) (7) (8) (9)",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "Questions 3-9 Complete the table below. Write A if the repair will be done immediately B if the repair will be done during",
-      "groupId": "q3-9"
+      "prompt": "____",
+      "groupId": "q3-9",
+      "instructions": "Complete the table below. Write A if the repair will be done immediately B if the repair will be done during the following week C if the repair will be done in two or more weeks"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Question 10 Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Workman to call between (10) and Part 2:",
+      "prompt": "Workman to call between ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q10-10"
+      "groupId": "q10-10",
+      "instructions": "Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Workman to call between"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Circle the correct letters A-C 11. At rainforest lodge there aren’t any A telephones or TVs B newspa",
-      "groupId": "q11-12"
+      "prompt": "At rainforest lodge there aren’t any A telephones or TVs B newspapers or TVs C telephones or newspapers",
+      "groupId": "q11-12",
+      "instructions": "12 Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "telephones or TVs"
+        },
+        {
+          "letter": "B",
+          "text": "newspapers or TVs"
+        },
+        {
+          "letter": "C",
+          "text": "telephones or newspapers 12. The guests are told to A carry their luggage to the cabin B go straight to the restaurant C wait an hour for dinner"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Circle the correct letters A-C 11. At rainforest lodge there aren’t any A telephones or TVs B newspapers or",
-      "groupId": "q11-12"
+      "prompt": "The guests are told to A carry their luggage to the cabin B go straight to the restaurant C wait an hour for dinner",
+      "groupId": "q11-12",
+      "instructions": "12 Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "telephones or TVs"
+        },
+        {
+          "letter": "B",
+          "text": "newspapers or TVs"
+        },
+        {
+          "letter": "C",
+          "text": "telephones or newspapers 12. The guests are told to A carry their luggage to the cabin B go straight to the restaurant C wait an hour for dinner"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "Questions 13-15 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "of clothing does the speaker recommend for the rainforest? (16) (17) (18) Which TWO things in the rainforest does the speaker give a warning about? (19) and (20) Part 3:",
+      "prompt": "What THREE items of clothing does the speaker recommend for the rainforest? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the rainforest?"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "lothing does the speaker recommend for the rainforest? (16) (17) (18) Which TWO things in the rainforest does the speaker give a warning about? (19) and (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the rainforest?"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "ng does the speaker recommend for the rainforest? (16) (17) (18) Which TWO things in the rainforest does the speaker give a warning about? (19) and (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the rainforest?"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "gs in the rainforest does the speaker give a warning about? (19) and (20) Part 3:",
+      "prompt": "Which TWO things in the rainforest does the speaker give a warning about? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the rainforest?"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. What THREE items of clothing does the speaker recommend for the rainforest?"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21-25 Circle the correct letters A-C 21. These sessions with a counsellor are A compulsory for all students B available to any students C for scien",
-      "groupId": "q21-25"
+      "prompt": "These sessions with a counsellor are A compulsory for all students B available to any students C for science students only",
+      "groupId": "q21-25",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "compulsory for all students"
+        },
+        {
+          "letter": "B",
+          "text": "available to any students"
+        },
+        {
+          "letter": "C",
+          "text": "for science students only 22."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "nts B available to any students C for science students only 22. The counsellor says that new students have to A spend more time on the college premises B get used to work",
-      "groupId": "q21-25"
+      "prompt": "The counsellor says that new students have to A spend more time on the college premises B get used to working independently C work harder than they did at school",
+      "groupId": "q21-25",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "compulsory for all students"
+        },
+        {
+          "letter": "B",
+          "text": "available to any students"
+        },
+        {
+          "letter": "C",
+          "text": "for science students only 22."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "working independently C work harder than they did at school 23. John complains that the resource centre A has limited opening hours B has too few resources C gets too cro",
-      "groupId": "q21-25"
+      "prompt": "John complains that the resource centre A has limited opening hours B has too few resources C gets too crowded",
+      "groupId": "q21-25",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "compulsory for all students"
+        },
+        {
+          "letter": "B",
+          "text": "available to any students"
+        },
+        {
+          "letter": "C",
+          "text": "for science students only 22."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "ed opening hours B has too few resources C gets too crowded 24. The counsellor suggests to John that A most other students can cope B he needs to study all the time C he",
-      "groupId": "q21-25"
+      "prompt": "The counsellor suggests to John that A most other students can cope B he needs to study all the time C he should be able to fit in some leisure activities",
+      "groupId": "q21-25",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "compulsory for all students"
+        },
+        {
+          "letter": "B",
+          "text": "available to any students"
+        },
+        {
+          "letter": "C",
+          "text": "for science students only 22."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 Circle the correct letters A-C 21. These sessions with a counsellor are A compulsory for all students B ava",
-      "groupId": "q21-25"
+      "prompt": "Before being able to help John the counsellor needs to A talk with some of his lecturers B consult his tutor C get more information from him",
+      "groupId": "q21-25",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "compulsory for all students"
+        },
+        {
+          "letter": "B",
+          "text": "available to any students"
+        },
+        {
+          "letter": "C",
+          "text": "for science students only 22."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ing • Pay careful attention to the question • Leave time to (26) Listening • Try to (27) lectures • Check notes with (28) Reading • Choose topics of (29) • Buy a good (30",
+      "prompt": "Writing • Pay careful attention to the question • Leave time to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention to the question • Leave time to"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "ion to the question • Leave time to (26) Listening • Try to (27) lectures • Check notes with (28) Reading • Choose topics of (29) • Buy a good (30) Part 4:",
+      "prompt": "Listening • Try to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention to the question • Leave time to"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "to (26) Listening • Try to (27) lectures • Check notes with (28) Reading • Choose topics of (29) • Buy a good (30) Part 4:",
+      "prompt": "lectures • Check notes with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention to the question • Leave time to"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "lectures • Check notes with (28) Reading • Choose topics of (29) • Buy a good (30) Part 4:",
+      "prompt": "Reading • Choose topics of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention to the question • Leave time to"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention t",
+      "prompt": "• Buy a good ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Writing • Pay careful attention to the question • Leave time to"
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31-35 Circle the correct letters A-C 31. John was first interested in the subject because of something A he had witnessed B he had read about C he",
-      "groupId": "q31-35"
+      "prompt": "John was first interested in the subject because of something A he had witnessed B he had read about C he had experienced",
+      "groupId": "q31-35",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he had witnessed"
+        },
+        {
+          "letter": "B",
+          "text": "he had read about"
+        },
+        {
+          "letter": "C",
+          "text": "he had experienced 32."
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "A he had witnessed B he had read about C he had experienced 32. The main research method was A interviews B questionnaires C observation A B C 34. How many respondents we",
-      "groupId": "q31-35"
+      "prompt": "The main research method was A interviews B questionnaires C observation A B C 34. How many respondents were there? A 50-100 B 100-150 C 150-200 35. The most common type of road rage incident involved A damage to property B personal violence C verbal abuse",
+      "groupId": "q31-35",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he had witnessed"
+        },
+        {
+          "letter": "B",
+          "text": "he had read about"
+        },
+        {
+          "letter": "C",
+          "text": "he had experienced 32."
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
       "prompt": "Question 33",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he had witnessed"
+        },
+        {
+          "letter": "B",
+          "text": "he had read about"
+        },
+        {
+          "letter": "C",
+          "text": "he had experienced 32."
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "ethod was A interviews B questionnaires C observation A B C 34. How many respondents were there? A 50-100 B 100-150 C 150-200 35. The most common type of road rage incide",
-      "groupId": "q31-35"
+      "prompt": "Question 34",
+      "groupId": "q31-35",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he had witnessed"
+        },
+        {
+          "letter": "B",
+          "text": "he had read about"
+        },
+        {
+          "letter": "C",
+          "text": "he had experienced 32."
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 31-35 Circle the correct letters A-C 31. John was first interested in the subject because of something A he had w",
-      "groupId": "q31-35"
+      "prompt": "Question 35",
+      "groupId": "q31-35",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he had witnessed"
+        },
+        {
+          "letter": "B",
+          "text": "he had read about"
+        },
+        {
+          "letter": "C",
+          "text": "he had experienced 32."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "was mainly men. Tick Column C if it was both men and women. (36) (37) (38) (40)",
-      "groupId": "q36-40"
+      "prompt": "Tick Column A if it was mainly women. Tick Column B if it was mainly men. Tick Column C if it was both men and women. ____",
+      "groupId": "q36-40",
+      "instructions": "Which group gave the following advice? Tick Column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if it was mainly women. Tick Column"
+        },
+        {
+          "letter": "B",
+          "text": "if it was mainly men. Tick Column"
+        },
+        {
+          "letter": "C",
+          "text": "if it was both men and women. (36) (37) (38) (40)"
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "ainly men. Tick Column C if it was both men and women. (36) (37) (38) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Which group gave the following advice? Tick Column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if it was mainly women. Tick Column"
+        },
+        {
+          "letter": "B",
+          "text": "if it was mainly men. Tick Column"
+        },
+        {
+          "letter": "C",
+          "text": "if it was both men and women. (36) (37) (38) (40)"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "men. Tick Column C if it was both men and women. (36) (37) (38) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Which group gave the following advice? Tick Column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if it was mainly women. Tick Column"
+        },
+        {
+          "letter": "B",
+          "text": "if it was mainly men. Tick Column"
+        },
+        {
+          "letter": "C",
+          "text": "if it was both men and women. (36) (37) (38) (40)"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
       "prompt": "Question 39",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Which group gave the following advice? Tick Column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if it was mainly women. Tick Column"
+        },
+        {
+          "letter": "B",
+          "text": "if it was mainly men. Tick Column"
+        },
+        {
+          "letter": "C",
+          "text": "if it was both men and women. (36) (37) (38) (40)"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 36-40 Which group gave the following advice? Tick Column A if it was mainly women. Tick Column B if it was mainly",
-      "groupId": "q36-40"
+      "prompt": "Question 40",
+      "groupId": "q36-40",
+      "instructions": "Which group gave the following advice? Tick Column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if it was mainly women. Tick Column"
+        },
+        {
+          "letter": "B",
+          "text": "if it was mainly men. Tick Column"
+        },
+        {
+          "letter": "C",
+          "text": "if it was both men and women. (36) (37) (38) (40)"
+        }
+      ]
     }
   ],
   "answerKey": {

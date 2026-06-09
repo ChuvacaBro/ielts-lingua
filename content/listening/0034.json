@@ -40,272 +40,460 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Questions 1 and 2 Circle the correct letters. 1. Gavin’s apartment is located on the A ground floor B second floor C thi",
-      "groupId": "q1-2"
+      "prompt": "Gavin’s apartment is located on the A ground floor B second floor C third floor",
+      "groupId": "q1-2",
+      "instructions": "2 Circle the correct letters.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ground floor"
+        },
+        {
+          "letter": "B",
+          "text": "second floor"
+        },
+        {
+          "letter": "C",
+          "text": "third floor 2. The monthly rent for Gavin’s apartment is A $615 B $650 C $655"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Questions 1 and 2 Circle the correct letters. 1. Gavin’s apartment is located on the A ground floor B second floor C third flo",
-      "groupId": "q1-2"
+      "prompt": "The monthly rent for Gavin’s apartment is A $615 B $650 C $655",
+      "groupId": "q1-2",
+      "instructions": "2 Circle the correct letters.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ground floor"
+        },
+        {
+          "letter": "B",
+          "text": "second floor"
+        },
+        {
+          "letter": "C",
+          "text": "third floor 2. The monthly rent for Gavin’s apartment is A $615 B $650 C $655"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN THREE WORDS for each answer. (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 3-6 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q3-6"
+      "groupId": "q3-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "for each answer. INSURANCE APPLICATION FORM Name: Mr Gavin (7) Address: (8) Biggins Street (9) Date of Birth: 12th November 1980 Telephone: Home – 9872 4855 Nationality:",
+      "prompt": "INSURANCE APPLICATION FORM Name: Mr Gavin ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer. INSURANCE APPLICATION FORM Name: Mr Gavin"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "wer. INSURANCE APPLICATION FORM Name: Mr Gavin (7) Address: (8) Biggins Street (9) Date of Birth: 12th November 1980 Telephone: Home – 9872 4855 Nationality: (10) Part 2:",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer. INSURANCE APPLICATION FORM Name: Mr Gavin"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "ICATION FORM Name: Mr Gavin (7) Address: (8) Biggins Street (9) Date of Birth: 12th November 1980 Telephone: Home – 9872 4855 Nationality: (10) Part 2:",
+      "prompt": "Biggins Street ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer. INSURANCE APPLICATION FORM Name: Mr Gavin"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 7-10 Complete the form below. Write NO MORE THAN THREE WORDS for each answer. INSURANCE APPLICATION FORM Name: M",
+      "prompt": "Date of Birth: 12th November 1980 Telephone: Home – 9872 4855 Nationality: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS for each answer. INSURANCE APPLICATION FORM Name: Mr Gavin"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11 Circle the correct letter A-D. 11. Smith House was originally built as A a residential college B a family h",
-      "groupId": "q11-11"
+      "prompt": "Smith House was originally built as A a residential college B a family house C a university D an office block",
+      "groupId": "q11-11",
+      "instructions": "Circle the correct letter A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a residential college"
+        },
+        {
+          "letter": "B",
+          "text": "a family house"
+        },
+        {
+          "letter": "C",
+          "text": "a university"
+        },
+        {
+          "letter": "D",
+          "text": "an office block"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "oom number. Write NO MORE THAN THREE WORDS for each answer. (12) (13) (14)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-14"
+      "groupId": "q12-14",
+      "instructions": "Complete the explanation of the room number. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "umber. Write NO MORE THAN THREE WORDS for each answer. (12) (13) (14)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-14"
+      "groupId": "q12-14",
+      "instructions": "Complete the explanation of the room number. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 12-14 Complete the explanation of the room number. Write NO MORE THAN THREE WORDS for each answer. (12) (13) (14)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q12-14"
+      "groupId": "q12-14",
+      "instructions": "Complete the explanation of the room number. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "S for each answer. • Students need a front door key between (15) and • In an emergency, students should use (16) • Fees also cover some (17) charges",
+      "prompt": "• Students need a front door key between ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. • Students need a front door key between"
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "key between (15) and • In an emergency, students should use (16) • Fees also cover some (17) charges",
+      "prompt": "and • In an emergency, students should use ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. • Students need a front door key between"
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 15-17 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. • Students need a front door",
+      "prompt": "• Fees also cover some ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. • Students need a front door key between"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "OUSE RULES • No noise after 9 pm. • Smoking only allowed on (18) • No changes can be made to (19) If you have any questions, ask the (20) Part 3:",
+      "prompt": "HOUSE RULES • No noise after 9 pm. • Smoking only allowed on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notice below. Write NO MORE THAN THREE WORDS for each answer. HOUSE RULES • No noise after 9 pm. • Smoking only allowed on"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "• Smoking only allowed on (18) • No changes can be made to (19) If you have any questions, ask the (20) Part 3:",
+      "prompt": "• No changes can be made to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notice below. Write NO MORE THAN THREE WORDS for each answer. HOUSE RULES • No noise after 9 pm. • Smoking only allowed on"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Complete the notice below. Write NO MORE THAN THREE WORDS for each answer. HOUSE RULES • No noise after 9 p",
+      "prompt": "If you have any questions, ask the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notice below. Write NO MORE THAN THREE WORDS for each answer. HOUSE RULES • No noise after 9 pm. • Smoking only allowed on"
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "Questions 21-25 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "tapes",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letters A-C against question 26-30. According to the speakers, in which situation are the following media most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "individual children"
+        },
+        {
+          "letter": "B",
+          "text": "five or six children"
+        },
+        {
+          "letter": "C",
+          "text": "whole class 26. tapes 27. computers 28. videos 29. books 30. wall maps Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "computers",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letters A-C against question 26-30. According to the speakers, in which situation are the following media most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "individual children"
+        },
+        {
+          "letter": "B",
+          "text": "five or six children"
+        },
+        {
+          "letter": "C",
+          "text": "whole class 26. tapes 27. computers 28. videos 29. books 30. wall maps Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "videos",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letters A-C against question 26-30. According to the speakers, in which situation are the following media most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "individual children"
+        },
+        {
+          "letter": "B",
+          "text": "five or six children"
+        },
+        {
+          "letter": "C",
+          "text": "whole class 26. tapes 27. computers 28. videos 29. books 30. wall maps Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "books",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letters A-C against question 26-30. According to the speakers, in which situation are the following media most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "individual children"
+        },
+        {
+          "letter": "B",
+          "text": "five or six children"
+        },
+        {
+          "letter": "C",
+          "text": "whole class 26. tapes 27. computers 28. videos 29. books 30. wall maps Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Write the appropriate letters A-C against",
-      "groupId": "q26-30"
+      "prompt": "wall maps",
+      "groupId": "q26-30",
+      "instructions": "Write the appropriate letters A-C against question 26-30. According to the speakers, in which situation are the following media most useful?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "individual children"
+        },
+        {
+          "letter": "B",
+          "text": "five or six children"
+        },
+        {
+          "letter": "C",
+          "text": "whole class 26. tapes 27. computers 28. videos 29. books 30. wall maps Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Question 31 Circle the correct letter A-D. 31. What percentage of the workforce were employed in agriculture in the mid",
-      "groupId": "q31-31"
+      "prompt": "What percentage of the workforce were employed in agriculture in the mid 1900s? A 3% B 10% C 20% D 50%",
+      "groupId": "q31-31",
+      "instructions": "Circle the correct letter A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "3%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "20%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "Questions 32 and 33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Three factors contributing",
+      "prompt": "to the efficiency of the agriculture sector are: • 50-60 years of intelligent state support • The quality of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-33"
+      "groupId": "q32-33",
+      "instructions": "33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Three factors contributing to the efficiency of the agriculture sector are: • 50-60 years of intelligent state support • The quality of"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "Questions 32 and 33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Three factors contributing to the",
+      "prompt": "among those employed • The farmer’s investment in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-33"
+      "groupId": "q32-33",
+      "instructions": "33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Three factors contributing to the efficiency of the agriculture sector are: • 50-60 years of intelligent state support • The quality of"
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "Questions 34 – 39 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "Questions 34 – 39 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-39"
+      "groupId": "q34-39",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40 Circle the correct letter A-C 40. Farmers have a strong sense of solidarity because A the media supports th",
-      "groupId": "q40-40"
+      "prompt": "Farmers have a strong sense of solidarity because A the media supports them B they have a strong Union C they have countrywide interests",
+      "groupId": "q40-40",
+      "instructions": "Circle the correct letter A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the media supports them"
+        },
+        {
+          "letter": "B",
+          "text": "they have a strong Union"
+        },
+        {
+          "letter": "C",
+          "text": "they have countrywide interests"
+        }
+      ]
     }
   ],
   "answerKey": {

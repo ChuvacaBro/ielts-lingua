@@ -40,245 +40,889 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Questions 1-4 1. The respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,000",
-      "groupId": "q1-4"
+      "prompt": "The respondent works in A the professions B business C other",
+      "groupId": "q1-4",
+      "instructions": "Questions 1-4",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the professions"
+        },
+        {
+          "letter": "B",
+          "text": "business"
+        },
+        {
+          "letter": "C",
+          "text": "other 2."
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "he respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,000 a year B £ 15,000-35,000 a year C over £35,000 a year 3. The re",
-      "groupId": "q1-4"
+      "prompt": "The respondent has a salary of A £ 0-15,000 a year B £ 15,000-35,000 a year C over £35,000 a year",
+      "groupId": "q1-4",
+      "instructions": "Questions 1-4",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the professions"
+        },
+        {
+          "letter": "B",
+          "text": "business"
+        },
+        {
+          "letter": "C",
+          "text": "other 2."
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "5,000 a year B £ 15,000-35,000 a year C over £35,000 a year 3. The respondent watched TV for A relaxation B entertainment C information 4. Every day the respondent watche",
-      "groupId": "q1-4"
+      "prompt": "The respondent watched TV for A relaxation B entertainment C information",
+      "groupId": "q1-4",
+      "instructions": "Questions 1-4",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the professions"
+        },
+        {
+          "letter": "B",
+          "text": "business"
+        },
+        {
+          "letter": "C",
+          "text": "other 2."
+        }
+      ]
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "Questions 1-4 1. The respondent works in A the professions B business C other 2. The respondent has a salary of A £ 0-15,0",
-      "groupId": "q1-4"
+      "prompt": "Every day the respondent watches TV for A 30 min – 1 hour B 1 hour – 2 hours C more than 2 hours",
+      "groupId": "q1-4",
+      "instructions": "Questions 1-4",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the professions"
+        },
+        {
+          "letter": "B",
+          "text": "business"
+        },
+        {
+          "letter": "C",
+          "text": "other 2."
+        }
+      ]
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 5-7 Choose TWO letters A-E 5. The respondent mainly watches TV A in the early morning B around midday C in the afternoon D in the early e",
-      "groupId": "q5-7"
+      "prompt": "The respondent mainly watches TV A in the early morning B around midday C in the afternoon D in the early evening E at night",
+      "groupId": "q5-7",
+      "instructions": "Choose TWO letters A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the early morning"
+        },
+        {
+          "letter": "B",
+          "text": "around midday"
+        },
+        {
+          "letter": "C",
+          "text": "in the afternoon"
+        },
+        {
+          "letter": "D",
+          "text": "in the early evening"
+        },
+        {
+          "letter": "E",
+          "text": "at night 6."
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "midday C in the afternoon D in the early evening E at night 6. On the new channel the respondent would like to see more A children’s programmes B documentaries C local se",
-      "groupId": "q5-7"
+      "prompt": "On the new channel the respondent would like to see more A children’s programmes B documentaries C local service programmes D travel programmes E health programmes",
+      "groupId": "q5-7",
+      "instructions": "Choose TWO letters A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the early morning"
+        },
+        {
+          "letter": "B",
+          "text": "around midday"
+        },
+        {
+          "letter": "C",
+          "text": "in the afternoon"
+        },
+        {
+          "letter": "D",
+          "text": "in the early evening"
+        },
+        {
+          "letter": "E",
+          "text": "at night 6."
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 5-7 Choose TWO letters A-E 5. The respondent mainly watches TV A in the early morning B around midday C in the a",
-      "groupId": "q5-7"
+      "prompt": "The respondent would advise the new channel to A spend more money on drama B train their broadcasters to higher standards C improve sound quality D broadcast interviews with famous people E talk more to customers",
+      "groupId": "q5-7",
+      "instructions": "Choose TWO letters A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the early morning"
+        },
+        {
+          "letter": "B",
+          "text": "around midday"
+        },
+        {
+          "letter": "C",
+          "text": "in the afternoon"
+        },
+        {
+          "letter": "D",
+          "text": "in the early evening"
+        },
+        {
+          "letter": "E",
+          "text": "at night 6."
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Circle the correct letter A-C 8. The respondent feels that adverts should occur only A 10 minutes B 15 minutes C 20 minutes 9. The responden",
-      "groupId": "q8-10"
+      "prompt": "The respondent feels that adverts should occur only A 10 minutes B 15 minutes C 20 minutes",
+      "groupId": "q8-10",
+      "instructions": "Circle the correct letter A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "10 minutes"
+        },
+        {
+          "letter": "B",
+          "text": "15 minutes"
+        },
+        {
+          "letter": "C",
+          "text": "20 minutes 9."
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "ts should occur only A 10 minutes B 15 minutes C 20 minutes 9. The respondent would like to attend special promotions if A expenses are paid B he is invited specially C t",
-      "groupId": "q8-10"
+      "prompt": "The respondent would like to attend special promotions if A expenses are paid B he is invited specially C they are held locally",
+      "groupId": "q8-10",
+      "instructions": "Circle the correct letter A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "10 minutes"
+        },
+        {
+          "letter": "B",
+          "text": "15 minutes"
+        },
+        {
+          "letter": "C",
+          "text": "20 minutes 9."
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Circle the correct letter A-C 8. The respondent feels that adverts should occur only A 10 minutes B 15 minu",
-      "groupId": "q8-10"
+      "prompt": "The respondent would like to receive A no mail B requested mail C all mail",
+      "groupId": "q8-10",
+      "instructions": "Circle the correct letter A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "10 minutes"
+        },
+        {
+          "letter": "B",
+          "text": "15 minutes"
+        },
+        {
+          "letter": "C",
+          "text": "20 minutes 9."
+        }
+      ]
     },
     {
       "number": 11,
       "type": "gapFill",
       "prompt": "Question 11",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "raising money for good causes"
+        },
+        {
+          "letter": "B",
+          "text": "political campaigning"
+        },
+        {
+          "letter": "C",
+          "text": "running a new agency"
+        },
+        {
+          "letter": "D",
+          "text": "running a supermarket"
+        },
+        {
+          "letter": "E",
+          "text": "providing cheap tickets"
+        },
+        {
+          "letter": "F",
+          "text": "helping with accommodation"
+        },
+        {
+          "letter": "G",
+          "text": "providing catering services"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "raising money for good causes"
+        },
+        {
+          "letter": "B",
+          "text": "political campaigning"
+        },
+        {
+          "letter": "C",
+          "text": "running a new agency"
+        },
+        {
+          "letter": "D",
+          "text": "running a supermarket"
+        },
+        {
+          "letter": "E",
+          "text": "providing cheap tickets"
+        },
+        {
+          "letter": "F",
+          "text": "helping with accommodation"
+        },
+        {
+          "letter": "G",
+          "text": "providing catering services"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "raising money for good causes"
+        },
+        {
+          "letter": "B",
+          "text": "political campaigning"
+        },
+        {
+          "letter": "C",
+          "text": "running a new agency"
+        },
+        {
+          "letter": "D",
+          "text": "running a supermarket"
+        },
+        {
+          "letter": "E",
+          "text": "providing cheap tickets"
+        },
+        {
+          "letter": "F",
+          "text": "helping with accommodation"
+        },
+        {
+          "letter": "G",
+          "text": "providing catering services"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker? A raising money fo",
-      "groupId": "q11-14"
+      "prompt": "Question 14",
+      "groupId": "q11-14",
+      "instructions": "Circle FOUR letters A-G Which FOUR activities of the Union are mentioned by the speaker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "raising money for good causes"
+        },
+        {
+          "letter": "B",
+          "text": "political campaigning"
+        },
+        {
+          "letter": "C",
+          "text": "running a new agency"
+        },
+        {
+          "letter": "D",
+          "text": "running a supermarket"
+        },
+        {
+          "letter": "E",
+          "text": "providing cheap tickets"
+        },
+        {
+          "letter": "F",
+          "text": "helping with accommodation"
+        },
+        {
+          "letter": "G",
+          "text": "providing catering services"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 15 and 16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union? A immigra",
-      "groupId": "q15-16"
+      "prompt": "Question 15",
+      "groupId": "q15-16",
+      "instructions": "16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "immigration"
+        },
+        {
+          "letter": "B",
+          "text": "grants"
+        },
+        {
+          "letter": "C",
+          "text": "medical problems"
+        },
+        {
+          "letter": "D",
+          "text": "personal problems"
+        },
+        {
+          "letter": "E",
+          "text": "legal matters"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 15 and 16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union? A immigration B",
-      "groupId": "q15-16"
+      "prompt": "Question 16",
+      "groupId": "q15-16",
+      "instructions": "16 Circle TWO letters A-E Which TWO of the following can you get advice about from the Union?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "immigration"
+        },
+        {
+          "letter": "B",
+          "text": "grants"
+        },
+        {
+          "letter": "C",
+          "text": "medical problems"
+        },
+        {
+          "letter": "D",
+          "text": "personal problems"
+        },
+        {
+          "letter": "E",
+          "text": "legal matters"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "the hi-tech fitness centre",
+      "groupId": "q17-20",
+      "instructions": "Write the appropriate letters A-C against questions 17-20. What are the locations of the following places in Radford?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "part of the Metro Tower Building"
+        },
+        {
+          "letter": "B",
+          "text": "in the main square in the centre of the town"
+        },
+        {
+          "letter": "C",
+          "text": "some distance from the centre of the town 17. the hi-tech fitness centre 18. the ice rink 19. the new cinema 20. the Theatre Royal Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "the ice rink",
+      "groupId": "q17-20",
+      "instructions": "Write the appropriate letters A-C against questions 17-20. What are the locations of the following places in Radford?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "part of the Metro Tower Building"
+        },
+        {
+          "letter": "B",
+          "text": "in the main square in the centre of the town"
+        },
+        {
+          "letter": "C",
+          "text": "some distance from the centre of the town 17. the hi-tech fitness centre 18. the ice rink 19. the new cinema 20. the Theatre Royal Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "the new cinema",
+      "groupId": "q17-20",
+      "instructions": "Write the appropriate letters A-C against questions 17-20. What are the locations of the following places in Radford?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "part of the Metro Tower Building"
+        },
+        {
+          "letter": "B",
+          "text": "in the main square in the centre of the town"
+        },
+        {
+          "letter": "C",
+          "text": "some distance from the centre of the town 17. the hi-tech fitness centre 18. the ice rink 19. the new cinema 20. the Theatre Royal Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 Write the appropriate letters A-C against",
-      "groupId": "q17-20"
+      "prompt": "the Theatre Royal",
+      "groupId": "q17-20",
+      "instructions": "Write the appropriate letters A-C against questions 17-20. What are the locations of the following places in Radford?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "part of the Metro Tower Building"
+        },
+        {
+          "letter": "B",
+          "text": "in the main square in the centre of the town"
+        },
+        {
+          "letter": "C",
+          "text": "some distance from the centre of the town 17. the hi-tech fitness centre 18. the ice rink 19. the new cinema 20. the Theatre Royal Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "BER for each answer. DISSERTATION INFORMATION Hand-in-date: (21) Length: (22) to Extra programme offered on: (23)",
+      "prompt": "DISSERTATION INFORMATION Hand-in-date: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. DISSERTATION INFORMATION Hand-in-date:"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "answer. DISSERTATION INFORMATION Hand-in-date: (21) Length: (22) to Extra programme offered on: (23)",
+      "prompt": "Length: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. DISSERTATION INFORMATION Hand-in-date:"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "Questions 21-23 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. DISSERTATION INFORMAT",
+      "prompt": "to Extra programme offered on: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. DISSERTATION INFORMATION Hand-in-date:"
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
-      "groupId": "q24-26"
+      "prompt": "____",
+      "groupId": "q24-26",
+      "instructions": "Complete the table below."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
-      "groupId": "q24-26"
+      "prompt": "____",
+      "groupId": "q24-26",
+      "instructions": "Complete the table below."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Question 24-26 Complete the table below. (24) (25) (26)",
-      "groupId": "q24-26"
+      "prompt": "____",
+      "groupId": "q24-26",
+      "instructions": "Complete the table below."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "no strong opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "Tick column A if he is in favour Tick column B if he has no strong opinion either way Tick column C if he is against ____",
+      "groupId": "q27-30",
+      "instructions": "What is Dr Simon’s opinions on the following points? Tick column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if he is in favour Tick column"
+        },
+        {
+          "letter": "B",
+          "text": "if he has no strong opinion either way Tick column"
+        },
+        {
+          "letter": "C",
+          "text": "if he is against (27) (28) (29) (30) Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "rong opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What is Dr Simon’s opinions on the following points? Tick column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if he is in favour Tick column"
+        },
+        {
+          "letter": "B",
+          "text": "if he has no strong opinion either way Tick column"
+        },
+        {
+          "letter": "C",
+          "text": "if he is against (27) (28) (29) (30) Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "opinion either way Tick column C if he is against (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What is Dr Simon’s opinions on the following points? Tick column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if he is in favour Tick column"
+        },
+        {
+          "letter": "B",
+          "text": "if he has no strong opinion either way Tick column"
+        },
+        {
+          "letter": "C",
+          "text": "if he is against (27) (28) (29) (30) Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What is Dr Simon’s opinions on the following points? Tick column A if he is in favour Tick column B if he h",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What is Dr Simon’s opinions on the following points? Tick column",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "if he is in favour Tick column"
+        },
+        {
+          "letter": "B",
+          "text": "if he has no strong opinion either way Tick column"
+        },
+        {
+          "letter": "C",
+          "text": "if he is against (27) (28) (29) (30) Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31-37 Circle the correct letters A-C 31. The driest continent is A Australia B Africa C Antarctica 32. The evaporation rate in Australia is A lower",
-      "groupId": "q31-37"
+      "prompt": "The driest continent is A Australia B Africa C Antarctica",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": ". The driest continent is A Australia B Africa C Antarctica 32. The evaporation rate in Australia is A lower than Africa B higher than Africa C about the same as Africa 3",
-      "groupId": "q31-37"
+      "prompt": "The evaporation rate in Australia is A lower than Africa B higher than Africa C about the same as Africa",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "than Africa B higher than Africa C about the same as Africa 33. Rainfall in Australia hardly penetrates the soil because A the soil is too hard B the soil is too hot C pl",
-      "groupId": "q31-37"
+      "prompt": "Rainfall in Australia hardly penetrates the soil because A the soil is too hard B the soil is too hot C plants use it up",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "e soil is too hard B the soil is too hot C plants use it up 34. In sandy soils water can A evaporate quickly B seep down to rock C wash the soil away 35. Water is mainly",
-      "groupId": "q31-37"
+      "prompt": "In sandy soils water can A evaporate quickly B seep down to rock C wash the soil away",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "evaporate quickly B seep down to rock C wash the soil away 35. Water is mainly pumped up for A people to drink B animals to drink C watering crops 36. Natural springs ar",
-      "groupId": "q31-37"
+      "prompt": "Water is mainly pumped up for A people to drink B animals to drink C watering crops",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "p for A people to drink B animals to drink C watering crops 36. Natural springs are located A in unexplored parts of Australia B quite commonly over all Australia C in a",
-      "groupId": "q31-37"
+      "prompt": "Natural springs are located A in unexplored parts of Australia B quite commonly over all Australia C in a few areas of Australia",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 31-37 Circle the correct letters A-C 31. The driest continent is A Australia B Africa C Antarctica 32. The evapor",
-      "groupId": "q31-37"
+      "prompt": "Underground water supplies A 18% of Australia’s water B 48% of Australia’s water C 80% of Australia’s water",
+      "groupId": "q31-37",
+      "instructions": "Circle the correct letters A-C",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Australia"
+        },
+        {
+          "letter": "B",
+          "text": "Africa"
+        },
+        {
+          "letter": "C",
+          "text": "Antarctica 32."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
       "prompt": "Question 38",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Circle THREE letters A-E Which THREE of the following uses of dam water are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "providing water for livestock"
+        },
+        {
+          "letter": "B",
+          "text": "watering farmland"
+        },
+        {
+          "letter": "C",
+          "text": "providing water for industry"
+        },
+        {
+          "letter": "D",
+          "text": "controlling flood water"
+        },
+        {
+          "letter": "E",
+          "text": "producing hydro-electric power"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
       "prompt": "Question 39",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Circle THREE letters A-E Which THREE of the following uses of dam water are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "providing water for livestock"
+        },
+        {
+          "letter": "B",
+          "text": "watering farmland"
+        },
+        {
+          "letter": "C",
+          "text": "providing water for industry"
+        },
+        {
+          "letter": "D",
+          "text": "controlling flood water"
+        },
+        {
+          "letter": "E",
+          "text": "producing hydro-electric power"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 38-40 Circle THREE letters A-E Which THREE of the following uses of dam water are mentioned? A providing water fo",
-      "groupId": "q38-40"
+      "prompt": "Question 40",
+      "groupId": "q38-40",
+      "instructions": "Circle THREE letters A-E Which THREE of the following uses of dam water are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "providing water for livestock"
+        },
+        {
+          "letter": "B",
+          "text": "watering farmland"
+        },
+        {
+          "letter": "C",
+          "text": "providing water for industry"
+        },
+        {
+          "letter": "D",
+          "text": "controlling flood water"
+        },
+        {
+          "letter": "E",
+          "text": "producing hydro-electric power"
+        }
+      ]
     }
   ],
   "answerKey": {

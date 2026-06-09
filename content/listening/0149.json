@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "and 2 Choose the correct letter A, B or C. 1. In the lobby of the library George saw",
+      "stem": "In the lobby of the library George saw",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "a video about the festival"
         }
       ],
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,133 +76,286 @@
           "text": "pay less"
         }
       ],
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C."
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "e the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "e form below. Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "rm below. Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": ". Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 3-10 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM 11. The museum closes at p.m. on Mondays. 12. The museum is not open on 13. School groups are met by tour guid",
+      "prompt": "The museum closes at p.m. on Mondays.",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "E DINOSAUR MUSEUM 11. The museum closes at p.m. on Mondays. 12. The museum is not open on 13. School groups are met by tour guides in the 14. The whole visit takes 90 min",
+      "prompt": "The museum is not open on",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "um closes at p.m. on Mondays. 12. The museum is not open on 13. School groups are met by tour guides in the 14. The whole visit takes 90 minutes, including minutes for th",
+      "prompt": "School groups are met by tour guides in the",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "not open on 13. School groups are met by tour guides in the 14. The whole visit takes 90 minutes, including minutes for the guided tour. 15. There are behind the museum w",
+      "prompt": "The whole visit takes 90 minutes, including minutes for the guided tour.",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM 11. The museum",
+      "prompt": "There are behind the museum where students can have lunch.",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE DINOSAUR MUSEUM"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Choose THREE letter A-G. Which THREE things can students have with them in the museum?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "food"
+        },
+        {
+          "letter": "B",
+          "text": "water"
+        },
+        {
+          "letter": "C",
+          "text": "cameras"
+        },
+        {
+          "letter": "D",
+          "text": "books"
+        },
+        {
+          "letter": "E",
+          "text": "bags"
+        },
+        {
+          "letter": "F",
+          "text": "pens"
+        },
+        {
+          "letter": "G",
+          "text": "worksheets"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Choose THREE letter A-G. Which THREE things can students have with them in the museum?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "food"
+        },
+        {
+          "letter": "B",
+          "text": "water"
+        },
+        {
+          "letter": "C",
+          "text": "cameras"
+        },
+        {
+          "letter": "D",
+          "text": "books"
+        },
+        {
+          "letter": "E",
+          "text": "bags"
+        },
+        {
+          "letter": "F",
+          "text": "pens"
+        },
+        {
+          "letter": "G",
+          "text": "worksheets"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 16-18 Choose THREE letter A-G. Which THREE things can students have with them in the museum? A food B water C cam",
-      "groupId": "q16-18"
+      "prompt": "Question 18",
+      "groupId": "q16-18",
+      "instructions": "Choose THREE letter A-G. Which THREE things can students have with them in the museum?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "food"
+        },
+        {
+          "letter": "B",
+          "text": "water"
+        },
+        {
+          "letter": "C",
+          "text": "cameras"
+        },
+        {
+          "letter": "D",
+          "text": "books"
+        },
+        {
+          "letter": "E",
+          "text": "bags"
+        },
+        {
+          "letter": "F",
+          "text": "pens"
+        },
+        {
+          "letter": "G",
+          "text": "worksheets"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO activities can students do after the tour at present? A build mode",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO activities can students do after the tour at present?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "build model dinosaurs"
+        },
+        {
+          "letter": "B",
+          "text": "watch films"
+        },
+        {
+          "letter": "C",
+          "text": "draw dinosaurs"
+        },
+        {
+          "letter": "D",
+          "text": "find dinosaur eggs"
+        },
+        {
+          "letter": "E",
+          "text": "play computer games Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO activities can students do after the tour at present? A build model dinos",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO activities can students do after the tour at present?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "build model dinosaurs"
+        },
+        {
+          "letter": "B",
+          "text": "watch films"
+        },
+        {
+          "letter": "C",
+          "text": "draw dinosaurs"
+        },
+        {
+          "letter": "D",
+          "text": "find dinosaur eggs"
+        },
+        {
+          "letter": "E",
+          "text": "play computer games Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter A, B or C. Field Trip Proposal 21. The tutor thinks that Sandra’s proposal",
+      "stem": "The tutor thinks that Sandra’s proposal",
       "options": [
         {
           "letter": "A",
@@ -216,7 +370,8 @@
           "text": "ought to include more information"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Field Trip Proposal"
     },
     {
       "number": 22,
@@ -236,7 +391,8 @@
           "text": "shortened her sentences"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Field Trip Proposal"
     },
     {
       "number": 23,
@@ -256,7 +412,8 @@
           "text": "Page numbering was not used in an appropriate way"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Field Trip Proposal"
     },
     {
       "number": 24,
@@ -276,116 +433,223 @@
           "text": "photographs she found on the internet"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Field Trip Proposal"
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-27"
+      "groupId": "q25-27",
+      "instructions": "Which THREE topics does Sandra agree to include in the proposal?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "climate change"
+        },
+        {
+          "letter": "B",
+          "text": "field trip activities"
+        },
+        {
+          "letter": "C",
+          "text": "geographical features"
+        },
+        {
+          "letter": "D",
+          "text": "impact of tourism"
+        },
+        {
+          "letter": "E",
+          "text": "myths and legends"
+        },
+        {
+          "letter": "F",
+          "text": "plant and animal life"
+        },
+        {
+          "letter": "G",
+          "text": "social history"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-27"
+      "groupId": "q25-27",
+      "instructions": "Which THREE topics does Sandra agree to include in the proposal?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "climate change"
+        },
+        {
+          "letter": "B",
+          "text": "field trip activities"
+        },
+        {
+          "letter": "C",
+          "text": "geographical features"
+        },
+        {
+          "letter": "D",
+          "text": "impact of tourism"
+        },
+        {
+          "letter": "E",
+          "text": "myths and legends"
+        },
+        {
+          "letter": "F",
+          "text": "plant and animal life"
+        },
+        {
+          "letter": "G",
+          "text": "social history"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 25-27 Which THREE topics does Sandra agree to include in the proposal? A climate change B field trip activities C",
-      "groupId": "q25-27"
+      "prompt": "Question 27",
+      "groupId": "q25-27",
+      "instructions": "Which THREE topics does Sandra agree to include in the proposal?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "climate change"
+        },
+        {
+          "letter": "B",
+          "text": "field trip activities"
+        },
+        {
+          "letter": "C",
+          "text": "geographical features"
+        },
+        {
+          "letter": "D",
+          "text": "impact of tourism"
+        },
+        {
+          "letter": "E",
+          "text": "myths and legends"
+        },
+        {
+          "letter": "F",
+          "text": "plant and animal life"
+        },
+        {
+          "letter": "G",
+          "text": "social history"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "0 Complete the sentences below. Write ONE WORD OR A NUMBER. 28. The tribal park covers hectares. 29. Sandra suggests that they share the for transport. 30. She says they",
+      "prompt": "The tribal park covers hectares.",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "ONE WORD OR A NUMBER. 28. The tribal park covers hectares. 29. Sandra suggests that they share the for transport. 30. She says they could also explore the local Part 4:",
+      "prompt": "Sandra suggests that they share the for transport.",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 28-30 Complete the sentences below. Write ONE WORD OR A NUMBER. 28. The tribal park covers hectares. 29. Sandra s",
+      "prompt": "She says they could also explore the local",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "to understand: • The effects of different processes on the (31) of the Earth • The dynamic between (32) and population Two main branches of study: • Physical features •",
+      "prompt": "Studying geography helps us to understand: • The effects of different processes on the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "nt processes on the (31) of the Earth • The dynamic between (32) and population Two main branches of study: • Physical features • Human lifestyles and their (33) Specific",
+      "prompt": "of the Earth • The dynamic between ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "of study: • Physical features • Human lifestyles and their (33) Specific study areas: • Biophysical, topographic, political, social, economic, historical and (34) geogra",
+      "prompt": "and population Two main branches of study: • Physical features • Human lifestyles and their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "l, topographic, political, social, economic, historical and (34) geography and also cartography Key point: • Geography helps us to understand our surroundings and the ass",
+      "prompt": "Specific study areas: • Biophysical, topographic, political, social, economic, historical and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "helps us to understand our surroundings and the associated (35) What do the geographers do? • Find data e.g. conduct censuses, collect information in the form of (36) us",
+      "prompt": "geography and also cartography Key point: • Geography helps us to understand our surroundings and the associated ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "a e.g. conduct censuses, collect information in the form of (36) using computer and satellite technology • Analyse data – identify (37) e.g. cause and effect • Publish fi",
+      "prompt": "What do the geographers do? • Find data e.g. conduct censuses, collect information in the form of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "computer and satellite technology • Analyse data – identify (37) e.g. cause and effect • Publish findings in the form of: o Maps  Easy to carry  Can show physical featu",
+      "prompt": "using computer and satellite technology • Analyse data – identify ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "all areas  But a two-dimensional map will always have some (38) o Aerial photos  Can show vegetation problems (39) density, ocean, floor etc. o Landsat pictures sent to",
+      "prompt": " Easy to carry  Can show physical features of large and small areas  But a two-dimensional map will always have some ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ve some (38) o Aerial photos  Can show vegetation problems (39) density, ocean, floor etc. o Landsat pictures sent to receiving stations  Used for monitoring (40) condi",
+      "prompt": "o Aerial photos  Can show vegetation problems ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of",
+      "prompt": "density, ocean, floor etc. o Landsat pictures sent to receiving stations  Used for monitoring ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Studying geography helps us to understand: • The effects of different processes on the"
     }
   ],
   "answerKey": {

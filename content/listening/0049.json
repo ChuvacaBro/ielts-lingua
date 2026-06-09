@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-5 Choose the correct letter A, B or C. 1. What is Harry’s problem?",
+      "stem": "What is Harry’s problem?",
       "options": [
         {
           "letter": "A",
@@ -55,16 +55,38 @@
           "text": "he wants to take everything to England"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
+      "type": "gapFill",
+      "prompt": "Which of the items below does Harry want to sell? A B C",
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "he does not want to sell his things"
+        },
+        {
+          "letter": "B",
+          "text": "he needs to decide what to do with his possessions"
+        },
+        {
+          "letter": "C",
+          "text": "he wants to take everything to England 2."
+        }
+      ]
+    },
+    {
+      "number": 3,
       "type": "multipleChoice",
-      "stem": "Which of the items below does Harry want to sell?",
+      "stem": "Where is Harry going to advertise his books for sale?",
       "options": [
         {
           "letter": "A",
-          "text": "B C 3. Where is Harry going to advertise his books for sale? A In the university bookshop."
+          "text": "In the university bookshop."
         },
         {
           "letter": "B",
@@ -75,18 +97,13 @@
           "text": "in the economics department"
         }
       ],
-      "groupId": "q1-5"
-    },
-    {
-      "number": 3,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 3"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "multipleChoice",
-      "stem": "Andrea thinks it is unlikely students will buy the furniture because…",
+      "stem": "Andrea thinks it is unlikely students will buy the furniture because ____",
       "options": [
         {
           "letter": "A",
@@ -101,12 +118,13 @@
           "text": "it’s the summer vacation."
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
       "type": "multipleChoice",
-      "stem": "Andrea thinks that a second hand shop…",
+      "stem": "Andrea thinks that a second hand shop ____",
       "options": [
         {
           "letter": "A",
@@ -121,47 +139,53 @@
           "text": "may only take free goods"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Harry’s notes using NO MORE THAN TWO WORDS. Things to do: • (6) furniture etc. in Trading Post • (7) or sell kitchen things • Get (8) first from second hand shop • Give c",
+      "prompt": "Things to do: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: •"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "WORDS. Things to do: • (6) furniture etc. in Trading Post • (7) or sell kitchen things • Get (8) first from second hand shop • Give clothes to (9) shop • (10) fridge and",
+      "prompt": "furniture etc. in Trading Post • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: •"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "ure etc. in Trading Post • (7) or sell kitchen things • Get (8) first from second hand shop • Give clothes to (9) shop • (10) fridge and microwave to Andrea Part 2:",
+      "prompt": "or sell kitchen things • Get ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: •"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "ngs • Get (8) first from second hand shop • Give clothes to (9) shop • (10) fridge and microwave to Andrea Part 2:",
+      "prompt": "first from second hand shop • Give clothes to ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: •"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: • (6) furniture etc. in Trading Post • (",
+      "prompt": "shop • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete Harry’s notes using NO MORE THAN TWO WORDS. Things to do: •"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. What can visitors use free of charge?",
+      "stem": "What can visitors use free of charge?",
       "options": [
         {
           "letter": "A",
@@ -176,7 +200,8 @@
           "text": "coats and bags"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -196,7 +221,8 @@
           "text": "postcards"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -216,7 +242,8 @@
           "text": "1994"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -236,75 +263,85 @@
           "text": "at the same time as the Celts"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "summaryCompletion",
-      "prompt": "E WORDS AND/ OR A NUMBER for each answer. The Great Bath is (15) deep. Around the bath area are alcoves where there were (16) and tables where bathers could relax. The wa",
+      "prompt": "The Great Bath is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 16,
       "type": "summaryCompletion",
-      "prompt": "15) deep. Around the bath area are alcoves where there were (16) and tables where bathers could relax. The water temperature of the Sacred Spring is (17) The water is ric",
+      "prompt": "deep. Around the bath area are alcoves where there were ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 17,
       "type": "summaryCompletion",
-      "prompt": "could relax. The water temperature of the Sacred Spring is (17) The water is rich in (18) In Roman times, the Sacred Spring was well known for its (19) The Temple was co",
+      "prompt": "and tables where bathers could relax. The water temperature of the Sacred Spring is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 18,
       "type": "summaryCompletion",
-      "prompt": "mperature of the Sacred Spring is (17) The water is rich in (18) In Roman times, the Sacred Spring was well known for its (19) The Temple was constructed between (20) Par",
+      "prompt": "The water is rich in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 19,
       "type": "summaryCompletion",
-      "prompt": "8) In Roman times, the Sacred Spring was well known for its (19) The Temple was constructed between (20) Part 3:",
+      "prompt": "In Roman times, the Sacred Spring was well known for its ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 20,
       "type": "summaryCompletion",
-      "prompt": "Questions 15-20 Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath",
+      "prompt": "The Temple was constructed between ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Great Bath is"
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 21. The best days for engineering students are 22. Students can get useful suggestions about 23. Use the inter",
+      "prompt": "The best days for engineering students are",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "each answer. 21. The best days for engineering students are 22. Students can get useful suggestions about 23. Use the internet to look at before the event.",
+      "prompt": "Students can get useful suggestions about",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-23 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 21. The best days for enginee",
+      "prompt": "Use the internet to look at before the event.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "multipleChoice",
-      "stem": "-27 Choose the correct letter A, B or C. 24. Fergus says that",
+      "stem": "Fergus says that",
       "options": [
         {
           "letter": "A",
@@ -319,7 +356,8 @@
           "text": "he knows the boss at one of the companies"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -339,7 +377,8 @@
           "text": "find out what the starting salaries are"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -359,7 +398,8 @@
           "text": "to buy an outfit for the event"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -379,30 +419,112 @@
           "text": "should treat conversations like short interviews"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-F. Why do the tutor and Fergus think it is useful to attend a jobs fair?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "to get a job"
+        },
+        {
+          "letter": "B",
+          "text": "to find out what employers want from you"
+        },
+        {
+          "letter": "C",
+          "text": "to give employers your contact details"
+        },
+        {
+          "letter": "D",
+          "text": "to discover which are the key companies to work for"
+        },
+        {
+          "letter": "E",
+          "text": "to practice your communication skills"
+        },
+        {
+          "letter": "F",
+          "text": "to make useful contacts Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-F. Why do the tutor and Fergus think it is useful to attend a jobs fair?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "to get a job"
+        },
+        {
+          "letter": "B",
+          "text": "to find out what employers want from you"
+        },
+        {
+          "letter": "C",
+          "text": "to give employers your contact details"
+        },
+        {
+          "letter": "D",
+          "text": "to discover which are the key companies to work for"
+        },
+        {
+          "letter": "E",
+          "text": "to practice your communication skills"
+        },
+        {
+          "letter": "F",
+          "text": "to make useful contacts Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters A-F. Why do the tutor and Fergus think it is useful to attend a jobs fair? A to get a",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-F. Why do the tutor and Fergus think it is useful to attend a jobs fair?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "to get a job"
+        },
+        {
+          "letter": "B",
+          "text": "to find out what employers want from you"
+        },
+        {
+          "letter": "C",
+          "text": "to give employers your contact details"
+        },
+        {
+          "letter": "D",
+          "text": "to discover which are the key companies to work for"
+        },
+        {
+          "letter": "E",
+          "text": "to practice your communication skills"
+        },
+        {
+          "letter": "F",
+          "text": "to make useful contacts Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 31. At the start of her talk Rebecca points out that new graduates can find it hard to",
+      "stem": "At the start of her talk Rebecca points out that new graduates can find it hard to",
       "options": [
         {
           "letter": "A",
@@ -417,66 +539,140 @@
           "text": "motivate themselves"
         }
       ],
-      "groupId": "q31-31"
+      "groupId": "q31-31",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 32 and 33 Circle TWO letters A-D. Which TWO of the following does Rebecca say worry new artists A earning enou",
-      "groupId": "q32-33"
+      "prompt": "Question 32",
+      "groupId": "q32-33",
+      "instructions": "33 Circle TWO letters A-D. Which TWO of the following does Rebecca say worry new artists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "earning enough money"
+        },
+        {
+          "letter": "B",
+          "text": "moving to a new environment"
+        },
+        {
+          "letter": "C",
+          "text": "competing with other artists"
+        },
+        {
+          "letter": "D",
+          "text": "having their work criticized"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Questions 32 and 33 Circle TWO letters A-D. Which TWO of the following does Rebecca say worry new artists A earning enough mone",
-      "groupId": "q32-33"
+      "prompt": "Question 33",
+      "groupId": "q32-33",
+      "instructions": "33 Circle TWO letters A-D. Which TWO of the following does Rebecca say worry new artists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "earning enough money"
+        },
+        {
+          "letter": "B",
+          "text": "moving to a new environment"
+        },
+        {
+          "letter": "C",
+          "text": "competing with other artists"
+        },
+        {
+          "letter": "D",
+          "text": "having their work criticized"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Questions 34 and 35 Circle the correct letter A, B or C. 34. Rebecca decided to become an illustrator because it A affor",
-      "groupId": "q34-35"
+      "prompt": "Rebecca decided to become an illustrator because it A afforded her greater objectivity as an artist B offered her greater freedom of expression C allowed her to get her work published",
+      "groupId": "q34-35",
+      "instructions": "35 Circle the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "afforded her greater objectivity as an artist"
+        },
+        {
+          "letter": "B",
+          "text": "offered her greater freedom of expression"
+        },
+        {
+          "letter": "C",
+          "text": "allowed her to get her work published 35."
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 34 and 35 Circle the correct letter A, B or C. 34. Rebecca decided to become an illustrator because it A afforded her",
-      "groupId": "q34-35"
+      "prompt": "When she had developed a portfolio of illustrations, Rebecca found publishers A more receptive to her work B equally cautious about her work C uninterested in her work",
+      "groupId": "q34-35",
+      "instructions": "35 Circle the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "afforded her greater objectivity as an artist"
+        },
+        {
+          "letter": "B",
+          "text": "offered her greater freedom of expression"
+        },
+        {
+          "letter": "C",
+          "text": "allowed her to get her work published 35."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "Portfolio Get some artwork printed in magazines by entering (36) Also you can (37) and mock up book pages. Make an effort to use a variety of artistic (38) Aim for recogn",
+      "prompt": "Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "artwork printed in magazines by entering (36) Also you can (37) and mock up book pages. Make an effort to use a variety of artistic (38) Aim for recognition by dividing",
+      "prompt": "Also you can ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "up book pages. Make an effort to use a variety of artistic (38) Aim for recognition by dividing work into distinct (39) Possibly use (40)",
+      "prompt": "and mock up book pages. Make an effort to use a variety of artistic ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "tic (38) Aim for recognition by dividing work into distinct (39) Possibly use (40)",
+      "prompt": "Aim for recognition by dividing work into distinct ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 36-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Port",
+      "prompt": "Possibly use ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Suggestions for Developing a Portfolio Get some artwork printed in magazines by entering"
     }
   ],
   "answerKey": {

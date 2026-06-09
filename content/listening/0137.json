@@ -40,147 +40,167 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 1-5 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": ". Customer’s details Name: Daniel Kahn Address: Hill House, (6) 16th Contact number: 44780135 Delivery time: 1 pm – 2 pm on next (7) Total cost: £760 Payment: (8) Deliver",
+      "prompt": "Customer’s details Name: Daniel Kahn Address: Hill House, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details Name: Daniel Kahn Address: Hill House,"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Contact number: 44780135 Delivery time: 1 pm – 2 pm on next (7) Total cost: £760 Payment: (8) Delivery fee: Free Delivery transport: (9) Reference number: (10) Part 2:",
+      "prompt": "16th Contact number: 44780135 Delivery time: 1 pm – 2 pm on next ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details Name: Daniel Kahn Address: Hill House,"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ery time: 1 pm – 2 pm on next (7) Total cost: £760 Payment: (8) Delivery fee: Free Delivery transport: (9) Reference number: (10) Part 2:",
+      "prompt": "Total cost: £760 Payment: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details Name: Daniel Kahn Address: Hill House,"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "t: £760 Payment: (8) Delivery fee: Free Delivery transport: (9) Reference number: (10) Part 2:",
+      "prompt": "Delivery fee: Free Delivery transport: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details Name: Daniel Kahn Address: Hill House,"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 6-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details",
+      "prompt": "Reference number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer’s details Name: Daniel Kahn Address: Hill House,"
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "for each answer. Tulip Hot Spring Garden Resort Location: • (11) close to Peak Mountains • Hot spring was exploited (12) meters under the ground • Temperature of Tulip ho",
+      "prompt": "Tulip Hot Spring Garden Resort Location: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring Garden Resort Location: •"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": ": • (11) close to Peak Mountains • Hot spring was exploited (12) meters under the ground • Temperature of Tulip hot spring is (13) Notice for tourists: • Adjust water tem",
+      "prompt": "close to Peak Mountains • Hot spring was exploited ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring Garden Resort Location: •"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "eters under the ground • Temperature of Tulip hot spring is (13) Notice for tourists: • Adjust water temperature before bathing • Do not bath immediately after drink • Do",
+      "prompt": "meters under the ground • Temperature of Tulip hot spring is ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring Garden Resort Location: •"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "ng • Do not bath immediately after drink • Do not take your (14) when bathing There are: • 56 different water sports • 21 different (15)",
+      "prompt": "Notice for tourists: • Adjust water temperature before bathing • Do not bath immediately after drink • Do not take your ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring Garden Resort Location: •"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "Questions 11-15 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring G",
+      "prompt": "when bathing There are: • 56 different water sports • 21 different ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Tulip Hot Spring Garden Resort Location: •"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "map below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the map below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the map below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the map below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the map below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 Complete the map below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the map below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "and 22 Choose the correct letter A, B or C. 21. The conversation may take place in a",
+      "stem": "The conversation may take place in a",
       "options": [
         {
           "letter": "A",
@@ -195,7 +215,8 @@
           "text": "canteen"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -215,131 +236,194 @@
           "text": "social life"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter A, B or C."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters A-E. Which TWO main factors are important for students’ successful study? A using",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters A-E. Which TWO main factors are important for students’ successful study?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "using time effectively"
+        },
+        {
+          "letter": "B",
+          "text": "doing research"
+        },
+        {
+          "letter": "C",
+          "text": "taking more lectures"
+        },
+        {
+          "letter": "D",
+          "text": "working independently"
+        },
+        {
+          "letter": "E",
+          "text": "coping well will stress"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters A-E. Which TWO main factors are important for students’ successful study? A using time e",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters A-E. Which TWO main factors are important for students’ successful study?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "using time effectively"
+        },
+        {
+          "letter": "B",
+          "text": "doing research"
+        },
+        {
+          "letter": "C",
+          "text": "taking more lectures"
+        },
+        {
+          "letter": "D",
+          "text": "working independently"
+        },
+        {
+          "letter": "E",
+          "text": "coping well will stress"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 25-30 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (25) (26) (27) (28) (29) (30) Par",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ntarctic Polar View project maps Antarctic sea ice by using (31) Problems to navigate through the water: • The safety of the ship • (32) the efficiency of the ship NVSAT",
+      "prompt": "The Antarctic Polar View project maps Antarctic sea ice by using ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "s to navigate through the water: • The safety of the ship • (32) the efficiency of the ship NVSAT Satellite: • Collect data • Identify difference between open water and (",
+      "prompt": "Problems to navigate through the water: • The safety of the ship • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "• Collect data • Identify difference between open water and (33) • Scientists can see surface of sea clearly by using (34) Helicopter: • Advantage: can map the sea in the",
+      "prompt": "the efficiency of the ship NVSAT Satellite: • Collect data • Identify difference between open water and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "d (33) • Scientists can see surface of sea clearly by using (34) Helicopter: • Advantage: can map the sea in the air • Disadvantages: much more (35) and (36) The color of",
+      "prompt": "• Scientists can see surface of sea clearly by using ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "tage: can map the sea in the air • Disadvantages: much more (35) and (36) The color of the map is (37) Problem is sending pictures in Antarctic ship: (38) Measure to the",
+      "prompt": "Helicopter: • Advantage: can map the sea in the air • Disadvantages: much more ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "map the sea in the air • Disadvantages: much more (35) and (36) The color of the map is (37) Problem is sending pictures in Antarctic ship: (38) Measure to the problem:",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "advantages: much more (35) and (36) The color of the map is (37) Problem is sending pictures in Antarctic ship: (38) Measure to the problem: com press images into (39) fo",
+      "prompt": "The color of the map is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "map is (37) Problem is sending pictures in Antarctic ship: (38) Measure to the problem: com press images into (39) format The equipment scientists need for mapping is a",
+      "prompt": "Problem is sending pictures in Antarctic ship: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ic ship: (38) Measure to the problem: com press images into (39) format The equipment scientists need for mapping is a (40) on ship.",
+      "prompt": "Measure to the problem: com press images into ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Po",
+      "prompt": "format The equipment scientists need for mapping is a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The Antarctic Polar View project maps Antarctic sea ice by using"
     }
   ],
   "answerKey": {

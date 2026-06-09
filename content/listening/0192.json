@@ -40,67 +40,77 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ning package offered • Cleaning all surfaces • Cleaning the (1) throughout the apartment • Cleaning shower, sinks toilets etc. Additional service agreed • Every week o Cl",
-      "groupId": "q1-10"
+      "prompt": "Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "etc. Additional service agreed • Every week o Cleaning the (2) o Ironing clothes – (3) only • Every month o Cleaning all the (4) from the inside o Washing down the (5) O",
-      "groupId": "q1-10"
+      "prompt": "throughout the apartment • Cleaning shower, sinks toilets etc. Additional service agreed • Every week o Cleaning the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "agreed • Every week o Cleaning the (2) o Ironing clothes – (3) only • Every month o Cleaning all the (4) from the inside o Washing down the (5) Other possibilities • The",
-      "groupId": "q1-10"
+      "prompt": "o Ironing clothes – ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Ironing clothes – (3) only • Every month o Cleaning all the (4) from the inside o Washing down the (5) Other possibilities • They can organise a plumber or an (6) if nece",
-      "groupId": "q1-10"
+      "prompt": "only • Every month o Cleaning all the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "h o Cleaning all the (4) from the inside o Washing down the (5) Other possibilities • They can organise a plumber or an (6) if necessary • A special cleaning service is a",
-      "groupId": "q1-10"
+      "prompt": "from the inside o Washing down the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "(5) Other possibilities • They can organise a plumber or an (6) if necessary • A special cleaning service is available for customers who are allergic to (7) Information o",
-      "groupId": "q1-10"
+      "prompt": "Other possibilities • They can organise a plumber or an ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ning service is available for customers who are allergic to (7) Information on the cleaners • Before being hired, all cleaners have a background check carried out by the",
-      "groupId": "q1-10"
+      "prompt": "if necessary • A special cleaning service is available for customers who are allergic to ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ed, all cleaners have a background check carried out by the (8) • References are required • All cleaners are given (9) for two weeks • Customers send a (10) after each vi",
-      "groupId": "q1-10"
+      "prompt": "Information on the cleaners • Before being hired, all cleaners have a background check carried out by the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "the (8) • References are required • All cleaners are given (9) for two weeks • Customers send a (10) after each visit Part 2:",
-      "groupId": "q1-10"
+      "prompt": "• References are required • All cleaners are given ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basi",
-      "groupId": "q1-10"
+      "prompt": "for two weeks • Customers send a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Easy life cleaning services Basic cleaning package offered • Cleaning all surfaces • Cleaning the"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter, A, B or C. 11. Many hotel managers are unaware that their staff often",
+      "stem": "Many hotel managers are unaware that their staff often",
       "options": [
         {
           "letter": "A",
@@ -115,7 +125,8 @@
           "text": "low pay."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 12,
@@ -135,7 +146,8 @@
           "text": "an inability to meet targets"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 13,
@@ -155,7 +167,8 @@
           "text": "neglecting to have enough staff during busy periods"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 14,
@@ -175,173 +188,288 @@
           "text": "a rise in spending per customer"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 15-20 Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A,",
-      "groupId": "q15-20"
+      "prompt": "Question 20",
+      "groupId": "q15-20",
+      "instructions": "Which way of reducing staff turnover was used in each of the following hotels? Write the correct letter, A, B or C, next to"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO points do Thomas and Jeanne make about Thomas’s sporting activiti",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO points do Thomas and Jeanne make about Thomas’s sporting activities at school?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He should have felt more positive about them."
+        },
+        {
+          "letter": "B",
+          "text": "The training was too challenging for him."
+        },
+        {
+          "letter": "C",
+          "text": "He could have worked harder at them."
+        },
+        {
+          "letter": "D",
+          "text": "His parents were disappointed in him."
+        },
+        {
+          "letter": "E",
+          "text": "His fellow students admired him."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO points do Thomas and Jeanne make about Thomas’s sporting activities at s",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO points do Thomas and Jeanne make about Thomas’s sporting activities at school?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He should have felt more positive about them."
+        },
+        {
+          "letter": "B",
+          "text": "The training was too challenging for him."
+        },
+        {
+          "letter": "C",
+          "text": "He could have worked harder at them."
+        },
+        {
+          "letter": "D",
+          "text": "His parents were disappointed in him."
+        },
+        {
+          "letter": "E",
+          "text": "His fellow students admired him."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO feelings did Thomas experience when he was in Kenya? A disbelief",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO feelings did Thomas experience when he was in Kenya?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "disbelief"
+        },
+        {
+          "letter": "B",
+          "text": "relief"
+        },
+        {
+          "letter": "C",
+          "text": "stress"
+        },
+        {
+          "letter": "D",
+          "text": "gratitude"
+        },
+        {
+          "letter": "E",
+          "text": "homesickness"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO feelings did Thomas experience when he was in Kenya? A disbelief B relie",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO feelings did Thomas experience when he was in Kenya?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "disbelief"
+        },
+        {
+          "letter": "B",
+          "text": "relief"
+        },
+        {
+          "letter": "C",
+          "text": "stress"
+        },
+        {
+          "letter": "D",
+          "text": "gratitude"
+        },
+        {
+          "letter": "E",
+          "text": "homesickness"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What comment do the students make about the development of each of the following items of sporting equipmen",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What comment do the students make about the development of each of the following items of sporting equipment? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "• Made from the sap of the maple tree • Color described as (31) • Added to food or used in cooking • Very (32) compared to refined sugar The maple tree • Has many specie",
+      "prompt": "Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "described as (31) • Added to food or used in cooking • Very (32) compared to refined sugar The maple tree • Has many species • Needs sunny days and cool nights • Best gro",
+      "prompt": "• Added to food or used in cooking • Very ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ds sunny days and cool nights • Best growing conditions and (33) are in Canada and North America Early maple sugar producers • Made holes in tree trunks • Used hot (34) t",
+      "prompt": "to refined sugar The maple tree • Has many species • Needs sunny days and cool nights • Best growing conditions and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "aple sugar producers • Made holes in tree trunks • Used hot (34) to heat the sap Today’s maple syrup • The trees o Tree trunks may not have the correct (35) until they ha",
+      "prompt": "are in Canada and North America Early maple sugar producers • Made holes in tree trunks • Used hot ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "le syrup • The trees o Tree trunks may not have the correct (35) until they have been growing for 40 years • The production o A tap is drilled into the trunk and a (36) c",
+      "prompt": "to heat the sap Today’s maple syrup • The trees o Tree trunks may not have the correct ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "rs • The production o A tap is drilled into the trunk and a (36) carries the sap into a bucket o Large pens of sap called evaporators are heated by means of a (37) o A lo",
+      "prompt": "until they have been growing for 40 years • The production o A tap is drilled into the trunk and a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "rge pens of sap called evaporators are heated by means of a (37) o A lot of (38) is produced during the evaporation process o Sugar sand is removed because it makes the s",
+      "prompt": "carries the sap into a bucket o Large pens of sap called evaporators are heated by means of a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "called evaporators are heated by means of a (37) o A lot of (38) is produced during the evaporation process o Sugar sand is removed because it makes the syrup look (39) a",
+      "prompt": "o A lot of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ess o Sugar sand is removed because it makes the syrup look (39) and affects the taste o A huge quantity of sap is needed to make a (40) of maple syrup",
+      "prompt": "is produced during the evaporation process o Sugar sand is removed because it makes the syrup look ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from",
+      "prompt": "and affects the taste o A huge quantity of sap is needed to make a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Maple Syrup What is maple syrup • Made from the sap of the maple tree • Color described as"
     }
   ],
   "answerKey": {

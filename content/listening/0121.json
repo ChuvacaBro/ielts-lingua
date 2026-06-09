@@ -40,211 +40,325 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Number of bookcases available – 2 Both bookcases: • Width: (1) • Made of: (2) First bookcase: • Cost: (3) • Color: (4) • Number of shelves: six (four are (5) ) Second bo",
+      "prompt": "Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "er. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width: (1) • Made of: (2) First bookcase: • Cost: (3) • Color: (4) • Number of shelves: si",
+      "prompt": "• Made of: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "kcases: • Width: (1) • Made of: (2) First bookcase: • Cost: (3) • Color: (4) • Number of shelves: six (four are (5) ) Second bookcase: • Color: dark brown • Other feature",
+      "prompt": "First bookcase: • Cost: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "th: (1) • Made of: (2) First bookcase: • Cost: (3) • Color: (4) • Number of shelves: six (four are (5) ) Second bookcase: • Color: dark brown • Other features: almost 80",
+      "prompt": "• Color: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "• Cost: (3) • Color: (4) • Number of shelves: six (four are (5) ) Second bookcase: • Color: dark brown • Other features: almost 80 years old, has a (6) at the bottom, and",
+      "prompt": "• Number of shelves: six (four are ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "or: dark brown • Other features: almost 80 years old, has a (6) at the bottom, and has glass (7) • Cost: (8) Details of seller • Name: Mrs (9) • Address: 41 Oak Rise, Sta",
+      "prompt": "Second bookcase: • Color: dark brown • Other features: almost 80 years old, has a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "almost 80 years old, has a (6) at the bottom, and has glass (7) • Cost: (8) Details of seller • Name: Mrs (9) • Address: 41 Oak Rise, Stanton",
+      "prompt": "at the bottom, and has glass ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ars old, has a (6) at the bottom, and has glass (7) • Cost: (8) Details of seller • Name: Mrs (9) • Address: 41 Oak Rise, Stanton",
+      "prompt": "• Cost: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "Questions 1-9 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about boo",
+      "prompt": "Details of seller • Name: Mrs ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-9"
+      "groupId": "q1-9",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Enquiry about bookcases Number of bookcases available – 2 Both bookcases: • Width:"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Question 10 Choose the correct letter A, B or C. 10. Which map shows the correct location of the seller’s house? A B C",
-      "groupId": "q10-10"
+      "prompt": "Which map shows the correct location of the seller’s house? A B C",
+      "groupId": "q10-10",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "summaryCompletion",
-      "prompt": "tings will be displayed in the Star Gallery and in a nearby (11) The sale of pictures will begin at (12) on Thursday, and there will be refreshments beforehand. The money",
+      "prompt": "Charity art sale The paintings will be displayed in the Star Gallery and in a nearby ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Charity art sale The paintings will be displayed in the Star Gallery and in a nearby"
     },
     {
       "number": 12,
       "type": "summaryCompletion",
-      "prompt": "ery and in a nearby (11) The sale of pictures will begin at (12) on Thursday, and there will be refreshments beforehand. The money raised will all be used to help (13) ch",
+      "prompt": "The sale of pictures will begin at ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Charity art sale The paintings will be displayed in the Star Gallery and in a nearby"
     },
     {
       "number": 13,
       "type": "summaryCompletion",
-      "prompt": "Questions 11-13 Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Charity art sa",
+      "prompt": "on Thursday, and there will be refreshments beforehand. The money raised will all be used to help ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Charity art sale The paintings will be displayed in the Star Gallery and in a nearby"
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 14-20 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-25"
+      "prompt": "Choose a writer from a list provided",
+      "groupId": "q21-25",
+      "instructions": "What instructions were the students give about their project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must do this"
+        },
+        {
+          "letter": "B",
+          "text": "they can do this if they want to"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot do this Write the correct letter A, B or C next to questions 21-25."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-25"
+      "prompt": "Get biographical information from the internet",
+      "groupId": "q21-25",
+      "instructions": "What instructions were the students give about their project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must do this"
+        },
+        {
+          "letter": "B",
+          "text": "they can do this if they want to"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot do this Write the correct letter A, B or C next to questions 21-25."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-25"
+      "prompt": "Study a collection of poems",
+      "groupId": "q21-25",
+      "instructions": "What instructions were the students give about their project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must do this"
+        },
+        {
+          "letter": "B",
+          "text": "they can do this if they want to"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot do this Write the correct letter A, B or C next to questions 21-25."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-25"
+      "prompt": "Make a one hour video",
+      "groupId": "q21-25",
+      "instructions": "What instructions were the students give about their project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must do this"
+        },
+        {
+          "letter": "B",
+          "text": "they can do this if they want to"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot do this Write the correct letter A, B or C next to questions 21-25."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 What instructions were the students give about their project? A they must do this B they can do this if the",
-      "groupId": "q21-25"
+      "prompt": "Refer to key facts in the writer’s life",
+      "groupId": "q21-25",
+      "instructions": "What instructions were the students give about their project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must do this"
+        },
+        {
+          "letter": "B",
+          "text": "they can do this if they want to"
+        },
+        {
+          "letter": "C",
+          "text": "they cannot do this Write the correct letter A, B or C next to questions 21-25."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ct • Extract chosen from the author’s work must reflect the (26) and of the author. • Students must find sound effects and (27) to match the texts they choose. • Students",
+      "prompt": "Other requirements for the project • Extract chosen from the author’s work must reflect the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the project • Extract chosen from the author’s work must reflect the"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": ") and of the author. • Students must find sound effects and (27) to match the texts they choose. • Students must use a (28) of computer software programs to make the vide",
+      "prompt": "and of the author. • Students must find sound effects and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the project • Extract chosen from the author’s work must reflect the"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "(27) to match the texts they choose. • Students must use a (28) of computer software programs to make the video. • Students must include information about the (29) of al",
+      "prompt": "to match the texts they choose. • Students must use a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the project • Extract chosen from the author’s work must reflect the"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "ke the video. • Students must include information about the (29) of all material Criteria for assessment • Completion of all components – 25% • (30) (must represent essen",
+      "prompt": "of computer software programs to make the video. • Students must include information about the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the project • Extract chosen from the author’s work must reflect the"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the projec",
+      "prompt": "of all material Criteria for assessment • Completion of all components – 25% • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Other requirements for the project • Extract chosen from the author’s work must reflect the"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. ‘Extremophiles’ are life forms that can live in",
+      "stem": "‘Extremophiles’ are life forms that can live in",
       "options": [
         {
           "letter": "A",
@@ -259,7 +373,8 @@
           "text": "new habitats"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -279,7 +394,8 @@
           "text": "types of insects"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -299,49 +415,57 @@
           "text": "on the rocks"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "te ONE WORDS for each answer. How the extremophiles survive 34. Access to the sun’s heat can create a for some organisms. 35. The deeper the soil, the higher the of salt.",
-      "groupId": "q34-40"
+      "prompt": "Access to the sun’s heat can create a for some organisms.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": ". Access to the sun’s heat can create a for some organisms. 35. The deeper the soil, the higher the of salt. 36. Salt can protect organisms against the effects of even at",
-      "groupId": "q34-40"
+      "prompt": "The deeper the soil, the higher the of salt.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "organisms. 35. The deeper the soil, the higher the of salt. 36. Salt can protect organisms against the effects of even at very low temperatures. 37. All living things mus",
-      "groupId": "q34-40"
+      "prompt": "Salt can protect organisms against the effects of even at very low temperatures.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "nisms against the effects of even at very low temperatures. 37. All living things must have access to water. 38. Salt plays a part in the process of which prevents freezi",
-      "groupId": "q34-40"
+      "prompt": "All living things must have access to water.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "peratures. 37. All living things must have access to water. 38. Salt plays a part in the process of which prevents freezing. 39. The environment of is similar to the dry",
-      "groupId": "q34-40"
+      "prompt": "Salt plays a part in the process of which prevents freezing.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "alt plays a part in the process of which prevents freezing. 39. The environment of is similar to the dry valleys of Antarctica. 40. This research may provide evidence of",
-      "groupId": "q34-40"
+      "prompt": "The environment of is similar to the dry valleys of Antarctica.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 34-40 Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive 34. Access to the",
-      "groupId": "q34-40"
+      "prompt": "This research may provide evidence of the existence of extraterrestrial life forms and their possible on other planets.",
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORDS for each answer. How the extremophiles survive"
     }
   ],
   "answerKey": {

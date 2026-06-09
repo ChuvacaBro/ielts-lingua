@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "nswer Going away party for Albert Date – August 24th Place: (1) grill People to invite: (2) from college Cousins (3) and boss Date to send out invites: (4) August Need to",
+      "prompt": "Going away party for Albert Date – August 24th Place: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "lbert Date – August 24th Place: (1) grill People to invite: (2) from college Cousins (3) and boss Date to send out invites: (4) August Need to ask each person for this mu",
+      "prompt": "grill People to invite: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Place: (1) grill People to invite: (2) from college Cousins (3) and boss Date to send out invites: (4) August Need to ask each person for this much money: (5) $ Gift idea",
+      "prompt": "from college Cousins ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "from college Cousins (3) and boss Date to send out invites: (4) August Need to ask each person for this much money: (5) $ Gift idea: (6) light For the meal: Buffet (7) is",
+      "prompt": "and boss Date to send out invites: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "es: (4) August Need to ask each person for this much money: (5) $ Gift idea: (6) light For the meal: Buffet (7) is probably cheaper than everyone ordering individually Pe",
+      "prompt": "August Need to ask each person for this much money: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "ed to ask each person for this much money: (5) $ Gift idea: (6) light For the meal: Buffet (7) is probably cheaper than everyone ordering individually People can buy drin",
+      "prompt": "$ Gift idea: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "much money: (5) $ Gift idea: (6) light For the meal: Buffet (7) is probably cheaper than everyone ordering individually People can buy drinks themselves or (8) Ask people",
+      "prompt": "light For the meal: Buffet ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "e ordering individually People can buy drinks themselves or (8) Ask people to bring: A/ an (9) for music Digital (10) or ones that can be scanned Part 2:",
+      "prompt": "is probably cheaper than everyone ordering individually People can buy drinks themselves or ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "can buy drinks themselves or (8) Ask people to bring: A/ an (9) for music Digital (10) or ones that can be scanned Part 2:",
+      "prompt": "Ask people to bring: A/ an ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party f",
+      "prompt": "for music Digital ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer Going away party for Albert Date – August 24th Place:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. 11. To find out more about reservations, one needs to",
+      "stem": "To find out more about reservations, one needs to",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "call a number that is at the bottom of the page"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "who want to have a really exciting experience"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "buy lots of interesting souvenirs"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "Europe"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "speak with a travel agent for free"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -225,141 +240,161 @@
           "text": "tour guides"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (17) (18) (19) (20",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Questions 21-26 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What problems do Jimi and Janis identify for each art project? Choose your answers from the box and write the letters A-G next to questions 27-30."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What problems do Jimi and Janis identify for each art project? Choose your answers from the box and write the letters A-G next to questions 27-30."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What problems do Jimi and Janis identify for each art project? Choose your answers from the box and write the letters A-G next to questions 27-30."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What problems do Jimi and Janis identify for each art project? Choose your answers from the box and write t",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "What problems do Jimi and Janis identify for each art project? Choose your answers from the box and write the letters A-G next to questions 27-30."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ls people depend on for a living, but wolves are actually a (31) of the Earth’s living system. Wolves hunt in small group and have a well developed (32) At the top of the",
+      "prompt": "The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ystem. Wolves hunt in small group and have a well developed (32) At the top of the hierarchy are an alpha male and an alpha (33) The alpha pair’s pups are usually the B s",
+      "prompt": "of the Earth’s living system. Wolves hunt in small group and have a well developed ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "At the top of the hierarchy are an alpha male and an alpha (33) The alpha pair’s pups are usually the B successfully. Challenges for leadership do not always lead to phy",
+      "prompt": "At the top of the hierarchy are an alpha male and an alpha ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a"
     },
     {
       "number": 34,
       "type": "noteCompletion",
       "prompt": "Question 34",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 31-35 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on an",
+      "prompt": "Question 35",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Gray Wolf They might prey on animals people depend on for a living, but wolves are actually a"
     },
     {
       "number": 36,
       "type": "multipleChoice",
-      "stem": "-38 Choose the correct letter A, B or C. 36. Gray wolves are now found only in Canada, Alaska, Northern Eurasia and",
+      "stem": "Gray wolves are now found only in Canada, Alaska, Northern Eurasia and",
       "options": [
         {
           "letter": "A",
@@ -374,7 +409,8 @@
           "text": "on the Indian subcontinent"
         }
       ],
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 37,
@@ -394,7 +430,8 @@
           "text": "fund more studies"
         }
       ],
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 38,
@@ -414,19 +451,74 @@
           "text": "stayed exactly the same"
         }
       ],
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-F. What are TWO results of the wolf reintroduction program in Yellowstone Park?",
-      "groupId": "q39-40"
+      "prompt": "Question 39",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-F. What are TWO results of the wolf reintroduction program in Yellowstone Park?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ranchers have become angry"
+        },
+        {
+          "letter": "B",
+          "text": "there are fewer tourists in Yellowstone"
+        },
+        {
+          "letter": "C",
+          "text": "eagle and hawk species have increased"
+        },
+        {
+          "letter": "D",
+          "text": "Yellowstone is not as healthy as before"
+        },
+        {
+          "letter": "E",
+          "text": "the local economy has benefitted"
+        },
+        {
+          "letter": "F",
+          "text": "local population are fearful"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-F. What are TWO results of the wolf reintroduction program in Yellowstone Park? A ranc",
-      "groupId": "q39-40"
+      "prompt": "Question 40",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-F. What are TWO results of the wolf reintroduction program in Yellowstone Park?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ranchers have become angry"
+        },
+        {
+          "letter": "B",
+          "text": "there are fewer tourists in Yellowstone"
+        },
+        {
+          "letter": "C",
+          "text": "eagle and hawk species have increased"
+        },
+        {
+          "letter": "D",
+          "text": "Yellowstone is not as healthy as before"
+        },
+        {
+          "letter": "E",
+          "text": "the local economy has benefitted"
+        },
+        {
+          "letter": "F",
+          "text": "local population are fearful"
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-4 Choose the correct letter A, B or C. 1.",
+      "stem": "Question 1",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "for managing several government services"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "liable for medicare contributions"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,16 +97,17 @@
           "text": "a student visa"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "multipleChoice",
-      "stem": "A TFN is issued",
+      "stem": "Question 4",
       "options": [
         {
           "letter": "A",
-          "text": "if you change your name"
+          "text": "TFN is issued A if you change your name"
         },
         {
           "letter": "B",
@@ -115,124 +118,141 @@
           "text": "when you claim a government benefit"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 5-10 Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (5) (6) (7) (8) (9)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "ldren-scary but educational • ‘Online Family Norris’ blocks (11) and social sites • But still important to watch children and (12) them • Keep computer in family room whe",
+      "prompt": "Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "nd social sites • But still important to watch children and (12) them • Keep computer in family room where you can see it • Children should never use their own name nor g",
+      "prompt": "and social sites • But still important to watch children and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "it • Children should never use their own name nor give out (13) • Online friends stay online • No personal email address for youngsters • Teach teenagers that (14) on th",
+      "prompt": "them • Keep computer in family room where you can see it • Children should never use their own name nor give out ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "ersonal email address for youngsters • Teach teenagers that (14) on the Internet always stay there – and may ruin job prospects • Watch out for (15) • Teenagers use inter",
+      "prompt": "• Online friends stay online • No personal email address for youngsters • Teach teenagers that ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "ays stay there – and may ruin job prospects • Watch out for (15) • Teenagers use internet: to socialize or do (16) • Young kids: find help with school subjects",
+      "prompt": "on the Internet always stay there – and may ruin job prospects • Watch out for ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Int",
+      "prompt": "• Teenagers use internet: to socialize or do ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Keeping kids safe on Internet • Internet for children-scary but educational • ‘Online Family Norris’ blocks"
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. Ted and Cleo’s research results will be presented as a",
+      "stem": "Ted and Cleo’s research results will be presented as a",
       "options": [
         {
           "letter": "A",
@@ -247,7 +267,8 @@
           "text": "graph"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -267,7 +288,8 @@
           "text": "randomly on campus"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -287,124 +309,142 @@
           "text": "know a lot about the answers."
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "y abroad • Is the best way to learn a language • Provides a (24) • Allows you to experience another culture first hand • Helps you (25) • Give you opportunity to make new",
+      "prompt": "Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "ws you to experience another culture first hand • Helps you (25) • Give you opportunity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of",
+      "prompt": "• Allows you to experience another culture first hand • Helps you ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "(25) • Give you opportunity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of your degree • Improves (28) • Expands your world view",
+      "prompt": "• Give you opportunity to make new friends • Helps you ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "unity to make new friends • Helps you (26) • Enables you to (27) • Increase the value of your degree • Improves (28) • Expands your world view",
+      "prompt": "• Enables you to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "Questions 24-28 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study",
+      "prompt": "• Increase the value of your degree • Improves ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Reasons for studying abroad Study abroad • Is the best way to learn a language • Provides a"
     },
     {
       "number": 29,
       "type": "diagramLabel",
-      "prompt": "Questions 29 and 30 Label the diagram below. Choose your answers from the box and write the letters A-H next to",
-      "groupId": "q29-30"
+      "prompt": "____",
+      "groupId": "q29-30",
+      "instructions": "30 Label the diagram below. Choose your answers from the box and write the letters A-H next to questions 29-30."
     },
     {
       "number": 30,
       "type": "diagramLabel",
-      "prompt": "Questions 29 and 30 Label the diagram below. Choose your answers from the box and write the letters A-H next to",
-      "groupId": "q29-30"
+      "prompt": "____",
+      "groupId": "q29-30",
+      "instructions": "30 Label the diagram below. Choose your answers from the box and write the letters A-H next to questions 29-30."
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "ORDS AND OR A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "prompt": "Charles William Peale ____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "AND OR A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "R A NUMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "UMBER for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "for each answer. Charles William Peale (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "Questions 31-36 Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Pea",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS AND OR A NUMBER",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND OR A NUMBER for each answer. Charles William Peale"
     },
     {
       "number": 37,
       "type": "summaryCompletion",
-      "prompt": "e was a painter but he was also a politician, scientist and (37) with many successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that coul",
+      "prompt": "Primarily, Peale was a painter but he was also a politician, scientist and ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but he was also a politician, scientist and"
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "polygraph which was a desk that could be used for copying a (38) He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a k",
+      "prompt": "successful patents. He worked with Thomas Jefferson on the polygraph which was a desk that could be used for copying a ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but he was also a politician, scientist and"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "ried to make movies, spectacles and a velocipede (a kind of (39) ) Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was th",
+      "prompt": "He wrote academic papers on different subjects and tried to make movies, spectacles and a velocipede (a kind of ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but he was also a politician, scientist and"
     },
     {
       "number": 40,
       "type": "summaryCompletion",
-      "prompt": "Questions 37-40 Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but",
+      "prompt": "Peale was also a naturalist and taxidermist and he helped unearth the skeleton of mastodon which was the best ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN ONE WORD for each answer. Primarily, Peale was a painter but he was also a politician, scientist and"
     }
   ],
   "answerKey": {

@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-4 Choose the correct letter A, B, C or D. 1. What are the parking regulations on campus?",
+      "stem": "What are the parking regulations on campus?",
       "options": [
         {
           "letter": "A",
@@ -52,10 +52,15 @@
         },
         {
           "letter": "C",
-          "text": "staff parking only allowed D no student parking allowed"
+          "text": "staff parking only allowed"
+        },
+        {
+          "letter": "D",
+          "text": "no student parking allowed"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 2,
@@ -72,10 +77,15 @@
         },
         {
           "letter": "C",
-          "text": "Block E. D Block G."
+          "text": "Block E."
+        },
+        {
+          "letter": "D",
+          "text": "Block G."
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 3,
@@ -92,271 +102,518 @@
         },
         {
           "letter": "C",
-          "text": "tow away your car and fine. D tow away your car only. 4 Which picture shows the correct location of the Administration office? A B C D"
+          "text": "tow away your car and fine."
+        },
+        {
+          "letter": "D",
+          "text": "tow away your car only."
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 4"
+      "type": "multipleChoice",
+      "stem": "Which picture shows the correct location of the Administration office?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "D"
+        }
+      ],
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "ORE THAN THREE WORDS. Application for parking sticker Name: (5) Address: Flat 13 (6) Suburb: (7) Faculty: (8) Registration Number: (9) Make of car: (10) Part 2:",
+      "prompt": "Application for parking sticker Name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Application for parking sticker Name: (5) Address: Flat 13 (6) Suburb: (7) Faculty: (8) Registration Number: (9) Make of car: (10) Part 2:",
+      "prompt": "Address: Flat 13 ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "for parking sticker Name: (5) Address: Flat 13 (6) Suburb: (7) Faculty: (8) Registration Number: (9) Make of car: (10) Part 2:",
+      "prompt": "Suburb: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "sticker Name: (5) Address: Flat 13 (6) Suburb: (7) Faculty: (8) Registration Number: (9) Make of car: (10) Part 2:",
+      "prompt": "Faculty: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": ": Flat 13 (6) Suburb: (7) Faculty: (8) Registration Number: (9) Make of car: (10) Part 2:",
+      "prompt": "Registration Number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 5-10 Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name: (5) Add",
+      "prompt": "Make of car: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the application form using NO MORE THAN THREE WORDS. Application for parking sticker Name:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 11. Cashier’s office opens at A 12.15 B 2.00 C 2.15 D 4.30 12. Where must the sticker be displayed?",
-      "groupId": "q11-12"
+      "prompt": "Cashier’s office opens at A",
+      "groupId": "q11-12",
+      "instructions": "12",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "12.15"
+        },
+        {
+          "letter": "B",
+          "text": "2.00"
+        },
+        {
+          "letter": "C",
+          "text": "2.15"
+        },
+        {
+          "letter": "D",
+          "text": "4.30 12. Where must the sticker be displayed?"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 11. Cashier’s office opens at A 12.15 B 2.00 C 2.15 D 4.30 12. Where must the sticker be displayed?",
-      "groupId": "q11-12"
+      "prompt": "15 B 2.00 C 2.15 D 4.30 12. Where must the sticker be displayed?",
+      "groupId": "q11-12",
+      "instructions": "12",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "12.15"
+        },
+        {
+          "letter": "B",
+          "text": "2.00"
+        },
+        {
+          "letter": "C",
+          "text": "2.15"
+        },
+        {
+          "letter": "D",
+          "text": "4.30 12. Where must the sticker be displayed?"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "notes below using NO MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "below using NO MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "w using NO MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "ng NO MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "E WORDS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "DS for each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "r each answer. (13) (14) (15) (16) (17) (18) (19) (20) (21) (22) (23) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "Questions 13-23 Complete the notes below using NO MORE THAN THREE WORDS for each answer. (13) (14) (15) (16) (17) (18) (19)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-23"
+      "groupId": "q13-23",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24-32 24. Mark is going to talk briefly about A marketing new products. B pricing strategies. C managing large compa",
-      "groupId": "q24-32"
+      "prompt": "Mark is going to talk briefly about A marketing new products. B pricing strategies. C managing large companies. D setting sales targets.",
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "egies. C managing large companies. D setting sales targets. 25. According to Susan, air fares are lowest when they A include weekend travel. B are booked well in advance.",
-      "groupId": "q24-32"
+      "prompt": "According to Susan, air fares are lowest when they A include weekend travel. B are booked well in advance. C are non-refundable. D are for business travel only.",
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "ance. C are non-refundable. D are for business travel only. 26. Mark thinks revenue management is A interesting. B complicated. C time-consuming. D reasonable. 27. The ai",
-      "groupId": "q24-32"
+      "prompt": "Mark thinks revenue management is A interesting. B complicated. C time-consuming. D reasonable.",
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "interesting. B complicated. C time-consuming. D reasonable. 27. The airline companies want to A increase profits. B benefit the passenger. C sell cheap seats. D improve t",
-      "groupId": "q24-32"
+      "prompt": "The airline companies want to A increase profits. B benefit the passenger. C sell cheap seats. D improve the service.",
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q24-32"
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q24-32"
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
       "prompt": "Question 30",
-      "groupId": "q24-32"
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "gapFill",
       "prompt": "Question 31",
-      "groupId": "q24-32"
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 24-32 24. Mark is going to talk briefly about A marketing new products. B pricing strategies. C managing large co",
-      "groupId": "q24-32"
+      "prompt": "Question 32",
+      "groupId": "q24-32",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "marketing new products."
+        },
+        {
+          "letter": "B",
+          "text": "pricing strategies."
+        },
+        {
+          "letter": "C",
+          "text": "managing large companies."
+        },
+        {
+          "letter": "D",
+          "text": "setting sales targets."
+        }
+      ]
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "e the table Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "table Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "e Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Questions 33-37 Complete the table Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "diagramLabel",
-      "prompt": "he diagram. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40) (41) (42)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-42"
+      "groupId": "q38-42",
+      "instructions": "Label the diagram. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "diagramLabel",
-      "prompt": "agram. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40) (41) (42)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-42"
+      "groupId": "q38-42",
+      "instructions": "Label the diagram. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "diagramLabel",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40) (41) (42)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-42"
+      "groupId": "q38-42",
+      "instructions": "Label the diagram. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 41,
       "type": "diagramLabel",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (38) (39) (40) (41) (42)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-42"
+      "groupId": "q38-42",
+      "instructions": "Label the diagram. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 42,
       "type": "diagramLabel",
-      "prompt": "Questions 38-42 Label the diagram. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40) (41) (42)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-42"
+      "groupId": "q38-42",
+      "instructions": "Label the diagram. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

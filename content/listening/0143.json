@@ -40,89 +40,145 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "dian: Carol Smith Personal details: Child’s name: Kate Age: (1) Address: (2) Road, Woodside 4032 Phone: 33459865 Childcare information Days enrolled for: Monday and (3) S",
+      "prompt": "Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "mith Personal details: Child’s name: Kate Age: (1) Address: (2) Road, Woodside 4032 Phone: 33459865 Childcare information Days enrolled for: Monday and (3) Start time: (4",
+      "prompt": "Address: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "3459865 Childcare information Days enrolled for: Monday and (3) Start time: (4) am Childcare group: the (5) group Which meals are required each day? (6) Medical condition",
+      "prompt": "Road, Woodside 4032 Phone: 33459865 Childcare information Days enrolled for: Monday and ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "e information Days enrolled for: Monday and (3) Start time: (4) am Childcare group: the (5) group Which meals are required each day? (6) Medical conditions: need (7) Emer",
+      "prompt": "Start time: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "for: Monday and (3) Start time: (4) am Childcare group: the (5) group Which meals are required each day? (6) Medical conditions: need (7) Emergency contact: Jenny (8) Rel",
+      "prompt": "am Childcare group: the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "are group: the (5) group Which meals are required each day? (6) Medical conditions: need (7) Emergency contact: Jenny (8) Relationship to child: (9) Fees Will pay each (1",
+      "prompt": "group Which meals are required each day? ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "h meals are required each day? (6) Medical conditions: need (7) Emergency contact: Jenny (8) Relationship to child: (9) Fees Will pay each (10) Part 2:",
+      "prompt": "Medical conditions: need ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "? (6) Medical conditions: need (7) Emergency contact: Jenny (8) Relationship to child: (9) Fees Will pay each (10) Part 2:",
+      "prompt": "Emergency contact: Jenny ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "eed (7) Emergency contact: Jenny (8) Relationship to child: (9) Fees Will pay each (10) Part 2:",
+      "prompt": "Relationship to child: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent o",
+      "prompt": "Fees Will pay each ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Early Learning Children Centre Enrolment Form Parent or guardian: Carol Smith Personal details: Child’s name: Kate Age:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO things does Alice say about the Dolphin Conservation Trust? A Chi",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO things does Alice say about the Dolphin Conservation Trust?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Children make up most of the membership"
+        },
+        {
+          "letter": "B",
+          "text": "It’s the country’s largest conservation organisation"
+        },
+        {
+          "letter": "C",
+          "text": "It helps finance campaigns for changes in fishing practices"
+        },
+        {
+          "letter": "D",
+          "text": "It employs several dolphin experts full-time"
+        },
+        {
+          "letter": "E",
+          "text": "Volunteers help in various ways"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO things does Alice say about the Dolphin Conservation Trust? A Children m",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO things does Alice say about the Dolphin Conservation Trust?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Children make up most of the membership"
+        },
+        {
+          "letter": "B",
+          "text": "It’s the country’s largest conservation organisation"
+        },
+        {
+          "letter": "C",
+          "text": "It helps finance campaigns for changes in fishing practices"
+        },
+        {
+          "letter": "D",
+          "text": "It employs several dolphin experts full-time"
+        },
+        {
+          "letter": "E",
+          "text": "Volunteers help in various ways"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B, or C. 13. Why is Alice so pleased the Trust has won the Charity Commission award?",
+      "stem": "Why is Alice so pleased the Trust has won the Charity Commission award?",
       "options": [
         {
           "letter": "A",
@@ -137,7 +193,8 @@
           "text": "It has attracted more members."
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 14,
@@ -157,7 +214,8 @@
           "text": "movement of ships"
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 15,
@@ -177,42 +235,138 @@
           "text": "she read a book about them"
         }
       ],
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "s Alice make each of the following comments about? Comments 16. It has not been seen this year 17. It is photographed more than the others 18. It is always very energetic",
-      "groupId": "q16-20"
+      "prompt": "It has not been seen this year",
+      "groupId": "q16-20",
+      "instructions": "Which dolphin does Alice make each of the following comments about? Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Moondancer"
+        },
+        {
+          "letter": "B",
+          "text": "Echo"
+        },
+        {
+          "letter": "C",
+          "text": "Kiwi"
+        },
+        {
+          "letter": "D",
+          "text": "Samson Part 3:"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "comments about? Comments 16. It has not been seen this year 17. It is photographed more than the others 18. It is always very energetic 19. It is the newest one in the sc",
-      "groupId": "q16-20"
+      "prompt": "It is photographed more than the others",
+      "groupId": "q16-20",
+      "instructions": "Which dolphin does Alice make each of the following comments about? Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Moondancer"
+        },
+        {
+          "letter": "B",
+          "text": "Echo"
+        },
+        {
+          "letter": "C",
+          "text": "Kiwi"
+        },
+        {
+          "letter": "D",
+          "text": "Samson Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "seen this year 17. It is photographed more than the others 18. It is always very energetic 19. It is the newest one in the scheme 20. It has an unusual shape Dolphins A",
-      "groupId": "q16-20"
+      "prompt": "It is always very energetic",
+      "groupId": "q16-20",
+      "instructions": "Which dolphin does Alice make each of the following comments about? Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Moondancer"
+        },
+        {
+          "letter": "B",
+          "text": "Echo"
+        },
+        {
+          "letter": "C",
+          "text": "Kiwi"
+        },
+        {
+          "letter": "D",
+          "text": "Samson Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "raphed more than the others 18. It is always very energetic 19. It is the newest one in the scheme 20. It has an unusual shape Dolphins A Moondancer B Echo C Kiwi D Samso",
-      "groupId": "q16-20"
+      "prompt": "It is the newest one in the scheme",
+      "groupId": "q16-20",
+      "instructions": "Which dolphin does Alice make each of the following comments about? Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Moondancer"
+        },
+        {
+          "letter": "B",
+          "text": "Echo"
+        },
+        {
+          "letter": "C",
+          "text": "Kiwi"
+        },
+        {
+          "letter": "D",
+          "text": "Samson Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 Which dolphin does Alice make each of the following comments about? Comments 16. It has not been seen this",
-      "groupId": "q16-20"
+      "prompt": "It has an unusual shape Dolphins A Moondancer B Echo C Kiwi D Samson",
+      "groupId": "q16-20",
+      "instructions": "Which dolphin does Alice make each of the following comments about? Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Moondancer"
+        },
+        {
+          "letter": "B",
+          "text": "Echo"
+        },
+        {
+          "letter": "C",
+          "text": "Kiwi"
+        },
+        {
+          "letter": "D",
+          "text": "Samson Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter, A, B or C. Theatre Studies Course 21. What helped Rob to prepare to play the character of a doctor?",
+      "stem": "What helped Rob to prepare to play the character of a doctor?",
       "options": [
         {
           "letter": "A",
@@ -227,7 +381,8 @@
           "text": "the way he imagined his grandfather at work"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Theatre Studies Course"
     },
     {
       "number": 22,
@@ -247,7 +402,8 @@
           "text": "long pauses within conversations"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Theatre Studies Course"
     },
     {
       "number": 23,
@@ -267,7 +423,8 @@
           "text": "He thinks he is a good leader"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Theatre Studies Course"
     },
     {
       "number": 24,
@@ -287,7 +444,8 @@
           "text": "economic transformations"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Theatre Studies Course"
     },
     {
       "number": 25,
@@ -307,107 +465,273 @@
           "text": "the injury of one character"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Theatre Studies Course"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "e box given below. Stages in doing the ‘year abroad’ option 26. in the second year of the course 27. when first choosing where to go 28. when sending in your choice 29. w",
-      "groupId": "q26-30"
+      "prompt": "in the second year of the course",
+      "groupId": "q26-30",
+      "instructions": "What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from the box given below. Stages in doing the ‘year abroad’ option",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be on time"
+        },
+        {
+          "letter": "B",
+          "text": "get a letter of recommendation"
+        },
+        {
+          "letter": "C",
+          "text": "plan for the final year"
+        },
+        {
+          "letter": "D",
+          "text": "make sure the institution’s focus is relevant"
+        },
+        {
+          "letter": "E",
+          "text": "show ability in Theatre Studies"
+        },
+        {
+          "letter": "F",
+          "text": "make travel arrangements and bookings"
+        },
+        {
+          "letter": "G",
+          "text": "ask for help Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "e ‘year abroad’ option 26. in the second year of the course 27. when first choosing where to go 28. when sending in your choice 29. when writing your personal statement 3",
-      "groupId": "q26-30"
+      "prompt": "when first choosing where to go",
+      "groupId": "q26-30",
+      "instructions": "What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from the box given below. Stages in doing the ‘year abroad’ option",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be on time"
+        },
+        {
+          "letter": "B",
+          "text": "get a letter of recommendation"
+        },
+        {
+          "letter": "C",
+          "text": "plan for the final year"
+        },
+        {
+          "letter": "D",
+          "text": "make sure the institution’s focus is relevant"
+        },
+        {
+          "letter": "E",
+          "text": "show ability in Theatre Studies"
+        },
+        {
+          "letter": "F",
+          "text": "make travel arrangements and bookings"
+        },
+        {
+          "letter": "G",
+          "text": "ask for help Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "cond year of the course 27. when first choosing where to go 28. when sending in your choice 29. when writing your personal statement 30. when doing the year abroad Action",
-      "groupId": "q26-30"
+      "prompt": "when sending in your choice",
+      "groupId": "q26-30",
+      "instructions": "What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from the box given below. Stages in doing the ‘year abroad’ option",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be on time"
+        },
+        {
+          "letter": "B",
+          "text": "get a letter of recommendation"
+        },
+        {
+          "letter": "C",
+          "text": "plan for the final year"
+        },
+        {
+          "letter": "D",
+          "text": "make sure the institution’s focus is relevant"
+        },
+        {
+          "letter": "E",
+          "text": "show ability in Theatre Studies"
+        },
+        {
+          "letter": "F",
+          "text": "make travel arrangements and bookings"
+        },
+        {
+          "letter": "G",
+          "text": "ask for help Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "first choosing where to go 28. when sending in your choice 29. when writing your personal statement 30. when doing the year abroad Action A be on time B get a letter of",
-      "groupId": "q26-30"
+      "prompt": "when writing your personal statement",
+      "groupId": "q26-30",
+      "instructions": "What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from the box given below. Stages in doing the ‘year abroad’ option",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be on time"
+        },
+        {
+          "letter": "B",
+          "text": "get a letter of recommendation"
+        },
+        {
+          "letter": "C",
+          "text": "plan for the final year"
+        },
+        {
+          "letter": "D",
+          "text": "make sure the institution’s focus is relevant"
+        },
+        {
+          "letter": "E",
+          "text": "show ability in Theatre Studies"
+        },
+        {
+          "letter": "F",
+          "text": "make travel arrangements and bookings"
+        },
+        {
+          "letter": "G",
+          "text": "ask for help Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from",
-      "groupId": "q26-30"
+      "prompt": "when doing the year abroad Action A be on time B get a letter of recommendation C plan for the final year D make sure the institution’s focus is relevant E show ability in Theatre Studies F make travel arrangements and bookings G ask for help",
+      "groupId": "q26-30",
+      "instructions": "What action is needed for the following stages in doing the ‘year abroad’ option? Choose FIVE answers from the box given below. Stages in doing the ‘year abroad’ option",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be on time"
+        },
+        {
+          "letter": "B",
+          "text": "get a letter of recommendation"
+        },
+        {
+          "letter": "C",
+          "text": "plan for the final year"
+        },
+        {
+          "letter": "D",
+          "text": "make sure the institution’s focus is relevant"
+        },
+        {
+          "letter": "E",
+          "text": "show ability in Theatre Studies"
+        },
+        {
+          "letter": "F",
+          "text": "make travel arrangements and bookings"
+        },
+        {
+          "letter": "G",
+          "text": "ask for help Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "to approach pleasure or avoid pain Promotion goals focus on (31) Prevention goals emphasise avoiding punishment Factors that affect people’s focus The Chronic Factor • co",
+      "prompt": "leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "affect people’s focus The Chronic Factor • comes from one’s (32) The (33) Factor • we are more likely to focus on promotion goals when with a (34) • we are more likely to",
+      "prompt": "Prevention goals emphasise avoiding punishment Factors that affect people’s focus The Chronic Factor • comes from one’s ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ople’s focus The Chronic Factor • comes from one’s (32) The (33) Factor • we are more likely to focus on promotion goals when with a (34) • we are more likely to focus on",
+      "prompt": "The ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "we are more likely to focus on promotion goals when with a (34) • we are more likely to focus on prevention goals with our boss How people’s focus affects them Promotion",
+      "prompt": "Factor • we are more likely to focus on promotion goals when with a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "s: People think about an ideal version of themselves, their (35) and their gains. Prevention Focus: People think about their ‘ought’ self and their obligations Leaders Le",
+      "prompt": "with our boss How people’s focus affects them Promotion Focus: People think about an ideal version of themselves, their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "self and their obligations Leaders Leadership behaviour and (36) affects people’s focus Transformational Leaders: • pay special attention to the (37) of their followers •",
+      "prompt": "gains. Prevention Focus: People think about their ‘ought’ self and their obligations Leaders Leadership behaviour and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "us Transformational Leaders: • pay special attention to the (37) of their followers • passionately communicate a clear (38) • inspire promotion focus in followers Transac",
+      "prompt": "affects people’s focus Transformational Leaders: • pay special attention to the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "(37) of their followers • passionately communicate a clear (38) • inspire promotion focus in followers Transactional Leaders: • create (39) to make expectations clear •",
+      "prompt": "of their followers • passionately communicate a clear ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "romotion focus in followers Transactional Leaders: • create (39) to make expectations clear • emphasise the results of a mistake • inspire prevention focus in followers C",
+      "prompt": "• inspire promotion focus in followers Transactional Leaders: • create ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulator",
+      "prompt": "the results of a mistake • inspire prevention focus in followers Conclusion Promotion Focus is good for jobs requiring ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. ‘Self-regulatory focus theory’ and leadership Self-regulatory focus theory People’s focus is to approach pleasure or avoid pain Promotion goals focus on"
     }
   ],
   "answerKey": {

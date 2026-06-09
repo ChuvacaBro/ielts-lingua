@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "s 1-10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "omplete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "ete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "ow. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-13 Choose the correct letter A, B or C. Traffic Changes in Granford 11. Why are changes needed to traffic systems in Granford?",
+      "stem": "Why are changes needed to traffic systems in Granford?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "The types of vehicles on the roads have changed."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C. Traffic Changes in Granford"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "inconvenience from parked cars."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C. Traffic Changes in Granford"
     },
     {
       "number": 13,
@@ -165,54 +177,62 @@
           "text": "getting the support of the police."
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C. Traffic Changes in Granford"
     },
     {
       "number": 14,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14",
-      "groupId": "q14-20"
+      "prompt": "New traffic lights",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
-      "groupId": "q14-20"
+      "prompt": "Pedestrian crossing",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q14-20"
+      "prompt": "Parking allowed",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q14-20"
+      "prompt": "New ‘no parking’ sign",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q14-20"
+      "prompt": "New disabled parking spaces",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q14-20"
+      "prompt": "Widened pavement",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 14-20 Label the map below. Write the correct letter A-I next to",
-      "groupId": "q14-20"
+      "prompt": "Lorry loading/ unloading restrictions",
+      "groupId": "q14-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 14-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. Why is Jack interested in investigating seed germination?",
+      "stem": "Why is Jack interested in investigating seed germination?",
       "options": [
         {
           "letter": "A",
@@ -227,7 +247,8 @@
           "text": "He is thinking of choosing this topic for his dissertation"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -247,7 +268,8 @@
           "text": "completed in the time available"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -267,7 +289,8 @@
           "text": "whether the assignment contributes to their final grade"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -287,7 +310,8 @@
           "text": "its focus is very theoretical"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -307,107 +331,123 @@
           "text": "the findings on seed germination after fires are surprising"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to questions 26-30."
     },
     {
       "number": 27,
       "type": "flowChartCompletion",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to questions 26-30."
     },
     {
       "number": 28,
       "type": "flowChartCompletion",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to questions 26-30."
     },
     {
       "number": 29,
       "type": "flowChartCompletion",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to questions 26-30."
     },
     {
       "number": 30,
       "type": "flowChartCompletion",
-      "prompt": "Questions 26-30 Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to",
-      "groupId": "q26-30"
+      "prompt": "____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Choose FIVE answers from the box and write the correct letter A-H next to questions 26-30."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "t only a few animals were suitable for city life e.g. • The (31) Because of its general adaptability • The pigeon – because walls of city buildings are similar to (32) In",
+      "prompt": "massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "The pigeon – because walls of city buildings are similar to (32) In fact, many urban animals are adapting with unusual (33) Recent research • Emilie Snell-Rood studied ur",
+      "prompt": "Because of its general adaptability • The pigeon – because walls of city buildings are similar to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "(32) In fact, many urban animals are adapting with unusual (33) Recent research • Emilie Snell-Rood studied urbanized mammal specimens from museums in Minnesota o She fo",
+      "prompt": "In fact, many urban animals are adapting with unusual ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ens from museums in Minnesota o She found the size of their (34) had increased o She suggests this may be due to the need to locate new sources of (35) and to deal with n",
+      "prompt": "research • Emilie Snell-Rood studied urbanized mammal specimens from museums in Minnesota o She found the size of their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ggests this may be due to the need to locate new sources of (35) and to deal with new dangers • Catarina Miranda focused on the (36) of urban and rural blackbirds. o She",
+      "prompt": "had increased o She suggests this may be due to the need to locate new sources of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "to deal with new dangers • Catarina Miranda focused on the (36) of urban and rural blackbirds. o She found urban birds were often braver but were afraid of situations th",
+      "prompt": "and to deal with new dangers • Catarina Miranda focused on the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "s were often braver but were afraid of situations that were (37) • Jonathan Atwell studies how animals respond to urban environments o He found that some animals respond",
+      "prompt": "of urban and rural blackbirds. o She found urban birds were often braver but were afraid of situations that were ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "urban environments o He found that some animals respond to (38) by producing lower levels of hormones. • Sarah Partan’s team found urban squirrels use their (39) to help",
+      "prompt": "• Jonathan Atwell studies how animals respond to urban environments o He found that some animals respond to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ones. • Sarah Partan’s team found urban squirrels use their (39) to help them communicate Long- term possibilities Species of animals may develop which are unique to citi",
+      "prompt": "by producing lower levels of hormones. • Sarah Partan’s team found urban squirrels use their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40. Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Int",
+      "prompt": "Long- term possibilities Species of animals may develop which are unique to cities. However, some changes may not be ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": ". Complete the notes below. Write ONE WORD ONLY for each answer. Effects of urban environment on animals Introduction Recent urban developments represent massive environmental changes. It was previously thought that only a few animals were suitable for city life e.g. • The"
     }
   ],
   "answerKey": {

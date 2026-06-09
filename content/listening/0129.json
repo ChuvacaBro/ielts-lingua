@@ -40,114 +40,193 @@
     {
       "number": 1,
       "type": "sentenceCompletion",
-      "prompt": "RDS for each answer. Peter consumes far too much soft drink 1. Peter and Mary’s diet will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they wil",
+      "prompt": "Peter and Mary’s diet will be both sensible and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft drink"
     },
     {
       "number": 2,
       "type": "sentenceCompletion",
-      "prompt": "ft drink 1. Peter and Mary’s diet will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In",
+      "prompt": "Every two months, they can eat",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft drink"
     },
     {
       "number": 3,
       "type": "sentenceCompletion",
-      "prompt": "will be both sensible and 2. Every two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In every meal, there will be",
+      "prompt": "On Saturdays, they will go",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft drink"
     },
     {
       "number": 4,
       "type": "sentenceCompletion",
-      "prompt": "very two months, they can eat 3. On Saturdays, they will go 4. This coming Saturday, they will go to 5. In every meal, there will be",
+      "prompt": "This coming Saturday, they will go to",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft drink"
     },
     {
       "number": 5,
       "type": "sentenceCompletion",
-      "prompt": "Questions 1-5 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft",
+      "prompt": "In every meal, there will be",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Peter consumes far too much soft drink"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter C, I or B."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter C, I or B."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter C, I or B."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "tions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter C, I or B."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Choose the correct letter C, I or B. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter C, I or B."
     },
     {
       "number": 11,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 12,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "Questions 11-16 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (11) (12) (13) (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
+      "type": "gapFill",
+      "prompt": "has her own children?",
+      "groupId": "q17-20",
+      "instructions": "Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Andrea"
+        },
+        {
+          "letter": "B",
+          "text": "Bella"
+        },
+        {
+          "letter": "C",
+          "text": "Cathy Part 3:"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "gapFill",
+      "prompt": "often sleeps at the centre?",
+      "groupId": "q17-20",
+      "instructions": "Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Andrea"
+        },
+        {
+          "letter": "B",
+          "text": "Bella"
+        },
+        {
+          "letter": "C",
+          "text": "Cathy Part 3:"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "gapFill",
+      "prompt": "is good with shy children?",
+      "groupId": "q17-20",
+      "instructions": "Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Andrea"
+        },
+        {
+          "letter": "B",
+          "text": "Bella"
+        },
+        {
+          "letter": "C",
+          "text": "Cathy Part 3:"
+        }
+      ]
+    },
+    {
+      "number": 20,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker? 17. has her own children? 18. often sleeps at the centre? 19. is good with shy children? 20. is a good cook?",
+      "stem": "is a good cook?",
       "options": [
         {
           "letter": "A",
@@ -162,100 +241,93 @@
           "text": "Cathy"
         }
       ],
-      "groupId": "q17-20"
-    },
-    {
-      "number": 18,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 18"
-    },
-    {
-      "number": 19,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 19"
-    },
-    {
-      "number": 20,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 20"
+      "groupId": "q17-20",
+      "instructions": "Choose the correct letter A, B or C. NB You may use a letter more than once. Which childcare worker?"
     },
     {
       "number": 21,
       "type": "flowChartCompletion",
-      "prompt": "reate (24)________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "prompt": "Foundation for Essay Writing Step 1 : Decide on ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : Decide on"
     },
     {
       "number": 22,
       "type": "flowChartCompletion",
-      "prompt": "(24)________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "prompt": "____you like Step 2 : Focus on ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : Decide on"
     },
     {
       "number": 23,
       "type": "flowChartCompletion",
-      "prompt": "________ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "prompt": "____area of interest Step 3 : Write ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : Decide on"
     },
     {
       "number": 24,
       "type": "flowChartCompletion",
-      "prompt": "___ Step 5 : Ensure this (25)________clearly (21) (22) (23) (24) (25)",
+      "prompt": "____statement Step 4 : Create ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : Decide on"
     },
     {
       "number": 25,
       "type": "flowChartCompletion",
-      "prompt": "Questions 21-25 Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : D",
+      "prompt": "____ Step 5 : Ensure this ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer. Foundation for Essay Writing Step 1 : Decide on"
     },
     {
       "number": 26,
       "type": "summaryCompletion",
-      "prompt": "O WORDS AND/ OR A NUMBER for each answer. There are several (26) involved in producing a good essay. The writer must think independently, and give (27) examples as suppor",
+      "prompt": "There are several ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are several"
     },
     {
       "number": 27,
       "type": "summaryCompletion",
-      "prompt": "a good essay. The writer must think independently, and give (27) examples as support, each one with a reference (which is academically (28) ). The formatting must follow",
+      "prompt": "involved in producing a good essay. The writer must think independently, and give ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are several"
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": "s support, each one with a reference (which is academically (28) ). The formatting must follow the (29) issued by the university, as well as the word count decided by the",
+      "prompt": "examples as support, each one with a reference (which is academically ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are several"
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "hich is academically (28) ). The formatting must follow the (29) issued by the university, as well as the word count decided by the lecturer, although it can vary by (30)",
+      "prompt": "The formatting must follow the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are several"
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are severa",
+      "prompt": "issued by the university, as well as the word count decided by the lecturer, although it can vary by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. There are several"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. Geocentrism",
+      "stem": "Geocentrism",
       "options": [
         {
           "letter": "A",
@@ -270,7 +342,8 @@
           "text": "took some time to be deduced"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -290,7 +363,8 @@
           "text": "fitted the views of the church"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -310,56 +384,64 @@
           "text": "was once used for navigation"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "he notes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "tes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "elow. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "e ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 34-40 Complete the notes below. Write ONE WORD OR A NUMBER for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

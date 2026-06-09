@@ -40,132 +40,240 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Y for each answer. Working at Milo’s Restaurants Benefits • (1) provided for all staff • (2) during weekdays at all Milo’s Restaurants • (3) provided after midnight Perso",
+      "prompt": "Working at Milo’s Restaurants Benefits • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits •"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Milo’s Restaurants Benefits • (1) provided for all staff • (2) during weekdays at all Milo’s Restaurants • (3) provided after midnight Person specification • must be pre",
+      "prompt": "provided for all staff • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits •"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "all staff • (2) during weekdays at all Milo’s Restaurants • (3) provided after midnight Person specification • must be prepared to work well in a team • must care about m",
+      "prompt": "during weekdays at all Milo’s Restaurants • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits •"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "in a team • must care about maintaining a high standard of (4) • must have a qualification in (5)",
+      "prompt": "Person specification • must be prepared to work well in a team • must care about maintaining a high standard of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits •"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits • (1)",
+      "prompt": "• must have a qualification in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Working at Milo’s Restaurants Benefits •"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "ual salary £ 23,000 No work on a (10) ________ once a month (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "chefs Maintaining stock and organising (9) ____ Annual salary £ 23,000 No work on a (10) ____ once a month ____",
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month"
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "ach answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Ma",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month"
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "e correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ___",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month"
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month"
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Question 6-10 Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are corr",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. Checking portions, etc. are correct Making sure (7) ________ is clean Salary starting (8) £ ________ per hour Start work at 5.30 am Supporting senior chefs Maintaining stock and organising (9) ________ Annual salary £ 23,000 No work on a (10) ________ once a month"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. What are the TWO main reasons why this site has been chosen for the housing",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. What are the TWO main reasons why this site has been chosen for the housing development?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It has suitable geographical features."
+        },
+        {
+          "letter": "B",
+          "text": "There is easy access to local facilities."
+        },
+        {
+          "letter": "C",
+          "text": "It has good connections with the airport."
+        },
+        {
+          "letter": "D",
+          "text": "The land is of little agricultural value."
+        },
+        {
+          "letter": "E",
+          "text": "It will be convenient for workers."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. What are the TWO main reasons why this site has been chosen for the housing develo",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. What are the TWO main reasons why this site has been chosen for the housing development?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It has suitable geographical features."
+        },
+        {
+          "letter": "B",
+          "text": "There is easy access to local facilities."
+        },
+        {
+          "letter": "C",
+          "text": "It has good connections with the airport."
+        },
+        {
+          "letter": "D",
+          "text": "The land is of little agricultural value."
+        },
+        {
+          "letter": "E",
+          "text": "It will be convenient for workers."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO aspects of the planned housing development have people given posi",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO aspects of the planned housing development have people given positive feedback about?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the facilities for cyclists"
+        },
+        {
+          "letter": "B",
+          "text": "the impact on the environment"
+        },
+        {
+          "letter": "C",
+          "text": "the encouragement of good relations between residents"
+        },
+        {
+          "letter": "D",
+          "text": "the low cost of all the accommodation"
+        },
+        {
+          "letter": "E",
+          "text": "the rural location"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO aspects of the planned housing development have people given positive fe",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO aspects of the planned housing development have people given positive feedback about?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the facilities for cyclists"
+        },
+        {
+          "letter": "B",
+          "text": "the impact on the environment"
+        },
+        {
+          "letter": "C",
+          "text": "the encouragement of good relations between residents"
+        },
+        {
+          "letter": "D",
+          "text": "the low cost of all the accommodation"
+        },
+        {
+          "letter": "E",
+          "text": "the rural location"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
       "prompt": "Question 15",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
       "prompt": "Question 16",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
       "prompt": "Question 17",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
       "prompt": "Question 18",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
       "prompt": "Question 19",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 15-20 Label the map below. Write the correct letter, A-l, next to",
-      "groupId": "q15-20"
+      "prompt": "Question 20",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter, A-l, next to"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter, A, B or C. 21. Why do the students think the Laki eruption of 1783 is so important?",
+      "stem": "Why do the students think the Laki eruption of 1783 is so important?",
       "options": [
         {
           "letter": "A",
@@ -180,7 +288,8 @@
           "text": "It had a profound effect on society."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -200,7 +309,8 @@
           "text": "the lack of scientific data to support them"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
@@ -220,7 +330,8 @@
           "text": "It completely blocked out the sun for weeks."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 24,
@@ -240,113 +351,174 @@
           "text": "supported the opinions of other observers about the haze."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters, A-E. Which TWO issues following the Laki eruption surprised the students? A how",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters, A-E. Which TWO issues following the Laki eruption surprised the students?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "how widespread the effects were"
+        },
+        {
+          "letter": "B",
+          "text": "how long-lasting the effects were"
+        },
+        {
+          "letter": "C",
+          "text": "the number of deaths it caused"
+        },
+        {
+          "letter": "D",
+          "text": "the speed at which the volcanic ash cloud spread"
+        },
+        {
+          "letter": "E",
+          "text": "how people ignored the warning signs"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters, A-E. Which TWO issues following the Laki eruption surprised the students? A how widespr",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters, A-E. Which TWO issues following the Laki eruption surprised the students?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "how widespread the effects were"
+        },
+        {
+          "letter": "B",
+          "text": "how long-lasting the effects were"
+        },
+        {
+          "letter": "C",
+          "text": "the number of deaths it caused"
+        },
+        {
+          "letter": "D",
+          "text": "the speed at which the volcanic ash cloud spread"
+        },
+        {
+          "letter": "E",
+          "text": "how people ignored the warning signs"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What comment do the students make about the impact of the Laki eruption on the following countries? Choose",
-      "groupId": "q27-30"
+      "prompt": "Question 30",
+      "groupId": "q27-30",
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ach answer. Pockets Reason for choice of subject • They are (31) but can be overlooked by consumers and designers. Pockets in men’s clothes • Men started to wear (32) in",
+      "prompt": "Pockets Reason for choice of subject • They are ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "d designers. Pockets in men’s clothes • Men started to wear (32) in the 18th century. • A (33) sewed pockets into the lining of the garments. • The wearer could use the p",
+      "prompt": "but can be overlooked by consumers and designers. Pockets in men’s clothes • Men started to wear ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "clothes • Men started to wear (32) in the 18th century. • A (33) sewed pockets into the lining of the garments. • The wearer could use the pockets for small items. • Bigg",
+      "prompt": "in the 18th century. • A ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ets might be made for men who belonged to a certain type of (34) Pockets in women’s clothes • Women’s pockets were less (35) than men’s. • Women were very concerned about",
+      "prompt": "wearer could use the pockets for small items. • Bigger pockets might be made for men who belonged to a certain type of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "(34) Pockets in women’s clothes • Women’s pockets were less (35) than men’s. • Women were very concerned about pickpockets. • Pockets were produced in pairs using (36) to",
+      "prompt": "Pockets in women’s clothes • Women’s pockets were less ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "d about pickpockets. • Pockets were produced in pairs using (36) to link them together. • Pockets hung from the women’s (37) under skirts and petticoats. • Items such as",
+      "prompt": "than men’s. • Women were very concerned about pickpockets. • Pockets were produced in pairs using ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "(36) to link them together. • Pockets hung from the women’s (37) under skirts and petticoats. • Items such as (38) could be reached through a gap in the material. • Pocke",
+      "prompt": "to link them together. • Pockets hung from the women’s ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "e women’s (37) under skirts and petticoats. • Items such as (38) could be reached through a gap in the material. • Pockets, of various sizes, stayed inside clothing for m",
+      "prompt": "under skirts and petticoats. • Items such as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "changed shape, hidden pockets had a negative effect on the (39) of women. • Bags called ‘pouches’ became popular, before women carried a (40)",
+      "prompt": "stayed inside clothing for many decades. • When dresses changed shape, hidden pockets had a negative effect on the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They",
+      "prompt": "of women. • Bags called ‘pouches’ became popular, before women carried a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Pockets Reason for choice of subject • They are"
     }
   ],
   "answerKey": {

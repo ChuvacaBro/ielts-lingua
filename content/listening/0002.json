@@ -40,88 +40,101 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ORMATION Type of accommodation: hall of residence Name: Anu (1) Date of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Pref",
-      "groupId": "q1-10"
+      "prompt": "ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "commodation: hall of residence Name: Anu (1) Date of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Preferred catering arra",
-      "groupId": "q1-10"
+      "prompt": "Date of birth: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "ate of birth: (2) Country of origin: India Course of study: (3) Number of years planned in hall: (4) Preferred catering arrangement: half board Special dietary requiremen",
-      "groupId": "q1-10"
+      "prompt": "Country of origin: India Course of study: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "India Course of study: (3) Number of years planned in hall: (4) Preferred catering arrangement: half board Special dietary requirements: no (5) (red) Preferred room type:",
-      "groupId": "q1-10"
+      "prompt": "Number of years planned in hall: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "ng arrangement: half board Special dietary requirements: no (5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to",
-      "groupId": "q1-10"
+      "prompt": "Preferred catering arrangement: half board Special dietary requirements: no ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "ry requirements: no (5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to be with other students who are (8) To li",
-      "groupId": "q1-10"
+      "prompt": "(red) Preferred room type: a single ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "(5) (red) Preferred room type: a single (6) Interests: the (7) and badminton Priorities in choice of hall: to be with other students who are (8) To live outside the (9)",
-      "groupId": "q1-10"
+      "prompt": "Interests: the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "rities in choice of hall: to be with other students who are (8) To live outside the (9) To have a (10) area for socializing Part 2:",
-      "groupId": "q1-10"
+      "prompt": "and badminton Priorities in choice of hall: to be with other students who are ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": ": to be with other students who are (8) To live outside the (9) To have a (10) area for socializing Part 2:",
-      "groupId": "q1-10"
+      "prompt": "To live outside the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of ac",
-      "groupId": "q1-10"
+      "prompt": "To have a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER. ACCOMODATION FORM – STUDENT INFORMATION Type of accommodation: hall of residence Name: Anu"
     },
     {
       "number": 11,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES (11) (12) and (13)",
+      "prompt": "PARKS AND OPEN SPACES ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES"
     },
     {
       "number": 12,
       "type": "tableCompletion",
-      "prompt": "Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES (11) (12) and (13)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES"
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "Questions 11-13 Complete the table below. Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES (11) (12) and (13)",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS. PARKS AND OPEN SPACES"
     },
     {
       "number": 14,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter, A, B or C. Longfield Park 14. As part of Monday’s activity, visitors will",
+      "stem": "As part of Monday’s activity, visitors will",
       "options": [
         {
           "letter": "A",
@@ -136,7 +149,8 @@
           "text": "dye cloth with herbs"
         }
       ],
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Choose the correct letter, A, B or C. Longfield Park"
     },
     {
       "number": 15,
@@ -156,7 +170,8 @@
           "text": "attendance is free"
         }
       ],
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Choose the correct letter, A, B or C. Longfield Park"
     },
     {
       "number": 16,
@@ -176,36 +191,41 @@
           "text": "tell the rangers before the event what they wish to do"
         }
       ],
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Choose the correct letter, A, B or C. Longfield Park"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "bird hide ____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "dog-walking area ____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-I next to",
-      "groupId": "q17-20"
+      "prompt": "flower garden ____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter, A, B or C. Self-Access Centre 21. Students want to keep the Self-Access Centre because",
+      "stem": "Students want to keep the Self-Access Centre because",
       "options": [
         {
           "letter": "A",
@@ -220,7 +240,8 @@
           "text": "it is an important part of their studies"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Self-Access Centre"
     },
     {
       "number": 22,
@@ -240,7 +261,8 @@
           "text": "restrict access to the Self-Access Centre"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Self-Access Centre"
     },
     {
       "number": 23,
@@ -260,7 +282,8 @@
           "text": "the lack of materials"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Self-Access Centre"
     },
     {
       "number": 24,
@@ -280,119 +303,136 @@
           "text": "the difficulty in supervising the centre"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C. Self-Access Centre"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "e computers to create more space Resources The level of the (25) materials, in particular, should be more clearly shown. Update the (26) collection. Buy some (27) and div",
+      "prompt": "to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ls, in particular, should be more clearly shown. Update the (26) collection. Buy some (27) and divide them up. Use of the room Speak to the teachers and organize a (28) f",
+      "prompt": "materials, in particular, should be more clearly shown. Update the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "be more clearly shown. Update the (26) collection. Buy some (27) and divide them up. Use of the room Speak to the teachers and organize a (28) for supervising the centre.",
+      "prompt": "collection. Buy some ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "em up. Use of the room Speak to the teachers and organize a (28) for supervising the centre. Install an (29) Restrict personal use of (30) on computers. Part 4:",
+      "prompt": "and divide them up. Use of the room Speak to the teachers and organize a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "and organize a (28) for supervising the centre. Install an (29) Restrict personal use of (30) on computers. Part 4:",
+      "prompt": "for supervising the centre. Install an ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 25-30 Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access",
+      "prompt": "Restrict personal use of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Necessary improvements to the existing Self-Access Centre Equipment Replace computers to create more space Resources The level of the"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ULTURE Power Culture Characteristics of organization: small (31) power source Few rules and procedures Communication by (32) Advantage: can act quickly Disadvantage: migh",
+      "prompt": "BUSINESS CULTURE Power Culture Characteristics of organization: small ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "(31) power source Few rules and procedures Communication by (32) Advantage: can act quickly Disadvantage: might not act (33) Suitable employee: not afraid of (34) Does no",
+      "prompt": "power source Few rules and procedures Communication by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "(32) Advantage: can act quickly Disadvantage: might not act (33) Suitable employee: not afraid of (34) Does not need job security Role Culture Characteristic of organizat",
+      "prompt": "Advantage: can act quickly Disadvantage: might not act ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "antage: might not act (33) Suitable employee: not afraid of (34) Does not need job security Role Culture Characteristic of organization: large, many (35) Specialized depa",
+      "prompt": "Suitable employee: not afraid of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ty Role Culture Characteristic of organization: large, many (35) Specialized departments Rules and procedures e.g. job (36) and rules for discipline Advantages: economies",
+      "prompt": "Does not need job security Role Culture Characteristic of organization: large, many ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "(35) Specialized departments Rules and procedures e.g. job (36) and rules for discipline Advantages: economies of scale Successful when (37) ability is important Disadva",
+      "prompt": "Specialized departments Rules and procedures e.g. job ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "r discipline Advantages: economies of scale Successful when (37) ability is important Disadvantages: slow to see when (38) is needed Slow to react Suitable employee: valu",
+      "prompt": "and rules for discipline Advantages: economies of scale Successful when ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "n (37) ability is important Disadvantages: slow to see when (38) is needed Slow to react Suitable employee: values security Does not want (39) Task Culture Characteristic",
+      "prompt": "ability is important Disadvantages: slow to see when ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "w to react Suitable employee: values security Does not want (39) Task Culture Characteristic of organization: project oriented In competitive market or making product wit",
+      "prompt": "is needed Slow to react Suitable employee: values security Does not want ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organizati",
+      "prompt": "Characteristic of organization: project oriented In competitive market or making product with short life Advantages: ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. BUSINESS CULTURE Power Culture Characteristics of organization: small"
     }
   ],
   "answerKey": {

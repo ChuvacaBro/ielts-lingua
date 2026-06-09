@@ -40,127 +40,147 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "th Council Name: Roger Brown Age: 18 Currently staying in a (1) during the week Postal address: (2) 17, Street, Stamford, Lincs Postcode: (3) Occupation: student and part",
-      "groupId": "q1-10"
+      "prompt": "Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Currently staying in a (1) during the week Postal address: (2) 17, Street, Stamford, Lincs Postcode: (3) Occupation: student and part time job as a (4) Studying (5) (maj",
-      "groupId": "q1-10"
+      "prompt": "during the week Postal address: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "k Postal address: (2) 17, Street, Stamford, Lincs Postcode: (3) Occupation: student and part time job as a (4) Studying (5) (major subject) and history (minor subject) Ho",
-      "groupId": "q1-10"
+      "prompt": "17, Street, Stamford, Lincs Postcode: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "cs Postcode: (3) Occupation: student and part time job as a (4) Studying (5) (major subject) and history (minor subject) Hobbies: does a lot of (6) , and is interested in",
-      "groupId": "q1-10"
+      "prompt": "Occupation: student and part time job as a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "(3) Occupation: student and part time job as a (4) Studying (5) (major subject) and history (minor subject) Hobbies: does a lot of (6) , and is interested in the (7) On Y",
-      "groupId": "q1-10"
+      "prompt": "Studying ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "subject) and history (minor subject) Hobbies: does a lot of (6) , and is interested in the (7) On Youth Council, wants to work with young people who are (8) Will come to",
-      "groupId": "q1-10"
+      "prompt": "(major subject) and history (minor subject) Hobbies: does a lot of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ject) Hobbies: does a lot of (6) , and is interested in the (7) On Youth Council, wants to work with young people who are (8) Will come to talk to the Elections Officer n",
-      "groupId": "q1-10"
+      "prompt": "and is interested in the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": ") On Youth Council, wants to work with young people who are (8) Will come to talk to the Elections Officer next Monday at (9) pm Mobile number: (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "On Youth Council, wants to work with young people who are ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": ") Will come to talk to the Elections Officer next Monday at (9) pm Mobile number: (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "Will come to talk to the Elections Officer next Monday at ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger B",
-      "groupId": "q1-10"
+      "prompt": "pm Mobile number: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. Enquiry about joining Youth Council Name: Roger Brown Age: 18 Currently staying in a"
     },
     {
       "number": 11,
       "type": "gapFill",
       "prompt": "Question 11",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 14,
       "type": "gapFill",
       "prompt": "Question 14",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 11-20 New staff at theatre",
-      "groupId": "q11-20"
+      "prompt": "Question 20",
+      "groupId": "q11-20",
+      "instructions": "New staff at theatre"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. Rocky Bay field trip 21. What do the students agree should be included in their aims?",
+      "stem": "What do the students agree should be included in their aims?",
       "options": [
         {
           "letter": "A",
@@ -175,7 +195,8 @@
           "text": "techniques for classifying different organisms"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 22,
@@ -195,7 +216,8 @@
           "text": "a ruler"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 23,
@@ -215,7 +237,8 @@
           "text": "the amount of information provided"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 24,
@@ -235,7 +258,8 @@
           "text": "It required special equipment"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 25,
@@ -255,7 +279,8 @@
           "text": "She did it at the wrong time"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 26,
@@ -275,101 +300,204 @@
           "text": "add information from the internet"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Rocky Bay field trip"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO problems affecting organisms in the splash zone are mentioned? A l",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO problems affecting organisms in the splash zone are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lack of water"
+        },
+        {
+          "letter": "B",
+          "text": "strong winds"
+        },
+        {
+          "letter": "C",
+          "text": "lack of food"
+        },
+        {
+          "letter": "D",
+          "text": "high temperatures"
+        },
+        {
+          "letter": "E",
+          "text": "large waves"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO problems affecting organisms in the splash zone are mentioned? A lack of",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO problems affecting organisms in the splash zone are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lack of water"
+        },
+        {
+          "letter": "B",
+          "text": "strong winds"
+        },
+        {
+          "letter": "C",
+          "text": "lack of food"
+        },
+        {
+          "letter": "D",
+          "text": "high temperatures"
+        },
+        {
+          "letter": "E",
+          "text": "large waves"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO reasons for possible error will they include in their report? A i",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E. Which TWO reasons for possible error will they include in their report?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "inaccurate records of the habitat of organisms"
+        },
+        {
+          "letter": "B",
+          "text": "influence on behaviour of organisms by observer"
+        },
+        {
+          "letter": "C",
+          "text": "incorrect identification of some organisms"
+        },
+        {
+          "letter": "D",
+          "text": "making generalisations from a small sample"
+        },
+        {
+          "letter": "E",
+          "text": "missing some organisms when counting Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters, A-E. Which TWO reasons for possible error will they include in their report? A inaccura",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters, A-E. Which TWO reasons for possible error will they include in their report?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "inaccurate records of the habitat of organisms"
+        },
+        {
+          "letter": "B",
+          "text": "influence on behaviour of organisms by observer"
+        },
+        {
+          "letter": "C",
+          "text": "incorrect identification of some organisms"
+        },
+        {
+          "letter": "D",
+          "text": "making generalisations from a small sample"
+        },
+        {
+          "letter": "E",
+          "text": "missing some organisms when counting Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "y need to consider the building’s • Function • Physical and (31) context • Symbolic meaning Location and concept of the Concert Hall • On the site of a discussed (32) • B",
+      "prompt": "HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "nd concept of the Concert Hall • On the site of a discussed (32) • Beside a (33) • The design is based on the concept of a mystery Building design It’s approached by a (3",
+      "prompt": "context • Symbolic meaning Location and concept of the Concert Hall • On the site of a discussed ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "e Concert Hall • On the site of a discussed (32) • Beside a (33) • The design is based on the concept of a mystery Building design It’s approached by a (34) for pedestria",
+      "prompt": "• Beside a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "e concept of a mystery Building design It’s approached by a (34) for pedestrians The building is the shape of a (35) One exterior wall acts as a large (36) In the auditor",
+      "prompt": "• The design is based on the concept of a mystery Building design It’s approached by a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ed by a (34) for pedestrians The building is the shape of a (35) One exterior wall acts as a large (36) In the auditorium: • The floor is built on huge pads made of (37)",
+      "prompt": "for pedestrians The building is the shape of a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "ng is the shape of a (35) One exterior wall acts as a large (36) In the auditorium: • The floor is built on huge pads made of (37) • The walls are made of local wood and",
+      "prompt": "One exterior wall acts as a large ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "n the auditorium: • The floor is built on huge pads made of (37) • The walls are made of local wood and are (38) in shape • Ceiling panels and (39) on walls allow adjustm",
+      "prompt": "In the auditorium: • The floor is built on huge pads made of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "ads made of (37) • The walls are made of local wood and are (38) in shape • Ceiling panels and (39) on walls allow adjustment of acoustics Evaluation Some critics say the",
+      "prompt": "• The walls are made of local wood and are ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "de of local wood and are (38) in shape • Ceiling panels and (39) on walls allow adjustment of acoustics Evaluation Some critics say the (40) style of building is inapprop",
+      "prompt": "in shape • Ceiling panels and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introdu",
+      "prompt": "on walls allow adjustment of acoustics Evaluation Some critics say the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DESIGNING A PUBLIC BUILDING: THE TAYLOR CONCERT HALL Introduction The designer of a public building may need to consider the building’s • Function • Physical and"
     }
   ],
   "answerKey": {

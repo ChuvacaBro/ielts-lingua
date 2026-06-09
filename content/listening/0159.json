@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "on for a: Current bank account Type of current account: The (1) account Full name of applicant: Pieter Henes Date of birth: (2) Joint account holders: No Current address:",
+      "prompt": "OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "account Full name of applicant: Pieter Henes Date of birth: (2) Joint account holders: No Current address: (3) Exeter Time at current address: (4) Previous address: Riels",
+      "prompt": "account Full name of applicant: Pieter Henes Date of birth: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "te of birth: (2) Joint account holders: No Current address: (3) Exeter Time at current address: (4) Previous address: Rielsdorf 2, Utrecht, Holland Telephone: work (5) Oc",
+      "prompt": "Joint account holders: No Current address: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "rs: No Current address: (3) Exeter Time at current address: (4) Previous address: Rielsdorf 2, Utrecht, Holland Telephone: work (5) Occupation: (6) Identity (security): N",
+      "prompt": "Exeter Time at current address: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "ious address: Rielsdorf 2, Utrecht, Holland Telephone: work (5) Occupation: (6) Identity (security): Name of his (7) :Siti Opening sum: (8) £ to be transferred from Frans",
+      "prompt": "Previous address: Rielsdorf 2, Utrecht, Holland Telephone: work ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "elsdorf 2, Utrecht, Holland Telephone: work (5) Occupation: (6) Identity (security): Name of his (7) :Siti Opening sum: (8) £ to be transferred from Fransen Bank, Utrecht",
+      "prompt": "Occupation: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": ": work (5) Occupation: (6) Identity (security): Name of his (7) :Siti Opening sum: (8) £ to be transferred from Fransen Bank, Utrecht Statements: Every (9) Requests: Supp",
+      "prompt": "Identity (security): Name of his ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "(6) Identity (security): Name of his (7) :Siti Opening sum: (8) £ to be transferred from Fransen Bank, Utrecht Statements: Every (9) Requests: Supply information about th",
+      "prompt": "Siti Opening sum: ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "be transferred from Fransen Bank, Utrecht Statements: Every (9) Requests: Supply information about the bank’s (10) service Part 2:",
+      "prompt": "£ to be transferred from Fransen Bank, Utrecht Statements: Every ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Question 1-10 Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a:",
+      "prompt": "Requests: Supply information about the bank’s ____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN ONE WORD OR A NUMBER. OPENING A BANK ACCOUNT Application for a: Current bank account Type of current account: The"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-13 Choose the correct letter A, B and C. THE HISTORY OF ROSEWOOD HOUSE 11. When the writer Sebastian George first saw Rosewood House, he",
+      "stem": "When the writer Sebastian George first saw Rosewood House, he",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "was unsure whether to buy it"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B and C. THE HISTORY OF ROSEWOOD HOUSE"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "suffered a serious illness"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B and C. THE HISTORY OF ROSEWOOD HOUSE"
     },
     {
       "number": 13,
@@ -165,127 +177,145 @@
           "text": "a typical building of the region"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B and C. THE HISTORY OF ROSEWOOD HOUSE"
     },
     {
       "number": 14,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14",
-      "groupId": "q14-17"
+      "prompt": "____",
+      "groupId": "q14-17",
+      "instructions": "Label the map below. Write correct letters A-J next to questions 14-17."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
-      "groupId": "q14-17"
+      "prompt": "____",
+      "groupId": "q14-17",
+      "instructions": "Label the map below. Write correct letters A-J next to questions 14-17."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q14-17"
+      "prompt": "____",
+      "groupId": "q14-17",
+      "instructions": "Label the map below. Write correct letters A-J next to questions 14-17."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14-17 Label the map below. Write correct letters A-J next to",
-      "groupId": "q14-17"
+      "prompt": "____",
+      "groupId": "q14-17",
+      "instructions": "Label the map below. Write correct letters A-J next to questions 14-17."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "mplete the sentences below. Write ONE WORD ONLY. RIVER WALK 18. You can walk through the that goes along the river bank. 19. You can go over the and then into a wooded ar",
+      "prompt": "You can walk through the that goes along the river bank.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY. RIVER WALK"
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "8. You can walk through the that goes along the river bank. 19. You can go over the and then into a wooded area. 20. On your way back, you could also go up to the Part 3:",
+      "prompt": "You can go over the and then into a wooded area.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY. RIVER WALK"
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Question 18-20 Complete the sentences below. Write ONE WORD ONLY. RIVER WALK 18. You can walk through the that goes along",
+      "prompt": "On your way back, you could also go up to the",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY. RIVER WALK"
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT 21. For their assignment, the students must investigate one part of the 22. The method the students must use t",
+      "prompt": "For their assignment, the students must investigate one part of the",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT"
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "r assignment, the students must investigate one part of the 22. The method the students must use to collect data is 23. In total, the students must interview people. 24.",
+      "prompt": "The method the students must use to collect data is",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT"
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "the 22. The method the students must use to collect data is 23. In total, the students must interview people. 24. Jack thinks the music preferences of listeners are simil",
+      "prompt": "In total, the students must interview people.",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT"
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "Question 21-24 Complete the sentences below. Write NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT 21. For thei",
+      "prompt": "Jack thinks the music preferences of listeners are similar.",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS OR A NUMBER. MARKETING ASSIGNMENT"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "KETING SURVEY: MUSIC PREFERENCES Age group of interviewee • 25 or under • 45 or over Music preferences • Pop • (25) • Folk • Easy listening • (26) Medium for listening to",
+      "prompt": "or under • 45 or over Music preferences • Pop • (25) • Folk • Easy listening •",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "er Music preferences • Pop • (25) • Folk • Easy listening • (26) Medium for listening to music • Radio • CD • TV • (27) Source of music • Music shops • (28) • Internet Pl",
+      "prompt": "or under • 45 or over Music preferences • Pop • (25) • Folk • Easy listening • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "ng • (26) Medium for listening to music • Radio • CD • TV • (27) Source of music • Music shops • (28) • Internet Places for listening to music • Disco • Pub • (29) • Conc",
+      "prompt": "Medium for listening to music • Radio • CD • TV • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "ic • Radio • CD • TV • (27) Source of music • Music shops • (28) • Internet Places for listening to music • Disco • Pub • (29) • Concert Hall • (30) Part 4:",
+      "prompt": "Source of music • Music shops • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "8) • Internet Places for listening to music • Disco • Pub • (29) • Concert Hall • (30) Part 4:",
+      "prompt": "• Internet Places for listening to music • Disco • Pub • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Question 25-30 Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of in",
+      "prompt": "• Concert Hall • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. MARKETING SURVEY: MUSIC PREFERENCES Age group of interviewee •"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-34 Choose the correct letter A, B or C. 31. According to the speaker, it is not clear",
+      "stem": "According to the speaker, it is not clear",
       "options": [
         {
           "letter": "A",
@@ -300,7 +330,8 @@
           "text": "where the early Irish farmers came from"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -320,7 +351,8 @@
           "text": "Some species died out during this period"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -340,7 +372,8 @@
           "text": "Probably only a few breeding animals were imported"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
@@ -360,49 +393,56 @@
           "text": "the patterns painted on the surface of pots"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS 35. Ploughs could either have been pulled by or by cattle. • The farmers needed homes which were permanent dwe",
+      "prompt": "Ploughs could either have been pulled by or by cattle. • The farmers needed homes which were permanent dwellings.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "• The farmers needed homes which were permanent dwellings. 36. In the final stages of axe-making and were necessary for grinding and polishing. 37. Irish axes were expor",
+      "prompt": "In the final stages of axe-making and were necessary for grinding and polishing.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "f axe-making and were necessary for grinding and polishing. 37. Irish axes were exported from Ireland to and England. POTTERY MAKING • The colonisers used clay to make po",
+      "prompt": "Irish axes were exported from Ireland to and England. POTTERY MAKING • The colonisers used clay to make pots.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "nd. POTTERY MAKING • The colonisers used clay to make pots. 38. The of the pots was often polished to make them watertight. 39. Clay from areas was generally used. 40. De",
+      "prompt": "The of the pots was often polished to make them watertight.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "The of the pots was often polished to make them watertight. 39. Clay from areas was generally used. 40. Decoration was only put around the of the earliest pots.",
+      "prompt": "Clay from areas was generally used.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Question 35-40 Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS 35. Ploughs could eithe",
+      "prompt": "Decoration was only put around the of the earliest pots.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS each answer. STONE TOOLS"
     }
   ],
   "answerKey": {

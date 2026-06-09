@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "estionnaire Age of the interviewee – 19 Current occupation: (1) Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Privat",
+      "prompt": "North residency questionnaire Age of the interviewee – 19 Current occupation: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "– 19 Current occupation: (1) Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Pu",
+      "prompt": "Length of living in the north: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "Length of living in the north: (2) years Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Public transport: take the (5)",
+      "prompt": "years Exact living area: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "ears Exact living area: (3) Type of accommodation: a shared (4) Private transport: on foot and by bike Public transport: take the (5) or a taxi Frequency of eating out: (",
+      "prompt": "Type of accommodation: a shared ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "e transport: on foot and by bike Public transport: take the (5) or a taxi Frequency of eating out: (6) Places for entertainment: the places people usually go to, such as",
+      "prompt": "Private transport: on foot and by bike Public transport: take the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "transport: take the (5) or a taxi Frequency of eating out: (6) Places for entertainment: the places people usually go to, such as some great (7) Other free time activity",
+      "prompt": "or a taxi Frequency of eating out: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "inment: the places people usually go to, such as some great (7) Other free time activity: go to the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time",
+      "prompt": "Places for entertainment: the places people usually go to, such as some great ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "such as some great (7) Other free time activity: go to the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time course: (10) Part 2:",
+      "prompt": "Other free time activity: go to the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "the (8) Preferred exercises: go swimming, go to the gym, go (9) Part time course: (10) Part 2:",
+      "prompt": "Preferred exercises: go swimming, go to the gym, go ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency q",
+      "prompt": "Part time course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. North residency questionnaire Age of the interviewee – 19 Current occupation:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. Tourism in the mining community 11. What does the speaker say about hard hats?",
+      "stem": "What does the speaker say about hard hats?",
       "options": [
         {
           "letter": "A",
@@ -125,16 +135,42 @@
           "text": "they are available in all sizes"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Tourism in the mining community"
     },
     {
       "number": 12,
+      "type": "gapFill",
+      "prompt": "What does the speaker say about the outside area of the mine? A the road is wet C the ground is uneven in some area D the road is being repaired",
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Tourism in the mining community",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they must be worn in all areas"
+        },
+        {
+          "letter": "B",
+          "text": "a deposit is needed to borrow the hats"
+        },
+        {
+          "letter": "C",
+          "text": "they are available in all sizes 12. What does the speaker say about the outside area of the mine? A the road is wet C the ground is uneven in some area"
+        },
+        {
+          "letter": "D",
+          "text": "the road is being repaired 13."
+        }
+      ]
+    },
+    {
+      "number": 13,
       "type": "multipleChoice",
-      "stem": "What does the speaker say about the outside area of the mine?",
+      "stem": "Visitors who have difficulty in going up and down",
       "options": [
         {
           "letter": "A",
-          "text": "the road is wet C the ground is uneven in some area D the road is being repaired 13. Visitors who have difficulty in going up and down A can ask for help"
+          "text": "can ask for help"
         },
         {
           "letter": "B",
@@ -145,13 +181,8 @@
           "text": "can make use of ramp"
         }
       ],
-      "groupId": "q11-15"
-    },
-    {
-      "number": 13,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 13"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Tourism in the mining community"
     },
     {
       "number": 14,
@@ -171,7 +202,8 @@
           "text": "using mobile phones"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Tourism in the mining community"
     },
     {
       "number": 15,
@@ -191,109 +223,125 @@
           "text": "protective clothing is unnecessary"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C. Tourism in the mining community"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "____",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write correct letter A-I next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "____",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write correct letter A-I next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "____",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write correct letter A-I next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "____",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write correct letter A-I next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write correct letter A-I next to",
-      "groupId": "q16-20"
+      "prompt": "____",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write correct letter A-I next to questions 16-20."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "NUMBER for each answer. Whale survey Considerations: • The (21) should be carefully chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • De",
+      "prompt": "Whale survey Considerations: • The ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": ": • The (21) should be carefully chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) N",
+      "prompt": "should be carefully chosen • State of the sea: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "ly chosen • State of the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: •",
+      "prompt": "or choppy • And state of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "f the sea: (22) or choppy • And state of (23) • Visibility: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: • The (26) and appea",
+      "prompt": "• Visibility: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "ity: (24) • Details in need of attention: the appearance of (25) Need to evaluate or identify: • The (26) and appearance of whales • Scales: the (27) and species the poss",
+      "prompt": "• Details in need of attention: the appearance of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "the appearance of (25) Need to evaluate or identify: • The (26) and appearance of whales • Scales: the (27) and species the possible age etc.",
+      "prompt": "Need to evaluate or identify: • The ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "Questions 21-27 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Consi",
+      "prompt": "and appearance of whales • Scales: the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Whale survey Considerations: • The"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "pictures given according to different feature descriptions. 28. Sperm whale 29. Northern right whale 30. Minke whale Part 4:",
-      "groupId": "q28-30"
+      "prompt": "Sperm whale",
+      "groupId": "q28-30",
+      "instructions": "Match the following types of whales with the pictures given according to different feature descriptions."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "ccording to different feature descriptions. 28. Sperm whale 29. Northern right whale 30. Minke whale Part 4:",
-      "groupId": "q28-30"
+      "prompt": "Northern right whale",
+      "groupId": "q28-30",
+      "instructions": "Match the following types of whales with the pictures given according to different feature descriptions."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Match the following types of whales with the pictures given according to different feature descriptions. 28",
-      "groupId": "q28-30"
+      "prompt": "Minke whale",
+      "groupId": "q28-30",
+      "instructions": "Match the following types of whales with the pictures given according to different feature descriptions."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-36 Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company 31. Where did he get the shipping experience?",
+      "stem": "Where did he get the shipping experience?",
       "options": [
         {
           "letter": "A",
@@ -308,7 +356,8 @@
           "text": "first job"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 32,
@@ -328,7 +377,8 @@
           "text": "the business world widely"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 33,
@@ -348,7 +398,8 @@
           "text": "more reliable"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 34,
@@ -368,7 +419,8 @@
           "text": "appointed a new British agent"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 35,
@@ -388,7 +440,8 @@
           "text": "he once worked there"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 36,
@@ -408,35 +461,40 @@
           "text": "The US had bad weather conditions"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C. Biography of Samuel Cunard and his shipping company"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD only for each answer. 37. He improved the sail safety by using communication. 38. were produced on the board, so passengers would no",
+      "prompt": "He improved the sail safety by using communication.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "er. 37. He improved the sail safety by using communication. 38. were produced on the board, so passengers would not feel uneasy during the journey. 39. Before 1912, shipp",
+      "prompt": "were produced on the board, so passengers would not feel uneasy during the journey.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "rd, so passengers would not feel uneasy during the journey. 39. Before 1912, shipping companies paid more attention to the of the ships. 40. Afterwards, companies poured",
+      "prompt": "Before 1912, shipping companies paid more attention to the of the ships.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 37-40 Complete the sentences below. Write ONE WORD only for each answer. 37. He improved the sail safety by using",
+      "prompt": "Afterwards, companies poured more money into decoration which made the ships more like",
       "wordLimit": "ONE WORD only",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     }
   ],
   "answerKey": {

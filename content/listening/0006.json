@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "MORE THAN TWO WORDS for each answer. Requisition form Item: (1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected",
+      "prompt": "Requisition form Item: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "ion form Item: (1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Na",
+      "prompt": "For: Accounts department Length of time: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "(1) For: Accounts department Length of time: (2) Starting: (3) Reasons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "prompt": "Starting: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "ons (must give three) Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "prompt": "Reasons (must give three) Reason 1: unexpected demand Reason 2: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Reason 1: unexpected demand Reason 2: (4) Reason 3: require (5) Name: (6)",
+      "prompt": "Reason 3: require ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item: (1) For: Accou",
+      "prompt": "Name: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS for each answer. Requisition form Item:"
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. 11. Arthur Island’s summer population is",
+      "stem": "Arthur Island’s summer population is",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "22000"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "1974"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "native wildlife"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "scenic lookout"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,173 +219,335 @@
           "text": "tea and biscuits on the bus"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Wildlife park",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Reggie’s restaurant",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Nature reserve",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Bicycle-hire shops",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write the correct letter A-G next to",
-      "groupId": "q16-20"
+      "prompt": "Main souvenir shops",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-G next to questions 16-20."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-24"
+      "prompt": "____",
+      "groupId": "q21-24",
+      "instructions": "Complete the plan below. Write the correct letter from the list A-H next to questions 21-24.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read other student’s writing"
+        },
+        {
+          "letter": "B",
+          "text": "proofread the essay"
+        },
+        {
+          "letter": "C",
+          "text": "write text summaries"
+        },
+        {
+          "letter": "D",
+          "text": "check the table of contents"
+        },
+        {
+          "letter": "E",
+          "text": "produce graphs and tables"
+        },
+        {
+          "letter": "F",
+          "text": "do theoretical research"
+        },
+        {
+          "letter": "G",
+          "text": "compile the bibliography"
+        },
+        {
+          "letter": "H",
+          "text": "analyse data"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-24"
+      "prompt": "____",
+      "groupId": "q21-24",
+      "instructions": "Complete the plan below. Write the correct letter from the list A-H next to questions 21-24.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read other student’s writing"
+        },
+        {
+          "letter": "B",
+          "text": "proofread the essay"
+        },
+        {
+          "letter": "C",
+          "text": "write text summaries"
+        },
+        {
+          "letter": "D",
+          "text": "check the table of contents"
+        },
+        {
+          "letter": "E",
+          "text": "produce graphs and tables"
+        },
+        {
+          "letter": "F",
+          "text": "do theoretical research"
+        },
+        {
+          "letter": "G",
+          "text": "compile the bibliography"
+        },
+        {
+          "letter": "H",
+          "text": "analyse data"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-24"
+      "prompt": "____",
+      "groupId": "q21-24",
+      "instructions": "Complete the plan below. Write the correct letter from the list A-H next to questions 21-24.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read other student’s writing"
+        },
+        {
+          "letter": "B",
+          "text": "proofread the essay"
+        },
+        {
+          "letter": "C",
+          "text": "write text summaries"
+        },
+        {
+          "letter": "D",
+          "text": "check the table of contents"
+        },
+        {
+          "letter": "E",
+          "text": "produce graphs and tables"
+        },
+        {
+          "letter": "F",
+          "text": "do theoretical research"
+        },
+        {
+          "letter": "G",
+          "text": "compile the bibliography"
+        },
+        {
+          "letter": "H",
+          "text": "analyse data"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 21-24 Complete the plan below. Write the correct letter from the list A-H next to",
-      "groupId": "q21-24"
+      "prompt": "____",
+      "groupId": "q21-24",
+      "instructions": "Complete the plan below. Write the correct letter from the list A-H next to questions 21-24.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "read other student’s writing"
+        },
+        {
+          "letter": "B",
+          "text": "proofread the essay"
+        },
+        {
+          "letter": "C",
+          "text": "write text summaries"
+        },
+        {
+          "letter": "D",
+          "text": "check the table of contents"
+        },
+        {
+          "letter": "E",
+          "text": "produce graphs and tables"
+        },
+        {
+          "letter": "F",
+          "text": "do theoretical research"
+        },
+        {
+          "letter": "G",
+          "text": "compile the bibliography"
+        },
+        {
+          "letter": "H",
+          "text": "analyse data"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "of the flyer. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "e flyer. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "er. Write NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer. (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the labels identifying the parts of the flyer. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "he sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Movies are very influential because of their 32. In crime movies, the message given is that crime has 33.",
+      "prompt": "Movies are very influential because of their",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "ch answer. 31. Movies are very influential because of their 32. In crime movies, the message given is that crime has 33. American movies are graded by a 34. Violence is a",
+      "prompt": "In crime movies, the message given is that crime has",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "ir 32. In crime movies, the message given is that crime has 33. American movies are graded by a 34. Violence is allowed in war movies which are",
+      "prompt": "American movies are graded by a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-34 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. 31. Movies are very influential becau",
+      "prompt": "Violence is allowed in war movies which are",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ach answer. – for general audience – designed for the whole (35) ________ – stronger than PG rating – allows movies to show real (37) ________ – can maximize (38) _______",
+      "prompt": "– for general audience – designed for the whole ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "_ – such movies made and shown by people (40) ________ (35) (36) (37) (38) (39) (40)",
+      "prompt": "stronger scenes – some scenes are especially (39) ____ – such movies made and shown by people (40) ____ (35) ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "____ – stronger than PG rating – allows movies to show real (37) ________ – can maximize (38) ________ – for a restricted audience – has stronger scenes – some scenes are",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "g – allows movies to show real (37) ________ – can maximize (38) ________ – for a restricted audience – has stronger scenes – some scenes are especially (39) ________ – s",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "audience – has stronger scenes – some scenes are especially (39) ________ – such movies made and shown by people (40) ________ (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 35-40 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audi",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. – for general audience – designed for the whole"
     }
   ],
   "answerKey": {

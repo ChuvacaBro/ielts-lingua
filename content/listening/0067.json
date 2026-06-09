@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "el Armitage Booking Form Name: Kelvin Jones Booking number: (1) Vehicle registration ID: (2) Date of arrival: 21 May Room number: 501 Type of room: Standard? Deluxe? Suit",
+      "prompt": "Hotel Armitage Booking Form Name: Kelvin Jones Booking number: ____",
       "wordLimit": "NO MORE THAN ONE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booking Form Name: Kelvin Jones Booking number:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": ": Kelvin Jones Booking number: (1) Vehicle registration ID: (2) Date of arrival: 21 May Room number: 501 Type of room: Standard? Deluxe? Suite?: (3) Extra requirements: (",
+      "prompt": "Vehicle registration ID: ____",
       "wordLimit": "NO MORE THAN ONE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booking Form Name: Kelvin Jones Booking number:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ay Room number: 501 Type of room: Standard? Deluxe? Suite?: (3) Extra requirements: (4) Identification: driver’s licence Length of stay: (5)",
+      "prompt": "Date of arrival: 21 May Room number: 501 Type of room: Standard? Deluxe? Suite?: ____",
       "wordLimit": "NO MORE THAN ONE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booking Form Name: Kelvin Jones Booking number:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "of room: Standard? Deluxe? Suite?: (3) Extra requirements: (4) Identification: driver’s licence Length of stay: (5)",
+      "prompt": "Extra requirements: ____",
       "wordLimit": "NO MORE THAN ONE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booking Form Name: Kelvin Jones Booking number:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booki",
+      "prompt": "Identification: driver’s licence Length of stay: ____",
       "wordLimit": "NO MORE THAN ONE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORDS AND/OR A NUMBER for each answer. Hotel Armitage Booking Form Name: Kelvin Jones Booking number:"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "the map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the map below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the map below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the map below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "w. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the map below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Complete the map below. Write NO MORE THAN ONE WORD for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the map below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-13 Choose the correct letter A, B or C. 11. The SIS is",
+      "stem": "The SIS is",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "a collective owned by ordinary people"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "avoids paying fees"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,196 +177,224 @@
           "text": "must have a minimum balance"
         }
       ],
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 14-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (14) (15) (16) (17",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "shortAnswer",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 21. What period of English Literature will the conference cover? 22. How many panel discussions have been arra",
+      "prompt": "What period of English Literature will the conference cover?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "shortAnswer",
-      "prompt": "hat period of English Literature will the conference cover? 22. How many panel discussions have been arranged? 23. What is the aim of a panel discussion? To present",
+      "prompt": "How many panel discussions have been arranged?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "shortAnswer",
-      "prompt": "Questions 21-23 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 21. What period",
+      "prompt": "What is the aim of a panel discussion? To present",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "with by prof.) • Identify topic of interest involving some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (",
+      "prompt": "Procedure (dealt with by prof.) • Identify topic of interest involving some ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "interest involving some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each p",
+      "prompt": "• Invite penalties • Select a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ng some (24) • Invite penalties • Select a (25) • Decide on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each panelist speaks fo",
+      "prompt": "• Decide on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "on (26) Guidelines • Introduction of topic and speakers-get (27) information form prof. • Each panelist speaks for 2 mins-make a hand (28) to show time is up • Primary fu",
+      "prompt": "Guidelines • Introduction of topic and speakers-get ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "on form prof. • Each panelist speaks for 2 mins-make a hand (28) to show time is up • Primary function = panel discussion (about 40 mins) • Close discussion and give (29)",
+      "prompt": "information form prof. • Each panelist speaks for 2 mins-make a hand ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "anel discussion (about 40 mins) • Close discussion and give (29) • Secondary function = question time (about 15-20 mins) • At end of question time panel is thanked and au",
+      "prompt": "to show time is up • Primary function = panel discussion (about 40 mins) • Close discussion and give ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 24-30 Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest",
+      "prompt": "= question time (about 15-20 mins) • At end of question time panel is thanked and audience shows appreciation by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q24-30"
+      "groupId": "q24-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Procedure (dealt with by prof.) • Identify topic of interest involving some"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "for each answer. Hydropower • Renewable-constant source of (31) from natural hydrologic cycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34",
+      "prompt": "Hydropower • Renewable-constant source of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ble-constant source of (31) from natural hydrologic cycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Fle",
+      "prompt": "from natural hydrologic cycle • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ycle • (32) -90% of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Flexible-can start and adapt quickly to meet demand-lead",
+      "prompt": "90% of hydro energy-electric • Clean-no air or ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "of hydro energy-electric • Clean-no air or (33) pollution • (34) and durable-simple to operate • Flexible-can start and adapt quickly to meet demand-leads to (35) of powe",
+      "prompt": "pollution • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of (3",
+      "prompt": "and durable-simple to operate • Flexible-can start and adapt quickly to meet demand-leads to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Hydropower • Renewable-constant source of"
     },
     {
       "number": 36,
       "type": "diagramLabel",
-      "prompt": "iagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "diagramLabel",
-      "prompt": "m below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "diagramLabel",
-      "prompt": "Questions 36-38 Label the diagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 39. To be effective, hydroelectric dams should be built across rivers with both sufficient head and 40. There",
+      "prompt": "To be effective, hydroelectric dams should be built across rivers with both sufficient head and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q39-40"
+      "groupId": "q39-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 39-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 39. To be effective, hydroelect",
+      "prompt": "There needs to be a balance between the needs of living in developed environments and the preservation of natural habitat.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q39-40"
+      "groupId": "q39-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

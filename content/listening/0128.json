@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-3 Choose the correct letter A, B or C. 1. How long is the heated pool?",
+      "stem": "How long is the heated pool?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "50 meters"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "the keep-fit class"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,306 +97,460 @@
           "text": "sauna"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "OR A NUMBER for each answer. Yoga classes • Held on Monday, (4) and mornings • Weekend evenings from (5) to • Attend (6) per week • See instructor to change (7) • Cost £1",
+      "prompt": "Yoga classes • Held on Monday, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "• Held on Monday, (4) and mornings • Weekend evenings from (5) to • Attend (6) per week • See instructor to change (7) • Cost £1.50 • Meet John (8) • Office located on f",
+      "prompt": "and mornings • Weekend evenings from ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "y, (4) and mornings • Weekend evenings from (5) to • Attend (6) per week • See instructor to change (7) • Cost £1.50 • Meet John (8) • Office located on first floor • Mee",
+      "prompt": "to • Attend ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "rom (5) to • Attend (6) per week • See instructor to change (7) • Cost £1.50 • Meet John (8) • Office located on first floor • Meet at (9) • Telephone: (10) Part 2:",
+      "prompt": "per week • See instructor to change ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "eek • See instructor to change (7) • Cost £1.50 • Meet John (8) • Office located on first floor • Meet at (9) • Telephone: (10) Part 2:",
+      "prompt": "• Cost £1.50 • Meet John ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "0 • Meet John (8) • Office located on first floor • Meet at (9) • Telephone: (10) Part 2:",
+      "prompt": "• Office located on first floor • Meet at ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 4-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • H",
+      "prompt": "• Telephone: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Yoga classes • Held on Monday,"
     },
     {
       "number": 11,
       "type": "flowChartCompletion",
-      "prompt": "king a steam pit Step 1: Dig a pit Step 2: Arrange a row of (11) ________ over the pit Step 3: Place (12) ________ on top Step 4: Light the wood and let it burn out Step",
-      "groupId": "q11-16"
+      "prompt": "Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 12,
       "type": "flowChartCompletion",
-      "prompt": ": Arrange a row of (11) ________ over the pit Step 3: Place (12) ________ on top Step 4: Light the wood and let it burn out Step 5: Remove (13) ________ Step 6: Insert a",
-      "groupId": "q11-16"
+      "prompt": "____ over the pit Step 3: Place ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 13,
       "type": "flowChartCompletion",
-      "prompt": "p Step 4: Light the wood and let it burn out Step 5: Remove (13) ________ Step 6: Insert a stick Step 7: Cover the pit with (14) ________ Step 8: Place wrapped food on to",
-      "groupId": "q11-16"
+      "prompt": "____ on top Step 4: Light the wood and let it burn out Step 5: Remove ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 14,
       "type": "flowChartCompletion",
-      "prompt": "________ Step 6: Insert a stick Step 7: Cover the pit with (14) ________ Step 8: Place wrapped food on top, and cover it with (15) ________ Step 9: Remove the stick and",
-      "groupId": "q11-16"
+      "prompt": "____ Step 6: Insert a stick Step 7: Cover the pit with ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 15,
       "type": "flowChartCompletion",
-      "prompt": "______ Step 8: Place wrapped food on top, and cover it with (15) ________ Step 9: Remove the stick and put (16) ________ into the hole A air B ash C earth D grass E stick",
-      "groupId": "q11-16"
+      "prompt": "____ Step 8: Place wrapped food on top, and cover it with ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 16,
       "type": "flowChartCompletion",
-      "prompt": "Questions 11-16 Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange",
-      "groupId": "q11-16"
+      "prompt": "____ Step 9: Remove the stick and put ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below using the given options. Making a steam pit Step 1: Dig a pit Step 2: Arrange a row of"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO characteristics apply to the bamboo oven? A it is suitable for win",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO characteristics apply to the bamboo oven?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it is suitable for windy weather"
+        },
+        {
+          "letter": "B",
+          "text": "the fire is lit below the bottom end of the bamboo"
+        },
+        {
+          "letter": "C",
+          "text": "the bamboo is cut into equal lengths"
+        },
+        {
+          "letter": "D",
+          "text": "the oven hangs from a stick"
+        },
+        {
+          "letter": "E",
+          "text": "it cooks food by steaming it"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO characteristics apply to the bamboo oven? A it is suitable for windy weat",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO characteristics apply to the bamboo oven?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it is suitable for windy weather"
+        },
+        {
+          "letter": "B",
+          "text": "the fire is lit below the bottom end of the bamboo"
+        },
+        {
+          "letter": "C",
+          "text": "the bamboo is cut into equal lengths"
+        },
+        {
+          "letter": "D",
+          "text": "the oven hangs from a stick"
+        },
+        {
+          "letter": "E",
+          "text": "it cooks food by steaming it"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO pieces of advice does the speaker give about eating wild fungi? A",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO pieces of advice does the speaker give about eating wild fungi?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "cooking does not make poisonous fungi edible"
+        },
+        {
+          "letter": "B",
+          "text": "edible wild fungi can be eaten without cooking"
+        },
+        {
+          "letter": "C",
+          "text": "wild fungi are highly nutritious"
+        },
+        {
+          "letter": "D",
+          "text": "some edible fungi look very similar to poisonous varieties"
+        },
+        {
+          "letter": "E",
+          "text": "fungi which cannot be identified should only be eaten in small quantities Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO pieces of advice does the speaker give about eating wild fungi? A cooking",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO pieces of advice does the speaker give about eating wild fungi?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "cooking does not make poisonous fungi edible"
+        },
+        {
+          "letter": "B",
+          "text": "edible wild fungi can be eaten without cooking"
+        },
+        {
+          "letter": "C",
+          "text": "wild fungi are highly nutritious"
+        },
+        {
+          "letter": "D",
+          "text": "some edible fungi look very similar to poisonous varieties"
+        },
+        {
+          "letter": "E",
+          "text": "fungi which cannot be identified should only be eaten in small quantities Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "on application Name: Jonathan Briggs Degree: Economics and (21) Teaching experience: volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of sc",
+      "prompt": "Notes on application Name: Jonathan Briggs Degree: Economics and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "s and (21) Teaching experience: volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subjects taught: (26) Forms 1, 2 and 3 Engl",
+      "prompt": "Teaching experience: volunteer teacher Location: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "eaching experience: volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subjects taught: (26) Forms 1, 2 and 3 English – Form (",
+      "prompt": "Dates: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subjects taught: (26) Forms 1, 2 and 3 English – Form (27) Agricultural science – Fo",
+      "prompt": "Volunteer organization: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "2) Dates: (23) Volunteer organization: (24) Type of school: (25) Subjects taught: (26) Forms 1, 2 and 3 English – Form (27) Agricultural science – Form 6 Other responsibi",
+      "prompt": "Type of school: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "er organization: (24) Type of school: (25) Subjects taught: (26) Forms 1, 2 and 3 English – Form (27) Agricultural science – Form 6 Other responsibilities: ran school far",
+      "prompt": "Subjects taught: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "(25) Subjects taught: (26) Forms 1, 2 and 3 English – Form (27) Agricultural science – Form 6 Other responsibilities: ran school farm Reasons for wanting to leave in fir",
+      "prompt": "Forms 1, 2 and 3 English – Form ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "ran school farm Reasons for wanting to leave in first year: (28) Few teaching resources Reasons for wanting to extend tour: success of cattle breeding project Obtained fu",
+      "prompt": "Agricultural science – Form 6 Other responsibilities: ran school farm Reasons for wanting to leave in first year: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "Reasons for wanting to train to teach geography: it is his (29) It has many (30) Part 4:",
+      "prompt": "of cattle breeding project Obtained funds for farm buildings Reasons for wanting to train to teach geography: it is his ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 21-30 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on applica",
+      "prompt": "It has many ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes on application Name: Jonathan Briggs Degree: Economics and"
     },
     {
       "number": 31,
       "type": "flowChartCompletion",
-      "prompt": "the flow chart below. Write ONE WORD only for each answer. (31) (32) (33) (34)",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer."
     },
     {
       "number": 32,
       "type": "flowChartCompletion",
-      "prompt": "flow chart below. Write ONE WORD only for each answer. (31) (32) (33) (34)",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer."
     },
     {
       "number": 33,
       "type": "flowChartCompletion",
-      "prompt": "chart below. Write ONE WORD only for each answer. (31) (32) (33) (34)",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer."
     },
     {
       "number": 34,
       "type": "flowChartCompletion",
-      "prompt": "Questions 31-34 Complete the flow chart below. Write ONE WORD only for each answer. (31) (32) (33) (34)",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the flow chart below. Write ONE WORD only for each answer."
     },
     {
       "number": 35,
       "type": "multipleChoice",
-      "stem": "-40 Choose the correct letter A, B or C. 35. Which pie chart shows the percentage of respondents who experienced a problem in the supermarket?",
+      "stem": "Which pie chart shows the percentage of respondents who experienced a problem in the supermarket?",
       "options": [
         {
           "letter": "A",
-          "text": "B C 37. How might the students’ website help the supermarket, according to the manager? A it would support the expansion of the company"
+          "text": ""
         },
         {
           "letter": "B",
-          "text": "it would allow the identification of problem areas"
+          "text": ""
         },
         {
           "letter": "C",
-          "text": "it would make the company appear more professional"
+          "text": "37. How might the students’ website help the supermarket, according to the manager? A it would support the expansion of the company B it would allow the identification of problem areas C it would make the company appear more professional 38. The student says one problem is that some customers A do not have computer skills B do not have their own computer C do not have access to a computer 39. Further observation of website use is necessary because of A the small size of the sample B the need to evaluate the objectives C the unrepresentative nature of the respondents 40. One positive result of the website for the supermarket staff could be A greater support from management B less chance of unfair complaints C greater cooperation between staff"
         }
       ],
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 36,
       "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 36"
+      "prompt": "Question 36",
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "37."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 37"
+      "prompt": "Question 37",
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "37."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "multipleChoice",
-      "stem": "The student says one problem is that some customers",
-      "options": [
+      "type": "gapFill",
+      "prompt": "Question 38",
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
-          "text": "do not have computer skills"
+          "text": ""
         },
         {
           "letter": "B",
-          "text": "do not have their own computer"
+          "text": ""
         },
         {
           "letter": "C",
-          "text": "do not have access to a computer"
+          "text": "37."
         }
-      ],
-      "groupId": "q35-40"
+      ]
     },
     {
       "number": 39,
-      "type": "multipleChoice",
-      "stem": "Further observation of website use is necessary because of",
-      "options": [
+      "type": "gapFill",
+      "prompt": "Question 39",
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
-          "text": "the small size of the sample"
+          "text": ""
         },
         {
           "letter": "B",
-          "text": "the need to evaluate the objectives"
+          "text": ""
         },
         {
           "letter": "C",
-          "text": "the unrepresentative nature of the respondents"
+          "text": "37."
         }
-      ],
-      "groupId": "q35-40"
+      ]
     },
     {
       "number": 40,
-      "type": "multipleChoice",
-      "stem": "One positive result of the website for the supermarket staff could be",
-      "options": [
+      "type": "gapFill",
+      "prompt": "Question 40",
+      "groupId": "q35-40",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
-          "text": "greater support from management"
+          "text": ""
         },
         {
           "letter": "B",
-          "text": "less chance of unfair complaints"
+          "text": ""
         },
         {
           "letter": "C",
-          "text": "greater cooperation between staff"
+          "text": "37."
         }
-      ],
-      "groupId": "q35-40"
+      ]
     }
   ],
   "answerKey": {

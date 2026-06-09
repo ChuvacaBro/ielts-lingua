@@ -40,143 +40,219 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "n: Carlton Hotel Length of stay: 3 nights Ages of children: (1) Rooms available: Two en-suites at £270 Price inclusive of: (2) Payment method: credit card Name: Michael (",
+      "prompt": "Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Rooms available: Two en-suites at £270 Price inclusive of: (2) Payment method: credit card Name: Michael (3) Date of birth: (4) 1968 Address: 273, Stanton Court, London.",
+      "prompt": "Rooms available: Two en-suites at £270 Price inclusive of: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "mation Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children: (1) Rooms available: Two en-suites at £270 Price inclusive of: (2) Payment method:",
+      "prompt": "Payment method: credit card Name: Michael ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ayment method: credit card Name: Michael (3) Date of birth: (4) 1968 Address: 273, Stanton Court, London. Post code: (5) Telephone: 08773 (6)",
+      "prompt": "Date of birth: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "h: (4) 1968 Address: 273, Stanton Court, London. Post code: (5) Telephone: 08773 (6)",
+      "prompt": "1968 Address: 273, Stanton Court, London. Post code: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hot",
+      "prompt": "Telephone: 08773 ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Hotel Information Name of accommodation: Carlton Hotel Length of stay: 3 nights Ages of children:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "-10 Complete the notes below. Write NO MORE THAN TWO WORDS. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "Complete the notes below. Write NO MORE THAN TWO WORDS. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "lete the notes below. Write NO MORE THAN TWO WORDS. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 7-10 Complete the notes below. Write NO MORE THAN TWO WORDS. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Choose the correct option below. 11. The company expanded in A . 2000 B . 2007 C . 2014 12. The number of permanent staff is A . 75 B . 90 C .",
-      "groupId": "q11-14"
+      "prompt": "The company expanded in A . 2000 B . 2007 C . 2014",
+      "groupId": "q11-14",
+      "instructions": "Choose the correct option below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". 2000"
+        },
+        {
+          "letter": "B",
+          "text": ". 2007"
+        },
+        {
+          "letter": "C",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "low. 11. The company expanded in A . 2000 B . 2007 C . 2014 12. The number of permanent staff is A . 75 B . 90 C . 150 13. Most volunteers join the program A . in winter",
-      "groupId": "q11-14"
+      "prompt": "The number of permanent staff is A . 75 B . 90 C . 150",
+      "groupId": "q11-14",
+      "instructions": "Choose the correct option below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". 2000"
+        },
+        {
+          "letter": "B",
+          "text": ". 2007"
+        },
+        {
+          "letter": "C",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "12. The number of permanent staff is A . 75 B . 90 C . 150 13. Most volunteers join the program A . in winter B . in July C . when it is best for them 14. Time Abroad re",
-      "groupId": "q11-14"
+      "prompt": "Most volunteers join the program A . in winter B . in July C . when it is best for them",
+      "groupId": "q11-14",
+      "instructions": "Choose the correct option below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". 2000"
+        },
+        {
+          "letter": "B",
+          "text": ". 2007"
+        },
+        {
+          "letter": "C",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Choose the correct option below. 11. The company expanded in A . 2000 B . 2007 C . 2014 12. The number of p",
-      "groupId": "q11-14"
+      "prompt": "Time Abroad receives all its income from A . partner organisations B . volunteers C . the government",
+      "groupId": "q11-14",
+      "instructions": "Choose the correct option below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". 2000"
+        },
+        {
+          "letter": "B",
+          "text": ". 2007"
+        },
+        {
+          "letter": "C",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "-20 Complete the notes below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "omplete the notes below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "te the notes below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "e notes below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "es below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 15-20 Complete the notes below. Write NO MORE THAN TWO WORDS. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. How long did Louise work at a radio station?",
+      "stem": "How long did Louise work at a radio station?",
       "options": [
         {
           "letter": "A",
@@ -191,7 +267,8 @@
           "text": ". 6 years"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -211,7 +288,8 @@
           "text": ". Employers like post-graduate qualifications"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -231,124 +309,194 @@
           "text": ". 4 years"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-F. Which two things must Louise have to join the course? A A bachelor’s degree",
-      "groupId": "q24-25"
+      "prompt": "Question 24",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-F. Which two things must Louise have to join the course?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A bachelor’s degree"
+        },
+        {
+          "letter": "B",
+          "text": "Work experience"
+        },
+        {
+          "letter": "C",
+          "text": "Either a bachelor’s degree or work experience"
+        },
+        {
+          "letter": "D",
+          "text": "Research experience"
+        },
+        {
+          "letter": "E",
+          "text": "A completed thesis"
+        },
+        {
+          "letter": "F",
+          "text": "Motivation"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-F. Which two things must Louise have to join the course? A A bachelor’s degree B Work",
-      "groupId": "q24-25"
+      "prompt": "Question 25",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-F. Which two things must Louise have to join the course?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A bachelor’s degree"
+        },
+        {
+          "letter": "B",
+          "text": "Work experience"
+        },
+        {
+          "letter": "C",
+          "text": "Either a bachelor’s degree or work experience"
+        },
+        {
+          "letter": "D",
+          "text": "Research experience"
+        },
+        {
+          "letter": "E",
+          "text": "A completed thesis"
+        },
+        {
+          "letter": "F",
+          "text": "Motivation"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "/OR A NUMBER for each answer. Fees and Funding The fees are (26) per year to do the course part-time. The university has a (27) it can use to fund the most suitable stude",
+      "prompt": "Fees and Funding The fees are ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": ") per year to do the course part-time. The university has a (27) it can use to fund the most suitable students. You must have a (28) in place before you can get any fundi",
+      "prompt": "per year to do the course part-time. The university has a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "can use to fund the most suitable students. You must have a (28) in place before you can get any funding. The details on funding can be found on the (29) That will also h",
+      "prompt": "it can use to fund the most suitable students. You must have a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are"
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "get any funding. The details on funding can be found on the (29) That will also have information on eligibility, help available, and (30) Part 4:",
+      "prompt": "in place before you can get any funding. The details on funding can be found on the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are (26) per year",
+      "prompt": "That will also have information on eligibility, help available, and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Fees and Funding The fees are"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD ONLY for each answer. 31. Indian Railways is owned and by the government of India. 32. There are more than million people working fo",
+      "prompt": "Indian Railways is owned and by the government of India.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "1. Indian Railways is owned and by the government of India. 32. There are more than million people working for Indian Railways. 33. The of the railways from 1857 occurred",
+      "prompt": "There are more than million people working for Indian Railways.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "e are more than million people working for Indian Railways. 33. The of the railways from 1857 occurred under Robert Maitland Brereton. 34. The joining of the East Indian",
+      "prompt": "The of the railways from 1857 occurred under Robert Maitland Brereton.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "railways from 1857 occurred under Robert Maitland Brereton. 34. The joining of the East Indian Railway with the Great Indian Peninsula Railway led to a network of kilomet",
+      "prompt": "The joining of the East Indian Railway with the Great Indian Peninsula Railway led to a network of kilometres.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-35 Complete the sentences below. Write ONE WORD ONLY for each answer. 31. Indian Railways is owned and by the",
+      "prompt": "The route from Bombay to Calcutta, opened in 1870, was an for the book Around the World in 80 days.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

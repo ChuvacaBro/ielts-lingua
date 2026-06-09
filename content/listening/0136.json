@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-3 Choose the correct letter A, B or C. 1. What total discount is Jonathon’s school being offered?",
+      "stem": "What total discount is Jonathon’s school being offered?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "65%"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "Sainsbury"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,61 +97,69 @@
           "text": "£1940"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "’s Travel Two main things the all-inclusive price covers: • (4) • (5) Extras also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client detai",
+      "prompt": "Mcfadden’s Travel Two main things the all-inclusive price covers: • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "vel Two main things the all-inclusive price covers: • (4) • (5) Extras also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: •",
+      "prompt": "• ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "s also covered by the all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 4",
+      "prompt": "Extras also covered by the all-inclusive offer: • Airport taxis, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "he all-inclusive offer: • Airport taxis, (6) • A city tour, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 49 • Date of travel",
+      "prompt": "• A city tour, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ur, (7) Client details: • Email address of contact person – (8) @ com • Number of travelers – 49 • Date of travel – 7th April • Departure time – 7 am • Arrival time – 10.",
+      "prompt": "Client details: • Email address of contact person – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "ime – 7 am • Arrival time – 10.30 am • Credit card number – (9) • Expiry date – 1 January 2015 • Total cost of booking – (10) £ Part 2:",
+      "prompt": "of travelers – 49 • Date of travel – 7th April • Departure time – 7 am • Arrival time – 10.30 am • Credit card number – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 4-10 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things",
+      "prompt": "• Expiry date – 1 January 2015 • Total cost of booking – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Mcfadden’s Travel Two main things the all-inclusive price covers: •"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "and 12 Choose the correct letter A, B or C. 11. What does the word ‘formula’ stand for?",
+      "stem": "What does the word ‘formula’ stand for?",
       "options": [
         {
           "letter": "A",
@@ -164,7 +174,8 @@
           "text": "the way they drive"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -184,200 +195,319 @@
           "text": "1950"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 13-20 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "buy Bizz-Educators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27) ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "izz-Educators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "ducators will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "ors will be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "ill be taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "e taken at tomorrow’s (27)________ (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official dec",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The official decision on whether to buy Bizz-Educators will be taken at tomorrow’s (27)________"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE requirements are there for the takeover of Bizz Educators to go ahead?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Assurances that the management of Bizz Educators won’t oppose the deal"
+        },
+        {
+          "letter": "B",
+          "text": "An independent mediator be used to broker the deal"
+        },
+        {
+          "letter": "C",
+          "text": "An audit of the company’s books"
+        },
+        {
+          "letter": "D",
+          "text": "That a study of the company’s projected profit margin be conducted"
+        },
+        {
+          "letter": "E",
+          "text": "That the deal be kept secret until it is finalized"
+        },
+        {
+          "letter": "F",
+          "text": "That an analysis of the company’s goodwill assets be carried out"
+        },
+        {
+          "letter": "G",
+          "text": "That the asking price be lowered Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE requirements are there for the takeover of Bizz Educators to go ahead?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Assurances that the management of Bizz Educators won’t oppose the deal"
+        },
+        {
+          "letter": "B",
+          "text": "An independent mediator be used to broker the deal"
+        },
+        {
+          "letter": "C",
+          "text": "An audit of the company’s books"
+        },
+        {
+          "letter": "D",
+          "text": "That a study of the company’s projected profit margin be conducted"
+        },
+        {
+          "letter": "E",
+          "text": "That the deal be kept secret until it is finalized"
+        },
+        {
+          "letter": "F",
+          "text": "That an analysis of the company’s goodwill assets be carried out"
+        },
+        {
+          "letter": "G",
+          "text": "That the asking price be lowered Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters A-G. What THREE requirements are there for the takeover of Bizz Educators to go ahead?",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE requirements are there for the takeover of Bizz Educators to go ahead?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Assurances that the management of Bizz Educators won’t oppose the deal"
+        },
+        {
+          "letter": "B",
+          "text": "An independent mediator be used to broker the deal"
+        },
+        {
+          "letter": "C",
+          "text": "An audit of the company’s books"
+        },
+        {
+          "letter": "D",
+          "text": "That a study of the company’s projected profit margin be conducted"
+        },
+        {
+          "letter": "E",
+          "text": "That the deal be kept secret until it is finalized"
+        },
+        {
+          "letter": "F",
+          "text": "That an analysis of the company’s goodwill assets be carried out"
+        },
+        {
+          "letter": "G",
+          "text": "That the asking price be lowered Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "nswer. Conserving energy at home • Carbon footprint is: the (31) of greenhouse gas emitted into the atmosphere by an individual as a result of his day-to-day activities •",
+      "prompt": "Conserving energy at home • Carbon footprint is: the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "vidual as a result of his day-to-day activities • More than (32) of all homes are not insulated Reasons to better insulate your home: • Fitting adequate insulation in the",
+      "prompt": "of greenhouse gas emitted into the atmosphere by an individual as a result of his day-to-day activities • More than ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "er insulate your home: • Fitting adequate insulation in the (33) and outer walls of your home can reduce heating costs by as much as 25%. • The government offers (34) to",
+      "prompt": "of all homes are not insulated Reasons to better insulate your home: • Fitting adequate insulation in the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ce heating costs by as much as 25%. • The government offers (34) to people who want to reinsulate their homes. • You will recoup your investment over a short period of ti",
+      "prompt": "and outer walls of your home can reduce heating costs by as much as 25%. • The government offers ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ecoup your investment over a short period of time. Painting (35) walls in dark colors is bad idea because dark colors (36) heat. Replacing a normal light bulb with an ene",
+      "prompt": "to people who want to reinsulate their homes. • You will recoup your investment over a short period of time. Painting ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "g (35) walls in dark colors is bad idea because dark colors (36) heat. Replacing a normal light bulb with an energy saving one could save you (37) over the lifetime of th",
+      "prompt": "walls in dark colors is bad idea because dark colors ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "normal light bulb with an energy saving one could save you (37) over the lifetime of the bulb. If you have large windows in your home, you should close the (38) Erect (3",
+      "prompt": "heat. Replacing a normal light bulb with an energy saving one could save you ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "f you have large windows in your home, you should close the (38) Erect (39) to heat your water supply. People should continue recycling and composting their (40) to help",
+      "prompt": "over the lifetime of the bulb. If you have large windows in your home, you should close the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "large windows in your home, you should close the (38) Erect (39) to heat your water supply. People should continue recycling and composting their (40) to help protect the",
+      "prompt": "Erect ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon",
+      "prompt": "to heat your water supply. People should continue recycling and composting their ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Conserving energy at home • Carbon footprint is: the"
     }
   ],
   "answerKey": {

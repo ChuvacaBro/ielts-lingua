@@ -40,145 +40,209 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24, (1) Road Postcode: BH5 2OP Phone: 07786643091 Heard about company from: (2) Possible self drive tours: Trip on",
+      "prompt": "SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "tcode: BH5 2OP Phone: 07786643091 Heard about company from: (2) Possible self drive tours: Trip one: • Los Angeles: customer wants to visit some (3) parks with their chil",
+      "prompt": "Road Postcode: BH5 2OP Phone: 07786643091 Heard about company from: ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ours: Trip one: • Los Angeles: customer wants to visit some (3) parks with their children • Yosemite Park: customer wants to stay in a lodge, not a (4) Trip two: • Custom",
+      "prompt": "Possible self drive tours: Trip one: • Los Angeles: customer wants to visit some ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "n • Yosemite Park: customer wants to stay in a lodge, not a (4) Trip two: • Customer wants to see the (5) on the way to Cambria • At Santa Monica: not interested in shopp",
+      "prompt": "parks with their children • Yosemite Park: customer wants to stay in a lodge, not a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "in a lodge, not a (4) Trip two: • Customer wants to see the (5) on the way to Cambria • At Santa Monica: not interested in shopping • At San Diego: wants to spend time on",
+      "prompt": "Trip two: • Customer wants to see the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24, (",
+      "prompt": "on the way to Cambria • At Santa Monica: not interested in shopping • At San Diego: wants to spend time on the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SELF-DRIVE TOURS IN THE USA Name: Andrea Brown Address: 24,"
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "7-10 Complete the table below. Write ONE WORD OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "0 Complete the table below. Write ONE WORD OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "mplete the table below. Write ONE WORD OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO facilities at the leisure club have recently been improved? A the",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO facilities at the leisure club have recently been improved?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the gym"
+        },
+        {
+          "letter": "B",
+          "text": "the tracks"
+        },
+        {
+          "letter": "C",
+          "text": "the indoor pool"
+        },
+        {
+          "letter": "D",
+          "text": "the outdoor pool"
+        },
+        {
+          "letter": "E",
+          "text": "the sports training for children"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO facilities at the leisure club have recently been improved? A the gym B t",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO facilities at the leisure club have recently been improved?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the gym"
+        },
+        {
+          "letter": "B",
+          "text": "the tracks"
+        },
+        {
+          "letter": "C",
+          "text": "the indoor pool"
+        },
+        {
+          "letter": "D",
+          "text": "the outdoor pool"
+        },
+        {
+          "letter": "E",
+          "text": "the sports training for children"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "club Personal Assessment • New members should describe any (13) • The (14) will be explained to you before you use the equipment. • You will be given a six-week (15) Typ",
+      "prompt": "Joining the leisure club Personal Assessment • New members should describe any ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "nal Assessment • New members should describe any (13) • The (14) will be explained to you before you use the equipment. • You will be given a six-week (15) Types of membe",
+      "prompt": "• The ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "efore you use the equipment. • You will be given a six-week (15) Types of membership • There is a compulsory £90 (16) fee for members. • Gold members are given (17) to al",
+      "prompt": "will be explained to you before you use the equipment. • You will be given a six-week ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "x-week (15) Types of membership • There is a compulsory £90 (16) fee for members. • Gold members are given (17) to all the LP clubs. • Premier members are given priority",
+      "prompt": "Types of membership • There is a compulsory £90 ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "mpulsory £90 (16) fee for members. • Gold members are given (17) to all the LP clubs. • Premier members are given priority during (18) hours. • Premier members can bring",
+      "prompt": "fee for members. • Gold members are given ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "l the LP clubs. • Premier members are given priority during (18) hours. • Premier members can bring some (19) every month. • Members should always take their (20) with th",
+      "prompt": "to all the LP clubs. • Premier members are given priority during ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "riority during (18) hours. • Premier members can bring some (19) every month. • Members should always take their (20) with them. Part 3:",
+      "prompt": "hours. • Premier members can bring some ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 13-20 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal A",
+      "prompt": "every month. • Members should always take their ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Joining the leisure club Personal Assessment • New members should describe any"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter, A, B or C. Global Design Competition 21. Students entering the design competition have to",
+      "stem": "Students entering the design competition have to",
       "options": [
         {
           "letter": "A",
@@ -193,7 +257,8 @@
           "text": "develop a new use for current technology."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Global Design Competition"
     },
     {
       "number": 22,
@@ -213,7 +278,8 @@
           "text": "more economical"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Global Design Competition"
     },
     {
       "number": 23,
@@ -233,7 +299,8 @@
           "text": "to stop water escaping"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Global Design Competition"
     },
     {
       "number": 24,
@@ -253,7 +320,8 @@
           "text": "is allowed to cool"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Global Design Competition"
     },
     {
       "number": 25,
@@ -273,112 +341,128 @@
           "text": "is collected ready to be re-used"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Global Design Competition"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "D ONLY for each answer. • John needs help preparing for his (26) • The professor advises John to make a (27) of his design. • John’s main problem is getting good quality",
+      "prompt": "• John needs help preparing for his ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "eparing for his (26) • The professor advises John to make a (27) of his design. • John’s main problem is getting good quality (28) • The professor suggests John apply for",
+      "prompt": "• The professor advises John to make a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "f his design. • John’s main problem is getting good quality (28) • The professor suggests John apply for a (29) • The professor will check the (30) information in John’s",
+      "prompt": "of his design. • John’s main problem is getting good quality ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "good quality (28) • The professor suggests John apply for a (29) • The professor will check the (30) information in John’s written report. Part 4:",
+      "prompt": "• The professor suggests John apply for a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his (26) • T",
+      "prompt": "• The professor will check the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. • John needs help preparing for his"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "the black bear family. • Its colour comes from an uncommon (31) • Local people believe that it has unusual (32) • They protect the bear from (33) Habitat • The bear’s re",
+      "prompt": "SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "an uncommon (31) • Local people believe that it has unusual (32) • They protect the bear from (33) Habitat • The bear’s relationship with the forest is complex. • Tree ro",
+      "prompt": "• Local people believe that it has unusual ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "lieve that it has unusual (32) • They protect the bear from (33) Habitat • The bear’s relationship with the forest is complex. • Tree roots stop (34) along salmon streams",
+      "prompt": "• They protect the bear from ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "relationship with the forest is complex. • Tree roots stop (34) along salmon streams. • The bears’ feeding habits provide nutrients for forest vegetation. • It is curren",
+      "prompt": "Habitat • The bear’s relationship with the forest is complex. • Tree roots stop ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "st vegetation. • It is currently found on a small number of (35) Threats • Habitat is being lost due to deforestation and construction of (36) by logging companies. • Unr",
+      "prompt": "• The bears’ feeding habits provide nutrients for forest vegetation. • It is currently found on a small number of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "itat is being lost due to deforestation and construction of (36) by logging companies. • Unrestricted (37) is affecting the salmon supply. • The bears’ existence is also",
+      "prompt": "Threats • Habitat is being lost due to deforestation and construction of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "d construction of (36) by logging companies. • Unrestricted (37) is affecting the salmon supply. • The bears’ existence is also threatened by their low rate of (38) Going",
+      "prompt": "by logging companies. • Unrestricted ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "he bears’ existence is also threatened by their low rate of (38) Going forward • Interested parties are working together. • Logging companies must improve their (39) of l",
+      "prompt": "is affecting the salmon supply. • The bears’ existence is also threatened by their low rate of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "re working together. • Logging companies must improve their (39) of logging. • Maintenance and (40) of the spirit bears’ territory is needed.",
+      "prompt": "Going forward • Interested parties are working together. • Logging companies must improve their ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belongin",
+      "prompt": "of logging. • Maintenance and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY . THE SPIRIT BEAR General facts • It is a white bear belonging to the black bear family. • Its colour comes from an uncommon"
     }
   ],
   "answerKey": {

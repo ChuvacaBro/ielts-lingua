@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-5 Choose the correct letter, A, B or C. 1. What does Peter want to drink?",
+      "stem": "What does Peter want to drink?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "a cold drink"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "The computers weren’t working"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "a German man"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 4,
@@ -115,7 +118,8 @@
           "text": "the train system"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 5,
@@ -135,44 +139,50 @@
           "text": "just drinks"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "al Castle Gardens Markets Tourist attractions open all day: (6) and Gardens Tourist attractions NOT open on Mondays: (7) and Castle Tourist attractions which have free en",
-      "groupId": "q6-8"
+      "prompt": "Art gallery Cathedral Castle Gardens Markets Tourist attractions open all day: ____",
+      "groupId": "q6-8",
+      "instructions": "Complete the notes below using words from the options given below. Art gallery Cathedral Castle Gardens Markets Tourist attractions open all day:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "y: (6) and Gardens Tourist attractions NOT open on Mondays: (7) and Castle Tourist attractions which have free entry: (8) and Markets",
-      "groupId": "q6-8"
+      "prompt": "and Gardens Tourist attractions NOT open on Mondays: ____",
+      "groupId": "q6-8",
+      "instructions": "Complete the notes below using words from the options given below. Art gallery Cathedral Castle Gardens Markets Tourist attractions open all day:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "Questions 6-8 Complete the notes below using words from the options given below. Art gallery Cathedral Castle Gardens Mark",
-      "groupId": "q6-8"
+      "prompt": "and Castle Tourist attractions which have free entry: ____",
+      "groupId": "q6-8",
+      "instructions": "Complete the notes below using words from the options given below. Art gallery Cathedral Castle Gardens Markets Tourist attractions open all day:"
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "Questions 9 and 10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 9. The first place Pete",
+      "prompt": "The first place Peter and Sally will visit is the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 9 and 10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 9. The first place Peter and",
+      "prompt": "At the Cathedral, Peter really wants to",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B or C. 11. The Counselling Service may contact tutors if",
+      "stem": "The Counselling Service may contact tutors if",
       "options": [
         {
           "letter": "A",
@@ -187,7 +197,8 @@
           "text": "they don’t inform students about their progress"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -207,7 +218,8 @@
           "text": "unfamiliar subject matter"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -227,16 +239,17 @@
           "text": "they find it difficult to socialise"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
       "type": "multipleChoice",
-      "stem": "A personal crisis may be caused by",
+      "stem": "Question 14",
       "options": [
         {
           "letter": "A",
-          "text": "studying for too long overseas"
+          "text": "personal crisis may be caused by A studying for too long overseas"
         },
         {
           "letter": "B",
@@ -247,7 +260,8 @@
           "text": "disruptions to personal relationships"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -267,7 +281,8 @@
           "text": "their family puts too much pressure on them"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -287,7 +302,8 @@
           "text": "they can’t eat the local food"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -307,7 +323,8 @@
           "text": "a no-interest loan to cover study expenses"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
@@ -327,7 +344,8 @@
           "text": "can’t cover their living expenses"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 19,
@@ -347,7 +365,8 @@
           "text": "2,600"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 20,
@@ -367,76 +386,131 @@
           "text": "has suffered badly because of staff cuts"
         }
       ],
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "F ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of (21) in social science research Number of words: (22) Part 2 Small scale study: Choose one method Gather data",
+      "prompt": "DETAILS OF ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "methods of (21) in social science research Number of words: (22) Part 2 Small scale study: Choose one method Gather data from at least (23) subjects Part 3 Report on stud",
+      "prompt": "in social science research Number of words: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "ll scale study: Choose one method Gather data from at least (23) subjects Part 3 Report on study: Number of words: (24)",
+      "prompt": "Part 2 Small scale study: Choose one method Gather data from at least ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "Questions 21-24 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT P",
+      "prompt": "subjects Part 3 Report on study: Number of words: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. DETAILS OF ASSIGNMENT Part 1 Essay: Title ‘Assess the two methods of"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the s",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the students discuss?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The data is sometimes invalid"
+        },
+        {
+          "letter": "B",
+          "text": "Too few people may respond"
+        },
+        {
+          "letter": "C",
+          "text": "It is less likely to reveal the unexpected"
+        },
+        {
+          "letter": "D",
+          "text": "It can only be used with literate populations"
+        },
+        {
+          "letter": "E",
+          "text": "There is a delay between the distribution and return of questionnaires"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the students",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO disadvantages of the questionnaire form of data collection do the students discuss?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The data is sometimes invalid"
+        },
+        {
+          "letter": "B",
+          "text": "Too few people may respond"
+        },
+        {
+          "letter": "C",
+          "text": "It is less likely to reveal the unexpected"
+        },
+        {
+          "letter": "D",
+          "text": "It can only be used with literate populations"
+        },
+        {
+          "letter": "E",
+          "text": "There is a delay between the distribution and return of questionnaires"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "e NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 27-30 Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. (27) (28) (29) (30) Pa",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "and 32 Choose the correct letter A, B and C. 31. Corporate crime is generally committed",
+      "stem": "Corporate crime is generally committed",
       "options": [
         {
           "letter": "A",
@@ -451,7 +525,8 @@
           "text": "for companies"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B and C."
     },
     {
       "number": 32,
@@ -471,55 +546,116 @@
           "text": "fraud resulting from company policy"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B and C."
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "for each answer. Corporate crime has been ignored by: • The (33) e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional",
-      "groupId": "q33-38"
+      "prompt": "Corporate crime has been ignored by: • The ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "orporate crime has been ignored by: • The (33) e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional crime • Victims of",
-      "groupId": "q33-38"
+      "prompt": "e.g. films • ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "e.g. films • (34) Reasons: • Often more complex and needing (35) • Less human interest than conventional crime • Victims often (36) Effects: • Economic costs o May appear",
-      "groupId": "q33-38"
+      "prompt": "Reasons: • Often more complex and needing ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "Less human interest than conventional crime • Victims often (36) Effects: • Economic costs o May appear unimportant to (37) o Can make large (38) for company",
-      "groupId": "q33-38"
+      "prompt": "• Less human interest than conventional crime • Victims often ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "(36) Effects: • Economic costs o May appear unimportant to (37) o Can make large (38) for company",
-      "groupId": "q33-38"
+      "prompt": "Effects: • Economic costs o May appear unimportant to ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "Questions 33-38 Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has be",
-      "groupId": "q33-38"
+      "prompt": "o Can make large ____",
+      "groupId": "q33-38",
+      "instructions": "Complete the notes below. Write NO MORE THREE TWO WORDS OR A NUMBER for each answer. Corporate crime has been ignored by: • The"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which A was no-one’s faul",
-      "groupId": "q39-40"
+      "prompt": "Question 39",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was no-one’s fault"
+        },
+        {
+          "letter": "B",
+          "text": "was not a corporate crime"
+        },
+        {
+          "letter": "C",
+          "text": "was intentional"
+        },
+        {
+          "letter": "D",
+          "text": "was caused by indifference"
+        },
+        {
+          "letter": "E",
+          "text": "has tragic results"
+        },
+        {
+          "letter": "F",
+          "text": "made a large profit for the company"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which A was no-one’s fault B was",
-      "groupId": "q39-40"
+      "prompt": "Question 40",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-F. The oil tanker explosion was an example of a crime which",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "was no-one’s fault"
+        },
+        {
+          "letter": "B",
+          "text": "was not a corporate crime"
+        },
+        {
+          "letter": "C",
+          "text": "was intentional"
+        },
+        {
+          "letter": "D",
+          "text": "was caused by indifference"
+        },
+        {
+          "letter": "E",
+          "text": "has tragic results"
+        },
+        {
+          "letter": "F",
+          "text": "made a large profit for the company"
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -40,42 +40,47 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "Questions 1-3 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (1) (2) (3)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "flowChartCompletion",
-      "prompt": "Questions 4 and 5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 :",
+      "prompt": "Step 1 : Beetle lay eggs Step 2 : Eggs become rugs Step 3 : Grubs eat the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 : Beetle lay eggs Step 2 : Eggs become rugs Step 3 : Grubs eat the"
     },
     {
       "number": 5,
       "type": "flowChartCompletion",
-      "prompt": "Questions 4 and 5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 : Beetle",
+      "prompt": "____ Step 4 : Sugar cane ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Step 1 : Beetle lay eggs Step 2 : Eggs become rugs Step 3 : Grubs eat the"
     },
     {
       "number": 6,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 6. The cane toad originated in",
+      "stem": "The cane toad originated in",
       "options": [
         {
           "letter": "A",
@@ -90,7 +95,8 @@
           "text": "Australia"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 7,
@@ -110,7 +116,8 @@
           "text": "ate the cane beetles"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 8,
@@ -130,7 +137,8 @@
           "text": "they believed the reports they read"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 9,
@@ -150,7 +158,8 @@
           "text": "survives alongside the beetle"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -170,212 +179,433 @@
           "text": "caution is necessary when dealing with nature"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "ER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 11-20 Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (11) (12) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the time table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-25"
+      "prompt": "Twentieth Century Architecture",
+      "groupId": "q21-25",
+      "instructions": "What opinion is expressed about each dissertation? Choose your answers from the list below and write the letters A-I next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has an inadequate index"
+        },
+        {
+          "letter": "B",
+          "text": "it contains unusual illustrations"
+        },
+        {
+          "letter": "C",
+          "text": "it is too detailed in places"
+        },
+        {
+          "letter": "D",
+          "text": "it presents clear arguments"
+        },
+        {
+          "letter": "E",
+          "text": "it contains diagrams which are not clear"
+        },
+        {
+          "letter": "F",
+          "text": "it omits important historical facts"
+        },
+        {
+          "letter": "G",
+          "text": "it is poorly translated"
+        },
+        {
+          "letter": "H",
+          "text": "it contains useful background information"
+        },
+        {
+          "letter": "I",
+          "text": "it is not suitable for new students 21. Twentieth Century Architecture 22. Modern Construction 23. Steel, Glass and Concrete 24. The Space We Make 25. Change and Tradition"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-25"
+      "prompt": "Modern Construction",
+      "groupId": "q21-25",
+      "instructions": "What opinion is expressed about each dissertation? Choose your answers from the list below and write the letters A-I next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has an inadequate index"
+        },
+        {
+          "letter": "B",
+          "text": "it contains unusual illustrations"
+        },
+        {
+          "letter": "C",
+          "text": "it is too detailed in places"
+        },
+        {
+          "letter": "D",
+          "text": "it presents clear arguments"
+        },
+        {
+          "letter": "E",
+          "text": "it contains diagrams which are not clear"
+        },
+        {
+          "letter": "F",
+          "text": "it omits important historical facts"
+        },
+        {
+          "letter": "G",
+          "text": "it is poorly translated"
+        },
+        {
+          "letter": "H",
+          "text": "it contains useful background information"
+        },
+        {
+          "letter": "I",
+          "text": "it is not suitable for new students 21. Twentieth Century Architecture 22. Modern Construction 23. Steel, Glass and Concrete 24. The Space We Make 25. Change and Tradition"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-25"
+      "prompt": "Steel, Glass and Concrete",
+      "groupId": "q21-25",
+      "instructions": "What opinion is expressed about each dissertation? Choose your answers from the list below and write the letters A-I next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has an inadequate index"
+        },
+        {
+          "letter": "B",
+          "text": "it contains unusual illustrations"
+        },
+        {
+          "letter": "C",
+          "text": "it is too detailed in places"
+        },
+        {
+          "letter": "D",
+          "text": "it presents clear arguments"
+        },
+        {
+          "letter": "E",
+          "text": "it contains diagrams which are not clear"
+        },
+        {
+          "letter": "F",
+          "text": "it omits important historical facts"
+        },
+        {
+          "letter": "G",
+          "text": "it is poorly translated"
+        },
+        {
+          "letter": "H",
+          "text": "it contains useful background information"
+        },
+        {
+          "letter": "I",
+          "text": "it is not suitable for new students 21. Twentieth Century Architecture 22. Modern Construction 23. Steel, Glass and Concrete 24. The Space We Make 25. Change and Tradition"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-25"
+      "prompt": "The Space We Make",
+      "groupId": "q21-25",
+      "instructions": "What opinion is expressed about each dissertation? Choose your answers from the list below and write the letters A-I next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has an inadequate index"
+        },
+        {
+          "letter": "B",
+          "text": "it contains unusual illustrations"
+        },
+        {
+          "letter": "C",
+          "text": "it is too detailed in places"
+        },
+        {
+          "letter": "D",
+          "text": "it presents clear arguments"
+        },
+        {
+          "letter": "E",
+          "text": "it contains diagrams which are not clear"
+        },
+        {
+          "letter": "F",
+          "text": "it omits important historical facts"
+        },
+        {
+          "letter": "G",
+          "text": "it is poorly translated"
+        },
+        {
+          "letter": "H",
+          "text": "it contains useful background information"
+        },
+        {
+          "letter": "I",
+          "text": "it is not suitable for new students 21. Twentieth Century Architecture 22. Modern Construction 23. Steel, Glass and Concrete 24. The Space We Make 25. Change and Tradition"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 What opinion is expressed about each dissertation? Choose your answers from the list below and write the le",
-      "groupId": "q21-25"
+      "prompt": "Change and Tradition",
+      "groupId": "q21-25",
+      "instructions": "What opinion is expressed about each dissertation? Choose your answers from the list below and write the letters A-I next to questions 21-25.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "it has an inadequate index"
+        },
+        {
+          "letter": "B",
+          "text": "it contains unusual illustrations"
+        },
+        {
+          "letter": "C",
+          "text": "it is too detailed in places"
+        },
+        {
+          "letter": "D",
+          "text": "it presents clear arguments"
+        },
+        {
+          "letter": "E",
+          "text": "it contains diagrams which are not clear"
+        },
+        {
+          "letter": "F",
+          "text": "it omits important historical facts"
+        },
+        {
+          "letter": "G",
+          "text": "it is poorly translated"
+        },
+        {
+          "letter": "H",
+          "text": "it contains useful background information"
+        },
+        {
+          "letter": "I",
+          "text": "it is not suitable for new students 21. Twentieth Century Architecture 22. Modern Construction 23. Steel, Glass and Concrete 24. The Space We Make 25. Change and Tradition"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "__to Dr. Forbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "Step 1 : Look at drawings of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of"
     },
     {
       "number": 27,
       "type": "flowChartCompletion",
-      "prompt": "Dr. Forbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____ Step 2 : Get images of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of"
     },
     {
       "number": 28,
       "type": "flowChartCompletion",
-      "prompt": "orbes Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____from internet Step 3 : Find books about ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of"
     },
     {
       "number": 29,
       "type": "flowChartCompletion",
-      "prompt": "Step 5 : Ask Dr. Gray for more (30)________ (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____of the period Step 4 : Show ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of"
     },
     {
       "number": 30,
       "type": "flowChartCompletion",
-      "prompt": "Questions 26-30 Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of",
+      "prompt": "____to Dr. Forbes Step 5 : Ask Dr. Gray for more ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN THREE WORDS for each answer. Step 1 : Look at drawings of"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 31. Rival cameras were claimed to less than the Cinematographe. 32. In Russia, on one occasion, the Cinematogr",
+      "prompt": "Rival cameras were claimed to less than the Cinematographe.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "Rival cameras were claimed to less than the Cinematographe. 32. In Russia, on one occasion, the Cinematographe was suspected of being a 33. Early filming in Russia led to",
+      "prompt": "In Russia, on one occasion, the Cinematographe was suspected of being a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "n one occasion, the Cinematographe was suspected of being a 33. Early filming in Russia led to the creation of a new approach to 34. One problem for historians is not kno",
+      "prompt": "Early filming in Russia led to the creation of a new approach to",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "filming in Russia led to the creation of a new approach to 34. One problem for historians is not knowing whether early equipment as it was claimed. 35. Marey encountered",
+      "prompt": "One problem for historians is not knowing whether early equipment as it was claimed.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "s is not knowing whether early equipment as it was claimed. 35. Marey encountered difficulties achieving the of strips of photographic paper. 36. The of the comic strip i",
+      "prompt": "Marey encountered difficulties achieving the of strips of photographic paper.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "difficulties achieving the of strips of photographic paper. 36. The of the comic strip influenced the way films were planned. 37. Documentaries used shots before fiction",
+      "prompt": "The of the comic strip influenced the way films were planned.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "e of the comic strip influenced the way films were planned. 37. Documentaries used shots before fiction films did. 38. The popularity of films led to increased numbers of",
+      "prompt": "Documentaries used shots before fiction films did.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "ned. 37. Documentaries used shots before fiction films did. 38. The popularity of films led to increased numbers of shots. 39. When filming the screen might be divided. 4",
+      "prompt": "The popularity of films led to increased numbers of shots.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "The popularity of films led to increased numbers of shots. 39. When filming the screen might be divided. 40. As films became more complex became an important part of fil",
+      "prompt": "When filming the screen might be divided.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 31. Rival cameras were claimed",
+      "prompt": "As films became more complex became an important part of film-making.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

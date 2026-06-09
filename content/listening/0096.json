@@ -40,137 +40,449 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Event booking form Date of event: 15th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4",
+      "prompt": "SILVERTON HALL – Event booking form Date of event: 15th January Day of week: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "5th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5)",
+      "prompt": "Room needed for: 7.30 pm until ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (",
+      "prompt": "Event details Type of event: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ails Type of event: (3) Number of guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7)",
+      "prompt": "Number of guests: 60 including some ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "guests: 60 including some (4) guests Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details",
+      "prompt": "guests Catering requirements: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "s Catering requirements: (5) and drinks Equipment required: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "prompt": "and drinks Equipment required: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "te of event: 15th January Day of week: (1) Room needed for: 7.30 pm until (2) Event details Type of event: (3) Number of guests: 60 including some (4) guests Catering req",
+      "prompt": "Transport arrangements: travel by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ired: (6) Transport arrangements: travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "prompt": "Total cost: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": ": travel by (7) Total cost: (8) £ Contact details Name: Rob (9) Phone: (10) Part 2:",
+      "prompt": "£ Contact details Name: Rob ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Eve",
+      "prompt": "Phone: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer SILVERTON HALL – Event booking form Date of event: 15th January Day of week:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-16"
+      "prompt": "wet processing by machine",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-16"
+      "prompt": "machine drying",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-16"
+      "prompt": "natural drying",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-16"
+      "prompt": "polishing",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q11-16"
+      "prompt": "sorting by size",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 What comment does the manager make about each of the following steps in coffee processing? Choose SIX answe",
-      "groupId": "q11-16"
+      "prompt": "sorting by color",
+      "groupId": "q11-16",
+      "instructions": "What comment does the manager make about each of the following steps in coffee processing? Choose SIX answers from the box and write the correct letter A-H next to questions 16-20. Description",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "needs additional staff"
+        },
+        {
+          "letter": "B",
+          "text": "separates beans for different purposes"
+        },
+        {
+          "letter": "C",
+          "text": "is an unnecessary step"
+        },
+        {
+          "letter": "D",
+          "text": "is more expensive"
+        },
+        {
+          "letter": "E",
+          "text": "increases flavor"
+        },
+        {
+          "letter": "F",
+          "text": "is less polluting"
+        },
+        {
+          "letter": "G",
+          "text": "uses less space"
+        },
+        {
+          "letter": "H",
+          "text": "required special skills Steps in coffee processing 11. wet processing by machine 12. machine drying 13. natural drying 14. polishing 15. sorting by size 16. sorting by color"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q16-20"
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO areas of the building are not part of the tour?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the tasting room"
+        },
+        {
+          "letter": "B",
+          "text": "the shop"
+        },
+        {
+          "letter": "C",
+          "text": "the staff canteen"
+        },
+        {
+          "letter": "D",
+          "text": "the visitor centre"
+        },
+        {
+          "letter": "E",
+          "text": "the reception area"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q16-20"
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO areas of the building are not part of the tour?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the tasting room"
+        },
+        {
+          "letter": "B",
+          "text": "the shop"
+        },
+        {
+          "letter": "C",
+          "text": "the staff canteen"
+        },
+        {
+          "letter": "D",
+          "text": "the visitor centre"
+        },
+        {
+          "letter": "E",
+          "text": "the reception area"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q16-20"
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO things will each member of staff be provided with?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "protective shoes"
+        },
+        {
+          "letter": "B",
+          "text": "a name badge"
+        },
+        {
+          "letter": "C",
+          "text": "a cap"
+        },
+        {
+          "letter": "D",
+          "text": "gloves"
+        },
+        {
+          "letter": "E",
+          "text": "pen and notebook Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "questions 16-20. Description A needs additional staff B separates beans for different purposes C is an unnecessary step D i",
-      "groupId": "q16-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO things will each member of staff be provided with?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "protective shoes"
+        },
+        {
+          "letter": "B",
+          "text": "a name badge"
+        },
+        {
+          "letter": "C",
+          "text": "a cap"
+        },
+        {
+          "letter": "D",
+          "text": "gloves"
+        },
+        {
+          "letter": "E",
+          "text": "pen and notebook Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. 21. What gives Tim the idea for his dissertation proposal?",
+      "stem": "What gives Tim the idea for his dissertation proposal?",
       "options": [
         {
           "letter": "A",
@@ -185,7 +497,8 @@
           "text": "he learned about conserving languages on his course"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -205,7 +518,8 @@
           "text": "emphasizes its importance for communication"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -225,7 +539,8 @@
           "text": "the reasons why he talks to his grandmother in English"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -245,7 +560,8 @@
           "text": "he is unconvinced that his grandmother’s language can be saved"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -265,7 +581,8 @@
           "text": "a useful tool for training language teachers"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -285,36 +602,129 @@
           "text": "expresses a desire to learn about his family’s customs"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on? A writ",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "written language"
+        },
+        {
+          "letter": "B",
+          "text": "context of speech"
+        },
+        {
+          "letter": "C",
+          "text": "translations of written samples"
+        },
+        {
+          "letter": "D",
+          "text": "vocabulary items"
+        },
+        {
+          "letter": "E",
+          "text": "grammar points"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on? A written lan",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO areas of language does the tutor recommend Tim to focus on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "written language"
+        },
+        {
+          "letter": "B",
+          "text": "context of speech"
+        },
+        {
+          "letter": "C",
+          "text": "translations of written samples"
+        },
+        {
+          "letter": "D",
+          "text": "vocabulary items"
+        },
+        {
+          "letter": "E",
+          "text": "grammar points"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "covering as much as possible"
+        },
+        {
+          "letter": "B",
+          "text": "doing several recording sessions"
+        },
+        {
+          "letter": "C",
+          "text": "keeping a record of times and places"
+        },
+        {
+          "letter": "D",
+          "text": "writing things down immediately"
+        },
+        {
+          "letter": "E",
+          "text": "waiting a few days before listening back to it Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take? A cov",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO approaches to recording do Tim and his tutor decide he should take?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "covering as much as possible"
+        },
+        {
+          "letter": "B",
+          "text": "doing several recording sessions"
+        },
+        {
+          "letter": "C",
+          "text": "keeping a record of times and places"
+        },
+        {
+          "letter": "D",
+          "text": "writing things down immediately"
+        },
+        {
+          "letter": "E",
+          "text": "waiting a few days before listening back to it Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. Humans first started tracking time",
+      "stem": "Humans first started tracking time",
       "options": [
         {
           "letter": "A",
@@ -329,7 +739,8 @@
           "text": "5,000 years ago"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -349,7 +760,8 @@
           "text": "the length of the shortest day"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -369,56 +781,64 @@
           "text": "people began living in larger groups"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD only for each answer. 34. The first clocks worked by making a small hole in a and allowing water to drip out. 35. Sundials measured",
+      "prompt": "The first clocks worked by making a small hole in a and allowing water to drip out.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "by making a small hole in a and allowing water to drip out. 35. Sundials measured time by noting where the sun’s shadow fell on the marked on the dial. 36. Workers in Chi",
+      "prompt": "Sundials measured time by noting where the sun’s shadow fell on the marked on the dial.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "Questions 34-36 Complete the sentences below. Write ONE WORD only for each answer. 34. The first clocks worked by making a",
+      "prompt": "Workers in China and Japan changed activities when the of the incense changed.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Complete the sentences below. Write ONE WORD only for each answer."
     },
     {
       "number": 37,
       "type": "shortAnswer",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 37. What object made the wheels of a mechanical clock go round? 38. What invention created a problem with comm",
+      "prompt": "What object made the wheels of a mechanical clock go round?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "shortAnswer",
-      "prompt": "What object made the wheels of a mechanical clock go round? 38. What invention created a problem with communities having different times? 39. In which year was a time sys",
+      "prompt": "What invention created a problem with communities having different times?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "shortAnswer",
-      "prompt": "created a problem with communities having different times? 39. In which year was a time system for England nationally agreed? 40. Which building in Greenwich was chosen",
+      "prompt": "In which year was a time system for England nationally agreed?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "shortAnswer",
-      "prompt": "Questions 37-40 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 37. What object",
+      "prompt": "Which building in Greenwich was chosen as the point from which to measure time?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

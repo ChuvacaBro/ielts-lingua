@@ -40,180 +40,249 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ATION Course Level – 3/ lower intermediate Customer’s name: (1) Maximum class size: (2) Hours of study per day (weekdays): (3) Most expensive accommodation: (4) First Ber",
+      "prompt": "BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "lower intermediate Customer’s name: (1) Maximum class size: (2) Hours of study per day (weekdays): (3) Most expensive accommodation: (4) First Berlin course begins: (5)",
+      "prompt": "Maximum class size: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "Maximum class size: (2) Hours of study per day (weekdays): (3) Most expensive accommodation: (4) First Berlin course begins: (5)",
+      "prompt": "Hours of study per day (weekdays): ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "study per day (weekdays): (3) Most expensive accommodation: (4) First Berlin course begins: (5)",
+      "prompt": "Most expensive accommodation: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Questions 1-5 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION",
+      "prompt": "First Berlin course begins: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. BORGHEIMER LANGUAGE COURSES INFORMATION Course Level – 3/ lower intermediate Customer’s name:"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Which TWO things does he need to buy for the course? A computer B computer dis",
-      "groupId": "q6-7"
+      "prompt": "Question 6",
+      "groupId": "q6-7",
+      "instructions": "7 Choose TWO letters A-E. Which TWO things does he need to buy for the course?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "computer"
+        },
+        {
+          "letter": "B",
+          "text": "computer disks"
+        },
+        {
+          "letter": "C",
+          "text": "dictionary"
+        },
+        {
+          "letter": "D",
+          "text": "translation exercises"
+        },
+        {
+          "letter": "E",
+          "text": "textbooks"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 6 and 7 Choose TWO letters A-E. Which TWO things does he need to buy for the course? A computer B computer disks C d",
-      "groupId": "q6-7"
+      "prompt": "Question 7",
+      "groupId": "q6-7",
+      "instructions": "7 Choose TWO letters A-E. Which TWO things does he need to buy for the course?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "computer"
+        },
+        {
+          "letter": "B",
+          "text": "computer disks"
+        },
+        {
+          "letter": "C",
+          "text": "dictionary"
+        },
+        {
+          "letter": "D",
+          "text": "translation exercises"
+        },
+        {
+          "letter": "E",
+          "text": "textbooks"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 8. Without the student discount, the course costs Euros. 9. Payment can be made by credit card or by 10. To ge",
+      "prompt": "Without the student discount, the course costs Euros.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "r. 8. Without the student discount, the course costs Euros. 9. Payment can be made by credit card or by 10. To get a free course you need to find other people. Part 2:",
+      "prompt": "Payment can be made by credit card or by",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 8-10 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 8. Without t",
+      "prompt": "To get a free course you need to find other people.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. Ministers and officials put the of the agriculture business first. 12. Hormones make cattle thus making me",
+      "prompt": "Ministers and officials put the of the agriculture business first.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "rs and officials put the of the agriculture business first. 12. Hormones make cattle thus making meat production more profitable. 13. The use of hormones was banned over",
+      "prompt": "Hormones make cattle thus making meat production more profitable.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "es make cattle thus making meat production more profitable. 13. The use of hormones was banned over ago in Europe. 14. The USA and Canada asked the WTO to declare the ban",
+      "prompt": "The use of hormones was banned over ago in Europe.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "ble. 13. The use of hormones was banned over ago in Europe. 14. The USA and Canada asked the WTO to declare the ban 15. A Danish study shows that hormones are over more d",
+      "prompt": "The USA and Canada asked the WTO to declare the ban",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. Minister",
+      "prompt": "A Danish study shows that hormones are over more dangerous than was previously thought.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "summaryCompletion",
-      "prompt": "f testing The government has not been testing beef which is (16) much to the anger of Mr. Verral. About (17) of the beef which British people eat comes from abroad, some",
+      "prompt": "Lack of testing The government has not been testing beef which is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testing The government has not been testing beef which is"
     },
     {
       "number": 17,
       "type": "summaryCompletion",
-      "prompt": "g beef which is (16) much to the anger of Mr. Verral. About (17) of the beef which British people eat comes from abroad, some of it from Brazil, a country which on paper",
+      "prompt": "much to the anger of Mr. Verral. About ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testing The government has not been testing beef which is"
     },
     {
       "number": 18,
       "type": "summaryCompletion",
-      "prompt": "Brazil, a country which on paper does not allow the use of (18) However, when some EU inspectors visited a Brazilian farm, they found a (19) of the banned substance. Thi",
+      "prompt": "which British people eat comes from abroad, some of it from Brazil, a country which on paper does not allow the use of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testing The government has not been testing beef which is"
     },
     {
       "number": 19,
       "type": "summaryCompletion",
-      "prompt": "n some EU inspectors visited a Brazilian farm, they found a (19) of the banned substance. This is not the first food scandal we have had in this country. Several months a",
+      "prompt": "However, when some EU inspectors visited a Brazilian farm, they found a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testing The government has not been testing beef which is"
     },
     {
       "number": 20,
       "type": "summaryCompletion",
-      "prompt": "Questions 16-20 Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testin",
+      "prompt": "had in this country. Several months ago, a well-known chocolate company found out its sweets were contaminated with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Lack of testing The government has not been testing beef which is"
     },
     {
       "number": 21,
       "type": "summaryCompletion",
-      "prompt": "be top achievers, they tend to peak early and then go into (21) High achievers work hard, but within (22) It is also important to choose (23) you enjoy. Top achievers sp",
+      "prompt": "is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers Although it is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into"
     },
     {
       "number": 22,
       "type": "summaryCompletion",
-      "prompt": "and then go into (21) High achievers work hard, but within (22) It is also important to choose (23) you enjoy. Top achievers spend over (24) of their working hours doing",
+      "prompt": "High achievers work hard, but within ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers Although it is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into"
     },
     {
       "number": 23,
       "type": "summaryCompletion",
-      "prompt": "s work hard, but within (22) It is also important to choose (23) you enjoy. Top achievers spend over (24) of their working hours doing work they prefer. They want (25) no",
+      "prompt": "It is also important to choose ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers Although it is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into"
     },
     {
       "number": 24,
       "type": "summaryCompletion",
-      "prompt": "mportant to choose (23) you enjoy. Top achievers spend over (24) of their working hours doing work they prefer. They want (25) not just external rewards.",
+      "prompt": "you enjoy. Top achievers spend over ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers Although it is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into"
     },
     {
       "number": 25,
       "type": "summaryCompletion",
-      "prompt": "Questions 21-25 Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers",
+      "prompt": "of their working hours doing work they prefer. They want ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. High achievers Although it is thought that people who bring work home every night would be top achievers, they tend to peak early and then go into"
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 26. Top achievers take risks",
+      "stem": "Top achievers take risks",
       "options": [
         {
           "letter": "A",
@@ -228,7 +297,8 @@
           "text": "even if they face possible failure"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -248,7 +318,8 @@
           "text": "are not hard working"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -268,7 +339,8 @@
           "text": "they learn from the experience"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
@@ -288,7 +360,8 @@
           "text": "complicate matters"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -308,12 +381,13 @@
           "text": "take no notice of rivals"
         }
       ],
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-34 Choose the correct letter A, B or C. 31. Exposure to bright light",
+      "stem": "Exposure to bright light",
       "options": [
         {
           "letter": "A",
@@ -328,7 +402,8 @@
           "text": "caused people to crave sweet things"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -348,7 +423,8 @@
           "text": "not fully understood"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -368,7 +444,8 @@
           "text": "is far less common than SAD"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
@@ -388,49 +465,56 @@
           "text": "a 25 year old women"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 35. Depression probably has a as it seems to run in the family. 36. Many SAD sufferers have a craving. 37. Ser",
+      "prompt": "Depression probably has a as it seems to run in the family.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "Depression probably has a as it seems to run in the family. 36. Many SAD sufferers have a craving. 37. Serotonin has a effect on the brain. 38. The serotonin system of th",
+      "prompt": "Many SAD sufferers have a craving.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "o run in the family. 36. Many SAD sufferers have a craving. 37. Serotonin has a effect on the brain. 38. The serotonin system of the brain cannot regulate itself well dur",
+      "prompt": "Serotonin has a effect on the brain.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "rs have a craving. 37. Serotonin has a effect on the brain. 38. The serotonin system of the brain cannot regulate itself well during 39. Some neurotransmitters may be in",
+      "prompt": "The serotonin system of the brain cannot regulate itself well during",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "onin system of the brain cannot regulate itself well during 39. Some neurotransmitters may be in certain cases. 40. Many SAD patients put on fat in late autumn, just as",
+      "prompt": "Some neurotransmitters may be in certain cases.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 35-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 35. Depression probably has a a",
+      "prompt": "Many SAD patients put on fat in late autumn, just as",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

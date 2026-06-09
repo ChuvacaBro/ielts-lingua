@@ -40,212 +40,242 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "nformation source: found in the brochure Included services: (1) and accommodation Sydney arrival date: 15th of (2) Accommodation criteria: (3)",
+      "prompt": "Notes of customer information Information source: found in the brochure Included services: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Notes of customer information Information source: found in the brochure Included services:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ervices: (1) and accommodation Sydney arrival date: 15th of (2) Accommodation criteria: (3)",
+      "prompt": "and accommodation Sydney arrival date: 15th of ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Notes of customer information Information source: found in the brochure Included services:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Questions 1-3 Complete the notes below. Write ONE WORD OR A NUMBER. Notes of customer information Information source: foun",
+      "prompt": "Accommodation criteria: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Notes of customer information Information source: found in the brochure Included services:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "OR A NUMBER for each answer. Booking information Room type: (4) Credit card holder: (5) Total cost for one night: (6)",
+      "prompt": "Booking information Room type: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-6"
+      "groupId": "q4-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Booking information Room type:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "wer. Booking information Room type: (4) Credit card holder: (5) Total cost for one night: (6)",
+      "prompt": "Credit card holder: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-6"
+      "groupId": "q4-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Booking information Room type:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 4-6 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Booking informatio",
+      "prompt": "Total cost for one night: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-6"
+      "groupId": "q4-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Booking information Room type:"
     },
     {
       "number": 7,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 7. The is within walking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings a",
+      "prompt": "The is within walking distance of the accommodation.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 8,
       "type": "sentenceCompletion",
-      "prompt": "er. 7. The is within walking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings are in the 10. The Dreamtime can be experienced beneath t",
+      "prompt": "Hour customer books",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "lking distance of the accommodation. 8. Hour customer books 9. Aboriginals stone carvings are in the 10. The Dreamtime can be experienced beneath the Part 2:",
+      "prompt": "Aboriginals stone carvings are in the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 7-10 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 7. The is within walking distan",
+      "prompt": "The Dreamtime can be experienced beneath the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "lic service broadcast • Volunteers workers must be at least (11) years old. • Job applicants should not have (12) • Job applicants are asked to submit (13) and (14) • The",
+      "prompt": "Public service broadcast • Volunteers workers must be at least ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volunteers workers must be at least"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "e at least (11) years old. • Job applicants should not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone",
+      "prompt": "years old. • Job applicants should not have ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volunteers workers must be at least"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "s should not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone calls.",
+      "prompt": "• Job applicants are asked to submit ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volunteers workers must be at least"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "not have (12) • Job applicants are asked to submit (13) and (14) • The employee will pay the expenses of (15) and phone calls.",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volunteers workers must be at least"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volu",
+      "prompt": "• The employee will pay the expenses of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Public service broadcast • Volunteers workers must be at least"
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "Questions 16-18 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-18"
+      "groupId": "q16-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunt",
+      "prompt": "If you are willing to become a volunteer, here is some information to help: Contact person: Mary Smith Post office box: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunteer, here is some information to help: Contact person: Mary Smith Post office box:"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunteer, he",
+      "prompt": "Email address: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. If you are willing to become a volunteer, here is some information to help: Contact person: Mary Smith Post office box:"
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "nge discussion • In south east Mexico, farmers did too much (21) so the environment has been destroyed • According to Dick, vegetation problems caused (22) • A back issue",
+      "prompt": "Environmental change discussion • In south east Mexico, farmers did too much ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental change discussion • In south east Mexico, farmers did too much"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "n destroyed • According to Dick, vegetation problems caused (22) • A back issue of periodical reported interviews with (23) • According to one of the articles in periodic",
+      "prompt": "so the environment has been destroyed • According to Dick, vegetation problems caused ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental change discussion • In south east Mexico, farmers did too much"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "(22) • A back issue of periodical reported interviews with (23) • According to one of the articles in periodical, land (24) show it is very tough for the plant growth th",
+      "prompt": "• A back issue of periodical reported interviews with ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental change discussion • In south east Mexico, farmers did too much"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "(23) • According to one of the articles in periodical, land (24) show it is very tough for the plant growth there • In the past 10 years, almost (25) kilometers of forest",
+      "prompt": "• According to one of the articles in periodical, land ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental change discussion • In south east Mexico, farmers did too much"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental chan",
+      "prompt": "show it is very tough for the plant growth there • In the past 10 years, almost ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Environmental change discussion • In south east Mexico, farmers did too much"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "tes below. Write ONE WORD AND/ OR A NUMBER for each answer. 26. ‘Growing Area’ is about kilometers 27. Scientists have taken of the soil in the Yucatan. 28. The universit",
-      "groupId": "q26-30"
+      "prompt": "‘Growing Area’ is about kilometers",
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "BER for each answer. 26. ‘Growing Area’ is about kilometers 27. Scientists have taken of the soil in the Yucatan. 28. The university’s own geology department has also ana",
-      "groupId": "q26-30"
+      "prompt": "Scientists have taken of the soil in the Yucatan.",
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "eters 27. Scientists have taken of the soil in the Yucatan. 28. The university’s own geology department has also analysed the at the site. 29. The in Dr. Horst’s books ar",
-      "groupId": "q26-30"
+      "prompt": "The university’s own geology department has also analysed the at the site.",
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "s own geology department has also analysed the at the site. 29. The in Dr. Horst’s books are very useful and worth studying. 30. The student needs a to do presentation. P",
-      "groupId": "q26-30"
+      "prompt": "The in Dr. Horst’s books are very useful and worth studying.",
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. 26. ‘Growing Area’ is about kilo",
-      "groupId": "q26-30"
+      "prompt": "The student needs a to do presentation.",
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "and 32 Choose the correct letter A, B or C. 31. Bees that help with pollination benefit flowers and",
+      "stem": "Bees that help with pollination benefit flowers and",
       "options": [
         {
           "letter": "A",
@@ -260,7 +290,8 @@
           "text": "fruit trees"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -280,63 +311,72 @@
           "text": "pollen"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B or C."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects in summer can be harmful because they can carry such deadly diseases as malari",
+      "prompt": "Dragonflies eat",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-35"
+      "groupId": "q33-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects in summer can be harmful because they can carry such deadly diseases as malaria, yellow fever, and",
+      "prompt": "Insects in summer can be harmful because they can carry such deadly diseases as malaria, yellow fever, and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-35"
+      "groupId": "q33-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 33-35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 33. Dragonflies eat 34. Insects",
+      "prompt": "Harmful insects may destroy crops, clothes, furniture and even the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-35"
+      "groupId": "q33-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "re often not worthwhile because: a) They are effective on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These m",
+      "prompt": "insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": ": a) They are effective on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These methods are (39) than chemical m",
+      "prompt": "b) They can bring harm to ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "on a (36) b) They can bring harm to (37) c) Insects become (38) to the chemicals quickly Biological methods These methods are (39) than chemical methods of eliminating h",
+      "prompt": "c) Insects become ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "the chemicals quickly Biological methods These methods are (39) than chemical methods of eliminating harmful insects. Breeding control method In order to control the bre",
+      "prompt": "to the chemicals quickly Biological methods These methods are ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 36-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical me",
+      "prompt": "insects. Breeding control method In order to control the breeding of insects, one needs to understand the insects’ ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to kill bad insects Chemical method These solutions to insect problems are often not worthwhile because: a) They are effective on a"
     }
   ],
   "answerKey": {

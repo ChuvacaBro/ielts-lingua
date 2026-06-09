@@ -40,131 +40,239 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "nswer. Local food shops Where to go • Kite Place – near the (1) Fish market • cross the (2) and turn right • best to go before (3) pm, earlier than closing time Organic s",
-      "groupId": "q1-6"
+      "prompt": "Local food shops Where to go • Kite Place – near the ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "e to go • Kite Place – near the (1) Fish market • cross the (2) and turn right • best to go before (3) pm, earlier than closing time Organic shop • called (4) • below a r",
-      "groupId": "q1-6"
+      "prompt": "Fish market • cross the ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "h market • cross the (2) and turn right • best to go before (3) pm, earlier than closing time Organic shop • called (4) • below a restaurant in the large, grey building •",
-      "groupId": "q1-6"
+      "prompt": "and turn right • best to go before ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ore (3) pm, earlier than closing time Organic shop • called (4) • below a restaurant in the large, grey building • look for the large (5) outside Supermarket • take a (6)",
-      "groupId": "q1-6"
+      "prompt": "pm, earlier than closing time Organic shop • called ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "restaurant in the large, grey building • look for the large (5) outside Supermarket • take a (6) minibus, number 289",
-      "groupId": "q1-6"
+      "prompt": "• below a restaurant in the large, grey building • look for the large ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go",
-      "groupId": "q1-6"
+      "prompt": "outside Supermarket • take a ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. Local food shops Where to go • Kite Place – near the"
     },
     {
       "number": 7,
       "type": "tableCompletion",
       "prompt": "Question 7",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 8,
       "type": "tableCompletion",
       "prompt": "Question 8",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 9,
       "type": "tableCompletion",
       "prompt": "Question 9",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY for each answer. Part 2:",
+      "prompt": "Question 10",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 11,
       "type": "gapFill",
       "prompt": "Question 11",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 14,
       "type": "gapFill",
       "prompt": "Question 14",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 What information is given about each of the following festival workshops? Choose SIX answers from the box a",
-      "groupId": "q11-16"
+      "prompt": "Question 16",
+      "groupId": "q11-16",
+      "instructions": "What information is given about each of the following festival workshops? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO reasons does the speaker give for recommending Alive and Kicking?",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters, A-E. Which TWO reasons does the speaker give for recommending Alive and Kicking?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It will appeal to both boys and girls."
+        },
+        {
+          "letter": "B",
+          "text": "The author is well known."
+        },
+        {
+          "letter": "C",
+          "text": "It has colourful illustrations."
+        },
+        {
+          "letter": "D",
+          "text": "It is funny."
+        },
+        {
+          "letter": "E",
+          "text": "It deals with an important topic."
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO reasons does the speaker give for recommending Alive and Kicking? A It w",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters, A-E. Which TWO reasons does the speaker give for recommending Alive and Kicking?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It will appeal to both boys and girls."
+        },
+        {
+          "letter": "B",
+          "text": "The author is well known."
+        },
+        {
+          "letter": "C",
+          "text": "It has colourful illustrations."
+        },
+        {
+          "letter": "D",
+          "text": "It is funny."
+        },
+        {
+          "letter": "E",
+          "text": "It deals with an important topic."
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give to parents about reading?",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give to parents about reading?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Encourage children to write down new vocabulary."
+        },
+        {
+          "letter": "B",
+          "text": "Allow children to listen to audio books."
+        },
+        {
+          "letter": "C",
+          "text": "Get recommendations from librarians."
+        },
+        {
+          "letter": "D",
+          "text": "Give children a choice about what they read."
+        },
+        {
+          "letter": "E",
+          "text": "Only read aloud to children until they can read independently. Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give to parents about reading? A Encou",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give to parents about reading?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Encourage children to write down new vocabulary."
+        },
+        {
+          "letter": "B",
+          "text": "Allow children to listen to audio books."
+        },
+        {
+          "letter": "C",
+          "text": "Get recommendations from librarians."
+        },
+        {
+          "letter": "D",
+          "text": "Give children a choice about what they read."
+        },
+        {
+          "letter": "E",
+          "text": "Only read aloud to children until they can read independently. Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter, A, B or C. Science experiment for Year 12 students 21. How does Clare feel about the students in her Year 12 science class?",
+      "stem": "How does Clare feel about the students in her Year 12 science class?",
       "options": [
         {
           "letter": "A",
@@ -179,7 +287,8 @@
           "text": "frustrated at their lack of interest in the subject"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Science experiment for Year 12 students"
     },
     {
       "number": 22,
@@ -199,7 +308,8 @@
           "text": "He suspects that the conclusions might be upsetting."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Science experiment for Year 12 students"
     },
     {
       "number": 23,
@@ -219,7 +329,8 @@
           "text": "Students may not be happy about animal experiments."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Science experiment for Year 12 students"
     },
     {
       "number": 24,
@@ -239,7 +350,8 @@
           "text": "How much do supplements of different kinds affect health?"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Science experiment for Year 12 students"
     },
     {
       "number": 25,
@@ -259,107 +371,123 @@
           "text": "varying amounts of exercise."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Science experiment for Year 12 students"
     },
     {
       "number": 26,
       "type": "flowChartCompletion",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "A size B escape C age D water E cereal F calculations G changes H colour Flowchart • choose mice which are all the same ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to questions 26-30."
     },
     {
       "number": 27,
       "type": "flowChartCompletion",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "• divide the mice into two groups, each with a different ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to questions 26-30."
     },
     {
       "number": 28,
       "type": "flowChartCompletion",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "each group in a separate cage • feed group A commercial mouse food • feed group B the same, but also sugar contained in ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to questions 26-30."
     },
     {
       "number": 29,
       "type": "flowChartCompletion",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "• take measurements using an electronic scale • place them in a weighing chamber to prevent ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to questions 26-30."
     },
     {
       "number": 30,
       "type": "flowChartCompletion",
-      "prompt": "Questions 26-30 Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to",
-      "groupId": "q26-30"
+      "prompt": "• do all necessary ____",
+      "groupId": "q26-30",
+      "instructions": "Complete the flowchart below. Choose FIVE answers from below and write correct letter A-H next to questions 26-30."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "roplastics Where microplastics come from • fibres from some (31) during washing • the breakdown of large pieces of plastic • waste from industry • the action of vehicle t",
+      "prompt": "Microplastics Where microplastics come from • fibres from some ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "roads Effects of microplastics • They cause injuries to the (32) of wildlife and affect their digestive systems. • They enter the food chain, e.g., in bottled and tap wat",
+      "prompt": "• waste from industry • the action of vehicle tyres on roads Effects of microplastics • They cause injuries to the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "They enter the food chain, e.g., in bottled and tap water, (33) and seafood. • They may not affect human health, but they are already banned in skin cleaning products an",
+      "prompt": "of wildlife and affect their digestive systems. • They enter the food chain, e.g., in bottled and tap water, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": ", but they are already banned in skin cleaning products and (34) in some countries. • Microplastics enter the soil through the air, rain and (35) Microplastics in the soi",
+      "prompt": "and seafood. • They may not affect human health, but they are already banned in skin cleaning products and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "s. • Microplastics enter the soil through the air, rain and (35) Microplastics in the soil – a study by Anglia Ruskin University • Earthworms are important because they a",
+      "prompt": "in some countries. • Microplastics enter the soil through the air, rain and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "skin University • Earthworms are important because they add (36) to the soil. • The study aimed to find whether microplastics in earthworms affect the (37) of plants. • T",
+      "prompt": "Microplastics in the soil – a study by Anglia Ruskin University • Earthworms are important because they add ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "imed to find whether microplastics in earthworms affect the (37) of plants. • The study found that microplastics caused: o (38) loss in earthworms o fewer seeds to germin",
+      "prompt": "to the soil. • The study aimed to find whether microplastics in earthworms affect the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": ") of plants. • The study found that microplastics caused: o (38) loss in earthworms o fewer seeds to germinate o a rise in the level of (39) in the soil. The study conclu",
+      "prompt": "of plants. • The study found that microplastics caused: o ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "thworms o fewer seeds to germinate o a rise in the level of (39) in the soil. The study concluded: • soil should be seen as an important natural process. • changes to soi",
+      "prompt": "loss in earthworms o fewer seeds to germinate o a rise in the level of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from",
+      "prompt": "study concluded: • soil should be seen as an important natural process. • changes to soil damage both ecosystems and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Microplastics Where microplastics come from • fibres from some"
     }
   ],
   "answerKey": {

@@ -114,6 +114,8 @@ export type AnswerValue = string | string[];
 export interface ReadingPassage {
   number: 1 | 2 | 3;
   title: string;
+  /** Inclusive question-number range owned by this passage, e.g. [1, 13]. */
+  questionRange: [number, number];
   /** HTML for the passage body, ad scripts stripped. */
   bodyHtml: string;
   imageUrl?: string;

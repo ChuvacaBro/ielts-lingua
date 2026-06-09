@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "MBER for each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "People interested in sharing the flat ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "for each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "each answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "h answer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "swer. People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": ". People interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "ople interested in sharing the flat (1) (2) (3) (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "Questions 1-8 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested i",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. People interested in sharing the flat"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "Questions 9 and 10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phon",
+      "prompt": "Leo’s phone number (mobile) ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phone number (mobile)"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 9 and 10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phone numb",
+      "prompt": "Leo would like to move in on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Leo’s phone number (mobile)"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. Refreshments will be served",
+      "stem": "Refreshments will be served",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "at the back of the hall"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "in the newspaper"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "200"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,54 +198,61 @@
           "text": "males and females of any age"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "E THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "N ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. 21. What is the main topic of assignment?",
+      "stem": "What is the main topic of assignment?",
       "options": [
         {
           "letter": "A",
@@ -247,7 +267,8 @@
           "text": "the cultural future of television"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -267,7 +288,8 @@
           "text": "video games"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -287,7 +309,8 @@
           "text": "10 minutes"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -307,7 +330,8 @@
           "text": "the journals section"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -327,7 +351,8 @@
           "text": "the library"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -347,89 +372,101 @@
           "text": "send your dissertation to your tutor"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
       "type": "shortAnswer",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 27. What does the tutor compare homemade videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where i",
+      "prompt": "What does the tutor compare homemade videos with?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "shortAnswer",
-      "prompt": "swer. 27. What does the tutor compare homemade videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where is the lecture? 30. When is the final date for the assi",
+      "prompt": "What is the title of Mrs Jone’s lecture?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "shortAnswer",
-      "prompt": "e videos with? 28. What is the title of Mrs Jone’s lecture? 29. Where is the lecture? 30. When is the final date for the assignment? Part 4:",
+      "prompt": "Where is the lecture?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "shortAnswer",
-      "prompt": "Questions 27-30 Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 27. What does",
+      "prompt": "When is the final date for the assignment?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 31. Samuel Wells before Scholastic House opened in 1903. 32. There were original students. 33. Scholastic Hous",
+      "prompt": "Samuel Wells before Scholastic House opened in 1903.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "r. 31. Samuel Wells before Scholastic House opened in 1903. 32. There were original students. 33. Scholastic House became in 1963. 34. One of these students became a prom",
+      "prompt": "There were original students.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "tic House opened in 1903. 32. There were original students. 33. Scholastic House became in 1963. 34. One of these students became a prominent 35. Scholastic House experie",
+      "prompt": "Scholastic House became in 1963.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "ere original students. 33. Scholastic House became in 1963. 34. One of these students became a prominent 35. Scholastic House experienced difficulties during 36. The coll",
+      "prompt": "One of these students became a prominent",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "ecame in 1963. 34. One of these students became a prominent 35. Scholastic House experienced difficulties during 36. The college has a tradition of learning and 37. Since",
+      "prompt": "Scholastic House experienced difficulties during",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "minent 35. Scholastic House experienced difficulties during 36. The college has a tradition of learning and 37. Since 1972, controversial have been discussed.",
+      "prompt": "The college has a tradition of learning and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-37 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. Samuel Wells before Schol",
+      "prompt": "Since 1972, controversial have been discussed.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "multipleChoice",
-      "stem": "-40 Choose the correct letter A, B or C. 38. The college discusses controversial issues because it",
+      "stem": "The college discusses controversial issues because it",
       "options": [
         {
           "letter": "A",
@@ -444,7 +481,8 @@
           "text": "encourages argument"
         }
       ],
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 39,
@@ -464,7 +502,8 @@
           "text": "science is ahead of philosophy"
         }
       ],
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 40,
@@ -484,7 +523,8 @@
           "text": "think only about their studies"
         }
       ],
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Choose the correct letter A, B or C."
     }
   ],
   "answerKey": {

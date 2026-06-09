@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ance: 147 miles Options: • Car hire – don’t want to drive • (1) – expensive • Greyhound Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o",
+      "prompt": "Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive •"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "• Greyhound Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "prompt": "– expensive • Greyhound Bus o $15 single, $27.50 return o Direct to the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive •"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Bus o $15 single, $27.50 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "prompt": "o Long ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive •"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "0 return o Direct to the (2) o Long (3) • Airport Shuttle o (4) service o Every 2 hours o $35 single, $65 return o Need to (5)",
+      "prompt": "• Airport Shuttle o ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive •"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 mil",
+      "prompt": "service o Every 2 hours o $35 single, $65 return o Need to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS. Transport from Airport to Milton Distance: 147 miles Options: • Car hire – don’t want to drive •"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "omplete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the booking form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "ete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the booking form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the booking form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the booking form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Complete the booking form below. Write ONE WORD OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the booking form below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. 11. PS Camping has been organising holidays for",
+      "stem": "PS Camping has been organising holidays for",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "25 years"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "Switzerland"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "model making"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "10.30 p.m"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "must be taken out at the time of booking"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -225,57 +240,121 @@
           "text": "a discount"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "barbeques",
+      "groupId": "q17-20",
+      "instructions": "What does the speaker say about the following items? Write the correct letter A, B or C next to questions 17-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They are provided in all tents."
+        },
+        {
+          "letter": "B",
+          "text": "They are found in central areas of the campsite."
+        },
+        {
+          "letter": "C",
+          "text": "They are available on requests. Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "toys",
+      "groupId": "q17-20",
+      "instructions": "What does the speaker say about the following items? Write the correct letter A, B or C next to questions 17-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They are provided in all tents."
+        },
+        {
+          "letter": "B",
+          "text": "They are found in central areas of the campsite."
+        },
+        {
+          "letter": "C",
+          "text": "They are available on requests. Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "cool boxes",
+      "groupId": "q17-20",
+      "instructions": "What does the speaker say about the following items? Write the correct letter A, B or C next to questions 17-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They are provided in all tents."
+        },
+        {
+          "letter": "B",
+          "text": "They are found in central areas of the campsite."
+        },
+        {
+          "letter": "C",
+          "text": "They are available on requests. Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 What does the speaker say about the following items? Write the correct letter A, B or C next to",
-      "groupId": "q17-20"
+      "prompt": "mops and buckets A They are provided in all tents. B They are found in central areas of the campsite. C They are available on requests.",
+      "groupId": "q17-20",
+      "instructions": "What does the speaker say about the following items? Write the correct letter A, B or C next to questions 17-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They are provided in all tents."
+        },
+        {
+          "letter": "B",
+          "text": "They are found in central areas of the campsite."
+        },
+        {
+          "letter": "C",
+          "text": "They are available on requests. Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "ALS IN THE WORKPLACE Individuals bring different: • Ideas • (21) • Learning experiences Work behavior differences are due to: • Personality • (22) Effects of diversity on",
+      "prompt": "DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals bring different: • Ideas • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals bring different: • Ideas •"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "ences Work behavior differences are due to: • Personality • (22) Effects of diversity on companies: • Advantage: diversity develops (23) • Disadvantages: diversity can ca",
+      "prompt": "• Learning experiences Work behavior differences are due to: • Personality • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals bring different: • Ideas •"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "Questions 21-23 Complete the notes below. Write ONE WORD ONLY. DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals",
+      "prompt": "Effects of diversity on companies: • Advantage: diversity develops ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. DIFFERENCES BETWEEN INDIVIDUALS IN THE WORKPLACE Individuals bring different: • Ideas •"
     },
     {
       "number": 24,
       "type": "multipleChoice",
-      "stem": "-27 Choose the correct letter, A, B or C. 24. Janice thinks that employers should encourage workers who are",
+      "stem": "Janice thinks that employers should encourage workers who are",
       "options": [
         {
           "letter": "A",
@@ -290,7 +369,8 @@
           "text": "good at teamwork"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 25,
@@ -310,7 +390,8 @@
           "text": "deal with uncooperative workers"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 26,
@@ -330,7 +411,8 @@
           "text": "can solve problems"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 27,
@@ -350,98 +432,112 @@
           "text": "increase financial incentives"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "ns 28-30 Complete the sentences below. Write ONE WORD ONLY. 28. All managers need to understand their employees and recognise their company’s 29. When managing change, in",
+      "prompt": "All managers need to understand their employees and recognise their company’s",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "to understand their employees and recognise their company’s 29. When managing change, increasing the company’s may be more important than employee satisfaction. 30. Durin",
+      "prompt": "When managing change, increasing the company’s may be more important than employee satisfaction.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 28-30 Complete the sentences below. Write ONE WORD ONLY. 28. All managers need to understand their employees and",
+      "prompt": "During periods of change, managers may have to cope with increased amounts of",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "AR ON ROCK ART Preparation for fieldwork trip to Namibia in (31) Rock art in Namibia may be • Paintings • Engravings Earliest explanation of engravings of animal footprin",
+      "prompt": "SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "n of engravings of animal footprints They were used to help (32) learn about tracking. But: • Why are the tracks usually (33) ? • Why are some engravings realistic and ot",
+      "prompt": "Namibia may be • Paintings • Engravings Earliest explanation of engravings of animal footprints They were used to help ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "32) learn about tracking. But: • Why are the tracks usually (33) ? • Why are some engravings realistic and other realistic? • Why are the unrealistic animals sometimes ha",
+      "prompt": "learn about tracking. But: • Why are the tracks usually ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "realistic? • Why are the unrealistic animals sometimes half (34) ? More recent explanation Wise men may have been trying to control wild animals with (35)",
+      "prompt": "? • Why are some engravings realistic and other realistic? • Why are the unrealistic animals sometimes half ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 31-35 Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibi",
+      "prompt": "? More recent explanation Wise men may have been trying to control wild animals with ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. SEMINAR ON ROCK ART Preparation for fieldwork trip to Namibia in"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "ns 36-40 Complete the sentences below. Write ONE WORD ONLY. 36. If you look at a site from a , you reduce visitor pressure. 37. To camp on a site may be disrespectful to",
+      "prompt": "If you look at a site from a , you reduce visitor pressure.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "If you look at a site from a , you reduce visitor pressure. 37. To camp on a site may be disrespectful to people from that 38. Undiscovered material may be damaged by 39.",
+      "prompt": "To camp on a site may be disrespectful to people from that",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "To camp on a site may be disrespectful to people from that 38. Undiscovered material may be damaged by 39. You should avoid or tracing rock art as it is so fragile. 40.",
+      "prompt": "Undiscovered material may be damaged by",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "eople from that 38. Undiscovered material may be damaged by 39. You should avoid or tracing rock art as it is so fragile. 40. In general, your aim is to leave the site",
+      "prompt": "You should avoid or tracing rock art as it is so fragile.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 36-40 Complete the sentences below. Write ONE WORD ONLY. 36. If you look at a site from a , you reduce visitor pr",
+      "prompt": "In general, your aim is to leave the site",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY."
     }
   ],
   "answerKey": {

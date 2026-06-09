@@ -40,46 +40,72 @@
     {
       "number": 1,
       "type": "shortAnswer",
-      "prompt": "A NUMBER. How long has Caroline been waiting? Five minutes 1. What does Matt suggest they do? 2. In which month is the party going to take place? 3. Where is Niki? 4. Ho",
+      "prompt": "What does Matt suggest they do?",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting? Five minutes"
     },
     {
       "number": 2,
       "type": "shortAnswer",
-      "prompt": "en waiting? Five minutes 1. What does Matt suggest they do? 2. In which month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for",
+      "prompt": "In which month is the party going to take place?",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting? Five minutes"
     },
     {
       "number": 3,
       "type": "shortAnswer",
-      "prompt": "hey do? 2. In which month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for? 5. What day of the week is the party going to be h",
+      "prompt": "Where is Niki?",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting? Five minutes"
     },
     {
       "number": 4,
       "type": "shortAnswer",
-      "prompt": "h month is the party going to take place? 3. Where is Niki? 4. How long is Matt going to be away for? 5. What day of the week is the party going to be held?",
+      "prompt": "How long is Matt going to be away for?",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting? Five minutes"
     },
     {
       "number": 5,
       "type": "shortAnswer",
-      "prompt": "Questions 1-5 Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting?",
+      "prompt": "What day of the week is the party going to be held?",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS OR A NUMBER. How long has Caroline been waiting? Five minutes"
     },
     {
       "number": 6,
+      "type": "gapFill",
+      "prompt": "The location of Nikki’s house on the map is A B C",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "7."
+        }
+      ]
+    },
+    {
+      "number": 7,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 6. The location of Nikki’s house on the map is",
+      "stem": "The house has",
       "options": [
         {
           "letter": "A",
-          "text": "B C 7. The house has A a bridge over the river"
+          "text": "a bridge over the river"
         },
         {
           "letter": "B",
@@ -90,13 +116,8 @@
           "text": "gardens leading down to the river"
         }
       ],
-      "groupId": "q6-10"
-    },
-    {
-      "number": 7,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 7"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 8,
@@ -116,7 +137,8 @@
           "text": "93 West road"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 9,
@@ -136,7 +158,8 @@
           "text": "477130"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -156,12 +179,13 @@
           "text": "a barbecue"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. 11. The food festival takes place",
+      "stem": "The food festival takes place",
       "options": [
         {
           "letter": "A",
@@ -176,7 +200,8 @@
           "text": "in the middle of March"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -196,7 +221,8 @@
           "text": "France and Italy"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -216,7 +242,8 @@
           "text": "food from Germany"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -236,7 +263,8 @@
           "text": "events that show people how to cook"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -256,7 +284,8 @@
           "text": "pick up a brochure"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -276,64 +305,193 @@
           "text": "register in advance for workshops"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
       "prompt": "Question 21",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose FOUR letters A-G. Which FOUR of the following are required of student teachers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "weekly journal"
+        },
+        {
+          "letter": "B",
+          "text": "sample lesson plans"
+        },
+        {
+          "letter": "C",
+          "text": "meetings with other student teachers"
+        },
+        {
+          "letter": "D",
+          "text": "observing other teachers"
+        },
+        {
+          "letter": "E",
+          "text": "evaluation from supervising teacher"
+        },
+        {
+          "letter": "F",
+          "text": "portfolio"
+        },
+        {
+          "letter": "G",
+          "text": "final exam"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
       "prompt": "Question 22",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose FOUR letters A-G. Which FOUR of the following are required of student teachers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "weekly journal"
+        },
+        {
+          "letter": "B",
+          "text": "sample lesson plans"
+        },
+        {
+          "letter": "C",
+          "text": "meetings with other student teachers"
+        },
+        {
+          "letter": "D",
+          "text": "observing other teachers"
+        },
+        {
+          "letter": "E",
+          "text": "evaluation from supervising teacher"
+        },
+        {
+          "letter": "F",
+          "text": "portfolio"
+        },
+        {
+          "letter": "G",
+          "text": "final exam"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
       "prompt": "Question 23",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose FOUR letters A-G. Which FOUR of the following are required of student teachers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "weekly journal"
+        },
+        {
+          "letter": "B",
+          "text": "sample lesson plans"
+        },
+        {
+          "letter": "C",
+          "text": "meetings with other student teachers"
+        },
+        {
+          "letter": "D",
+          "text": "observing other teachers"
+        },
+        {
+          "letter": "E",
+          "text": "evaluation from supervising teacher"
+        },
+        {
+          "letter": "F",
+          "text": "portfolio"
+        },
+        {
+          "letter": "G",
+          "text": "final exam"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 21-24 Choose FOUR letters A-G. Which FOUR of the following are required of student teachers? A weekly journal B s",
-      "groupId": "q21-24"
+      "prompt": "Question 24",
+      "groupId": "q21-24",
+      "instructions": "Choose FOUR letters A-G. Which FOUR of the following are required of student teachers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "weekly journal"
+        },
+        {
+          "letter": "B",
+          "text": "sample lesson plans"
+        },
+        {
+          "letter": "C",
+          "text": "meetings with other student teachers"
+        },
+        {
+          "letter": "D",
+          "text": "observing other teachers"
+        },
+        {
+          "letter": "E",
+          "text": "evaluation from supervising teacher"
+        },
+        {
+          "letter": "F",
+          "text": "portfolio"
+        },
+        {
+          "letter": "G",
+          "text": "final exam"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 25. Who has to sign the agreement form?",
+      "stem": "Who has to sign the agreement form?",
       "options": [
         {
           "letter": "A",
@@ -348,47 +506,53 @@
           "text": "the advisor"
         }
       ],
-      "groupId": "q25-25"
+      "groupId": "q25-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Write NO MORE THAN THREE WORDS for each answer. First week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "prompt": "First week: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week:"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "EE WORDS for each answer. First week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "prompt": "due Fourth week: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week:"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "irst week: (26) due Fourth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "prompt": "meeting Seventh week: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week:"
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "urth week: (27) meeting Seventh week: (28) Fourteenth week: (29) due Fifteenth week: (30) Part 4:",
+      "prompt": "Fourteenth week: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week:"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week: (26) due Fourth we",
+      "prompt": "due Fifteenth week: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the schedule below. Write NO MORE THAN THREE WORDS for each answer. First week:"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-32 Choose the correct letter A, B or C. 31. According to the speaker, which of the following models emerged first?",
+      "stem": "According to the speaker, which of the following models emerged first?",
       "options": [
         {
           "letter": "A",
@@ -403,7 +567,8 @@
           "text": "fan based crowdfunding"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -423,63 +588,72 @@
           "text": "a reward"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "rowdfunding website • Each fundraising initiative has a set (33) limit • For a film people could expect anything from free tickets to having their name listed in the (34)",
+      "prompt": "• The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "ything from free tickets to having their name listed in the (34) Crowdfunding opportunities • Companies can receive small donations from a(n) (35) of people • Partner com",
+      "prompt": "limit • For a film people could expect anything from free tickets to having their name listed in the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "rtunities • Companies can receive small donations from a(n) (35) of people • Partner companies can help as part of their own fundraising events • You can get (36) from su",
+      "prompt": "Crowdfunding opportunities • Companies can receive small donations from a(n) ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "help as part of their own fundraising events • You can get (36) from supporters during the development phase • Crowdfunding will increase (37) of the product and potenti",
+      "prompt": "of people • Partner companies can help as part of their own fundraising events • You can get ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "s during the development phase • Crowdfunding will increase (37) of the product and potentially improve sales Crowdfunding dangers • You must reach your target or donatio",
+      "prompt": "from supporters during the development phase • Crowdfunding will increase ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "nding dangers • You must reach your target or donations are (38) • It can take a lot of time to fulfil the promises you have made to fans • Don’t forget to consider the c",
+      "prompt": "of the product and potentially improve sales Crowdfunding dangers • You must reach your target or donations are ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "ou have made to fans • Don’t forget to consider the cost of (39) when working out profits • Raising awareness is hard if your company is (40) or if you don’t have many so",
+      "prompt": "• It can take a lot of time to fulfil the promises you have made to fans • Don’t forget to consider the cost of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 33-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The pr",
+      "prompt": "when working out profits • Raising awareness is hard if your company is ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q33-40"
+      "groupId": "q33-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Crowdfunding explained • The project and financial target are explained on the crowdfunding website • Each fundraising initiative has a set"
     }
   ],
   "answerKey": {

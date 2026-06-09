@@ -40,269 +40,309 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ND/ OR A NUMBER for each answer. Holiday booked in name of: (1) Address: Flat 4, (2) Winchester S024ER Daytime telephone number: (3) Booking reference: (4) Special offer?",
+      "prompt": "Holiday booked in name of: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ach answer. Holiday booked in name of: (1) Address: Flat 4, (2) Winchester S024ER Daytime telephone number: (3) Booking reference: (4) Special offer? Yes, from (5) compan",
+      "prompt": "Address: Flat 4, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ss: Flat 4, (2) Winchester S024ER Daytime telephone number: (3) Booking reference: (4) Special offer? Yes, from (5) company Insurance? Yes, had (6) Policy Type of holiday",
+      "prompt": "Winchester S024ER Daytime telephone number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ter S024ER Daytime telephone number: (3) Booking reference: (4) Special offer? Yes, from (5) company Insurance? Yes, had (6) Policy Type of holiday booked: (7) Break Date",
+      "prompt": "Booking reference: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "number: (3) Booking reference: (4) Special offer? Yes, from (5) company Insurance? Yes, had (6) Policy Type of holiday booked: (7) Break Date holiday commenced: (8) Detai",
+      "prompt": "Special offer? Yes, from ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in n",
+      "prompt": "company Insurance? Yes, had ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Holiday booked in name of:"
     },
     {
       "number": 7,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 7"
+      "prompt": "Question 7",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 8,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 8"
+      "prompt": "Question 8",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 9,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 9"
+      "prompt": "Question 9",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 10,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 10"
+      "prompt": "Question 10",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 11,
       "type": "tableCompletion",
-      "prompt": "Complete the table below. Choose your answers from the box. (11) (12) (13) (14) (15)",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Complete the table below. Choose your answers from the box."
     },
     {
       "number": 12,
       "type": "tableCompletion",
-      "prompt": "ete the table below. Choose your answers from the box. (11) (12) (13) (14) (15)",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Complete the table below. Choose your answers from the box."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "he table below. Choose your answers from the box. (11) (12) (13) (14) (15)",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Complete the table below. Choose your answers from the box."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "ble below. Choose your answers from the box. (11) (12) (13) (14) (15)",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Complete the table below. Choose your answers from the box."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "Questions 11-15 Complete the table below. Choose your answers from the box. (11) (12) (13) (14) (15)",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Complete the table below. Choose your answers from the box."
     },
     {
       "number": 16,
       "type": "flowChartCompletion",
-      "prompt": "S for each answer. Recruitment process • Step 1: Complete a (16) form • Step 2: Do a (17) questionnaire • Step 3: If accepted go on a (18) course – includes (19) activiti",
+      "prompt": "Recruitment process • Step 1: Complete a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1: Complete a"
     },
     {
       "number": 17,
       "type": "flowChartCompletion",
-      "prompt": "tment process • Step 1: Complete a (16) form • Step 2: Do a (17) questionnaire • Step 3: If accepted go on a (18) course – includes (19) activities • Step 4: Will be sent",
+      "prompt": "form • Step 2: Do a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1: Complete a"
     },
     {
       "number": 18,
       "type": "flowChartCompletion",
-      "prompt": "ep 2: Do a (17) questionnaire • Step 3: If accepted go on a (18) course – includes (19) activities • Step 4: Will be sent a (20) about the hotel Part 3:",
+      "prompt": "questionnaire • Step 3: If accepted go on a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1: Complete a"
     },
     {
       "number": 19,
       "type": "flowChartCompletion",
-      "prompt": "nnaire • Step 3: If accepted go on a (18) course – includes (19) activities • Step 4: Will be sent a (20) about the hotel Part 3:",
+      "prompt": "course – includes ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1: Complete a"
     },
     {
       "number": 20,
       "type": "flowChartCompletion",
-      "prompt": "Questions 16-20 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1:",
+      "prompt": "activities • Step 4: Will be sent a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. Recruitment process • Step 1: Complete a"
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 21. David feels that progress on the project has been slow because other members of the group are not 22. Jane",
+      "prompt": "David feels that progress on the project has been slow because other members of the group are not",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "ct has been slow because other members of the group are not 22. Jane thinks that were not clearly established. 23. Dr. Wilson suggests that the group use the available fr",
+      "prompt": "Jane thinks that were not clearly established.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "are not 22. Jane thinks that were not clearly established. 23. Dr. Wilson suggests that the group use the available from the resource centre. 24. David doubts that the r",
+      "prompt": "Dr. Wilson suggests that the group use the available from the resource centre.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "that the group use the available from the resource centre. 24. David doubts that the research will include an adequate 25. According to Dr. Wilson, the is now the most i",
+      "prompt": "David doubts that the research will include an adequate",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "24. David doubts that the research will include an adequate 25. According to Dr. Wilson, the is now the most important thing to focus on. 26. Jane believes the group coul",
+      "prompt": "According to Dr. Wilson, the is now the most important thing to focus on.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-26 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 21. David feels that progress",
+      "prompt": "Jane believes the group could make more use of some",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "plete the timetable below. Choose your answers for the box. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the timetable below. Choose your answers for the box."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "the timetable below. Choose your answers for the box. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the timetable below. Choose your answers for the box."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "timetable below. Choose your answers for the box. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the timetable below. Choose your answers for the box."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 Complete the timetable below. Choose your answers for the box. (27) (28) (29) (30) Part 4:",
-      "groupId": "q27-30"
+      "prompt": "____",
+      "groupId": "q27-30",
+      "instructions": "Complete the timetable below. Choose your answers for the box."
     },
     {
       "number": 31,
       "type": "summaryCompletion",
-      "prompt": "itects who designed the London Eye originally drew it for a (31) in 1993. Subsequently, they formed a partnership with (32) to develop the project. As the biggest observa",
+      "prompt": "The architects who designed the London Eye originally drew it for a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the London Eye originally drew it for a"
     },
     {
       "number": 32,
       "type": "summaryCompletion",
-      "prompt": "(31) in 1993. Subsequently, they formed a partnership with (32) to develop the project. As the biggest observation wheel ever built its construction involved 1700 people",
+      "prompt": "in 1993. Subsequently, they formed a partnership with ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the London Eye originally drew it for a"
     },
     {
       "number": 33,
       "type": "summaryCompletion",
-      "prompt": "people in five countries. Most of its components had to be (33) and delivering them had to be coordinated with the (34) in the River Thames. On average 350 hours a week",
+      "prompt": "observation wheel ever built its construction involved 1700 people in five countries. Most of its components had to be ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the London Eye originally drew it for a"
     },
     {
       "number": 34,
       "type": "summaryCompletion",
-      "prompt": "be (33) and delivering them had to be coordinated with the (34) in the River Thames. On average 350 hours a week are spent on maintenance of the Eye and only (35) is use",
+      "prompt": "and delivering them had to be coordinated with the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the London Eye originally drew it for a"
     },
     {
       "number": 35,
       "type": "summaryCompletion",
-      "prompt": "Questions 31-35 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the L",
+      "prompt": "in the River Thames. On average 350 hours a week are spent on maintenance of the Eye and only ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The architects who designed the London Eye originally drew it for a"
     },
     {
       "number": 36,
       "type": "diagramLabel",
-      "prompt": "iagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "diagramLabel",
-      "prompt": "m below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "diagramLabel",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "diagramLabel",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "diagramLabel",
-      "prompt": "Questions 36-40 Label the diagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

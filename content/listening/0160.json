@@ -40,211 +40,385 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "conference: Future directions in computing Three day cost: (1) £ Payment by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference roo",
+      "prompt": "Title of conference: Future directions in computing Three day cost: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "re directions in computing Three day cost: (1) £ Payment by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference rooms Guest house •",
+      "prompt": "£ Payment by ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ent by (2) or on arrival Accommodation: Conference centre • (3) £ per night • Near to conference rooms Guest house • (4) £ per night • Approximately (5) walk from confere",
+      "prompt": "or on arrival Accommodation: Conference centre • ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "• (3) £ per night • Near to conference rooms Guest house • (4) £ per night • Approximately (5) walk from conference centre Further documents to be sent: • (6) • An appli",
+      "prompt": "£ per night • Near to conference rooms Guest house • ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "ference rooms Guest house • (4) £ per night • Approximately (5) walk from conference centre Further documents to be sent: • (6) • An application form Location: Conference",
+      "prompt": "£ per night • Approximately ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "walk from conference centre Further documents to be sent: • (6) • An application form Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take",
+      "prompt": "walk from conference centre Further documents to be sent: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "(6) • An application form Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "prompt": "• An application form Location: Conference centre is on ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "orm Location: Conference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "prompt": "Park road next to ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "onference centre is on (7) Park road next to (8) Taxi costs (9) £ or take bus number (10) from station. Part 2:",
+      "prompt": "Taxi costs ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions",
+      "prompt": "£ or take bus number ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Title of conference: Future directions in computing Three day cost:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-13"
+      "prompt": "checking entrance tickets",
+      "groupId": "q11-13",
+      "instructions": "Which team will do each of the following jobs? Choose THREE answers from the box and write the correct letter A-D next to questions 11-13",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the blue team"
+        },
+        {
+          "letter": "B",
+          "text": "the yellow team"
+        },
+        {
+          "letter": "C",
+          "text": "the green team"
+        },
+        {
+          "letter": "D",
+          "text": "the red team"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-13"
+      "prompt": "preparing refreshments",
+      "groupId": "q11-13",
+      "instructions": "Which team will do each of the following jobs? Choose THREE answers from the box and write the correct letter A-D next to questions 11-13",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the blue team"
+        },
+        {
+          "letter": "B",
+          "text": "the yellow team"
+        },
+        {
+          "letter": "C",
+          "text": "the green team"
+        },
+        {
+          "letter": "D",
+          "text": "the red team"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 11-13 Which team will do each of the following jobs? Choose THREE answers from the box and write the correct lett",
-      "groupId": "q11-13"
+      "prompt": "directing car park traffic Teams A the blue team B the yellow team C the green team D the red team",
+      "groupId": "q11-13",
+      "instructions": "Which team will do each of the following jobs? Choose THREE answers from the box and write the correct letter A-D next to questions 11-13",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the blue team"
+        },
+        {
+          "letter": "B",
+          "text": "the yellow team"
+        },
+        {
+          "letter": "C",
+          "text": "the green team"
+        },
+        {
+          "letter": "D",
+          "text": "the red team"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "he table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "ble below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "e NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 14-20 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (14) (15) (16) (17) (18) (19) (20) Pa",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 21,
       "type": "summaryCompletion",
-      "prompt": "on both sites provide internet access and have a variety of (21) materials on education. The Castle Road library has books on sociology together with (22) and other resou",
+      "prompt": "The school of education libraries The libraries on both sites provide internet access and have a variety of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libraries on both sites provide internet access and have a variety of"
     },
     {
       "number": 22,
       "type": "summaryCompletion",
-      "prompt": "he Castle Road library has books on sociology together with (22) and other resources relevant to the majority of (23) school subjects. The Fordham library includes resour",
+      "prompt": "materials on education. The Castle Road library has books on sociology together with ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libraries on both sites provide internet access and have a variety of"
     },
     {
       "number": 23,
       "type": "summaryCompletion",
-      "prompt": "r with (22) and other resources relevant to the majority of (23) school subjects. The Fordham library includes resources for teaching in (24) education and special needs.",
+      "prompt": "and other resources relevant to the majority of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libraries on both sites provide internet access and have a variety of"
     },
     {
       "number": 24,
       "type": "summaryCompletion",
-      "prompt": "cts. The Fordham library includes resources for teaching in (24) education and special needs. Current issues of periodicals are available at both libraries although (25)",
+      "prompt": "school subjects. The Fordham library includes resources for teaching in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libraries on both sites provide internet access and have a variety of"
     },
     {
       "number": 25,
       "type": "summaryCompletion",
-      "prompt": "Questions 21-25 Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libr",
+      "prompt": "education and special needs. Current issues of periodicals are available at both libraries although ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the summary below. Write ONE WORD ONLY for each answer. The school of education libraries The libraries on both sites provide internet access and have a variety of"
     },
     {
       "number": 26,
       "type": "shortAnswer",
-      "prompt": "Questions 26 and 27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER. 26. Which books cannot be rene",
+      "prompt": "Which books cannot be renewed by telephone or email?",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 27,
       "type": "shortAnswer",
-      "prompt": "Questions 26 and 27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER. 26. Which books cannot be renewed by",
+      "prompt": "How much time is allowed to return recalled books?",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Answer the questions below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics do this term’s study skills workshops cover?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "An introduction to the Internet"
+        },
+        {
+          "letter": "B",
+          "text": "How to carry out research for a dissertation"
+        },
+        {
+          "letter": "C",
+          "text": "Making good use of the whole range of library services"
+        },
+        {
+          "letter": "D",
+          "text": "Planning a dissertation"
+        },
+        {
+          "letter": "E",
+          "text": "Standard requirements when writing a dissertation"
+        },
+        {
+          "letter": "F",
+          "text": "Using the Internet when doing research"
+        },
+        {
+          "letter": "G",
+          "text": "What books and technical resources are available in the library Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics do this term’s study skills workshops cover?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "An introduction to the Internet"
+        },
+        {
+          "letter": "B",
+          "text": "How to carry out research for a dissertation"
+        },
+        {
+          "letter": "C",
+          "text": "Making good use of the whole range of library services"
+        },
+        {
+          "letter": "D",
+          "text": "Planning a dissertation"
+        },
+        {
+          "letter": "E",
+          "text": "Standard requirements when writing a dissertation"
+        },
+        {
+          "letter": "F",
+          "text": "Using the Internet when doing research"
+        },
+        {
+          "letter": "G",
+          "text": "What books and technical resources are available in the library Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters, A-G. Which THREE topics do this term’s study skills workshops cover? A An introductio",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters, A-G. Which THREE topics do this term’s study skills workshops cover?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "An introduction to the Internet"
+        },
+        {
+          "letter": "B",
+          "text": "How to carry out research for a dissertation"
+        },
+        {
+          "letter": "C",
+          "text": "Making good use of the whole range of library services"
+        },
+        {
+          "letter": "D",
+          "text": "Planning a dissertation"
+        },
+        {
+          "letter": "E",
+          "text": "Standard requirements when writing a dissertation"
+        },
+        {
+          "letter": "F",
+          "text": "Using the Internet when doing research"
+        },
+        {
+          "letter": "G",
+          "text": "What books and technical resources are available in the library Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-34 Choose the correct letter A, B or C. 31. When did Asiatic lions develop as a separate sub-species?",
+      "stem": "When did Asiatic lions develop as a separate sub-species?",
       "options": [
         {
           "letter": "A",
@@ -259,7 +433,8 @@
           "text": "about 1,000,000 years ago"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -279,7 +454,8 @@
           "text": "India"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -299,7 +475,8 @@
           "text": "1,900 years ago"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
@@ -319,49 +496,56 @@
           "text": "a fold of skin on their stomach"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY 35. The sanctuary has an area of approximately square kilometers 36. One threat to the lions in the sanctuary",
+      "prompt": "The sanctuary has an area of approximately square kilometers",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "he sanctuary has an area of approximately square kilometers 36. One threat to the lions in the sanctuary is 37. The ancestors of the Gir Sanctuary lions were protected by",
+      "prompt": "One threat to the lions in the sanctuary is",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "kilometers 36. One threat to the lions in the sanctuary is 37. The ancestors of the Gir Sanctuary lions were protected by a 38. A large part of lions’ consists of animal",
+      "prompt": "The ancestors of the Gir Sanctuary lions were protected by a",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "he ancestors of the Gir Sanctuary lions were protected by a 38. A large part of lions’ consists of animals belonging to local farmers 39. The lions sometimes especially w",
+      "prompt": "A large part of lions’ consists of animals belonging to local farmers",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "rt of lions’ consists of animals belonging to local farmers 39. The lions sometimes especially when water is short 40. In ancient India a man would fight a lion as a test",
+      "prompt": "The lions sometimes especially when water is short",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 35-40 Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY 35. The sanctuary",
+      "prompt": "In ancient India a man would fight a lion as a test of",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE GIR SANCTUARY"
     }
   ],
   "answerKey": {

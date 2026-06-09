@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue: (1) Invitations (Tony) Who to invite: John and his wife Director The (2) All the teachers All the (3) Date for",
+      "prompt": "GOODBYE PARTY FOR JOHN Venue: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ations (Tony) Who to invite: John and his wife Director The (2) All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5",
+      "prompt": "Invitations (Tony) Who to invite: John and his wife Director The ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "John and his wife Director The (2) All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person",
+      "prompt": "All the teachers All the ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "All the teachers All the (3) Date for sending invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players",
+      "prompt": "Date for sending invitations: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "g invitations: (4) Present (Lisa) Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players (7) Coffee maker Ask guests to bring: snacks",
+      "prompt": "Present (Lisa) Collect money during the: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Collect money during the: (5) Suggested amount per person: (6) Check prices for: CD Players (7) Coffee maker Ask guests to bring: snacks (8) (9) Ask student representati",
+      "prompt": "Suggested amount per person: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ggested amount per person: (6) Check prices for: CD Players (7) Coffee maker Ask guests to bring: snacks (8) (9) Ask student representative to prepare a: (10) Part 2:",
+      "prompt": "Check prices for: CD Players ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "or: CD Players (7) Coffee maker Ask guests to bring: snacks (8) (9) Ask student representative to prepare a: (10) Part 2:",
+      "prompt": "Coffee maker Ask guests to bring: snacks ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "CD Players (7) Coffee maker Ask guests to bring: snacks (8) (9) Ask student representative to prepare a: (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOH",
+      "prompt": "Ask student representative to prepare a: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. GOODBYE PARTY FOR JOHN Venue:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B or C. 11. To find out how much holidays cost, you should press button",
+      "stem": "To find out how much holidays cost, you should press button",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "three"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "outside Europe"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "are for people with good fitness levels"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "extra only if they stay in a large room"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 15,
@@ -205,172 +219,446 @@
           "text": "every night"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "e table below. Write NO MORE THAN THREE WORDS OR A NUMBER . (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER ."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN THREE WORDS OR A NUMBER . (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER ."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "low. Write NO MORE THAN THREE WORDS OR A NUMBER . (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER ."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "Write NO MORE THAN THREE WORDS OR A NUMBER . (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER ."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 16-20 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER . (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER ."
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "he table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "ble below. Write NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "Write NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "e NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Questions 21-26 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30 Experiment 1: ____",
+      "groupId": "q27-30",
+      "instructions": "What problems do the speakers identify for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30 Experiment 1:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too messy"
+        },
+        {
+          "letter": "B",
+          "text": "too boring"
+        },
+        {
+          "letter": "C",
+          "text": "too difficult"
+        },
+        {
+          "letter": "D",
+          "text": "too much equipment"
+        },
+        {
+          "letter": "E",
+          "text": "too long"
+        },
+        {
+          "letter": "F",
+          "text": "too easy"
+        },
+        {
+          "letter": "G",
+          "text": "too noisy"
+        },
+        {
+          "letter": "H",
+          "text": "too dangerous Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "Experiment 2: ____",
+      "groupId": "q27-30",
+      "instructions": "What problems do the speakers identify for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30 Experiment 1:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too messy"
+        },
+        {
+          "letter": "B",
+          "text": "too boring"
+        },
+        {
+          "letter": "C",
+          "text": "too difficult"
+        },
+        {
+          "letter": "D",
+          "text": "too much equipment"
+        },
+        {
+          "letter": "E",
+          "text": "too long"
+        },
+        {
+          "letter": "F",
+          "text": "too easy"
+        },
+        {
+          "letter": "G",
+          "text": "too noisy"
+        },
+        {
+          "letter": "H",
+          "text": "too dangerous Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "Experiment 3: ____",
+      "groupId": "q27-30",
+      "instructions": "What problems do the speakers identify for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30 Experiment 1:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too messy"
+        },
+        {
+          "letter": "B",
+          "text": "too boring"
+        },
+        {
+          "letter": "C",
+          "text": "too difficult"
+        },
+        {
+          "letter": "D",
+          "text": "too much equipment"
+        },
+        {
+          "letter": "E",
+          "text": "too long"
+        },
+        {
+          "letter": "F",
+          "text": "too easy"
+        },
+        {
+          "letter": "G",
+          "text": "too noisy"
+        },
+        {
+          "letter": "H",
+          "text": "too dangerous Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What problems do the speakers identify for each experiment? Choose your answers from the box and write the",
-      "groupId": "q27-30"
+      "prompt": "Experiment 4: (Example) F Experiment 5: ____",
+      "groupId": "q27-30",
+      "instructions": "What problems do the speakers identify for each experiment? Choose your answers from the box and write the letters A-H next to questions 27-30 Experiment 1:",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too messy"
+        },
+        {
+          "letter": "B",
+          "text": "too boring"
+        },
+        {
+          "letter": "C",
+          "text": "too difficult"
+        },
+        {
+          "letter": "D",
+          "text": "too much equipment"
+        },
+        {
+          "letter": "E",
+          "text": "too long"
+        },
+        {
+          "letter": "F",
+          "text": "too easy"
+        },
+        {
+          "letter": "G",
+          "text": "too noisy"
+        },
+        {
+          "letter": "H",
+          "text": "too dangerous Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "IN AUSTRALIA Length largest caught: 16 mts Weight heaviest: (31) kgs Skeleton cartilage Skin texture rough barbs Swimming aide fins and (32) Food gathered from the ocean",
+      "prompt": "SHARKS IN AUSTRALIA Length largest caught: 16 mts Weight heaviest: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. SHARKS IN AUSTRALIA Length largest caught: 16 mts Weight heaviest:"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "n cartilage Skin texture rough barbs Swimming aide fins and (32) Food gathered from the ocean (33) Sharks locate food by using their (34)",
+      "prompt": "kgs Skeleton cartilage Skin texture rough barbs Swimming aide fins and ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. SHARKS IN AUSTRALIA Length largest caught: 16 mts Weight heaviest:"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "bs Swimming aide fins and (32) Food gathered from the ocean (33) Sharks locate food by using their (34)",
+      "prompt": "Food gathered from the ocean ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. SHARKS IN AUSTRALIA Length largest caught: 16 mts Weight heaviest:"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "Questions 31-34 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. SHARKS IN AUSTRALIA Length largest ca",
+      "prompt": "Sharks locate food by using their ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. SHARKS IN AUSTRALIA Length largest caught: 16 mts Weight heaviest:"
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 35-38 35. Shark meshing uses nets laid A along the coastline B at an angle to the beach C from the beach to the sea",
-      "groupId": "q35-38"
+      "prompt": "Shark meshing uses nets laid A along the coastline B at an angle to the beach C from the beach to the sea",
+      "groupId": "q35-38",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "along the coastline"
+        },
+        {
+          "letter": "B",
+          "text": "at an angle to the beach"
+        },
+        {
+          "letter": "C",
+          "text": "from the beach to the sea 36."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "line B at an angle to the beach C from the beach to the sea 36. Other places that have taken up shark meshing include A South Africa B New Zealand C Tahiti 37. The averag",
-      "groupId": "q35-38"
+      "prompt": "Other places that have taken up shark meshing include A South Africa B New Zealand C Tahiti",
+      "groupId": "q35-38",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "along the coastline"
+        },
+        {
+          "letter": "B",
+          "text": "at an angle to the beach"
+        },
+        {
+          "letter": "C",
+          "text": "from the beach to the sea 36."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "shark meshing include A South Africa B New Zealand C Tahiti 37. The average number of sharks caught in nets each year is A 15 B 150 C 1,500 38. Most sharks are caught in",
-      "groupId": "q35-38"
+      "prompt": "The average number of sharks caught in nets each year is A 15 B 150 C 1,500",
+      "groupId": "q35-38",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "along the coastline"
+        },
+        {
+          "letter": "B",
+          "text": "at an angle to the beach"
+        },
+        {
+          "letter": "C",
+          "text": "from the beach to the sea 36."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Questions 35-38 35. Shark meshing uses nets laid A along the coastline B at an angle to the beach C from the beach to the s",
-      "groupId": "q35-38"
+      "prompt": "Most sharks are caught in A spring B summer C winter",
+      "groupId": "q35-38",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "along the coastline"
+        },
+        {
+          "letter": "B",
+          "text": "at an angle to the beach"
+        },
+        {
+          "letter": "C",
+          "text": "from the beach to the sea 36."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Which TWO factors reduce the benefits of shark nets? A nets wrongly positioned B strong waves and cu",
-      "groupId": "q39-40"
+      "prompt": "Question 39",
+      "groupId": "q39-40",
+      "instructions": "40 Which TWO factors reduce the benefits of shark nets?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "nets wrongly positioned"
+        },
+        {
+          "letter": "B",
+          "text": "strong waves and currents"
+        },
+        {
+          "letter": "C",
+          "text": "too many fish"
+        },
+        {
+          "letter": "D",
+          "text": "sharks cat holes in nets"
+        },
+        {
+          "letter": "E",
+          "text": "moving sands"
+        },
+        {
+          "letter": "F",
+          "text": "nets too short"
+        },
+        {
+          "letter": "G",
+          "text": "holes in nets scare sharks"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Which TWO factors reduce the benefits of shark nets? A nets wrongly positioned B strong waves and currents",
-      "groupId": "q39-40"
+      "prompt": "Question 40",
+      "groupId": "q39-40",
+      "instructions": "40 Which TWO factors reduce the benefits of shark nets?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "nets wrongly positioned"
+        },
+        {
+          "letter": "B",
+          "text": "strong waves and currents"
+        },
+        {
+          "letter": "C",
+          "text": "too many fish"
+        },
+        {
+          "letter": "D",
+          "text": "sharks cat holes in nets"
+        },
+        {
+          "letter": "E",
+          "text": "moving sands"
+        },
+        {
+          "letter": "F",
+          "text": "nets too short"
+        },
+        {
+          "letter": "G",
+          "text": "holes in nets scare sharks"
+        }
+      ]
     }
   ],
   "answerKey": {

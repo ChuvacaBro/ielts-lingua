@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-3 Choose the correct letter A, B or C. 1. What is Martin’s occupation?",
+      "stem": "What is Martin’s occupation?",
       "options": [
         {
           "letter": "A",
@@ -55,32 +55,34 @@
           "text": "he is a college student"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
-      "type": "multipleChoice",
-      "stem": "The friends would prefer somewhere with",
-      "options": [
+      "type": "gapFill",
+      "prompt": "The friends would prefer somewhere with A 4 bedrooms B",
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
-          "text": "4 bedrooms"
+          "text": "he works in a car factory"
         },
         {
           "letter": "B",
-          "text": "3 bedrooms"
+          "text": "he works in a bank"
         },
         {
           "letter": "C",
-          "text": "2 bathrooms"
+          "text": "he is a college student 2."
         }
-      ],
-      "groupId": "q1-3"
+      ]
     },
     {
       "number": 3,
       "type": "multipleChoice",
-      "stem": "Phil would rather live in",
+      "stem": "bedrooms C 2 bathrooms 3. Phil would rather live in",
       "options": [
         {
           "letter": "A",
@@ -95,231 +97,334 @@
           "text": "the west suburbs"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "THAN THREE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "N THREE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "REE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 4-10 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (4) (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. The British Library 11. The reading rooms are only open for group visits on 12. The library was officially opened in 13. All the l",
+      "prompt": "The reading rooms are only open for group visits on",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "ary 11. The reading rooms are only open for group visits on 12. The library was officially opened in 13. All the library rooms together cover meter square. 14. The librar",
+      "prompt": "The library was officially opened in",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "or group visits on 12. The library was officially opened in 13. All the library rooms together cover meter square. 14. The library is financed by the 15. The main functio",
+      "prompt": "All the library rooms together cover meter square.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "d in 13. All the library rooms together cover meter square. 14. The library is financed by the 15. The main function of the library is to provide resources for people doi",
+      "prompt": "The library is financed by the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library 11. The r",
+      "prompt": "The main function of the library is to provide resources for people doing",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The British Library"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "plan below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the plan below. Write NO MORE THAN THREE WORDS for each answer. (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "oose the correct answer A. B or C Project on work placement 21. The main aim of Dave’s project is to A describe a policy. B investigate an assumption. C identify a proble",
-      "groupId": "q21-25"
+      "prompt": "The main aim of Dave’s project is to A describe a policy. B investigate an assumption. C identify a problem.",
+      "groupId": "q21-25",
+      "instructions": "Choose the correct answer A. B or C Project on work placement",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "describe a policy."
+        },
+        {
+          "letter": "B",
+          "text": "investigate an assumption."
+        },
+        {
+          "letter": "C",
+          "text": "identify a problem."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "policy. B investigate an assumption. C identify a problem. 22. Dave’s project is based on schemes in A schools. B colleges. C universities. 23. How many academic organis",
-      "groupId": "q21-25"
+      "prompt": "Dave’s project is based on schemes in A schools. B colleges. C universities.",
+      "groupId": "q21-25",
+      "instructions": "Choose the correct answer A. B or C Project on work placement",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "describe a policy."
+        },
+        {
+          "letter": "B",
+          "text": "investigate an assumption."
+        },
+        {
+          "letter": "C",
+          "text": "identify a problem."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "based on schemes in A schools. B colleges. C universities. 23. How many academic organisations returned Dave’s questionnaire? A 15 B 50 C 150 24. Dave wanted his questio",
-      "groupId": "q21-25"
+      "prompt": "How many academic organisations returned Dave’s questionnaire? A 15 B 50 C 150",
+      "groupId": "q21-25",
+      "instructions": "Choose the correct answer A. B or C Project on work placement",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "describe a policy."
+        },
+        {
+          "letter": "B",
+          "text": "investigate an assumption."
+        },
+        {
+          "letter": "C",
+          "text": "identify a problem."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "rganisations returned Dave’s questionnaire? A 15 B 50 C 150 24. Dave wanted his questionnaires to be completed by company A Human Resources Managers. B Line Managers. C o",
-      "groupId": "q21-25"
+      "prompt": "Dave wanted his questionnaires to be completed by company A Human Resources Managers. B Line Managers. C owners.",
+      "groupId": "q21-25",
+      "instructions": "Choose the correct answer A. B or C Project on work placement",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "describe a policy."
+        },
+        {
+          "letter": "B",
+          "text": "investigate an assumption."
+        },
+        {
+          "letter": "C",
+          "text": "identify a problem."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 Choose the correct answer A. B or C Project on work placement 21. The main aim of Dave’s project is to A de",
-      "groupId": "q21-25"
+      "prompt": "Dr Green wants Dave to provide a full list of A respondents. B appendices. C companies.",
+      "groupId": "q21-25",
+      "instructions": "Choose the correct answer A. B or C Project on work placement",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "describe a policy."
+        },
+        {
+          "letter": "B",
+          "text": "investigate an assumption."
+        },
+        {
+          "letter": "C",
+          "text": "identify a problem."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "or each answer. Notes on project Introduction – improve the (26) of ideas – include a (27) of ‘Work Placement’ – have separate sections for literature survey and research",
+      "prompt": "Notes on project Introduction – improve the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – improve the"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "roject Introduction – improve the (26) of ideas – include a (27) of ‘Work Placement’ – have separate sections for literature survey and research (28) and methods Findings",
+      "prompt": "of ideas – include a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – improve the"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "– have separate sections for literature survey and research (28) and methods Findings Preparation stage – add summary (29) development – good Constraints on learning – pr",
+      "prompt": "of ‘Work Placement’ – have separate sections for literature survey and research ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – improve the"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "h (28) and methods Findings Preparation stage – add summary (29) development – good Constraints on learning – provide better links to the (30) from research Part 4:",
+      "prompt": "and methods Findings Preparation stage – add summary ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – improve the"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – imp",
+      "prompt": "development – good Constraints on learning – provide better links to the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction – improve the"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "sm can be defined as having an equal level of communicative (31) in two or more languages. Early research suggested that bilingualism caused problems with (32) and mental",
+      "prompt": "Bilingualism can be defined as having an equal level of communicative ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined as having an equal level of communicative"
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "y research suggested that bilingualism caused problems with (32) and mental development. Early research into bilingualism is now rejected because it did not consider the",
+      "prompt": "in two or more languages. Early research suggested that bilingualism caused problems with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined as having an equal level of communicative"
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "ilingualism is now rejected because it did not consider the (33) backgrounds of the children It is now thought that there is a (34) bilingualism and cognitive skills in c",
+      "prompt": "and mental development. Early research into bilingualism is now rejected because it did not consider the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined as having an equal level of communicative"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "ckgrounds of the children It is now thought that there is a (34) bilingualism and cognitive skills in children. Research done by Ellen Bialystok in Canada now suggests th",
+      "prompt": "backgrounds of the children It is now thought that there is a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined as having an equal level of communicative"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-35 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined a",
+      "prompt": "in children. Research done by Ellen Bialystok in Canada now suggests that the effects of bilingualism also apply to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Bilingualism can be defined as having an equal level of communicative"
     },
     {
       "number": 36,
       "type": "multipleChoice",
-      "stem": "-40 Choose the correct letter A, B or C. 36 In Dr Bialystok’s experiment, the subjects had to react according to",
+      "stem": "In Dr Bialystok’s experiment, the subjects had to react according to",
       "options": [
         {
           "letter": "A",
@@ -331,34 +436,95 @@
         },
         {
           "letter": "C",
-          "text": "the location of the shift key on the keyboard. 37 The experiment demonstrated the ‘Simon effect’ because it involved a conflict between A seeing something and reacting to it. B producing fast and slow reactions. C demonstrating awareness of shape and colour. 38 The experiment shows that, compared with the monolingual subjects, the bilingual subjects A were more intelligent. B had faster reaction times overall. C had more problems with the ‘Simon effect’ 39 The results of the experiment indicate that bilingual people may be better at A doing different types of tasks at the same time. B thinking about several things at once. C focusing only on what is needed to do a task. 40 Dr Bialystok’s first and second experiments both suggest that bilingualism may A slow down the effects of old age on the brain. B lead to mental confusion among old people. C help old people to stay in better physical condition"
+          "text": "the location of the shift key on the keyboard."
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 37"
+      "type": "multipleChoice",
+      "stem": "The experiment demonstrated the ‘Simon effect’ because it involved a conflict between",
+      "options": [
+        {
+          "letter": "A",
+          "text": "seeing something and reacting to it."
+        },
+        {
+          "letter": "B",
+          "text": "producing fast and slow reactions."
+        },
+        {
+          "letter": "C",
+          "text": "demonstrating awareness of shape and colour."
+        }
+      ],
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 38"
+      "type": "multipleChoice",
+      "stem": "The experiment shows that, compared with the monolingual subjects, the bilingual subjects",
+      "options": [
+        {
+          "letter": "A",
+          "text": "were more intelligent."
+        },
+        {
+          "letter": "B",
+          "text": "had faster reaction times overall."
+        },
+        {
+          "letter": "C",
+          "text": "had more problems with the ‘Simon effect’"
+        }
+      ],
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 39"
+      "type": "multipleChoice",
+      "stem": "The results of the experiment indicate that bilingual people may be better at",
+      "options": [
+        {
+          "letter": "A",
+          "text": "doing different types of tasks at the same time."
+        },
+        {
+          "letter": "B",
+          "text": "thinking about several things at once."
+        },
+        {
+          "letter": "C",
+          "text": "focusing only on what is needed to do a task."
+        }
+      ],
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 40"
+      "type": "multipleChoice",
+      "stem": "Dr Bialystok’s first and second experiments both suggest that bilingualism may",
+      "options": [
+        {
+          "letter": "A",
+          "text": "slow down the effects of old age on the brain."
+        },
+        {
+          "letter": "B",
+          "text": "lead to mental confusion among old people."
+        },
+        {
+          "letter": "C",
+          "text": "help old people to stay in better physical condition"
+        }
+      ],
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     }
   ],
   "answerKey": {

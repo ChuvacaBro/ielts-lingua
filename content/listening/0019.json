@@ -40,137 +40,245 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "th club customer research Name: Selina Thompson Occupation: (1) Age group: (2) Type of membership: (3) Length of membership: (4) years Why joined: recommended by a (5) Vi",
+      "prompt": "Health club customer research Name: Selina Thompson Occupation: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "r research Name: Selina Thompson Occupation: (1) Age group: (2) Type of membership: (3) Length of membership: (4) years Why joined: recommended by a (5) Visits to club pe",
+      "prompt": "Age group: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "Thompson Occupation: (1) Age group: (2) Type of membership: (3) Length of membership: (4) years Why joined: recommended by a (5) Visits to club per month: Eight (on avera",
+      "prompt": "Type of membership: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ge group: (2) Type of membership: (3) Length of membership: (4) years Why joined: recommended by a (5) Visits to club per month: Eight (on average) Facility used most: (6",
+      "prompt": "Length of membership: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "ength of membership: (4) years Why joined: recommended by a (5) Visits to club per month: Eight (on average) Facility used most: (6) Facility not used (if any): tennis co",
+      "prompt": "years Why joined: recommended by a ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "s to club per month: Eight (on average) Facility used most: (6) Facility not used (if any): tennis courts (because reluctant to (7) ) Suggestions for improvements: have m",
+      "prompt": "Visits to club per month: Eight (on average) Facility used most: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "lity not used (if any): tennis courts (because reluctant to (7) ) Suggestions for improvements: have more (8) Install (9) in the gym Open (10) later at weekends Part 2:",
+      "prompt": "Facility not used (if any): tennis courts (because reluctant to ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "reluctant to (7) ) Suggestions for improvements: have more (8) Install (9) in the gym Open (10) later at weekends Part 2:",
+      "prompt": "Suggestions for improvements: have more ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "o (7) ) Suggestions for improvements: have more (8) Install (9) in the gym Open (10) later at weekends Part 2:",
+      "prompt": "Install ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer re",
+      "prompt": "in the gym Open ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. Health club customer research Name: Selina Thompson Occupation:"
     },
     {
       "number": 11,
       "type": "flowChartCompletion",
-      "prompt": "Question 11",
-      "groupId": "q11-16"
+      "prompt": "A air B ash C earth D grass E sticks F stones G water Making a steam pit • Dig a pit • Arrange a row of ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 12,
       "type": "flowChartCompletion",
-      "prompt": "Question 12",
-      "groupId": "q11-16"
+      "prompt": "over the pit • Place ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 13,
       "type": "flowChartCompletion",
-      "prompt": "Question 13",
-      "groupId": "q11-16"
+      "prompt": "on top • Light the wood and let it burn out • Remove ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 14,
       "type": "flowChartCompletion",
-      "prompt": "Question 14",
-      "groupId": "q11-16"
+      "prompt": "• Insert a stick • Cover the pit with ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 15,
       "type": "flowChartCompletion",
-      "prompt": "Question 15",
-      "groupId": "q11-16"
+      "prompt": "• Place wrapped food on top and cover it with ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 16,
       "type": "flowChartCompletion",
-      "prompt": "Questions 11-16 Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to",
-      "groupId": "q11-16"
+      "prompt": "• Remove the stick and put ____",
+      "groupId": "q11-16",
+      "instructions": "Complete the flow chart below. Choose SIX answers from the box and write the correct letter A-G next to questions 11-16."
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q17-18"
+      "groupId": "q17-18",
+      "instructions": "Choose TWO letters, A-E. Which TWO characteristics apply to the bamboo oven?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It’s suitable for windy weather."
+        },
+        {
+          "letter": "B",
+          "text": "The fire is lit below the bottom end of the bamboo."
+        },
+        {
+          "letter": "C",
+          "text": "The bamboo is cut into equal lengths."
+        },
+        {
+          "letter": "D",
+          "text": "The oven hangs from a stick."
+        },
+        {
+          "letter": "E",
+          "text": "It cooks food by steaming it."
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17-18 Choose TWO letters, A-E. Which TWO characteristics apply to the bamboo oven? A It’s suitable for windy weat",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "Choose TWO letters, A-E. Which TWO characteristics apply to the bamboo oven?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It’s suitable for windy weather."
+        },
+        {
+          "letter": "B",
+          "text": "The fire is lit below the bottom end of the bamboo."
+        },
+        {
+          "letter": "C",
+          "text": "The bamboo is cut into equal lengths."
+        },
+        {
+          "letter": "D",
+          "text": "The oven hangs from a stick."
+        },
+        {
+          "letter": "E",
+          "text": "It cooks food by steaming it."
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give about eating wild fungi?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cooking doesn’t make poisonous fungi edible."
+        },
+        {
+          "letter": "B",
+          "text": "Edible wild fungi can be eaten without cooking."
+        },
+        {
+          "letter": "C",
+          "text": "Wild fungi are highly nutritious."
+        },
+        {
+          "letter": "D",
+          "text": "Some edible fungi look very similar to poisonous varieties."
+        },
+        {
+          "letter": "E",
+          "text": "Fungi which cannot be identified should only be eaten in small quantities. Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19-20 Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give about eating wild fungi? A Cookin",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "Choose TWO letters, A-E. Which TWO pieces of advice does the speaker give about eating wild fungi?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cooking doesn’t make poisonous fungi edible."
+        },
+        {
+          "letter": "B",
+          "text": "Edible wild fungi can be eaten without cooking."
+        },
+        {
+          "letter": "C",
+          "text": "Wild fungi are highly nutritious."
+        },
+        {
+          "letter": "D",
+          "text": "Some edible fungi look very similar to poisonous varieties."
+        },
+        {
+          "letter": "E",
+          "text": "Fungi which cannot be identified should only be eaten in small quantities. Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter, A, B or C. Research project on attitudes towards study 21. Phoebe’s main reason for choosing her topic was that",
+      "stem": "Phoebe’s main reason for choosing her topic was that",
       "options": [
         {
           "letter": "A",
@@ -185,7 +293,8 @@
           "text": "she had been inspired by a particular book."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Research project on attitudes towards study"
     },
     {
       "number": 22,
@@ -205,7 +314,8 @@
           "text": "levels of pupil confidence."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Research project on attitudes towards study"
     },
     {
       "number": 23,
@@ -225,7 +335,8 @@
           "text": "boys were more talkative than girls in class."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Research project on attitudes towards study"
     },
     {
       "number": 24,
@@ -245,7 +356,8 @@
           "text": "children vary from each other in unpredictable ways."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Research project on attitudes towards study"
     },
     {
       "number": 25,
@@ -265,107 +377,273 @@
           "text": "design her research in such a way as to minimise difficulties."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Research project on attitudes towards study"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "Observing lessons",
+      "groupId": "q26-30",
+      "instructions": "What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from the box and write the correct letter A-G, next to questions 26-30. Difficulties",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Obtaining permission"
+        },
+        {
+          "letter": "B",
+          "text": "Deciding on a suitable focus"
+        },
+        {
+          "letter": "C",
+          "text": "Concentrating while gathering data"
+        },
+        {
+          "letter": "D",
+          "text": "Working collaboratively"
+        },
+        {
+          "letter": "E",
+          "text": "Processing data she had gathered"
+        },
+        {
+          "letter": "F",
+          "text": "Finding a suitable time to conduct the research"
+        },
+        {
+          "letter": "G",
+          "text": "Getting hold of suitable equipment Research techniques 26."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "Interviewing teachers",
+      "groupId": "q26-30",
+      "instructions": "What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from the box and write the correct letter A-G, next to questions 26-30. Difficulties",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Obtaining permission"
+        },
+        {
+          "letter": "B",
+          "text": "Deciding on a suitable focus"
+        },
+        {
+          "letter": "C",
+          "text": "Concentrating while gathering data"
+        },
+        {
+          "letter": "D",
+          "text": "Working collaboratively"
+        },
+        {
+          "letter": "E",
+          "text": "Processing data she had gathered"
+        },
+        {
+          "letter": "F",
+          "text": "Finding a suitable time to conduct the research"
+        },
+        {
+          "letter": "G",
+          "text": "Getting hold of suitable equipment Research techniques 26."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "Interviewing pupils",
+      "groupId": "q26-30",
+      "instructions": "What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from the box and write the correct letter A-G, next to questions 26-30. Difficulties",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Obtaining permission"
+        },
+        {
+          "letter": "B",
+          "text": "Deciding on a suitable focus"
+        },
+        {
+          "letter": "C",
+          "text": "Concentrating while gathering data"
+        },
+        {
+          "letter": "D",
+          "text": "Working collaboratively"
+        },
+        {
+          "letter": "E",
+          "text": "Processing data she had gathered"
+        },
+        {
+          "letter": "F",
+          "text": "Finding a suitable time to conduct the research"
+        },
+        {
+          "letter": "G",
+          "text": "Getting hold of suitable equipment Research techniques 26."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "Using questionnaires",
+      "groupId": "q26-30",
+      "instructions": "What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from the box and write the correct letter A-G, next to questions 26-30. Difficulties",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Obtaining permission"
+        },
+        {
+          "letter": "B",
+          "text": "Deciding on a suitable focus"
+        },
+        {
+          "letter": "C",
+          "text": "Concentrating while gathering data"
+        },
+        {
+          "letter": "D",
+          "text": "Working collaboratively"
+        },
+        {
+          "letter": "E",
+          "text": "Processing data she had gathered"
+        },
+        {
+          "letter": "F",
+          "text": "Finding a suitable time to conduct the research"
+        },
+        {
+          "letter": "G",
+          "text": "Getting hold of suitable equipment Research techniques 26."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from t",
-      "groupId": "q26-30"
+      "prompt": "Taking photographs",
+      "groupId": "q26-30",
+      "instructions": "What did Phoebe find difficult about the different research techniques she used? Choose FIVE answers from the box and write the correct letter A-G, next to questions 26-30. Difficulties",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Obtaining permission"
+        },
+        {
+          "letter": "B",
+          "text": "Deciding on a suitable focus"
+        },
+        {
+          "letter": "C",
+          "text": "Concentrating while gathering data"
+        },
+        {
+          "letter": "D",
+          "text": "Working collaboratively"
+        },
+        {
+          "letter": "E",
+          "text": "Processing data she had gathered"
+        },
+        {
+          "letter": "F",
+          "text": "Finding a suitable time to conduct the research"
+        },
+        {
+          "letter": "G",
+          "text": "Getting hold of suitable equipment Research techniques 26."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "WORDS for each answer. Saving the juniper plant Background 31. Juniper was one of the first plants to colonise Britain after the last 32. Its smoke is virtually so junip",
+      "prompt": "Juniper was one of the first plants to colonise Britain after the last",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "one of the first plants to colonise Britain after the last 32. Its smoke is virtually so juniper wood was used as fuel in illegal activities. 33. Oils from the plant wer",
+      "prompt": "Its smoke is virtually so juniper wood was used as fuel in illegal activities.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "lly so juniper wood was used as fuel in illegal activities. 33. Oils from the plant were used to prevent spreading. 34. Nowadays, its berries are widely used to food and",
+      "prompt": "Oils from the plant were used to prevent spreading.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "es. 33. Oils from the plant were used to prevent spreading. 34. Nowadays, its berries are widely used to food and drink Ecology 35. Juniper plants also support several sp",
+      "prompt": "Nowadays, its berries are widely used to food and drink Ecology",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "days, its berries are widely used to food and drink Ecology 35. Juniper plants also support several species of insects and Problems 36. In current juniper populations, ra",
+      "prompt": "Juniper plants also support several species of insects and Problems",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "plants also support several species of insects and Problems 36. In current juniper populations, ratios of the are poor. 37. Many of the bushes in each group are of the sa",
+      "prompt": "In current juniper populations, ratios of the are poor.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "36. In current juniper populations, ratios of the are poor. 37. Many of the bushes in each group are of the same age so of whole populations is rapid. Solutions 38. Plant",
+      "prompt": "Many of the bushes in each group are of the same age so of whole populations is rapid. Solutions",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "of the same age so of whole populations is rapid. Solutions 38. Plantlife is trialling novel techniques across areas of England. 39. One measure is to introduce for seedl",
+      "prompt": "Plantlife is trialling novel techniques across areas of England.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "life is trialling novel techniques across areas of England. 39. One measure is to introduce for seedlings. 40. A further step is to plant from healthy bushes.",
+      "prompt": "One measure is to introduce for seedlings.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-40 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Backgr",
+      "prompt": "A further step is to plant from healthy bushes.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Saving the juniper plant Background"
     }
   ],
   "answerKey": {

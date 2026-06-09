@@ -40,242 +40,370 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Cu",
-      "groupId": "q1-10"
+      "prompt": "Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ference facilities • the (1) room for talks, (projector and (2) available) • area for coffee and an (3) • free (4) throughout • a standard buffet lunch costs (5) $ per he",
-      "groupId": "q1-10"
+      "prompt": "room for talks, (projector and ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "lks, (projector and (2) available) • area for coffee and an (3) • free (4) throughout • a standard buffet lunch costs (5) $ per head Accommodation • Rooms will cost (6) $",
-      "groupId": "q1-10"
+      "prompt": "available) • area for coffee and an ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ctor and (2) available) • area for coffee and an (3) • free (4) throughout • a standard buffet lunch costs (5) $ per head Accommodation • Rooms will cost (6) $ including",
-      "groupId": "q1-10"
+      "prompt": "• free ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "n (3) • free (4) throughout • a standard buffet lunch costs (5) $ per head Accommodation • Rooms will cost (6) $ including breakfast. Other facilities • The hotel also ha",
-      "groupId": "q1-10"
+      "prompt": "throughout • a standard buffet lunch costs ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "lunch costs (5) $ per head Accommodation • Rooms will cost (6) $ including breakfast. Other facilities • The hotel also has a spa and rooftop (7) • There’s a free shuttl",
-      "groupId": "q1-10"
+      "prompt": "$ per head Accommodation • Rooms will cost ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "st. Other facilities • The hotel also has a spa and rooftop (7) • There’s a free shuttle service to the (8) Location • Wilby Street (quite near the (9) ) • near to restau",
-      "groupId": "q1-10"
+      "prompt": "$ including breakfast. Other facilities • The hotel also has a spa and rooftop ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "spa and rooftop (7) • There’s a free shuttle service to the (8) Location • Wilby Street (quite near the (9) ) • near to restaurants and many (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "• There’s a free shuttle service to the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "service to the (8) Location • Wilby Street (quite near the (9) ) • near to restaurants and many (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "Location • Wilby Street (quite near the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Custom",
-      "groupId": "q1-10"
+      "prompt": "• near to restaurants and many ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Flanders Conference Hotel Customer Services Manager – Angela Date available • weekend beginning February 4th Conference facilities • the"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO activities that volunteers do are mentioned? A decorating B cleani",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO activities that volunteers do are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "decorating"
+        },
+        {
+          "letter": "B",
+          "text": "cleaning"
+        },
+        {
+          "letter": "C",
+          "text": "delivering meals"
+        },
+        {
+          "letter": "D",
+          "text": "shopping"
+        },
+        {
+          "letter": "E",
+          "text": "childcare"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. Which TWO activities that volunteers do are mentioned? A decorating B cleaning C de",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. Which TWO activities that volunteers do are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "decorating"
+        },
+        {
+          "letter": "B",
+          "text": "cleaning"
+        },
+        {
+          "letter": "C",
+          "text": "delivering meals"
+        },
+        {
+          "letter": "D",
+          "text": "shopping"
+        },
+        {
+          "letter": "E",
+          "text": "childcare"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO ways that volunteers can benefit from volunteering are mentioned?",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. Which TWO ways that volunteers can benefit from volunteering are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "learning how to be part of a team"
+        },
+        {
+          "letter": "B",
+          "text": "having a sense of purpose"
+        },
+        {
+          "letter": "C",
+          "text": "realising how lucky they are"
+        },
+        {
+          "letter": "D",
+          "text": "improved ability at time management"
+        },
+        {
+          "letter": "E",
+          "text": "boosting their employment prospects"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters A-E. Which TWO ways that volunteers can benefit from volunteering are mentioned? A learn",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters A-E. Which TWO ways that volunteers can benefit from volunteering are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "learning how to be part of a team"
+        },
+        {
+          "letter": "B",
+          "text": "having a sense of purpose"
+        },
+        {
+          "letter": "C",
+          "text": "realising how lucky they are"
+        },
+        {
+          "letter": "D",
+          "text": "improved ability at time management"
+        },
+        {
+          "letter": "E",
+          "text": "boosting their employment prospects"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 15 – 20 What has each of the following volunteers helped someone to do? Choose SIX answers from the box and wr",
-      "groupId": "q15-20"
+      "prompt": "Question 15",
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 15 – 20 What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write t",
-      "groupId": "q15-20"
+      "prompt": "Question 20",
+      "groupId": "q15-20",
+      "instructions": "What has each of the following volunteers helped someone to do? Choose SIX answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "Questions 21 – 26 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marchin",
-      "groupId": "q21-26"
+      "prompt": "Background on school marching band It consists of around ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "It consists of around (21) students. It is due to play in a (22) band competition. It has been invited to play in the town’s (23) They have listened to a talk by a (24) J",
-      "groupId": "q21-26"
+      "prompt": "students. It is due to play in a ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "band competition. It has been invited to play in the town’s (23) They have listened to a talk by a (24) Joe will discuss a (25) with the band. Joe hopes the band will att",
-      "groupId": "q21-26"
+      "prompt": "band competition. It has been invited to play in the town’s ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "o play in the town’s (23) They have listened to a talk by a (24) Joe will discuss a (25) with the band. Joe hopes the band will attend a (26) next month.",
-      "groupId": "q21-26"
+      "prompt": "They have listened to a talk by a ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": ") They have listened to a talk by a (24) Joe will discuss a (25) with the band. Joe hopes the band will attend a (26) next month.",
-      "groupId": "q21-26"
+      "prompt": "Joe will discuss a ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "Questions 21 – 26 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching ban",
-      "groupId": "q21-26"
+      "prompt": "with the band. Joe hopes the band will attend a ____",
+      "groupId": "q21-26",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Background on school marching band It consists of around"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 – 30 What problem does Joe mention in connection with each of the following band members? Choose FOUR answe",
-      "groupId": "q27-30"
+      "prompt": "Question 27",
+      "groupId": "q27-30",
+      "instructions": "What problem does Joe mention in connection with each of the following band members? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "What problem does Joe mention in connection with each of the following band members? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "What problem does Joe mention in connection with each of the following band members? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27 – 30 What problem does Joe mention in connection with each of the following band members? Choose FOUR answers fr",
-      "groupId": "q27-30"
+      "prompt": "Question 30",
+      "groupId": "q27-30",
+      "instructions": "What problem does Joe mention in connection with each of the following band members? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts f",
-      "groupId": "q31-40"
+      "prompt": "Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "er a lot of commissions • compositions show a great deal of (32) and are drawn from various cultural sources • her music is very expressive and also (33) • festival will",
-      "groupId": "q31-40"
+      "prompt": "• performers and festivals around the world have given her a lot of commissions • compositions show a great deal of ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "us cultural sources • her music is very expressive and also (33) • festival will include her (34) called The Oresteia • Lim described the sounds in The Oresteia as (35) •",
-      "groupId": "q31-40"
+      "prompt": "and are drawn from various cultural sources • her music is very expressive and also ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "s very expressive and also (33) • festival will include her (34) called The Oresteia • Lim described the sounds in The Oresteia as (35) • British composers: Ralph Vaughan",
-      "groupId": "q31-40"
+      "prompt": "• festival will include her ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "The Oresteia • Lim described the sounds in The Oresteia as (35) • British composers: Ralph Vaughan Williams, Frederick Delius Concert 2 • British composers: Benjamin Bri",
-      "groupId": "q31-40"
+      "prompt": "called The Oresteia • Lim described the sounds in The Oresteia as ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "nature • The Tower of Remoteness is performed by piano and (36) • compositions include music for children • celebrates Australia’s cultural (37) Concert 3 • Australian c",
-      "groupId": "q31-40"
+      "prompt": "• festival will include The Tower of Remoteness, inspired by nature • The Tower of Remoteness is performed by piano and ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "nclude music for children • celebrates Australia’s cultural (37) Concert 3 • Australian composer: Carl Vine • played cornet then piano • studied (38) before studying musi",
-      "groupId": "q31-40"
+      "prompt": "• compositions include music for children • celebrates Australia’s cultural ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "an composer: Carl Vine • played cornet then piano • studied (38) before studying music • worked in Sydney as a pianist and composer • became well known as composer of mus",
-      "groupId": "q31-40"
+      "prompt": "Concert 3 • Australian composer: Carl Vine • played cornet then piano • studied ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "t and composer • became well known as composer of music for (39) • festival will include his music for the 1996 (40)",
-      "groupId": "q31-40"
+      "prompt": "before studying music • worked in Sydney as a pianist and composer • became well known as composer of music for ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festiv",
-      "groupId": "q31-40"
+      "prompt": "• festival will include his music for the 1996 ____",
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer Concerts in university arts festival Concert 1 • Australian composer: Liza Lim • studied piano and"
     }
   ],
   "answerKey": {

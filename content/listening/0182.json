@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "plete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "e the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "e notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "w. Write ONE WORD ONLY for each answer. Workshops: • Making (5) food • (children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activit",
+      "prompt": "Workshops: • Making ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "swer. Workshops: • Making (5) food • (children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activities • Swimming in the (8) • Walkin",
+      "prompt": "food • (children only) making ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "(children only) making (6) • (adults only) making toys from (7) using various tools Outdoor activities • Swimming in the (8) • Walking in the woods, led by an expert on (",
+      "prompt": "• (adults only) making toys from ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "7) using various tools Outdoor activities • Swimming in the (8) • Walking in the woods, led by an expert on (9) See the festival organisers’ (10) for more information Par",
+      "prompt": "using various tools Outdoor activities • Swimming in the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "ming in the (8) • Walking in the woods, led by an expert on (9) See the festival organisers’ (10) for more information Part 2:",
+      "prompt": "• Walking in the woods, led by an expert on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 5-10 Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making (5) food • (children onl",
+      "prompt": "See the festival organisers’ ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Workshops: • Making"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B, or C. Minster Park 11. The park was originally established",
+      "stem": "The park was originally established",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "as a shared area set up by the local community"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B, or C. Minster Park"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "she was a senior worker at the park for many years"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B, or C. Minster Park"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "public meetings"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B, or C. Minster Park"
     },
     {
       "number": 14,
@@ -185,173 +198,492 @@
           "text": "2016"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B, or C. Minster Park"
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area",
-      "groupId": "q15-20"
+      "prompt": "statue of Diane Gosforth",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "ons 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
-      "groupId": "q15-20"
+      "prompt": "wooden sculptures",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "p below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
-      "groupId": "q15-20"
+      "prompt": "playground",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "atue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
-      "groupId": "q15-20"
+      "prompt": "maze",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "iane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis courts 20. fitness area Part 3:",
-      "groupId": "q15-20"
+      "prompt": "tennis courts",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 15-20 Label the map below. 15. statue of Diane Gosforth 16. wooden sculptures 17. playground 18. maze 19. tennis",
-      "groupId": "q15-20"
+      "prompt": "fitness area",
+      "groupId": "q15-20",
+      "instructions": "Label the map below."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for? A students",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "students from the English department"
+        },
+        {
+          "letter": "B",
+          "text": "residents of the local area"
+        },
+        {
+          "letter": "C",
+          "text": "the university’s teaching staff"
+        },
+        {
+          "letter": "D",
+          "text": "potential new students"
+        },
+        {
+          "letter": "E",
+          "text": "students from other departments"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for? A students from t",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Which TWO groups of people is the display primarily intended for?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "students from the English department"
+        },
+        {
+          "letter": "B",
+          "text": "residents of the local area"
+        },
+        {
+          "letter": "C",
+          "text": "the university’s teaching staff"
+        },
+        {
+          "letter": "D",
+          "text": "potential new students"
+        },
+        {
+          "letter": "E",
+          "text": "students from other departments"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dic",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dickens?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "his speeches inspired others to try to improve society"
+        },
+        {
+          "letter": "B",
+          "text": "he used his publications to draw attention to social problems"
+        },
+        {
+          "letter": "C",
+          "text": "his novels are well know now"
+        },
+        {
+          "letter": "D",
+          "text": "he was consulted on a number of social issues"
+        },
+        {
+          "letter": "E",
+          "text": "his reputation has changed in recent times"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dickens? A",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letter A-E. What are Cathy and Graham’s TWO reasons for choosing the novelist Charles Dickens?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "his speeches inspired others to try to improve society"
+        },
+        {
+          "letter": "B",
+          "text": "he used his publications to draw attention to social problems"
+        },
+        {
+          "letter": "C",
+          "text": "his novels are well know now"
+        },
+        {
+          "letter": "D",
+          "text": "he was consulted on a number of social issues"
+        },
+        {
+          "letter": "E",
+          "text": "his reputation has changed in recent times"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "law F wealth G medicine H a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Littl",
-      "groupId": "q25-30"
+      "prompt": "The Pickwick Papers",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "H a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
-      "groupId": "q25-30"
+      "prompt": "Oliver Twist",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
-      "groupId": "q25-30"
+      "prompt": "Nicholas Nickleby",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
-      "groupId": "q25-30"
+      "prompt": "Martin Chuzzlewit",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "6. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:",
-      "groupId": "q25-30"
+      "prompt": "Bleak House",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below.",
-      "groupId": "q25-30"
+      "prompt": "Little Dorrit",
+      "groupId": "q25-30",
+      "instructions": "What topic do Cathy and Graham chose to illustrate with each novel? Choose SIX answers from the list below. Topics",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "poverty"
+        },
+        {
+          "letter": "B",
+          "text": "education"
+        },
+        {
+          "letter": "C",
+          "text": "Dicken’s travels"
+        },
+        {
+          "letter": "D",
+          "text": "entertainment"
+        },
+        {
+          "letter": "E",
+          "text": "crime and the law"
+        },
+        {
+          "letter": "F",
+          "text": "wealth"
+        },
+        {
+          "letter": "G",
+          "text": "medicine"
+        },
+        {
+          "letter": "H",
+          "text": "a woman’s life Novels by Dickens 25. The Pickwick Papers 26. Oliver Twist 27. Nicholas Nickleby 28. Martin Chuzzlewit 29. Bleak House 30. Little Dorrit Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "d on the forest to provide charcoal as a source of income • (31) was seen as the main priority to ensure the supply of water • Most of the work organised by farmer’s asso",
+      "prompt": "district near the Limpopo river • People depended on the forest to provide charcoal as a source of income • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "of the work organised by farmer’s associations was done by (32) • Fenced areas were created to keep animals away from crops • The programme provided o (33) for the fence",
+      "prompt": "as the main priority to ensure the supply of water • Most of the work organised by farmer’s associations was done by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "to keep animals away from crops • The programme provided o (33) for the fences o (34) for the suitable crops o Water pumps • The farmers provided o Labour o (35) for the",
+      "prompt": "• Fenced areas were created to keep animals away from crops • The programme provided o ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "from crops • The programme provided o (33) for the fences o (34) for the suitable crops o Water pumps • The farmers provided o Labour o (35) for the fences on their land",
+      "prompt": "for the fences o ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "table crops o Water pumps • The farmers provided o Labour o (35) for the fences on their land Further developments • The marketing of produce was sometimes difficult due",
+      "prompt": "for the suitable crops o Water pumps • The farmers provided o Labour o ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "marketing of produce was sometimes difficult due to lack of (36) • Training was therefore provided in methods of food (37) • Farmers made special places where (38) could",
+      "prompt": "for the fences on their land Further developments • The marketing of produce was sometimes difficult due to lack of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "f (36) • Training was therefore provided in methods of food (37) • Farmers made special places where (38) could be kept • Local people later suggested keeping (39) Evalua",
+      "prompt": "• Training was therefore provided in methods of food ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "in methods of food (37) • Farmers made special places where (38) could be kept • Local people later suggested keeping (39) Evaluation and lessons learned • Agricultural p",
+      "prompt": "• Farmers made special places where ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "e (38) could be kept • Local people later suggested keeping (39) Evaluation and lessons learned • Agricultural production increased improving incomes and food security •",
+      "prompt": "could be kept • Local people later suggested keeping ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the",
+      "prompt": "production increased improving incomes and food security • Enough time must be allowed, particularly for the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Agricultural programme in Mozambique How the programme was organised • It focused on a dry and arid region in Chicualacuala district near the Limpopo river • People depended on the forest to provide charcoal as a source of income •"
     }
   ],
   "answerKey": {

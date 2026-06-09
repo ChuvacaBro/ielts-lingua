@@ -40,277 +40,387 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 1-5 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "RE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "HAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 6-10 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (6) (7) (8) (9) (1",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "shortAnswer",
-      "prompt": "swer. What three kinds of people are listening to the talk? (11) (12) (13) 14. What will you need to do to visit the Fieldhouse Library? 15. What is necessary for gaining",
+      "prompt": "What three kinds of people are listening to the talk? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kinds of people are listening to the talk?"
     },
     {
       "number": 12,
       "type": "shortAnswer",
-      "prompt": "What three kinds of people are listening to the talk? (11) (12) (13) 14. What will you need to do to visit the Fieldhouse Library? 15. What is necessary for gaining acce",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kinds of people are listening to the talk?"
     },
     {
       "number": 13,
       "type": "shortAnswer",
-      "prompt": "three kinds of people are listening to the talk? (11) (12) (13) 14. What will you need to do to visit the Fieldhouse Library? 15. What is necessary for gaining access to",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kinds of people are listening to the talk?"
     },
     {
       "number": 14,
       "type": "shortAnswer",
-      "prompt": "e kinds of people are listening to the talk? (11) (12) (13) 14. What will you need to do to visit the Fieldhouse Library? 15. What is necessary for gaining access to the",
+      "prompt": "What will you need to do to visit the Fieldhouse Library?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kinds of people are listening to the talk?"
     },
     {
       "number": 15,
       "type": "shortAnswer",
-      "prompt": "Questions 11-15 Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kin",
+      "prompt": "What is necessary for gaining access to the library?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. What three kinds of people are listening to the talk?"
     },
     {
       "number": 16,
       "type": "shortAnswer",
-      "prompt": "the two collections which have not yet been fully moved in? (16) (17) 18. What is currently being built? 19. How many computer places have been installed? 20. What else c",
+      "prompt": "What are the two collections which have not yet been fully moved in? ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two collections which have not yet been fully moved in?"
     },
     {
       "number": 17,
       "type": "shortAnswer",
-      "prompt": "wo collections which have not yet been fully moved in? (16) (17) 18. What is currently being built? 19. How many computer places have been installed? 20. What else can yo",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two collections which have not yet been fully moved in?"
     },
     {
       "number": 18,
       "type": "shortAnswer",
-      "prompt": "llections which have not yet been fully moved in? (16) (17) 18. What is currently being built? 19. How many computer places have been installed? 20. What else can you get",
+      "prompt": "What is currently being built?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two collections which have not yet been fully moved in?"
     },
     {
       "number": 19,
       "type": "shortAnswer",
-      "prompt": "ully moved in? (16) (17) 18. What is currently being built? 19. How many computer places have been installed? 20. What else can you get from the librarians if you ask? Pa",
+      "prompt": "How many computer places have been installed?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two collections which have not yet been fully moved in?"
     },
     {
       "number": 20,
       "type": "shortAnswer",
-      "prompt": "Questions 16-20 Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two",
+      "prompt": "What else can you get from the librarians if you ask?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. What are the two collections which have not yet been fully moved in?"
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 21. The name of the assignment is ‘Museums – their 22. The number one problem with local museums is that they",
+      "prompt": "The name of the assignment is ‘Museums – their",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "answer. 21. The name of the assignment is ‘Museums – their 22. The number one problem with local museums is that they are 23. The purpose of the museum shop is to 24. Th",
+      "prompt": "The number one problem with local museums is that they are",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "The number one problem with local museums is that they are 23. The purpose of the museum shop is to 24. The boat was years old. 25. The are dark.",
+      "prompt": "The purpose of the museum shop is to",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "s is that they are 23. The purpose of the museum shop is to 24. The boat was years old. 25. The are dark.",
+      "prompt": "The boat was years old.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-25 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 21. The name",
+      "prompt": "The are dark.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "local history museums",
+      "groupId": "q26-30",
+      "instructions": "How does Tom think the museums should be funded?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "by the state"
+        },
+        {
+          "letter": "B",
+          "text": "by local government"
+        },
+        {
+          "letter": "C",
+          "text": "by private funding Write the correct letter A, B or C next to questions 26-30."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "natural history museums",
+      "groupId": "q26-30",
+      "instructions": "How does Tom think the museums should be funded?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "by the state"
+        },
+        {
+          "letter": "B",
+          "text": "by local government"
+        },
+        {
+          "letter": "C",
+          "text": "by private funding Write the correct letter A, B or C next to questions 26-30."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "science museums",
+      "groupId": "q26-30",
+      "instructions": "How does Tom think the museums should be funded?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "by the state"
+        },
+        {
+          "letter": "B",
+          "text": "by local government"
+        },
+        {
+          "letter": "C",
+          "text": "by private funding Write the correct letter A, B or C next to questions 26-30."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "craft museums",
+      "groupId": "q26-30",
+      "instructions": "How does Tom think the museums should be funded?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "by the state"
+        },
+        {
+          "letter": "B",
+          "text": "by local government"
+        },
+        {
+          "letter": "C",
+          "text": "by private funding Write the correct letter A, B or C next to questions 26-30."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 How does Tom think the museums should be funded? A by the state B by local government C by private funding",
-      "groupId": "q26-30"
+      "prompt": "working farms",
+      "groupId": "q26-30",
+      "instructions": "How does Tom think the museums should be funded?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "by the state"
+        },
+        {
+          "letter": "B",
+          "text": "by local government"
+        },
+        {
+          "letter": "C",
+          "text": "by private funding Write the correct letter A, B or C next to questions 26-30."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 31. Recycling is principally the responsibility of 32. The second stage in the cycle relates to acquiring in g",
+      "prompt": "Recycling is principally the responsibility of",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "answer. 31. Recycling is principally the responsibility of 32. The second stage in the cycle relates to acquiring in general. 33. Harvesting includes cutting down trees",
+      "prompt": "The second stage in the cycle relates to acquiring in general.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "second stage in the cycle relates to acquiring in general. 33. Harvesting includes cutting down trees and 34. Chemical processes create 35. A significant proportion of t",
+      "prompt": "Harvesting includes cutting down trees and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "in general. 33. Harvesting includes cutting down trees and 34. Chemical processes create 35. A significant proportion of the stages in unnecessary.",
+      "prompt": "Chemical processes create",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-35 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 31. Recycling",
+      "prompt": "A significant proportion of the stages in unnecessary.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "flowChartCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "flowChartCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "flowChartCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "flowChartCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "flowChartCompletion",
-      "prompt": "Questions 36-40 Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flowchart below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

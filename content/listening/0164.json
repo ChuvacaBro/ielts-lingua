@@ -40,175 +40,199 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ION Name: Jenny Chan Present address: Sea View Guest House, (1) Daytime phone number: 2237676 [Best lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupati",
+      "prompt": "HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "(1) Daytime phone number: 2237676 [Best lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupation while in UK: student General level of English: (4) Prefe",
+      "prompt": "Daytime phone number: 2237676 [Best lime to contact is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "t lime to contact is (2) ] Age: 19 Intended length of stay: (3) Occupation while in UK: student General level of English: (4) Preferred location: in the (5) Special diet:",
+      "prompt": "] Age: 19 Intended length of stay: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": ") Occupation while in UK: student General level of English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (",
+      "prompt": "Occupation while in UK: student General level of English: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "nt General level of English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (",
+      "prompt": "Preferred location: in the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "f English: (4) Preferred location: in the (5) Special diet: (6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Prefer",
+      "prompt": "Special diet: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "(6) Other requirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "prompt": "Other requirements: • own facilities • own television • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "quirements: • own facilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "prompt": "• to be ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "acilities • own television • (7) • to be (8) Maximum price: (9) £ a week Preferred starting date: (10) Part 2:",
+      "prompt": "Maximum price: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICA",
+      "prompt": "£ a week Preferred starting date: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. HOST FAMILY APPLICATION Name: Jenny Chan Present address: Sea View Guest House,"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "ntences below using NO MORE THAN TWO WORDS for each answer. 11. The next meeting of the soccer club will be in the in King’s Park on 2 July. 12. The first event is a 13.",
+      "prompt": "The next meeting of the soccer club will be in the in King’s Park on 2 July.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "of the soccer club will be in the in King’s Park on 2 July. 12. The first event is a 13. At the final dinner, players receive",
+      "prompt": "The first event is a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-13 Complete the sentences below using NO MORE THAN TWO WORDS for each answer. 11. The next meeting of the socc",
+      "prompt": "At the final dinner, players receive",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "g NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-17"
+      "groupId": "q14-17",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-17"
+      "groupId": "q14-17",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-17"
+      "groupId": "q14-17",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "Questions 14-17 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (14) (15) (16) (17",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-17"
+      "groupId": "q14-17",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "g NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 18-20 Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (18) (19) (20) Par",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "notes below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "w using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "Questions 21-24 Complete the notes below using NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "multipleChoice",
-      "stem": "-27 Choose the correct letter, A, B or C. 25. What does Karin think the company will do?",
+      "stem": "What does Karin think the company will do?",
       "options": [
         {
           "letter": "A",
@@ -223,7 +247,8 @@
           "text": "issue some new shares"
         }
       ],
-      "groupId": "q25-27"
+      "groupId": "q25-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 26,
@@ -243,7 +268,8 @@
           "text": "by closing some of its retail outlets"
         }
       ],
-      "groupId": "q25-27"
+      "groupId": "q25-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 27,
@@ -263,30 +289,112 @@
           "text": "compares different companies."
         }
       ],
-      "groupId": "q25-27"
+      "groupId": "q25-27",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q28-30"
+      "prompt": "Karin",
+      "groupId": "q28-30",
+      "instructions": "Which opinion does each person express about Box Telecom? Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "its workers are motivated"
+        },
+        {
+          "letter": "B",
+          "text": "it has too little investment"
+        },
+        {
+          "letter": "C",
+          "text": "it will overcome its problems"
+        },
+        {
+          "letter": "D",
+          "text": "its marketing campaign needs improvement"
+        },
+        {
+          "letter": "E",
+          "text": "it is old-fashioned"
+        },
+        {
+          "letter": "F",
+          "text": "it has strong managers 28. Karin 29. Jason 30. The tutor Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q28-30"
+      "prompt": "Jason",
+      "groupId": "q28-30",
+      "instructions": "Which opinion does each person express about Box Telecom? Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "its workers are motivated"
+        },
+        {
+          "letter": "B",
+          "text": "it has too little investment"
+        },
+        {
+          "letter": "C",
+          "text": "it will overcome its problems"
+        },
+        {
+          "letter": "D",
+          "text": "its marketing campaign needs improvement"
+        },
+        {
+          "letter": "E",
+          "text": "it is old-fashioned"
+        },
+        {
+          "letter": "F",
+          "text": "it has strong managers 28. Karin 29. Jason 30. The tutor Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Which opinion does each person express about Box Telecom? Choose your answers from the box and write the le",
-      "groupId": "q28-30"
+      "prompt": "The tutor",
+      "groupId": "q28-30",
+      "instructions": "Which opinion does each person express about Box Telecom? Choose your answers from the box and write the letters A-F next to questions 28-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "its workers are motivated"
+        },
+        {
+          "letter": "B",
+          "text": "it has too little investment"
+        },
+        {
+          "letter": "C",
+          "text": "it will overcome its problems"
+        },
+        {
+          "letter": "D",
+          "text": "its marketing campaign needs improvement"
+        },
+        {
+          "letter": "E",
+          "text": "it is old-fashioned"
+        },
+        {
+          "letter": "F",
+          "text": "it has strong managers 28. Karin 29. Jason 30. The tutor Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-36 Choose the correct letter, A, B or C. 31. During the first week of term, students are invited to",
+      "stem": "During the first week of term, students are invited to",
       "options": [
         {
           "letter": "A",
@@ -301,7 +409,8 @@
           "text": "do an intensive course in the computer centre"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 32,
@@ -321,7 +430,8 @@
           "text": "computer access may be limited at times"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 33,
@@ -341,7 +451,8 @@
           "text": "they are more up to date than the reference books"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 34,
@@ -361,7 +472,8 @@
           "text": "the stock of printed articles is to be reduced"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 35,
@@ -381,7 +493,8 @@
           "text": "they can be borrowed for an extended loan period"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 36,
@@ -401,31 +514,92 @@
           "text": "to identify needs and inform section managers"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q37-40"
+      "prompt": "training in specialised computer programs",
+      "groupId": "q37-40",
+      "instructions": "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the postgraduate’s own department or tutor"
+        },
+        {
+          "letter": "B",
+          "text": "library staff"
+        },
+        {
+          "letter": "C",
+          "text": "another section of the university Write the correct letter, A, B or C, next to questions 37-40."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
-      "groupId": "q37-40"
+      "prompt": "advising on bibliography presentation",
+      "groupId": "q37-40",
+      "instructions": "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the postgraduate’s own department or tutor"
+        },
+        {
+          "letter": "B",
+          "text": "library staff"
+        },
+        {
+          "letter": "C",
+          "text": "another section of the university Write the correct letter, A, B or C, next to questions 37-40."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
-      "groupId": "q37-40"
+      "prompt": "checking the draft of the dissertation",
+      "groupId": "q37-40",
+      "instructions": "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the postgraduate’s own department or tutor"
+        },
+        {
+          "letter": "B",
+          "text": "library staff"
+        },
+        {
+          "letter": "C",
+          "text": "another section of the university Write the correct letter, A, B or C, next to questions 37-40."
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Which section of the university will help postgraduate students with their dissertations in the following w",
-      "groupId": "q37-40"
+      "prompt": "providing language support",
+      "groupId": "q37-40",
+      "instructions": "Which section of the university will help postgraduate students with their dissertations in the following ways?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the postgraduate’s own department or tutor"
+        },
+        {
+          "letter": "B",
+          "text": "library staff"
+        },
+        {
+          "letter": "C",
+          "text": "another section of the university Write the correct letter, A, B or C, next to questions 37-40."
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "and 2 Choose the correct letter A, B or C. 1. Where do they plan to travel?",
+      "stem": "Where do they plan to travel?",
       "options": [
         {
           "letter": "A",
@@ -52,10 +52,15 @@
         },
         {
           "letter": "C",
-          "text": "Sydney D the desert"
+          "text": "Sydney"
+        },
+        {
+          "letter": "D",
+          "text": "the desert"
         }
       ],
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -72,21 +77,53 @@
         },
         {
           "letter": "C",
-          "text": "a youth hostel D a holiday house"
+          "text": "a youth hostel"
+        },
+        {
+          "letter": "D",
+          "text": "a holiday house"
         }
       ],
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Choose the correct letter A, B or C."
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "Question 3 Choose THREE letters A-E. 3. What will they take with them? A mosquito net B insect repellent C think coats",
-      "groupId": "q3-3"
+      "prompt": "What will they take with them? A mosquito net B insect repellent C think coats D medicines E binoculars F a camera",
+      "groupId": "q3-3",
+      "instructions": "Choose THREE letters A-E.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "mosquito net"
+        },
+        {
+          "letter": "B",
+          "text": "insect repellent"
+        },
+        {
+          "letter": "C",
+          "text": "think coats"
+        },
+        {
+          "letter": "D",
+          "text": "medicines"
+        },
+        {
+          "letter": "E",
+          "text": "binoculars"
+        },
+        {
+          "letter": "F",
+          "text": "a camera"
+        }
+      ]
     },
     {
       "number": 4,
       "type": "multipleChoice",
-      "stem": "and 5 Choose the correct letter A-D or A-C. 4. How much money do they need for the tour?",
+      "stem": "How much money do they need for the tour?",
       "options": [
         {
           "letter": "A",
@@ -98,10 +135,15 @@
         },
         {
           "letter": "C",
-          "text": "$500 D $300"
+          "text": "$500"
+        },
+        {
+          "letter": "D",
+          "text": "$300"
         }
       ],
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Choose the correct letter A-D or A-C."
     },
     {
       "number": 5,
@@ -121,117 +163,133 @@
           "text": "with the saving card"
         }
       ],
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Choose the correct letter A-D or A-C."
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "ng questions with NO MORE THAN THREE WORDS for each answer. 6. When will they depart for the holiday? 7. Where is the place they are going to stay located? 8. Why do many",
+      "prompt": "When will they depart for the holiday?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Answer the following questions with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "for each answer. 6. When will they depart for the holiday? 7. Where is the place they are going to stay located? 8. Why do many tourists go to this place? Which TWO thin",
+      "prompt": "Where is the place they are going to stay located?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Answer the following questions with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "iday? 7. Where is the place they are going to stay located? 8. Why do many tourists go to this place? Which TWO things in the bushes should they be careful about? (9) (10",
+      "prompt": "Why do many tourists go to this place? Which TWO things in the bushes should they be careful about?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Answer the following questions with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "hich TWO things in the bushes should they be careful about? (9) (10) Part 2:",
+      "prompt": "Why do many tourists go to this place? Which TWO things in the bushes should they be careful about? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Answer the following questions with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Answer the following questions with NO MORE THAN THREE WORDS for each answer. 6. When will they depart for",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Answer the following questions with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "y cafes, Brisbane also offers artistic atmosphere with many (11) and Being established in (12) , Brisbane has become the third biggest city. In 1988, Brisbane held the (1",
+      "prompt": "Facts about Brisbane Besides sunny cafes, Brisbane also offers artistic atmosphere with many ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer. Facts about Brisbane Besides sunny cafes, Brisbane also offers artistic atmosphere with many"
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "artistic atmosphere with many (11) and Being established in (12) , Brisbane has become the third biggest city. In 1988, Brisbane held the (13)",
+      "prompt": "and Being established in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer. Facts about Brisbane Besides sunny cafes, Brisbane also offers artistic atmosphere with many"
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 11-13 Fill in the blanks with NO MORE THAN THREE WORDS for each answer. Facts about Brisbane Besides sunny cafes,",
+      "prompt": "Brisbane has become the third biggest city. In 1988, Brisbane held the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer. Facts about Brisbane Besides sunny cafes, Brisbane also offers artistic atmosphere with many"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "in the table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "e table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 14-16 Fill in the table with NO MORE THAN THREE WORDS for each answer. (14) (15) (16)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "in the table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "e table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "le with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 Fill in the table with NO MORE THAN THREE WORDS for each answer. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Fill in the table with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. What does George have to do next?",
+      "stem": "What does George have to do next?",
       "options": [
         {
           "letter": "A",
@@ -246,7 +304,8 @@
           "text": "make some conclusions"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -266,7 +325,8 @@
           "text": "the history of transportation"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -286,126 +346,144 @@
           "text": "there is no real agreement on the amount of violence"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "summaryCompletion",
-      "prompt": "h answer. Children might see the heroes of violent films as (24) So most people think that violent programs should only be shown after 10 pm. However, there is a (25) who",
+      "prompt": "Children might see the heroes of violent films as ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-26"
+      "groupId": "q24-26",
+      "instructions": "Complete the summary. Write NO MORE THAN THREE WORDS for each answer. Children might see the heroes of violent films as"
     },
     {
       "number": 25,
       "type": "summaryCompletion",
-      "prompt": "grams should only be shown after 10 pm. However, there is a (25) who feel that violent films should be banned. Although new broadcasts are violent, people felt they shoul",
+      "prompt": "So most people think that violent programs should only be shown after 10 pm. However, there is a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-26"
+      "groupId": "q24-26",
+      "instructions": "Complete the summary. Write NO MORE THAN THREE WORDS for each answer. Children might see the heroes of violent films as"
     },
     {
       "number": 26,
       "type": "summaryCompletion",
-      "prompt": "Questions 24-26 Complete the summary. Write NO MORE THAN THREE WORDS for each answer. Children might see the heroes of viol",
+      "prompt": "violent films should be banned. Although new broadcasts are violent, people felt they should not be banned as they are ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-26"
+      "groupId": "q24-26",
+      "instructions": "Complete the summary. Write NO MORE THAN THREE WORDS for each answer. Children might see the heroes of violent films as"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER. 27. How many questionnaires did George get back? 28. Anna says George’s survey does not represent? 29. Where i",
+      "prompt": "How many questionnaires did George get back?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "A NUMBER. 27. How many questionnaires did George get back? 28. Anna says George’s survey does not represent? 29. Where is Anna going to interview her respondents? 30. Wh",
+      "prompt": "Anna says George’s survey does not represent?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "get back? 28. Anna says George’s survey does not represent? 29. Where is Anna going to interview her respondents? 30. What is the best type of questions for a good questi",
+      "prompt": "Where is Anna going to interview her respondents?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER. 27. How many questionnaires did George ge",
+      "prompt": "What is the best type of questions for a good questionnaire?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Write the answer using NO MORE THAN THREE WORDS AND/ OR A NUMBER."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "ach answer. Adventure Classes A particular program: combine (31) and real life exploration Purpose: make students aware of international communication and (32) (33) (34)",
+      "prompt": "Adventure Classes A particular program: combine ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "ose: make students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "and real life exploration Purpose: make students aware of international communication and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "make students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "students aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "nts aware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "ware of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "of international communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ternational communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "tional communication and (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 31-40 Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A parti",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Fill in the summary of the lecture with NO MORE THAN THREE WORDS for each answer. Adventure Classes A particular program: combine"
     }
   ],
   "answerKey": {

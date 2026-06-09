@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-5 Choose the correct letter A, B or C. 1. What is the caller’s surname?",
+      "stem": "What is the caller’s surname?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "Benett"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "white"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "8.30 pm"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
@@ -115,7 +118,8 @@
           "text": "in the glove compartment"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
@@ -135,47 +139,53 @@
           "text": "some forms"
         }
       ],
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "or each answer. Customer first name: Bennett Policy number: (6) Type of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger:",
+      "prompt": "Customer first name: Bennett Policy number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first name: Bennett Policy number:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "irst name: Bennett Policy number: (6) Type of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger: No Other items stolen: Ca",
+      "prompt": "Type of claim: Stolen ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first name: Bennett Policy number:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "of claim: Stolen (7) Place where offence was reported: York (8) Station Customer aware of the danger: No Other items stolen: Card radio, CDs and an old (9) Documents requ",
+      "prompt": "Place where offence was reported: York ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first name: Bennett Policy number:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "e danger: No Other items stolen: Card radio, CDs and an old (9) Documents requested to support claim: Police report and (10) Part 2:",
+      "prompt": "Station Customer aware of the danger: No Other items stolen: Card radio, CDs and an old ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first name: Bennett Policy number:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 6-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first nam",
+      "prompt": "Documents requested to support claim: Police report and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Customer first name: Bennett Policy number:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. 11. How many patients does the hospital consult every year?",
+      "stem": "How many patients does the hospital consult every year?",
       "options": [
         {
           "letter": "A",
@@ -190,7 +200,8 @@
           "text": "11,000"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -210,7 +221,8 @@
           "text": "only on Mondays and Fridays"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -230,7 +242,8 @@
           "text": "Mr. Edwards"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -250,7 +263,8 @@
           "text": "the health care’s pharmacy"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -270,42 +284,48 @@
           "text": "meeting students in group discussion"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Reception",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Mr. Green’s room",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Medical records office",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Surgery room",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write the correct letter A-H next to",
-      "groupId": "q16-20"
+      "prompt": "Manager’s office",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 16-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. 21. The man wants information on course for",
+      "stem": "The man wants information on course for",
       "options": [
         {
           "letter": "A",
@@ -320,7 +340,8 @@
           "text": "business executives"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -340,7 +361,8 @@
           "text": "three days"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -360,7 +382,8 @@
           "text": "clarity"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -380,7 +403,8 @@
           "text": "thoroughly"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -400,16 +424,17 @@
           "text": "develop literacy skills"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "A key component of the course is learning how to",
+      "stem": "Question 26",
       "options": [
         {
           "letter": "A",
-          "text": "use time effectively"
+          "text": "key component of the course is learning how to A use time effectively"
         },
         {
           "letter": "B",
@@ -420,7 +445,8 @@
           "text": "select appropriate materials"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -440,7 +466,8 @@
           "text": "reserve a place in advance"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -460,16 +487,17 @@
           "text": "Monday, Thursday and Friday"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
       "type": "multipleChoice",
-      "stem": "A feature of this course is",
+      "stem": "Question 29",
       "options": [
         {
           "letter": "A",
-          "text": "a physical training component"
+          "text": "feature of this course is A a physical training component"
         },
         {
           "letter": "B",
@@ -480,7 +508,8 @@
           "text": "a detailed weekly planner"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -500,77 +529,228 @@
           "text": "he seeks to revise his skills"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "answer. Public speaking • Public speaking means speaking to (31) people • Lack of confidence usually due to (32) A. Planning • First part of public speaking is (33) • Thi",
+      "prompt": "Public speaking • Public speaking means speaking to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "speaking to (31) people • Lack of confidence usually due to (32) A. Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech",
+      "prompt": "people • Lack of confidence usually due to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "due to (32) A. Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the aud",
+      "prompt": "A. Planning • First part of public speaking is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "ing • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important",
+      "prompt": "• This includes ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "gth of talk • Make speech notes on small cards to talk from (35) with the audience (very important) B. Voice • Speak slowly – this give time for pronunciation and is easi",
+      "prompt": "and length of talk • Make speech notes on small cards to talk from ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "ation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonation: varied tone and rhythm gives (38) C.",
+      "prompt": "B. Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "ce requires (36) speech • Project your voice – rehearse and (37) • Check intonation: varied tone and rhythm gives (38) C. Body language • Lastly think about your (39) and",
+      "prompt": "speech • Project your voice – rehearse and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "e and (37) • Check intonation: varied tone and rhythm gives (38) C. Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, sho",
+      "prompt": "• Check intonation: varied tone and rhythm gives ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "hythm gives (38) C. Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling beca",
+      "prompt": "C. Body language • Lastly think about your ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 31-40 Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public",
+      "prompt": "and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the lecture notes below. Write NO MORE THAN THREE WORDS for each answer. Public speaking • Public speaking means speaking to",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Planning • First part of public speaking is (33) • This includes (34) and length of talk • Make speech notes on small cards to talk from (35) with the audience (very important)"
+        },
+        {
+          "letter": "B",
+          "text": "Voice • Speak slowly – this give time for pronunciation and is easier for audience • Bigger audience requires (36) speech • Project your voice – rehearse and (37) • Check intonatio"
+        },
+        {
+          "letter": "C",
+          "text": "Body language • Lastly think about your (39) and gestures • Show confidence by: head up, chin out, shoulders back • Avoid scratching and fiddling because this (40) and irritates yo"
+        }
+      ]
     }
   ],
   "answerKey": {

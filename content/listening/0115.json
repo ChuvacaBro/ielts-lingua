@@ -40,49 +40,55 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "g is done by sports science students, who are supervised by (1) with more experience. All staff have an enhanced police check and company training. They are also trained",
+      "prompt": "This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "police check and company training. They are also trained in (2) and there is a hospital nearby. Dominic will need warm clothing and changes of clothing in case of bad wea",
+      "prompt": "with more experience. All staff have an enhanced police check and company training. They are also trained in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "bad weather. If weather is bad, everyone will move into the (3) of Wentmount School. Sessions – Morning, afternoon or both. Dominic can do both and make some new friends.",
+      "prompt": "will need warm clothing and changes of clothing in case of bad weather. If weather is bad, everyone will move into the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "up lunches. Group lunches – Basic starter, hot main course, (4) to finish with. Dominic will need his sports equipment that he wants to bring and some (5) for between mea",
+      "prompt": "Food – Give Dominic a packed lunch or he can join the group lunches. Group lunches – Basic starter, hot main course, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "l need his sports equipment that he wants to bring and some (5) for between meals. Timings – Morning session – 9.30 am – 12 midday Afternoon session – 1.30 pm – (6) Child",
+      "prompt": "to finish with. Dominic will need his sports equipment that he wants to bring and some ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sp",
+      "prompt": "for between meals. Timings – Morning session – 9.30 am – 12 midday Afternoon session – 1.30 pm – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dominic’s summer sport camp Dominic can join a group for children between 11 and 13 years. This won’t have children too old for him. The sports coaching is done by sports science students, who are supervised by"
     },
     {
       "number": 7,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 7. Dominic’s favorite sport is",
+      "stem": "Dominic’s favorite sport is",
       "options": [
         {
           "letter": "A",
@@ -97,7 +103,8 @@
           "text": "football"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 8,
@@ -117,7 +124,8 @@
           "text": "Dominic broke his arm during the winter"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 9,
@@ -137,7 +145,8 @@
           "text": "walk home with friends"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -157,212 +166,433 @@
           "text": "within a week"
         }
       ],
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-15"
+      "prompt": "Your bicycle has been stolen",
+      "groupId": "q11-15",
+      "instructions": "Which situation matches each advice? Choose your answer from the list below and write correct letter A-I next to questions 11-15.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cancel your bank cards"
+        },
+        {
+          "letter": "B",
+          "text": "Establish a security routine"
+        },
+        {
+          "letter": "C",
+          "text": "Find a secure storage place for your bank cards"
+        },
+        {
+          "letter": "D",
+          "text": "Go to a nearby shop and explain what has happened"
+        },
+        {
+          "letter": "E",
+          "text": "Make sure a photo and description goes to the police"
+        },
+        {
+          "letter": "F",
+          "text": "Hide behind a nearby car"
+        },
+        {
+          "letter": "G",
+          "text": "Burn them"
+        },
+        {
+          "letter": "H",
+          "text": "Buy a paper shredder"
+        },
+        {
+          "letter": "I",
+          "text": "Search the nearby area"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-15"
+      "prompt": "You are worried that someone is following you",
+      "groupId": "q11-15",
+      "instructions": "Which situation matches each advice? Choose your answer from the list below and write correct letter A-I next to questions 11-15.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cancel your bank cards"
+        },
+        {
+          "letter": "B",
+          "text": "Establish a security routine"
+        },
+        {
+          "letter": "C",
+          "text": "Find a secure storage place for your bank cards"
+        },
+        {
+          "letter": "D",
+          "text": "Go to a nearby shop and explain what has happened"
+        },
+        {
+          "letter": "E",
+          "text": "Make sure a photo and description goes to the police"
+        },
+        {
+          "letter": "F",
+          "text": "Hide behind a nearby car"
+        },
+        {
+          "letter": "G",
+          "text": "Burn them"
+        },
+        {
+          "letter": "H",
+          "text": "Buy a paper shredder"
+        },
+        {
+          "letter": "I",
+          "text": "Search the nearby area"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-15"
+      "prompt": "You have bought a car",
+      "groupId": "q11-15",
+      "instructions": "Which situation matches each advice? Choose your answer from the list below and write correct letter A-I next to questions 11-15.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cancel your bank cards"
+        },
+        {
+          "letter": "B",
+          "text": "Establish a security routine"
+        },
+        {
+          "letter": "C",
+          "text": "Find a secure storage place for your bank cards"
+        },
+        {
+          "letter": "D",
+          "text": "Go to a nearby shop and explain what has happened"
+        },
+        {
+          "letter": "E",
+          "text": "Make sure a photo and description goes to the police"
+        },
+        {
+          "letter": "F",
+          "text": "Hide behind a nearby car"
+        },
+        {
+          "letter": "G",
+          "text": "Burn them"
+        },
+        {
+          "letter": "H",
+          "text": "Buy a paper shredder"
+        },
+        {
+          "letter": "I",
+          "text": "Search the nearby area"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-15"
+      "prompt": "Your house is broken into, but your bank cards are not taken",
+      "groupId": "q11-15",
+      "instructions": "Which situation matches each advice? Choose your answer from the list below and write correct letter A-I next to questions 11-15.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cancel your bank cards"
+        },
+        {
+          "letter": "B",
+          "text": "Establish a security routine"
+        },
+        {
+          "letter": "C",
+          "text": "Find a secure storage place for your bank cards"
+        },
+        {
+          "letter": "D",
+          "text": "Go to a nearby shop and explain what has happened"
+        },
+        {
+          "letter": "E",
+          "text": "Make sure a photo and description goes to the police"
+        },
+        {
+          "letter": "F",
+          "text": "Hide behind a nearby car"
+        },
+        {
+          "letter": "G",
+          "text": "Burn them"
+        },
+        {
+          "letter": "H",
+          "text": "Buy a paper shredder"
+        },
+        {
+          "letter": "I",
+          "text": "Search the nearby area"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 11-15 Which situation matches each advice? Choose your answer from the list below and write correct letter A-I ne",
-      "groupId": "q11-15"
+      "prompt": "You need to throw away some documents that have sensitive information A Cancel your bank cards B Establish a security routine C Find a secure storage place for your bank cards D Go to a nearby shop and explain what has happened E Make sure a photo and description goes to the police F Hide behind a nearby car G Burn them H Buy a paper shredder I Search the nearby area",
+      "groupId": "q11-15",
+      "instructions": "Which situation matches each advice? Choose your answer from the list below and write correct letter A-I next to questions 11-15.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cancel your bank cards"
+        },
+        {
+          "letter": "B",
+          "text": "Establish a security routine"
+        },
+        {
+          "letter": "C",
+          "text": "Find a secure storage place for your bank cards"
+        },
+        {
+          "letter": "D",
+          "text": "Go to a nearby shop and explain what has happened"
+        },
+        {
+          "letter": "E",
+          "text": "Make sure a photo and description goes to the police"
+        },
+        {
+          "letter": "F",
+          "text": "Hide behind a nearby car"
+        },
+        {
+          "letter": "G",
+          "text": "Burn them"
+        },
+        {
+          "letter": "H",
+          "text": "Buy a paper shredder"
+        },
+        {
+          "letter": "I",
+          "text": "Search the nearby area"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 16. is what allows cell phone thieves to succeed. 17. Pickpockets like stealing in busy so be extra aware in t",
+      "prompt": "is what allows cell phone thieves to succeed.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "h answer. 16. is what allows cell phone thieves to succeed. 17. Pickpockets like stealing in busy so be extra aware in these places. 18. People leaving subway stations of",
+      "prompt": "Pickpockets like stealing in busy so be extra aware in these places.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "ts like stealing in busy so be extra aware in these places. 18. People leaving subway stations often have their cell phones stolen when they look to see if they have a 19",
+      "prompt": "People leaving subway stations often have their cell phones stolen when they look to see if they have a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "eir cell phones stolen when they look to see if they have a 19. People should consult their to find out how to switch on the security features available on their cell pho",
+      "prompt": "People should consult their to find out how to switch on the security features available on their cell phones.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 16-20 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 16. is what allows cell phone t",
+      "prompt": "If your cell phone is stolen, the police have to know more than its and color if they are to get it back to you.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "ndustry The Kenyan flower industry is Kenya’s largest after (21) and tea has increased by 31% over the last 5 years. Originally started to contribute to British East Afri",
+      "prompt": "The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": ". Originally started to contribute to British East Africa’s (22) it continued to flourish after independence due to its geographical position and variety of climate condi",
+      "prompt": "and tea has increased by 31% over the last 5 years. Originally started to contribute to British East Africa’s ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "climate conditions. Economic advantages, such as beneficial (23) have kept costs low and good logistics have been set up to service world flower markets. Labour and energ",
+      "prompt": "due to its geographical position and variety of climate conditions. Economic advantages, such as beneficial ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "rkets. Labour and energy costs are also low and there is no (24) on European exports from Kenya. Floriculture is Kenya’s 2nd highest foreign exchange earner and it genera",
+      "prompt": "good logistics have been set up to service world flower markets. Labour and energy costs are also low and there is no ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "Questions 21-25 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Keny",
+      "prompt": "on European exports from Kenya. Floriculture is Kenya’s 2nd highest foreign exchange earner and it generates plenty of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. The Kenyan Flower Industry The Kenyan flower industry is Kenya’s largest after"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "notes below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "s below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 31,
       "type": "flowChartCompletion",
-      "prompt": "chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "flowChartCompletion",
-      "prompt": "t below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "flowChartCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "flowChartCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "flowChartCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "flowChartCompletion",
-      "prompt": "RE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "flowChartCompletion",
-      "prompt": "Questions 31-37 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "diagramLabel",
-      "prompt": "gram below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "diagramLabel",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "diagramLabel",
-      "prompt": "Questions 38-40 Label the diagram below. Write NO MORE THAN THREE WORDS for each answer. (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Label the diagram below. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

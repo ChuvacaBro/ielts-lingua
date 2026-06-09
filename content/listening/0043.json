@@ -40,262 +40,392 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "ble below. Write ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "below. Write ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "w. Write ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "rite ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "Questions 1-7 Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6) (7)",
-      "groupId": "q1-7"
+      "prompt": "____",
+      "groupId": "q1-7",
+      "instructions": "Complete the table below. Write ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 8",
-      "groupId": "q8-10"
+      "prompt": "C being easy to park D fuel efficiency E quick acceleration F good resale potential G smoothly running engine ____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE answers from the list and write correct letter A-G next to questions 8-10. Which THREE features does the owner say make his car worth buying?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lots of registration"
+        },
+        {
+          "letter": "B",
+          "text": "being highly manoeuvrable"
+        },
+        {
+          "letter": "C",
+          "text": "being easy to park"
+        },
+        {
+          "letter": "D",
+          "text": "fuel efficiency"
+        },
+        {
+          "letter": "E",
+          "text": "quick acceleration"
+        },
+        {
+          "letter": "F",
+          "text": "good resale potential"
+        },
+        {
+          "letter": "G",
+          "text": "smoothly running engine (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Question 9",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE answers from the list and write correct letter A-G next to questions 8-10. Which THREE features does the owner say make his car worth buying?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lots of registration"
+        },
+        {
+          "letter": "B",
+          "text": "being highly manoeuvrable"
+        },
+        {
+          "letter": "C",
+          "text": "being easy to park"
+        },
+        {
+          "letter": "D",
+          "text": "fuel efficiency"
+        },
+        {
+          "letter": "E",
+          "text": "quick acceleration"
+        },
+        {
+          "letter": "F",
+          "text": "good resale potential"
+        },
+        {
+          "letter": "G",
+          "text": "smoothly running engine (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Choose THREE answers from the list and write correct letter A-G next to",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE answers from the list and write correct letter A-G next to questions 8-10. Which THREE features does the owner say make his car worth buying?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lots of registration"
+        },
+        {
+          "letter": "B",
+          "text": "being highly manoeuvrable"
+        },
+        {
+          "letter": "C",
+          "text": "being easy to park"
+        },
+        {
+          "letter": "D",
+          "text": "fuel efficiency"
+        },
+        {
+          "letter": "E",
+          "text": "quick acceleration"
+        },
+        {
+          "letter": "F",
+          "text": "good resale potential"
+        },
+        {
+          "letter": "G",
+          "text": "smoothly running engine (8) (9) (10) Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-16"
+      "prompt": "Wilsons",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-16"
+      "prompt": "DVD shop",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-16"
+      "prompt": "Student union office",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-16"
+      "prompt": "Engineering institute",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q11-16"
+      "prompt": "Fitness room",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 Identify the areas on the map. Write correct letter A-J next to",
-      "groupId": "q11-16"
+      "prompt": "Bookshop",
+      "groupId": "q11-16",
+      "instructions": "Identify the areas on the map. Write correct letter A-J next to questions 11-16."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "Yoga club",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "Aerobic dancing",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "Prayer centre",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 Complete the timetable. Write the correct letter A-I next to",
-      "groupId": "q17-20"
+      "prompt": "Chess club",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 21,
       "type": "summaryCompletion",
-      "prompt": "ch answer. The most important part of a presentation is the (21) , thus it is important to use a hook, such as a surprising fact, (22) , or a puzzling problem. The best p",
+      "prompt": "The most important part of a presentation is the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The most important part of a presentation is the"
     },
     {
       "number": 22,
       "type": "summaryCompletion",
-      "prompt": "s it is important to use a hook, such as a surprising fact, (22) , or a puzzling problem. The best presenters treat their audiences as (23) and (24) them in the subject m",
+      "prompt": "thus it is important to use a hook, such as a surprising fact, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The most important part of a presentation is the"
     },
     {
       "number": 23,
       "type": "summaryCompletion",
-      "prompt": "zling problem. The best presenters treat their audiences as (23) and (24) them in the subject matter, which they make interesting.",
+      "prompt": "or a puzzling problem. The best presenters treat their audiences as ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The most important part of a presentation is the"
     },
     {
       "number": 24,
       "type": "summaryCompletion",
-      "prompt": "Questions 21-24 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The most important part of a pres",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. The most important part of a presentation is the"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "the presentation plan. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "resentation plan. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "tation plan. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "n plan. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "n. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 Complete the presentation plan. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the presentation plan. Write ONE WORD only for each answer."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "te the diagram labels. Write ONE WORD ONLY for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the diagram labels. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "e diagram labels. Write ONE WORD ONLY for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the diagram labels. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "gram labels. Write ONE WORD ONLY for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the diagram labels. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "labels. Write ONE WORD ONLY for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the diagram labels. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 31-35 Complete the diagram labels. Write ONE WORD ONLY for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the diagram labels. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "iagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "m below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 36-40 Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-4 Choose the correct letter A, B or C. 1. Which is the first recommended transportation by the man?",
+      "stem": "Which is the first recommended transportation by the man?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "coach"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "too expensive"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "£16"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
@@ -115,192 +118,263 @@
           "text": "too long time"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "r. Shuttle reservation Name: Echo Grey Age: 21 Nationality: (5) Flight number: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Tic",
+      "prompt": "Shuttle reservation Name: Echo Grey Age: 21 Nationality: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "ion Name: Echo Grey Age: 21 Nationality: (5) Flight number: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Ticket: single and (8)",
+      "prompt": "Flight number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "umber: (6) Arrival time: 3.05 pm Heathrow airport terminal: (7) Seat reservation To: Cambridge Ticket: single and (8) Departure time: 16.10 Fare: £18 including (9) Paymen",
+      "prompt": "Arrival time: 3.05 pm Heathrow airport terminal: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "inal: (7) Seat reservation To: Cambridge Ticket: single and (8) Departure time: 16.10 Fare: £18 including (9) Payment: American Express Credit card number: (10) Part 2:",
+      "prompt": "Seat reservation To: Cambridge Ticket: single and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "t: single and (8) Departure time: 16.10 Fare: £18 including (9) Payment: American Express Credit card number: (10) Part 2:",
+      "prompt": "Departure time: 16.10 Fare: £18 including ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 5-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservat",
+      "prompt": "Payment: American Express Credit card number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Shuttle reservation Name: Echo Grey Age: 21 Nationality:"
     },
     {
       "number": 11,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "tableCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "Questions 11-18 Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-18"
+      "groupId": "q11-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre? A child",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "children under 10"
+        },
+        {
+          "letter": "B",
+          "text": "UK residents"
+        },
+        {
+          "letter": "C",
+          "text": "overseas students"
+        },
+        {
+          "letter": "D",
+          "text": "pregnant or retired patients"
+        },
+        {
+          "letter": "E",
+          "text": "people over 70 years old Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre? A children und",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. Which TWO groups of patients get free medication from health centre?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "children under 10"
+        },
+        {
+          "letter": "B",
+          "text": "UK residents"
+        },
+        {
+          "letter": "C",
+          "text": "overseas students"
+        },
+        {
+          "letter": "D",
+          "text": "pregnant or retired patients"
+        },
+        {
+          "letter": "E",
+          "text": "people over 70 years old Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "ER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 21-30 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 31. How many species in oceans are there according to latest search?",
+      "stem": "How many species in oceans are there according to latest search?",
       "options": [
         {
           "letter": "A",
@@ -315,67 +389,143 @@
           "text": "2,300,000"
         }
       ],
-      "groupId": "q31-31"
+      "groupId": "q31-31",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Question 32",
-      "groupId": "q32-34"
+      "prompt": "Crustacean",
+      "groupId": "q32-34",
+      "instructions": "Choose your answer from the box and write the letters A-E next to questions 32-34.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "2%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "20%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        },
+        {
+          "letter": "E",
+          "text": "5% 32. Crustacean 33. Mollusk and fish 34. Species for environmental protection"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Question 33",
-      "groupId": "q32-34"
+      "prompt": "Mollusk and fish",
+      "groupId": "q32-34",
+      "instructions": "Choose your answer from the box and write the letters A-E next to questions 32-34.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "2%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "20%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        },
+        {
+          "letter": "E",
+          "text": "5% 32. Crustacean 33. Mollusk and fish 34. Species for environmental protection"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Questions 32-34 Choose your answer from the box and write the letters A-E next to",
-      "groupId": "q32-34"
+      "prompt": "Species for environmental protection",
+      "groupId": "q32-34",
+      "instructions": "Choose your answer from the box and write the letters A-E next to questions 32-34.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "2%"
+        },
+        {
+          "letter": "B",
+          "text": "10%"
+        },
+        {
+          "letter": "C",
+          "text": "20%"
+        },
+        {
+          "letter": "D",
+          "text": "50%"
+        },
+        {
+          "letter": "E",
+          "text": "5% 32. Crustacean 33. Mollusk and fish 34. Species for environmental protection"
+        }
+      ]
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 35 and 36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main",
+      "prompt": "The main threats to marine life are: • Overfishing • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-36"
+      "groupId": "q35-36",
+      "instructions": "36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main threats to marine life are: • Overfishing •"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "Questions 35 and 36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main threats",
+      "prompt": "• Pollution Contaminations in enclosed area: • Chemicals • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-36"
+      "groupId": "q35-36",
+      "instructions": "36 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. The main threats to marine life are: • Overfishing •"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "BER for each answer. ‘The census of marine life’ indicates: 37. There are over invasive species in the Mediterranean Sea. 38. The area with has a high rate of speciation",
+      "prompt": "There are over invasive species in the Mediterranean Sea.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of marine life’ indicates:"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": ". There are over invasive species in the Mediterranean Sea. 38. The area with has a high rate of speciation 39. The two countries, have the most marine species in the wor",
+      "prompt": "The area with has a high rate of speciation",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of marine life’ indicates:"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ranean Sea. 38. The area with has a high rate of speciation 39. The two countries, have the most marine species in the world. 40. There will be around fish species in the",
+      "prompt": "The two countries, have the most marine species in the world.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of marine life’ indicates:"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 37-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of m",
+      "prompt": "There will be around fish species in the world according to the survey.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. ‘The census of marine life’ indicates:"
     }
   ],
   "answerKey": {

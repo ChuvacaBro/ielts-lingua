@@ -40,63 +40,71 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ers – Customer Booking Form Event: Party Customer name: Mr. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of gu",
+      "prompt": "Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr. ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "ent: Party Customer name: Mr. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Sh",
+      "prompt": "Daytime telephone number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": ") Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "prompt": "Telephone number after 5 pm: As above (if no one answers, ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "prompt": "Number of guests: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "r. (1) Daytime telephone number: (2) Telephone number after 5 pm: As above (if no one answers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number o",
+      "prompt": "Date: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "swers, (3) ) Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "prompt": "Seating Shape: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": ") Number of guests: (4) Date: (5) Seating Shape: (6) Size: (7) Number of tables: (8)",
+      "prompt": "Size: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "Questions 1-8 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Cu",
+      "prompt": "Number of tables: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-8"
+      "groupId": "q1-8",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Five Star Caterers – Customer Booking Form Event: Party Customer name: Mr."
     },
     {
       "number": 9,
       "type": "multipleChoice",
-      "stem": "and 10 Choose the correct letter A, B or C. 9. The man decided to book",
+      "stem": "The man decided to book",
       "options": [
         {
           "letter": "A",
@@ -111,7 +119,8 @@
           "text": "a banquet"
         }
       ],
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -131,139 +140,462 @@
           "text": "£1500 on the day of the party"
         }
       ],
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-17"
+      "prompt": "The East Front was added to the building",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-17"
+      "prompt": "The last big structural change was made",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-17"
+      "prompt": "The building was bombed",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-17"
+      "prompt": "The building became a palace",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q11-17"
+      "prompt": "The building was known as The Queen’s House",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q11-17"
+      "prompt": "The Houses of Parliament were destroyed by fire",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 11-17 According to the speaker, when did the following happen? Write the correct letter A, B or C next to",
-      "groupId": "q11-17"
+      "prompt": "The Marble Arch was moved",
+      "groupId": "q11-17",
+      "instructions": "According to the speaker, when did the following happen? Write the correct letter A, B or C next to questions 11-17.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "before 1837"
+        },
+        {
+          "letter": "B",
+          "text": "between 1837 and 1900"
+        },
+        {
+          "letter": "C",
+          "text": "after 1900 11."
+        }
+      ]
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 18. Up to people attend garden parties at the palace each year. 19. The garden contains more than species of w",
+      "prompt": "Up to people attend garden parties at the palace each year.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "Up to people attend garden parties at the palace each year. 19. The garden contains more than species of wild flower. 20. The public can visit the nineteen in August or S",
+      "prompt": "The garden contains more than species of wild flower.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 18. Up to peop",
+      "prompt": "The public can visit the nineteen in August or September",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "shortAnswer",
-      "prompt": "ions below. Write NO MORE THAN THREE WORDS for each answer. 21. What aspect of history is it important to learn something from? 22. What do we also need to know about our",
+      "prompt": "What aspect of history is it important to learn something from?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "shortAnswer",
-      "prompt": "aspect of history is it important to learn something from? 22. What do we also need to know about our ancestors? 23. Where are transferable skills useful? 24. What kind",
+      "prompt": "What do we also need to know about our ancestors?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "shortAnswer",
-      "prompt": "from? 22. What do we also need to know about our ancestors? 23. Where are transferable skills useful? 24. What kind of approach to learning does social science use?",
+      "prompt": "Where are transferable skills useful?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "shortAnswer",
-      "prompt": "Questions 21-24 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer. 21. What aspect of history is i",
+      "prompt": "What kind of approach to learning does social science use?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q25-30"
+      "prompt": "Anthropology",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q25-30"
+      "prompt": "Economics",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q25-30"
+      "prompt": "Education",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q25-30"
+      "prompt": "Geography",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q25-30"
+      "prompt": "Law",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What is said each of these subjects studied on a social studies course? Choose your answers from the list b",
-      "groupId": "q25-30"
+      "prompt": "Sociology and social work",
+      "groupId": "q25-30",
+      "instructions": "What is said each of these subjects studied on a social studies course? Choose your answers from the list below and write the letters A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This will focus on how each generation learns about its own culture"
+        },
+        {
+          "letter": "B",
+          "text": "This necessarily includes a study of physics and chemistry"
+        },
+        {
+          "letter": "C",
+          "text": "This is studied from the point of view of human behavior"
+        },
+        {
+          "letter": "D",
+          "text": "This will only be covered in terms of its theory"
+        },
+        {
+          "letter": "E",
+          "text": "This also covers the distribution of wealth"
+        },
+        {
+          "letter": "F",
+          "text": "This includes the study of archaeology"
+        },
+        {
+          "letter": "G",
+          "text": "This has received criticism for not being scientific enough"
+        },
+        {
+          "letter": "H",
+          "text": "This includes some work on urban planning 25. Anthropology 26. Economics 27. Education 28. Geography 29. Law 30. Sociology and social work Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-37 Choose the correct letter A, B or C. 31. Students should complete their work on the 1950s",
+      "stem": "Students should complete their work on the 1950s",
       "options": [
         {
           "letter": "A",
@@ -278,7 +610,8 @@
           "text": "otherwise they face the possibility of being failed for their coursework"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -298,7 +631,8 @@
           "text": "because people felt more secure"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -318,7 +652,8 @@
           "text": "adults"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
@@ -338,7 +673,8 @@
           "text": "just as conservative"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 35,
@@ -358,7 +694,8 @@
           "text": "felt about their roles in society"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 36,
@@ -378,7 +715,8 @@
           "text": "was 9 times lower than in the fifties"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 37,
@@ -398,28 +736,32 @@
           "text": "the invention of lasers"
         }
       ],
-      "groupId": "q31-37"
+      "groupId": "q31-37",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "October, 1962, US President Kennedy met advisers to discuss (38) which proved that the Cubans were installing nuclear missiles, presumably to use against the US. Kennedy",
+      "prompt": "In October, 1962, US President Kennedy met advisers to discuss ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In October, 1962, US President Kennedy met advisers to discuss"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "further weapons into Cuba; or to attack Cuba. Kennedy chose (39) option, which prevented the build up of more missiles and led to the withdrawal of the existing ones. Mos",
+      "prompt": "resolve the crisis diplomatically; to block the delivery of further weapons into Cuba; or to attack Cuba. Kennedy chose ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In October, 1962, US President Kennedy met advisers to discuss"
     },
     {
       "number": 40,
       "type": "summaryCompletion",
-      "prompt": "Questions 38-40 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In October, 1962, US President Ke",
+      "prompt": "which prevented the build up of more missiles and led to the withdrawal of the existing ones. Most are agreed that a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. In October, 1962, US President Kennedy met advisers to discuss"
     }
   ],
   "answerKey": {

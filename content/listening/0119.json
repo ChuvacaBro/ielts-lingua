@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-3 Choose the correct letter A, B or C. 1. How many bottles of wine do you have to buy to get one free?",
+      "stem": "How many bottles of wine do you have to buy to get one free?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "four"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "Spanish"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 3,
@@ -95,61 +97,69 @@
           "text": "£25"
         }
       ],
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "aurant Sam’s suggestions: Would go best with the Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th",
+      "prompt": "Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Sam’s suggestions: Would go best with the Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August",
+      "prompt": "• ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Lasagna: • (4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August • Date when customers will be at the resta",
+      "prompt": "Other side dishes that Sam mentions: • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "(4) • (5) Other side dishes that Sam mentions: • (6) with • (7) with Customer details • Booking made on – 5th August • Date when customers will be at the restaurant – (8)",
+      "prompt": "with • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "th August • Date when customers will be at the restaurant – (8) • Time – 7 pm • Number of people – (9) • Email address – (10) .com • Customer phone number – 014453336451",
+      "prompt": "with Customer details • Booking made on – 5th August • Date when customers will be at the restaurant – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "at the restaurant – (8) • Time – 7 pm • Number of people – (9) • Email address – (10) .com • Customer phone number – 014453336451 • Customer willing to have emails sent",
+      "prompt": "• Time – 7 pm • Number of people – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 4-10 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restau",
+      "prompt": "• Email address – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q4-10"
+      "groupId": "q4-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Belluci’s Restaurant Sam’s suggestions: Would go best with the Lasagna: •"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "and 12 Choose the correct letter A, B or C. 11. How did the players hit the ball when the game first launched in the 12th century?",
+      "stem": "How did the players hit the ball when the game first launched in the 12th century?",
       "options": [
         {
           "letter": "A",
@@ -164,7 +174,8 @@
           "text": "with their bare hand"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -184,200 +195,319 @@
           "text": "everyday people"
         }
       ],
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Choose the correct letter A, B or C."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "OR A NUMBER for each answer. (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 13-20 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (13) (14) (15) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-20"
+      "groupId": "q13-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Questions 21-27 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25) (26) (27",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-27"
+      "groupId": "q21-27",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "aster do the students have to follow during the conference? (28) (29) (30) A make sure they tidy up the hall and rooms after the conference B provide cleaners for the con",
-      "groupId": "q28-30"
+      "prompt": "What THREE rules given to them by the headmaster do the students have to follow during the conference? ____",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE rules given to them by the headmaster do the students have to follow during the conference?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "make sure they tidy up the hall and rooms after the conference"
+        },
+        {
+          "letter": "B",
+          "text": "provide cleaners for the conference"
+        },
+        {
+          "letter": "C",
+          "text": "provide lunch for the speakers"
+        },
+        {
+          "letter": "D",
+          "text": "make a record of what each student at the conference wants to study at University"
+        },
+        {
+          "letter": "E",
+          "text": "make a record of what each student at the conference is studying now"
+        },
+        {
+          "letter": "F",
+          "text": "make a record of all the students who attend the conference"
+        },
+        {
+          "letter": "G",
+          "text": "help organize the travel arrangements for the speakers Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "do the students have to follow during the conference? (28) (29) (30) A make sure they tidy up the hall and rooms after the conference B provide cleaners for the conferen",
-      "groupId": "q28-30"
+      "prompt": "____",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE rules given to them by the headmaster do the students have to follow during the conference?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "make sure they tidy up the hall and rooms after the conference"
+        },
+        {
+          "letter": "B",
+          "text": "provide cleaners for the conference"
+        },
+        {
+          "letter": "C",
+          "text": "provide lunch for the speakers"
+        },
+        {
+          "letter": "D",
+          "text": "make a record of what each student at the conference wants to study at University"
+        },
+        {
+          "letter": "E",
+          "text": "make a record of what each student at the conference is studying now"
+        },
+        {
+          "letter": "F",
+          "text": "make a record of all the students who attend the conference"
+        },
+        {
+          "letter": "G",
+          "text": "help organize the travel arrangements for the speakers Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters A-G. What THREE rules given to them by the headmaster do the students have to follow d",
-      "groupId": "q28-30"
+      "prompt": "____",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-G. What THREE rules given to them by the headmaster do the students have to follow during the conference?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "make sure they tidy up the hall and rooms after the conference"
+        },
+        {
+          "letter": "B",
+          "text": "provide cleaners for the conference"
+        },
+        {
+          "letter": "C",
+          "text": "provide lunch for the speakers"
+        },
+        {
+          "letter": "D",
+          "text": "make a record of what each student at the conference wants to study at University"
+        },
+        {
+          "letter": "E",
+          "text": "make a record of what each student at the conference is studying now"
+        },
+        {
+          "letter": "F",
+          "text": "make a record of all the students who attend the conference"
+        },
+        {
+          "letter": "G",
+          "text": "help organize the travel arrangements for the speakers Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "er. To calculate your Body Mass Index you should first take (31) in kilograms and divide it by your height in meters. Healthy diets • It is important to eat starchy foods",
+      "prompt": "To calculate your Body Mass Index you should first take ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "rchy foods with fruit and vegetables • There are people who (32) that starchy foods are fattening • Eat a minimum of (33) of fruit and vegetables a day • People tend to e",
+      "prompt": "height in meters. Healthy diets • It is important to eat starchy foods with fruit and vegetables • There are people who ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ho (32) that starchy foods are fattening • Eat a minimum of (33) of fruit and vegetables a day • People tend to eat too much (34) and you only need a certain amount to ke",
+      "prompt": "that starchy foods are fattening • Eat a minimum of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "of fruit and vegetables a day • People tend to eat too much (34) and you only need a certain amount to keep healthy • People say that (35) can help protect against heart",
+      "prompt": "of fruit and vegetables a day • People tend to eat too much ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "nly need a certain amount to keep healthy • People say that (35) can help protect against heart disease • Exercise is good for us because: o It strengthens the heart o It",
+      "prompt": "and you only need a certain amount to keep healthy • People say that ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "d for us because: o It strengthens the heart o It tones our (36) o It is good for the mind • We do less exercise because we have domestic (37) to do things for us • Adult",
+      "prompt": "can help protect against heart disease • Exercise is good for us because: o It strengthens the heart o It tones our ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "for the mind • We do less exercise because we have domestic (37) to do things for us • Adults should do at least (38) moderate intensity physical activity five days a wee",
+      "prompt": "o It is good for the mind • We do less exercise because we have domestic ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "mestic (37) to do things for us • Adults should do at least (38) moderate intensity physical activity five days a week • A physical activity can be: o A lifestyle activit",
+      "prompt": "to do things for us • Adults should do at least ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ek • A physical activity can be: o A lifestyle activity o A (39) activity o Sports • Activities that produce (40) on the bones are necessary",
+      "prompt": "moderate intensity physical activity five days a week • A physical activity can be: o A lifestyle activity o A ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index",
+      "prompt": "activity o Sports • Activities that produce ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. To calculate your Body Mass Index you should first take"
     }
   ],
   "answerKey": {

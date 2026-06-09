@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "for each answer. Age of car: just under 13 years old Color: (1) Mileage: (2) Previous owner was a (3) Current owner has used car mainly for (4) Price: may accept offers f",
+      "prompt": "Age of car: just under 13 years old Color: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "er. Age of car: just under 13 years old Color: (1) Mileage: (2) Previous owner was a (3) Current owner has used car mainly for (4) Price: may accept offers from (5) £ (No",
+      "prompt": "Mileage: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "r 13 years old Color: (1) Mileage: (2) Previous owner was a (3) Current owner has used car mainly for (4) Price: may accept offers from (5) £ (Note: (6) not due for 5 mon",
+      "prompt": "Previous owner was a ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "vious owner was a (3) Current owner has used car mainly for (4) Price: may accept offers from (5) £ (Note: (6) not due for 5 months) Condition: good (recently serviced) W",
+      "prompt": "Current owner has used car mainly for ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "r has used car mainly for (4) Price: may accept offers from (5) £ (Note: (6) not due for 5 months) Condition: good (recently serviced) Will need a new (7) soon Minor prob",
+      "prompt": "Price: may accept offers from ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "r mainly for (4) Price: may accept offers from (5) £ (Note: (6) not due for 5 months) Condition: good (recently serviced) Will need a new (7) soon Minor problem with a (8",
+      "prompt": "£ (Note: ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "months) Condition: good (recently serviced) Will need a new (7) soon Minor problem with a (8) Viewing Agreed to view the car on (9) am Address: 238, (10) road Part 2:",
+      "prompt": "not due for 5 months) Condition: good (recently serviced) Will need a new ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "tly serviced) Will need a new (7) soon Minor problem with a (8) Viewing Agreed to view the car on (9) am Address: 238, (10) road Part 2:",
+      "prompt": "soon Minor problem with a ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "Minor problem with a (8) Viewing Agreed to view the car on (9) am Address: 238, (10) road Part 2:",
+      "prompt": "Viewing Agreed to view the car on ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old",
+      "prompt": "am Address: 238, ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Age of car: just under 13 years old Color:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. The Treloar Valley passenger ferry",
+      "stem": "The Treloar Valley passenger ferry",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "is the main means of transport for local villagers"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "the return journey takes up to four hours"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "bookings can be made by telephone or the internet"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,48 +198,55 @@
           "text": "has recently gone down in price"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q15-20"
+      "prompt": "Bus stop",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q15-20"
+      "prompt": "Car park",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q15-20"
+      "prompt": "Museum",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q15-20"
+      "prompt": "Mill",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q15-20"
+      "prompt": "Potter’s studio",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 15-20 Look at the map below and write the correct letter A-H next to",
-      "groupId": "q15-20"
+      "prompt": "Café",
+      "groupId": "q15-20",
+      "instructions": "Look at the map below and write the correct letter A-H next to questions 15-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter A, B or C. Advice on writing a dissertation 21. What does Howard say about the experience of writing his dissertation?",
+      "stem": "What does Howard say about the experience of writing his dissertation?",
       "options": [
         {
           "letter": "A",
@@ -241,7 +261,8 @@
           "text": "it helped him understand previous course work"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Advice on writing a dissertation"
     },
     {
       "number": 22,
@@ -261,7 +282,8 @@
           "text": "writing too much"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Advice on writing a dissertation"
     },
     {
       "number": 23,
@@ -281,7 +303,8 @@
           "text": "taking such a long time to read each book"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Advice on writing a dissertation"
     },
     {
       "number": 24,
@@ -301,113 +324,262 @@
           "text": "reading a controversial journal article"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Advice on writing a dissertation"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO things does Howard advise Joanne to do in the first month of tutori",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO things does Howard advise Joanne to do in the first month of tutorials?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "see her tutor every week"
+        },
+        {
+          "letter": "B",
+          "text": "review all the module booklists"
+        },
+        {
+          "letter": "C",
+          "text": "buy all the key books"
+        },
+        {
+          "letter": "D",
+          "text": "write full references for everything she reads"
+        },
+        {
+          "letter": "E",
+          "text": "write a draft of the first chapter"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO things does Howard advise Joanne to do in the first month of tutorials? A",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO things does Howard advise Joanne to do in the first month of tutorials?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "see her tutor every week"
+        },
+        {
+          "letter": "B",
+          "text": "review all the module booklists"
+        },
+        {
+          "letter": "C",
+          "text": "buy all the key books"
+        },
+        {
+          "letter": "D",
+          "text": "write full references for everything she reads"
+        },
+        {
+          "letter": "E",
+          "text": "write a draft of the first chapter"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. What TWO things does Howard say about library provision? A staff are particu",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. What TWO things does Howard say about library provision?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "staff are particularly helpful to undergraduates"
+        },
+        {
+          "letter": "B",
+          "text": "inter-library loans are very reliable"
+        },
+        {
+          "letter": "C",
+          "text": "students can borrow extra books when writing a dissertation"
+        },
+        {
+          "letter": "D",
+          "text": "staff recommend relevant old dissertations"
+        },
+        {
+          "letter": "E",
+          "text": "it is difficult to access electronic resources"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. What TWO things does Howard say about library provision? A staff are particularly h",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. What TWO things does Howard say about library provision?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "staff are particularly helpful to undergraduates"
+        },
+        {
+          "letter": "B",
+          "text": "inter-library loans are very reliable"
+        },
+        {
+          "letter": "C",
+          "text": "students can borrow extra books when writing a dissertation"
+        },
+        {
+          "letter": "D",
+          "text": "staff recommend relevant old dissertations"
+        },
+        {
+          "letter": "E",
+          "text": "it is difficult to access electronic resources"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. What TWO things does Joanne agree to discuss with her tutor? A the best ways",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. What TWO things does Joanne agree to discuss with her tutor?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the best ways to collaborate with other students"
+        },
+        {
+          "letter": "B",
+          "text": "who to get help from during college vacations"
+        },
+        {
+          "letter": "C",
+          "text": "the best way to present the research"
+        },
+        {
+          "letter": "D",
+          "text": "whether she can use web sources"
+        },
+        {
+          "letter": "E",
+          "text": "how to manage her study time Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. What TWO things does Joanne agree to discuss with her tutor? A the best ways to col",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. What TWO things does Joanne agree to discuss with her tutor?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the best ways to collaborate with other students"
+        },
+        {
+          "letter": "B",
+          "text": "who to get help from during college vacations"
+        },
+        {
+          "letter": "C",
+          "text": "the best way to present the research"
+        },
+        {
+          "letter": "D",
+          "text": "whether she can use web sources"
+        },
+        {
+          "letter": "E",
+          "text": "how to manage her study time Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "flowChartCompletion",
-      "prompt": "chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "flowChartCompletion",
-      "prompt": "t below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "flowChartCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "flowChartCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "flowChartCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "flowChartCompletion",
-      "prompt": "RE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "flowChartCompletion",
-      "prompt": "AN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "flowChartCompletion",
-      "prompt": "O WORDS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "flowChartCompletion",
-      "prompt": "DS for each answer. (31) (32) (33) (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "flowChartCompletion",
-      "prompt": "Questions 31-40 Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the flow chart below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

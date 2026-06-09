@@ -21,7 +21,9 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
 
   const [answers, setAnswers] = useState<Record<string, AnswerValue>>({});
   const [flags, setFlags] = useState<Set<number>>(new Set());
-  const [current, setCurrent] = useState<number>(test.questions[0]?.number ?? 1);
+  const [current, setCurrent] = useState<number>(
+    test.questions[0]?.number ?? 1,
+  );
   const [submitted, setSubmitted] = useState(false);
   const [audioEnded, setAudioEnded] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
@@ -44,7 +46,10 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
   });
 
   useEffect(() => {
-    Attempts.saveAnswers(attemptId, answers as Record<string, string | string[]>);
+    Attempts.saveAnswers(
+      attemptId,
+      answers as Record<string, string | string[]>,
+    );
   }, [answers, attemptId]);
 
   useEffect(() => {
@@ -59,9 +64,7 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
 
   // pick best audio source: local file if exists else remote URL
   const audioSrc =
-    (test.localAudioPath && test.localAudioPath) ||
-    test.audioUrl ||
-    "";
+    (test.localAudioPath && test.localAudioPath) || test.audioUrl || "";
 
   function doSubmit() {
     if (submitted) return;
@@ -113,7 +116,8 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
           <div className="border border-red-300 bg-red-50 p-3 text-sm">
             No audio attached to this test. Either run{" "}
             <code className="font-mono">npm run fetch:audio</code> or place an
-            MP3 at <code className="font-mono">public/audio/{test.id}.mp3</code>.
+            MP3 at <code className="font-mono">public/audio/{test.id}.mp3</code>
+            .
           </div>
         )}
       </div>
@@ -121,7 +125,8 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
         {test.parts.map((p) => (
           <div key={p.number} className="mb-6">
             <h3 className="font-semibold mb-2">
-              Part {p.number} — Questions {p.questionRange[0]}–{p.questionRange[1]}
+              Part {p.number} — Questions {p.questionRange[0]}–
+              {p.questionRange[1]}
             </h3>
             {p.imageUrl && (
               <ImageWithLoader
@@ -133,21 +138,55 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
             {test.questions
               .filter(
                 (q) =>
-                  q.number >= p.questionRange[0] && q.number <= p.questionRange[1],
+                  q.number >= p.questionRange[0] &&
+                  q.number <= p.questionRange[1],
               )
-              .map((q) => (
-                <div
-                  key={q.number}
-                  id={`q-${q.number}`}
-                  onFocus={() => setCurrent(q.number)}
-                >
-                  <QuestionView
-                    q={q}
-                    value={answers[q.number]}
-                    onChange={(v) => setAnswers((a) => ({ ...a, [q.number]: v }))}
-                  />
-                </div>
-              ))}
+              .map((q, idx, arr) => {
+                const groupStart =
+                  idx === 0 || arr[idx - 1].groupId !== q.groupId;
+                const instructions = (q as { instructions?: string })
+                  .instructions;
+                const bank = (
+                  q as { bank?: { letter: string; text: string }[] }
+                ).bank;
+                return (
+                  <div key={q.number}>
+                    {groupStart && (instructions || bank) && (
+                      <div className="mb-2 mt-4 border-l-2 border-exam-accent bg-gray-50 px-3 py-2">
+                        {instructions && (
+                          <p className="text-sm font-medium text-gray-800">
+                            {instructions}
+                          </p>
+                        )}
+                        {bank && (
+                          <ul className="mt-1 text-sm text-gray-700 space-y-0.5">
+                            {bank.map((o) => (
+                              <li key={o.letter}>
+                                <span className="font-mono font-semibold mr-1">
+                                  {o.letter}
+                                </span>
+                                {o.text}
+                              </li>
+                            ))}
+                          </ul>
+                        )}
+                      </div>
+                    )}
+                    <div
+                      id={`q-${q.number}`}
+                      onFocus={() => setCurrent(q.number)}
+                    >
+                      <QuestionView
+                        q={q}
+                        value={answers[q.number]}
+                        onChange={(v) =>
+                          setAnswers((a) => ({ ...a, [q.number]: v }))
+                        }
+                      />
+                    </div>
+                  </div>
+                );
+              })}
           </div>
         ))}
       </div>

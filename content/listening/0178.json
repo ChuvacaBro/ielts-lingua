@@ -40,127 +40,235 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel r",
-      "groupId": "q1-7"
+      "prompt": "hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat: ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "s a gallery suitable for musicians – can go out and see the (2) in pots on the terrace – terrace has a view of a group of (3) Carlton Room – number of people who can sit",
-      "groupId": "q1-7"
+      "prompt": "– has a gallery suitable for musicians – can go out and see the ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": ") in pots on the terrace – terrace has a view of a group of (3) Carlton Room – number of people who can sit down to eat: 110 – has a (4) – view of the lake Options Master",
-      "groupId": "q1-7"
+      "prompt": "in pots on the terrace – terrace has a view of a group of ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "oom – number of people who can sit down to eat: 110 – has a (4) – view of the lake Options Master of Ceremonies: – can give a (5) while people are eating – will provide (",
-      "groupId": "q1-7"
+      "prompt": "Carlton Room – number of people who can sit down to eat: 110 – has a ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "view of the lake Options Master of Ceremonies: – can give a (5) while people are eating – will provide (6) if there are any problems Accommodation: in hotel rooms or (7)",
-      "groupId": "q1-7"
+      "prompt": "– view of the lake Options Master of Ceremonies: – can give a ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "es: – can give a (5) while people are eating – will provide (6) if there are any problems Accommodation: in hotel rooms or (7)",
-      "groupId": "q1-7"
+      "prompt": "while people are eating – will provide ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 7 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room",
-      "groupId": "q1-7"
+      "prompt": "if there are any problems Accommodation: in hotel rooms or ____",
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Enquiry about booking hotel room for event Andrew is the Events Manager Rooms Adelphi Room – number of people who can sit down to eat:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 8 – 10 What is said about using each of the following hotel facilities? Choose THREE answers from the box and",
-      "groupId": "q8-10"
+      "prompt": "Question 8",
+      "groupId": "q8-10",
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
     },
     {
       "number": 9,
       "type": "gapFill",
       "prompt": "Question 9",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8 – 10 What is said about using each of the following hotel facilities? Choose THREE answers from the box and writ",
-      "groupId": "q8-10"
+      "prompt": "Question 10",
+      "groupId": "q8-10",
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
     },
     {
       "number": 11,
       "type": "gapFill",
       "prompt": "Question 11",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 14,
       "type": "gapFill",
       "prompt": "Question 14",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 What information does the speaker give about each of the following excursions? Choose SIX answers from the",
-      "groupId": "q11-16"
+      "prompt": "Question 16",
+      "groupId": "q11-16",
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Fa",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Favourites?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "You pay extra for drinks."
+        },
+        {
+          "letter": "B",
+          "text": "You must book it in advance."
+        },
+        {
+          "letter": "C",
+          "text": "You get a reduction if you buy two tickets."
+        },
+        {
+          "letter": "D",
+          "text": "You can meet the performers."
+        },
+        {
+          "letter": "E",
+          "text": "You can take part in the show."
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Favourite",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. Which TWO things does the speaker say about the attraction called Musical Favourites?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "You pay extra for drinks."
+        },
+        {
+          "letter": "B",
+          "text": "You must book it in advance."
+        },
+        {
+          "letter": "C",
+          "text": "You get a reduction if you buy two tickets."
+        },
+        {
+          "letter": "D",
+          "text": "You can meet the performers."
+        },
+        {
+          "letter": "E",
+          "text": "You can take part in the show."
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast? A Visitors ca",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Visitors can dance after the meal."
+        },
+        {
+          "letter": "B",
+          "text": "There is a choice of food."
+        },
+        {
+          "letter": "C",
+          "text": "Visitors wear historical costume."
+        },
+        {
+          "letter": "D",
+          "text": "Knives and forks are not used."
+        },
+        {
+          "letter": "E",
+          "text": "The entertainment includes horse races. Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast? A Visitors can dance",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO things does the speaker say about the Castle Feast?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Visitors can dance after the meal."
+        },
+        {
+          "letter": "B",
+          "text": "There is a choice of food."
+        },
+        {
+          "letter": "C",
+          "text": "Visitors wear historical costume."
+        },
+        {
+          "letter": "D",
+          "text": "Knives and forks are not used."
+        },
+        {
+          "letter": "E",
+          "text": "The entertainment includes horse races. Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "– 25 Choose the correct letter A, B or C. 21 What does Trevor find interesting about the purpose of children’s literature?",
+      "stem": "What does Trevor find interesting about the purpose of children’s literature?",
       "options": [
         {
           "letter": "A",
@@ -172,134 +280,210 @@
         },
         {
           "letter": "C",
-          "text": "the fact that adults expect children to imitate characters in literature 22 Trevor says the module about the purpose of children’s literature made him A analyse some of the stories that his niece reads. B wonder how far popularity reflects good quality. C decide to start writing some children’s stories. 23 Stephanie is interested in the Pictures module because A she intends to become an illustrator. B she can remember beautiful illustrations from her childhood. C she believes illustrations are more important than words. 24 Trevor and Stephanie agree that comics A are inferior to books. B have the potential for being useful. C discourage children from using their imagination. 25 With regard to books aimed at only boys or only girls, Trevor was surprised A how long the distinction had gone unquestioned. B how few books were aimed at both girls and boys. C how many children enjoyed books intended for the opposite sex."
+          "text": "the fact that adults expect children to imitate characters in literature"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 22"
+      "type": "multipleChoice",
+      "stem": "Trevor says the module about the purpose of children’s literature made him",
+      "options": [
+        {
+          "letter": "A",
+          "text": "analyse some of the stories that his niece reads."
+        },
+        {
+          "letter": "B",
+          "text": "wonder how far popularity reflects good quality."
+        },
+        {
+          "letter": "C",
+          "text": "decide to start writing some children’s stories."
+        }
+      ],
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 23"
+      "type": "multipleChoice",
+      "stem": "Stephanie is interested in the Pictures module because",
+      "options": [
+        {
+          "letter": "A",
+          "text": "she intends to become an illustrator."
+        },
+        {
+          "letter": "B",
+          "text": "she can remember beautiful illustrations from her childhood."
+        },
+        {
+          "letter": "C",
+          "text": "she believes illustrations are more important than words."
+        }
+      ],
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 24"
+      "type": "multipleChoice",
+      "stem": "Trevor and Stephanie agree that comics",
+      "options": [
+        {
+          "letter": "A",
+          "text": "are inferior to books."
+        },
+        {
+          "letter": "B",
+          "text": "have the potential for being useful."
+        },
+        {
+          "letter": "C",
+          "text": "discourage children from using their imagination."
+        }
+      ],
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 25"
+      "type": "multipleChoice",
+      "stem": "With regard to books aimed at only boys or only girls, Trevor was surprised",
+      "options": [
+        {
+          "letter": "A",
+          "text": "how long the distinction had gone unquestioned."
+        },
+        {
+          "letter": "B",
+          "text": "how few books were aimed at both girls and boys."
+        },
+        {
+          "letter": "C",
+          "text": "how many children enjoyed books intended for the opposite sex."
+        }
+      ],
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 26 – 30 What comment is made about each of these stories? Choose FIVE answers from the box and write the corre",
-      "groupId": "q26-30"
+      "prompt": "Question 26",
+      "groupId": "q26-30",
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26 – 30 What comment is made about each of these stories? Choose FIVE answers from the box and write the correct le",
-      "groupId": "q26-30"
+      "prompt": "Question 30",
+      "groupId": "q26-30",
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and anc",
+      "prompt": "Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "found on the seabed • research carried out into structures, (32) and human remains TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs) • used in the oil industry, e.g. to m",
+      "prompt": "the sea • biggest settlement from the prehistoric period found on the seabed • research carried out into structures, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ER VEHICLES (AUVs) • used in the oil industry, e.g. to make (33) • problems: they were expensive and (34) LATEST AUVs • much easier to use, relatively cheap, sophisticate",
+      "prompt": "and human remains TRADITIONAL AUTONOMOUS UNDERWATER VEHICLES (AUVs) • used in the oil industry, e.g. to make ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "stry, e.g. to make (33) • problems: they were expensive and (34) LATEST AUVs • much easier to use, relatively cheap, sophisticated Tests: • Marzamemi, Sicily: found ancie",
+      "prompt": "• problems: they were expensive and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ancient Roman ships carrying architectural elements made of (35) Underwater internet: • (36) is used for short distance communication, acoustic waves for long distance •",
+      "prompt": "cheap, sophisticated Tests: • Marzamemi, Sicily: found ancient Roman ships carrying architectural elements made of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "architectural elements made of (35) Underwater internet: • (36) is used for short distance communication, acoustic waves for long distance • plans for communication with",
+      "prompt": "Underwater internet: • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "atellite • AUV can send data to another AUV that has better (37) , for example Planned research in Gulf of Baratti: • to find out more about wrecks of ancient Roman ships",
+      "prompt": "distance • plans for communication with researchers by satellite • AUV can send data to another AUV that has better ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "out wrecks of ancient Roman ships, including – one carrying (38) supplies; tablets may have been used for cleaning the (39) – others carrying containers of olive oil or (",
+      "prompt": "Planned research in Gulf of Baratti: • to find out more about wrecks of ancient Roman ships, including – one carrying ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "(38) supplies; tablets may have been used for cleaning the (39) – others carrying containers of olive oil or (40)",
+      "prompt": "supplies; tablets may have been used for cleaning the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient",
+      "prompt": "– others carrying containers of olive oil or ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The hunt for sunken settlements and ancient shipwrecks ATLIT-YAM • was a village on coast of eastern Mediterranean • thrived until about 7,000 BC • stone homes had a courtyard • had a semicircle of large stones round a"
     }
   ],
   "answerKey": {

@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "-4 Choose the correct letter A, B or C. Types of membership – 2 1. How much is the life-time membership of the Society?",
+      "stem": "How much is the life-time membership of the Society?",
       "options": [
         {
           "letter": "A",
@@ -55,7 +55,8 @@
           "text": "£1,537"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C. Types of membership – 2"
     },
     {
       "number": 2,
@@ -75,7 +76,8 @@
           "text": "£193"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C. Types of membership – 2"
     },
     {
       "number": 3,
@@ -95,7 +97,8 @@
           "text": "10 am to 5 pm"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C. Types of membership – 2"
     },
     {
       "number": 4,
@@ -115,87 +118,143 @@
           "text": "interesting"
         }
       ],
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Choose the correct letter A, B or C. Types of membership – 2"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restriction",
+      "prompt": "Name Margaret ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "HAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10)",
+      "prompt": "Address 55 ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "prompt": "Postcode ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ess 55 (6) Postcode (7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "prompt": "Work number 0207 895 2220 Extension ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "7) Work number 0207 895 2220 Extension (8) Payment terms by (9) Guest restrictions one per (10) Part 2:",
+      "prompt": "Payment terms by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 5-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret (5) Address 55 (6) Po",
+      "prompt": "Guest restrictions one per ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q5-10"
+      "groupId": "q5-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER. Name Margaret"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned?",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "free parking"
+        },
+        {
+          "letter": "B",
+          "text": "free refreshments"
+        },
+        {
+          "letter": "C",
+          "text": "new uniforms"
+        },
+        {
+          "letter": "D",
+          "text": "free concert"
+        },
+        {
+          "letter": "E",
+          "text": "large tents"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned? A free",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters A-E. What TWO changes to the organization of this year’s festival are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "free parking"
+        },
+        {
+          "letter": "B",
+          "text": "free refreshments"
+        },
+        {
+          "letter": "C",
+          "text": "new uniforms"
+        },
+        {
+          "letter": "D",
+          "text": "free concert"
+        },
+        {
+          "letter": "E",
+          "text": "large tents"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "Questions 13-15 Complete the table below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. (13) (14) (15)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q13-15"
+      "groupId": "q13-15",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B or C. 16. What does the speaker say about the judges in the competitions?",
+      "stem": "What does the speaker say about the judges in the competitions?",
       "options": [
         {
           "letter": "A",
@@ -210,7 +269,8 @@
           "text": "Every judge will be experienced"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -230,7 +290,8 @@
           "text": "receive book-tokens"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
@@ -250,7 +311,8 @@
           "text": "provide books for the children"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 19,
@@ -270,7 +332,8 @@
           "text": "they will be needed to collect parking fees"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 20,
@@ -290,12 +353,13 @@
           "text": "only for material that can be recycled"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. In the practice exams, the students did",
+      "stem": "In the practice exams, the students did",
       "options": [
         {
           "letter": "A",
@@ -310,7 +374,8 @@
           "text": "eleven exams in total"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -330,7 +395,8 @@
           "text": "suitable for testing theoretical medical knowledge"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -350,59 +416,111 @@
           "text": "they favour men rather than women"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned? A the rest sta",
-      "groupId": "q24-25"
+      "prompt": "test stations C the recording D the examiners E the simulated patients",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the rest stations"
+        },
+        {
+          "letter": "B",
+          "text": "24 test stations"
+        },
+        {
+          "letter": "C",
+          "text": "the recording"
+        },
+        {
+          "letter": "D",
+          "text": "the examiners"
+        },
+        {
+          "letter": "E",
+          "text": "the simulated patients"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned? A the rest stations B",
-      "groupId": "q24-25"
+      "prompt": "Question 25",
+      "groupId": "q24-25",
+      "instructions": "25 Choose TWO letters A-E. Which TWO aspects of the role-play examination are mentioned?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the rest stations"
+        },
+        {
+          "letter": "B",
+          "text": "24 test stations"
+        },
+        {
+          "letter": "C",
+          "text": "the recording"
+        },
+        {
+          "letter": "D",
+          "text": "the examiners"
+        },
+        {
+          "letter": "E",
+          "text": "the simulated patients"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "summaryCompletion",
-      "prompt": "ng tests, students had to work in groups of four people and (26) to solve a problem. As they discussed the problem, (27) watched them. As well as assessing the ability to",
+      "prompt": "In the problem-solving tests, students had to work in groups of four people and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-solving tests, students had to work in groups of four people and"
     },
     {
       "number": 27,
       "type": "summaryCompletion",
-      "prompt": "and (26) to solve a problem. As they discussed the problem, (27) watched them. As well as assessing the ability to speak, the problem-solving tested if people can (28) ,",
+      "prompt": "to solve a problem. As they discussed the problem, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-solving tests, students had to work in groups of four people and"
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": "ability to speak, the problem-solving tested if people can (28) , organize their thoughts and demonstrate they can be part of a (29) Re-sits of the final exams are held",
+      "prompt": "watched them. As well as assessing the ability to speak, the problem-solving tested if people can ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-solving tests, students had to work in groups of four people and"
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "ganize their thoughts and demonstrate they can be part of a (29) Re-sits of the final exams are held in September. After that any problems are dealt with by (30) Part 4:",
+      "prompt": "organize their thoughts and demonstrate they can be part of a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-solving tests, students had to work in groups of four people and"
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 26-30 Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-so",
+      "prompt": "Re-sits of the final exams are held in September. After that any problems are dealt with by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. In the problem-solving tests, students had to work in groups of four people and"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. The Indian Ocean differs from the Atlantic and Pacific Oceans",
+      "stem": "The Indian Ocean differs from the Atlantic and Pacific Oceans",
       "options": [
         {
           "letter": "A",
@@ -417,7 +535,8 @@
           "text": "by extending into cold regions"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -437,7 +556,8 @@
           "text": "25%"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -457,56 +577,64 @@
           "text": "structurally part of the continent of Africa"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 34. Oceanographers and m",
+      "prompt": "Oceanographers and meteorologists are monitoring changes in the Indian ocean’s temperature and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-35"
+      "groupId": "q34-35",
+      "instructions": "35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "Questions 34 and 35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 34. Oceanographers and meteorol",
+      "prompt": "An assessment is being made of the impact of the changes on low-lying and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-35"
+      "groupId": "q34-35",
+      "instructions": "35 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "flowChartCompletion",
-      "prompt": "ated Step 8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "prompt": "Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are"
     },
     {
       "number": 37,
       "type": "flowChartCompletion",
-      "prompt": "Step 8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "prompt": "____and icebergs Step 4 : Satellites recording the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are"
     },
     {
       "number": 38,
       "type": "flowChartCompletion",
-      "prompt": "8 : Then analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "prompt": "____of icebergs Step 5 : ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are"
     },
     {
       "number": 39,
       "type": "flowChartCompletion",
-      "prompt": "hen analysed by (40)________around the world (36) (37) (38) (39) (40)",
+      "prompt": "____data received at institute Step 6 : Constantly processed by a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are"
     },
     {
       "number": 40,
       "type": "flowChartCompletion",
-      "prompt": "Questions 36-40 Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Sh",
+      "prompt": "____of computers Step 7 : Data collated Step 8 : Then analysed by ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the flow-chart below. Write NO MORE THAN THREE WORDS for each answer . Data Processing Step 1 : Ship off Antarctica Step 2 : Buoys anchored at sea Step 3 : Five buoys off Antarctica which are"
     }
   ],
   "answerKey": {

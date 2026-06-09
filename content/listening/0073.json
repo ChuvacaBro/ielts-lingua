@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Registration form Type of crime report: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglar",
+      "prompt": "Registration form Type of crime report: Robbery Name: Anna ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Type of crime report: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of ap",
+      "prompt": "Date of birth: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "port: Robbery Name: Anna (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy:",
+      "prompt": "Address: 4, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "na (1) Date of birth: (2) Address: 4, (3) street Post code: (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupan",
+      "prompt": "street Post code: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": ": (4) Nationality: Grenadian Number of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost proper",
+      "prompt": "Nationality: Grenadian Number of previous burglaries: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "mber of previous burglaries: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost compu",
+      "prompt": "Time of apartment tenancy: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "es: (5) Time of apartment tenancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost computer: (9) Material of stol",
+      "prompt": "Number of occupants: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "nancy: (6) Number of occupants: (7) Entry point of burglar: (8) Details of lost property: Serial number of lost computer: (9) Material of stolen purse: (10) Part 2:",
+      "prompt": "Entry point of burglar: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": ") Details of lost property: Serial number of lost computer: (9) Material of stolen purse: (10) Part 2:",
+      "prompt": "Details of lost property: Serial number of lost computer: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form T",
+      "prompt": "Material of stolen purse: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Registration form Type of crime report: Robbery Name: Anna"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. What is the project that Mark and Gina want to start?",
+      "stem": "What is the project that Mark and Gina want to start?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "Explaining the business school experience."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "Summer school attendees."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "Pamphlet in the mail."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,54 +198,61 @@
           "text": "they want to attract future business school applicants."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 15-20 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (15) (16) (17) (18) (19) (20) Part",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter, A, B or C. 21. The subjects in questionnaire are",
+      "stem": "The subjects in questionnaire are",
       "options": [
         {
           "letter": "A",
@@ -247,7 +267,8 @@
           "text": "people who are living in this area."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -267,7 +288,8 @@
           "text": "submitted directly to Professor Curran."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
@@ -287,7 +309,8 @@
           "text": "To earn high praise."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 24,
@@ -307,7 +330,8 @@
           "text": "Given by the professor."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 25,
@@ -327,7 +351,8 @@
           "text": "Take consideration of both sides."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 26,
@@ -347,36 +372,145 @@
           "text": "To impress his professor."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "Map",
+      "groupId": "q27-30",
+      "instructions": "What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters A-F next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "radio"
+        },
+        {
+          "letter": "B",
+          "text": "council meeting"
+        },
+        {
+          "letter": "C",
+          "text": "the television"
+        },
+        {
+          "letter": "D",
+          "text": "newspaper"
+        },
+        {
+          "letter": "E",
+          "text": "journal"
+        },
+        {
+          "letter": "F",
+          "text": "the Internet 27. Map 28. Photo 29. Budget 30. Comment Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "Photo",
+      "groupId": "q27-30",
+      "instructions": "What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters A-F next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "radio"
+        },
+        {
+          "letter": "B",
+          "text": "council meeting"
+        },
+        {
+          "letter": "C",
+          "text": "the television"
+        },
+        {
+          "letter": "D",
+          "text": "newspaper"
+        },
+        {
+          "letter": "E",
+          "text": "journal"
+        },
+        {
+          "letter": "F",
+          "text": "the Internet 27. Map 28. Photo 29. Budget 30. Comment Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "Budget",
+      "groupId": "q27-30",
+      "instructions": "What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters A-F next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "radio"
+        },
+        {
+          "letter": "B",
+          "text": "council meeting"
+        },
+        {
+          "letter": "C",
+          "text": "the television"
+        },
+        {
+          "letter": "D",
+          "text": "newspaper"
+        },
+        {
+          "letter": "E",
+          "text": "journal"
+        },
+        {
+          "letter": "F",
+          "text": "the Internet 27. Map 28. Photo 29. Budget 30. Comment Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters",
-      "groupId": "q27-30"
+      "prompt": "Comment",
+      "groupId": "q27-30",
+      "instructions": "What is the source of each one below in this survey? Choose FOUR answers from the box and write the letters A-F next to questions 27-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "radio"
+        },
+        {
+          "letter": "B",
+          "text": "council meeting"
+        },
+        {
+          "letter": "C",
+          "text": "the television"
+        },
+        {
+          "letter": "D",
+          "text": "newspaper"
+        },
+        {
+          "letter": "E",
+          "text": "journal"
+        },
+        {
+          "letter": "F",
+          "text": "the Internet 27. Map 28. Photo 29. Budget 30. Comment Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-35 Choose the correct letter, A, B, or C. 31. Why did the lecturer choose to focus on the Pleasanton Town Market?",
+      "stem": "Why did the lecturer choose to focus on the Pleasanton Town Market?",
       "options": [
         {
           "letter": "A",
@@ -391,7 +525,8 @@
           "text": "It is often mentioned in some literature of the library."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 32,
@@ -411,7 +546,8 @@
           "text": "animals."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 33,
@@ -431,7 +567,8 @@
           "text": "defense."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 34,
@@ -451,7 +588,8 @@
           "text": "city planning."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 35,
@@ -471,37 +609,43 @@
           "text": "jail"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "plete the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write ONLY ONE WORD for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write ONLY ONE WORD for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write ONLY ONE WORD for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write ONLY ONE WORD for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write ONLY ONE WORD for each answer. (36) (37) (38) (39) (40)",
-      "groupId": "q36-40"
+      "prompt": "____",
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write ONLY ONE WORD for each answer."
     }
   ],
   "answerKey": {

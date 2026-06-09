@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "rmation: will email the flight number • Must find out which (1) arriving at • Best taxi company (2) • Note: Simon lives in the (3) of the city • Simon’s cell phone number",
+      "prompt": "Notes for holiday Travel information: will email the flight number • Must find out which ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "r • Must find out which (1) arriving at • Best taxi company (2) • Note: Simon lives in the (3) of the city • Simon’s cell phone number (4) What to pack To wear: • Casual",
+      "prompt": "arriving at • Best taxi company ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "iving at • Best taxi company (2) • Note: Simon lives in the (3) of the city • Simon’s cell phone number (4) What to pack To wear: • Casual clothes • One smart dress – to",
+      "prompt": "• Note: Simon lives in the ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "on lives in the (3) of the city • Simon’s cell phone number (4) What to pack To wear: • Casual clothes • One smart dress – to wear at a (5) • A good (6) • Tough (7) To re",
+      "prompt": "of the city • Simon’s cell phone number ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "To wear: • Casual clothes • One smart dress – to wear at a (5) • A good (6) • Tough (7) To read: • Try to find book named (8) by Rox Campbell For presents: • For Janice",
+      "prompt": "What to pack To wear: • Casual clothes • One smart dress – to wear at a ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "asual clothes • One smart dress – to wear at a (5) • A good (6) • Tough (7) To read: • Try to find book named (8) by Rox Campbell For presents: • For Janice (9) • For Ale",
+      "prompt": "• A good ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "s • One smart dress – to wear at a (5) • A good (6) • Tough (7) To read: • Try to find book named (8) by Rox Campbell For presents: • For Janice (9) • For Alec (10) (with",
+      "prompt": "• Tough ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "• A good (6) • Tough (7) To read: • Try to find book named (8) by Rox Campbell For presents: • For Janice (9) • For Alec (10) (with racing pictures) Part 2:",
+      "prompt": "To read: • Try to find book named ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "d book named (8) by Rox Campbell For presents: • For Janice (9) • For Alec (10) (with racing pictures) Part 2:",
+      "prompt": "by Rox Campbell For presents: • For Janice ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: w",
+      "prompt": "• For Alec ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Notes for holiday Travel information: will email the flight number • Must find out which"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. Camber’s theme park 11. According to the speaker, in what way is Camber’s different from other theme parks?",
+      "stem": "According to the speaker, in what way is Camber’s different from other theme parks?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "it has a focus on education"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "2004"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "parking and all rides"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "you can visit certain zones closed to other people"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "get close to the animals"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 16,
@@ -225,161 +240,526 @@
           "text": "10.30 am – 5 pm"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. Camber’s theme park"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "River Adventure",
+      "groupId": "q17-20",
+      "instructions": "What special conditions apply to the following rides? Choose FOUR answers from the list below and write correct letter A-F next to the questions 17-20 Special conditions for visitors",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Must be over a certain age"
+        },
+        {
+          "letter": "B",
+          "text": "Must use special safety equipment"
+        },
+        {
+          "letter": "C",
+          "text": "Must avoid it if they have health problems"
+        },
+        {
+          "letter": "D",
+          "text": "Must wear a particular type of clothing"
+        },
+        {
+          "letter": "E",
+          "text": "Must be over a certain height"
+        },
+        {
+          "letter": "F",
+          "text": "Must be accompanied by an adult if under 16 Rides 17. River Adventure 18. Jungle Jim Rollercoaster 19. Swoop Slide 20. Zip Go-carts Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "Jungle Jim Rollercoaster",
+      "groupId": "q17-20",
+      "instructions": "What special conditions apply to the following rides? Choose FOUR answers from the list below and write correct letter A-F next to the questions 17-20 Special conditions for visitors",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Must be over a certain age"
+        },
+        {
+          "letter": "B",
+          "text": "Must use special safety equipment"
+        },
+        {
+          "letter": "C",
+          "text": "Must avoid it if they have health problems"
+        },
+        {
+          "letter": "D",
+          "text": "Must wear a particular type of clothing"
+        },
+        {
+          "letter": "E",
+          "text": "Must be over a certain height"
+        },
+        {
+          "letter": "F",
+          "text": "Must be accompanied by an adult if under 16 Rides 17. River Adventure 18. Jungle Jim Rollercoaster 19. Swoop Slide 20. Zip Go-carts Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "Swoop Slide",
+      "groupId": "q17-20",
+      "instructions": "What special conditions apply to the following rides? Choose FOUR answers from the list below and write correct letter A-F next to the questions 17-20 Special conditions for visitors",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Must be over a certain age"
+        },
+        {
+          "letter": "B",
+          "text": "Must use special safety equipment"
+        },
+        {
+          "letter": "C",
+          "text": "Must avoid it if they have health problems"
+        },
+        {
+          "letter": "D",
+          "text": "Must wear a particular type of clothing"
+        },
+        {
+          "letter": "E",
+          "text": "Must be over a certain height"
+        },
+        {
+          "letter": "F",
+          "text": "Must be accompanied by an adult if under 16 Rides 17. River Adventure 18. Jungle Jim Rollercoaster 19. Swoop Slide 20. Zip Go-carts Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 What special conditions apply to the following rides? Choose FOUR answers from the list below and write cor",
-      "groupId": "q17-20"
+      "prompt": "Zip Go-carts",
+      "groupId": "q17-20",
+      "instructions": "What special conditions apply to the following rides? Choose FOUR answers from the list below and write correct letter A-F next to the questions 17-20 Special conditions for visitors",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Must be over a certain age"
+        },
+        {
+          "letter": "B",
+          "text": "Must use special safety equipment"
+        },
+        {
+          "letter": "C",
+          "text": "Must avoid it if they have health problems"
+        },
+        {
+          "letter": "D",
+          "text": "Must wear a particular type of clothing"
+        },
+        {
+          "letter": "E",
+          "text": "Must be over a certain height"
+        },
+        {
+          "letter": "F",
+          "text": "Must be accompanied by an adult if under 16 Rides 17. River Adventure 18. Jungle Jim Rollercoaster 19. Swoop Slide 20. Zip Go-carts Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. What TWO things do Brad and Helen agree to say about listening in groups? A",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. What TWO things do Brad and Helen agree to say about listening in groups?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Listening skills are often overlooked in business training"
+        },
+        {
+          "letter": "B",
+          "text": "Learning to listen well is a skill that is easy for most people to learn"
+        },
+        {
+          "letter": "C",
+          "text": "It is sometimes acceptable to argue against speakers"
+        },
+        {
+          "letter": "D",
+          "text": "Body language is very important when listening"
+        },
+        {
+          "letter": "E",
+          "text": "Listeners should avoid interrupting speakers"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. What TWO things do Brad and Helen agree to say about listening in groups? A Listeni",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. What TWO things do Brad and Helen agree to say about listening in groups?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Listening skills are often overlooked in business training"
+        },
+        {
+          "letter": "B",
+          "text": "Learning to listen well is a skill that is easy for most people to learn"
+        },
+        {
+          "letter": "C",
+          "text": "It is sometimes acceptable to argue against speakers"
+        },
+        {
+          "letter": "D",
+          "text": "Body language is very important when listening"
+        },
+        {
+          "letter": "E",
+          "text": "Listeners should avoid interrupting speakers"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters A-E. What TWO things does the article say about goal setting? A Meetings should s",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters A-E. What TWO things does the article say about goal setting?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Meetings should start with a clear statement of goals"
+        },
+        {
+          "letter": "B",
+          "text": "It is important for each individual’ goals to be explained"
+        },
+        {
+          "letter": "C",
+          "text": "Everybody in the group should have the same goals"
+        },
+        {
+          "letter": "D",
+          "text": "Goals should be a mix of the realistic and the ideal"
+        },
+        {
+          "letter": "E",
+          "text": "Goals must always to be achievable within a set time"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters A-E. What TWO things does the article say about goal setting? A Meetings should start wi",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters A-E. What TWO things does the article say about goal setting?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Meetings should start with a clear statement of goals"
+        },
+        {
+          "letter": "B",
+          "text": "It is important for each individual’ goals to be explained"
+        },
+        {
+          "letter": "C",
+          "text": "Everybody in the group should have the same goals"
+        },
+        {
+          "letter": "D",
+          "text": "Goals should be a mix of the realistic and the ideal"
+        },
+        {
+          "letter": "E",
+          "text": "Goals must always to be achievable within a set time"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO things do Brad and Helen agree are weak points in the article’s sec",
-      "groupId": "q25-26"
+      "prompt": "Question 25",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO things do Brad and Helen agree are weak points in the article’s section on conflict resolution?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It does not explore the topic in enough detail"
+        },
+        {
+          "letter": "B",
+          "text": "It only discusses conservative views"
+        },
+        {
+          "letter": "C",
+          "text": "It says nothing about the potential value of conflict"
+        },
+        {
+          "letter": "D",
+          "text": "It talks too much about winners and losers"
+        },
+        {
+          "letter": "E",
+          "text": "It does not provide definitions of key terms"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 25 and 26 Choose TWO letters A-E. What TWO things do Brad and Helen agree are weak points in the article’s section on",
-      "groupId": "q25-26"
+      "prompt": "Question 26",
+      "groupId": "q25-26",
+      "instructions": "26 Choose TWO letters A-E. What TWO things do Brad and Helen agree are weak points in the article’s section on conflict resolution?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It does not explore the topic in enough detail"
+        },
+        {
+          "letter": "B",
+          "text": "It only discusses conservative views"
+        },
+        {
+          "letter": "C",
+          "text": "It says nothing about the potential value of conflict"
+        },
+        {
+          "letter": "D",
+          "text": "It talks too much about winners and losers"
+        },
+        {
+          "letter": "E",
+          "text": "It does not provide definitions of key terms"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "Preparing the powerpoint",
+      "groupId": "q27-30",
+      "instructions": "What actions do Brad and Helen agree to do regarding the following preparation tasks? Choose FOUR answers from the list below and write the correct letter A-F next to questions 27-30. Action",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Contact the tutor for clarification"
+        },
+        {
+          "letter": "B",
+          "text": "Check the assignment specifications"
+        },
+        {
+          "letter": "C",
+          "text": "Leave it until the last task"
+        },
+        {
+          "letter": "D",
+          "text": "Ask a course-mate to help"
+        },
+        {
+          "letter": "E",
+          "text": "Find information on the internet"
+        },
+        {
+          "letter": "F",
+          "text": "Look through course handbooks Preparation tasks 27. Preparing the powerpoint 28. Using direct quotations 29. Creating a handout 30. Drawing up a bibliography Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "Using direct quotations",
+      "groupId": "q27-30",
+      "instructions": "What actions do Brad and Helen agree to do regarding the following preparation tasks? Choose FOUR answers from the list below and write the correct letter A-F next to questions 27-30. Action",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Contact the tutor for clarification"
+        },
+        {
+          "letter": "B",
+          "text": "Check the assignment specifications"
+        },
+        {
+          "letter": "C",
+          "text": "Leave it until the last task"
+        },
+        {
+          "letter": "D",
+          "text": "Ask a course-mate to help"
+        },
+        {
+          "letter": "E",
+          "text": "Find information on the internet"
+        },
+        {
+          "letter": "F",
+          "text": "Look through course handbooks Preparation tasks 27. Preparing the powerpoint 28. Using direct quotations 29. Creating a handout 30. Drawing up a bibliography Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "Creating a handout",
+      "groupId": "q27-30",
+      "instructions": "What actions do Brad and Helen agree to do regarding the following preparation tasks? Choose FOUR answers from the list below and write the correct letter A-F next to questions 27-30. Action",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Contact the tutor for clarification"
+        },
+        {
+          "letter": "B",
+          "text": "Check the assignment specifications"
+        },
+        {
+          "letter": "C",
+          "text": "Leave it until the last task"
+        },
+        {
+          "letter": "D",
+          "text": "Ask a course-mate to help"
+        },
+        {
+          "letter": "E",
+          "text": "Find information on the internet"
+        },
+        {
+          "letter": "F",
+          "text": "Look through course handbooks Preparation tasks 27. Preparing the powerpoint 28. Using direct quotations 29. Creating a handout 30. Drawing up a bibliography Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What actions do Brad and Helen agree to do regarding the following preparation tasks? Choose FOUR answers f",
-      "groupId": "q27-30"
+      "prompt": "Drawing up a bibliography",
+      "groupId": "q27-30",
+      "instructions": "What actions do Brad and Helen agree to do regarding the following preparation tasks? Choose FOUR answers from the list below and write the correct letter A-F next to questions 27-30. Action",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Contact the tutor for clarification"
+        },
+        {
+          "letter": "B",
+          "text": "Check the assignment specifications"
+        },
+        {
+          "letter": "C",
+          "text": "Leave it until the last task"
+        },
+        {
+          "letter": "D",
+          "text": "Ask a course-mate to help"
+        },
+        {
+          "letter": "E",
+          "text": "Find information on the internet"
+        },
+        {
+          "letter": "F",
+          "text": "Look through course handbooks Preparation tasks 27. Preparing the powerpoint 28. Using direct quotations 29. Creating a handout 30. Drawing up a bibliography Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "lem • Short growing season because of high altitude and low (31) • Fresh vegetables imported by lorry or by (32) , so are expensive • Need to use sunlight to prevent loca",
+      "prompt": "Engineering for sustainable development Problem • Short growing season because of high altitude and low ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ude and low (31) • Fresh vegetables imported by lorry or by (32) , so are expensive • Need to use sunlight to prevent local plants from (33) • Previous programmes to prov",
+      "prompt": "• Fresh vegetables imported by lorry or by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "pensive • Need to use sunlight to prevent local plants from (33) • Previous programmes to provide greenhouses were (34) New greenhouse Meets criteria for sustainability •",
+      "prompt": "so are expensive • Need to use sunlight to prevent local plants from ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "from (33) • Previous programmes to provide greenhouses were (34) New greenhouse Meets criteria for sustainability • Simple and (35) to build • Made mainly from local mate",
+      "prompt": "• Previous programmes to provide greenhouses were ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "w greenhouse Meets criteria for sustainability • Simple and (35) to build • Made mainly from local materials (mud or stone for the walls, wood and (36) for the roof) • Bu",
+      "prompt": "New greenhouse Meets criteria for sustainability • Simple and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "from local materials (mud or stone for the walls, wood and (36) for the roof) • Building and maintenance done by local craftsmen • Runs solely on (37) energy • Only fami",
+      "prompt": "to build • Made mainly from local materials (mud or stone for the walls, wood and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ng and maintenance done by local craftsmen • Runs solely on (37) energy • Only families who have a suitable (38) can own one Design • Long side faces South • Strong polyt",
+      "prompt": "for the roof) • Building and maintenance done by local craftsmen • Runs solely on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "s solely on (37) energy • Only families who have a suitable (38) can own one Design • Long side faces South • Strong polythene cover • Inner (39) are painted black or whi",
+      "prompt": "energy • Only families who have a suitable ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "gn • Long side faces South • Strong polythene cover • Inner (39) are painted black or white Social benefits • Owners’ status is improved • Rural (40) have greater opportu",
+      "prompt": "can own one Design • Long side faces South • Strong polythene cover • Inner ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Prob",
+      "prompt": "are painted black or white Social benefits • Owners’ status is improved • Rural ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Engineering for sustainable development Problem • Short growing season because of high altitude and low"
     }
   ],
   "answerKey": {

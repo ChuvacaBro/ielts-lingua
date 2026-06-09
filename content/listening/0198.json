@@ -40,71 +40,81 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "OR A NUMBER for each answer. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended webs",
-      "groupId": "q1-6"
+      "prompt": "Guitar Group Coordinator: Gary ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "for each answer. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The pe",
-      "groupId": "q1-6"
+      "prompt": "Level: ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "r. Guitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
-      "groupId": "q1-6"
+      "prompt": "Place: the ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "uitar Group Coordinator: Gary (1) Level: (2) Place: the (3) (4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
-      "groupId": "q1-6"
+      "prompt": "____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "(4) Street first floor, room T347 Time: Thursday morning at (5) Recommended website: The perfect (6)",
-      "groupId": "q1-6"
+      "prompt": "Street first floor, room T347 Time: Thursday morning at ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 1-6 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary (1)",
-      "groupId": "q1-6"
+      "prompt": "Recommended website: The perfect ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. Guitar Group Coordinator: Gary"
     },
     {
       "number": 7,
       "type": "tableCompletion",
       "prompt": "Question 7",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 8,
       "type": "tableCompletion",
       "prompt": "Question 8",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 9,
       "type": "tableCompletion",
       "prompt": "Question 9",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY for each answer. Part 2:",
+      "prompt": "Question 10",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter, A, B or C. Working as a lifeboat volunteer 11. What made David leave London and move to Northsea?",
+      "stem": "What made David leave London and move to Northsea?",
       "options": [
         {
           "letter": "A",
@@ -119,7 +129,8 @@
           "text": "He found his job in website design unsatisfying."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 12,
@@ -139,7 +150,8 @@
           "text": "the local council."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 13,
@@ -159,7 +171,8 @@
           "text": "had undergone eye surgery."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 14,
@@ -179,7 +192,8 @@
           "text": "eight and a half minutes."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 15,
@@ -199,7 +213,8 @@
           "text": "if the lifeboat should be launched."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 16,
@@ -219,36 +234,129 @@
           "text": "recruits new volunteers."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter, A, B or C. Working as a lifeboat volunteer"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training? A Th",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The residential course developed his leadership skills."
+        },
+        {
+          "letter": "B",
+          "text": "The training in use of ropes and knots was quite brief."
+        },
+        {
+          "letter": "C",
+          "text": "The training exercises have built up his mental strength."
+        },
+        {
+          "letter": "D",
+          "text": "The casualty care activities were particularly challenging for him."
+        },
+        {
+          "letter": "E",
+          "text": "The wave tank activities provided practice in survival techniques."
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training? A The resid",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters, A-E. Which TWO things does David say about the lifeboat volunteer training?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The residential course developed his leadership skills."
+        },
+        {
+          "letter": "B",
+          "text": "The training in use of ropes and knots was quite brief."
+        },
+        {
+          "letter": "C",
+          "text": "The training exercises have built up his mental strength."
+        },
+        {
+          "letter": "D",
+          "text": "The casualty care activities were particularly challenging for him."
+        },
+        {
+          "letter": "E",
+          "text": "The wave tank activities provided practice in survival techniques."
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does? A",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "working as part of a team"
+        },
+        {
+          "letter": "B",
+          "text": "experiences when working in winter"
+        },
+        {
+          "letter": "C",
+          "text": "being thanked by those he has helped"
+        },
+        {
+          "letter": "D",
+          "text": "the fact that it keeps him fit"
+        },
+        {
+          "letter": "E",
+          "text": "the chance to develop new equipment Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does? A working",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters, A-E. Which TWO things does David find most motivating about the work he does?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "working as part of a team"
+        },
+        {
+          "letter": "B",
+          "text": "experiences when working in winter"
+        },
+        {
+          "letter": "C",
+          "text": "being thanked by those he has helped"
+        },
+        {
+          "letter": "D",
+          "text": "the fact that it keeps him fit"
+        },
+        {
+          "letter": "E",
+          "text": "the chance to develop new equipment Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter, A, B or C, 21. At first, Don thought the topic of recycling footwear might be too",
+      "stem": "At first, Don thought the topic of recycling footwear might be too",
       "options": [
         {
           "letter": "A",
@@ -263,7 +371,8 @@
           "text": "boring for listeners."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C,"
     },
     {
       "number": 22,
@@ -283,7 +392,8 @@
           "text": "how quickly they wear out."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C,"
     },
     {
       "number": 23,
@@ -303,7 +413,8 @@
           "text": "they are no longer in fashion."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C,"
     },
     {
       "number": 24,
@@ -323,36 +434,41 @@
           "text": "People dispose of more footwear than they used to."
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter, A, B or C,"
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-28"
+      "groupId": "q25-28",
+      "instructions": "What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-28"
+      "groupId": "q25-28",
+      "instructions": "What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-28"
+      "groupId": "q25-28",
+      "instructions": "What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 25-28 What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR",
-      "groupId": "q25-28"
+      "prompt": "Question 28",
+      "groupId": "q25-28",
+      "instructions": "What reasons did the recycling manager give for rejecting footwear, according to the students? Choose FOUR answers from the box and write the correct letter, A-F, next to"
     },
     {
       "number": 29,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter, A, B or C. 29. Why did the project to make ‘new’ shoes out of old shoes fail?",
+      "stem": "Why did the project to make ‘new’ shoes out of old shoes fail?",
       "options": [
         {
           "letter": "A",
@@ -367,7 +483,8 @@
           "text": "The shoes in the ’new’ pairs were not completely alike."
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 30,
@@ -387,77 +504,88 @@
           "text": "in a straightforward way."
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "imetres long • also known as water ‘bears’ (due to how they (31) ) and ‘moss piglets’ Physical appearance • a (32) round body and four pairs of legs • claws or (33) for g",
+      "prompt": "Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "how they (31) ) and ‘moss piglets’ Physical appearance • a (32) round body and four pairs of legs • claws or (33) for gripping • absence of respiratory organs • body fil",
+      "prompt": "and ‘moss piglets’ Physical appearance • a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "rance • a (32) round body and four pairs of legs • claws or (33) for gripping • absence of respiratory organs • body filled with a liquid that carries both (34) and blood",
+      "prompt": "round body and four pairs of legs • claws or ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ratory organs • body filled with a liquid that carries both (34) and blood • mouth shaped like a (35) with teeth called stylets Habitat • often found at the bottom of a l",
+      "prompt": "for gripping • absence of respiratory organs • body filled with a liquid that carries both ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "quid that carries both (34) and blood • mouth shaped like a (35) with teeth called stylets Habitat • often found at the bottom of a lake or on plants • very resilient and",
+      "prompt": "and blood • mouth shaped like a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "n plants • very resilient and can exist in very low or high (36) Cryptobiosis • In dry conditions, they roll into a ball called a ‘tun’ • They stay alive with a much lowe",
+      "prompt": "stylets Habitat • often found at the bottom of a lake or on plants • very resilient and can exist in very low or high ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "alive with a much lower metabolism than usual. • A type of (37) ensures their DNA is not damaged. • Research is underway to find out how many days they can stay alive in",
+      "prompt": "conditions, they roll into a ball called a ‘tun’ • They stay alive with a much lower metabolism than usual. • A type of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "s underway to find out how many days they can stay alive in (38) Feeding • consume liquids, e.g., those found in moss or (39) • may eat other tardigrades Conservation sta",
+      "prompt": "ensures their DNA is not damaged. • Research is underway to find out how many days they can stay alive in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "38) Feeding • consume liquids, e.g., those found in moss or (39) • may eat other tardigrades Conservation status • They are not considered to be (40)",
+      "prompt": "Feeding • consume liquids, e.g., those found in moss or ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-",
+      "prompt": "• may eat other tardigrades Conservation status • They are not considered to be ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tardigrades • more than 1,000 species, 0.05-1.2 millimetres long • also known as water ‘bears’ (due to how they"
     }
   ],
   "answerKey": {

@@ -40,143 +40,283 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "principal cause of stress for them? Ramon Team work Kikuko (1) Boris (2) Etienne (3) Nagwa (4) Possible causes of stress A bad management B dual-career family C fear of",
-      "groupId": "q1-4"
+      "prompt": "What did each person say was the principal cause of stress for them? Ramon Team work Kikuko ____",
+      "groupId": "q1-4",
+      "instructions": "Complete the list of reasons why these people suffer from stress. Choose from the list of possible causes below. What did each person say was the principal cause of stress for them? Ramon Team work Kikuko",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "bad management"
+        },
+        {
+          "letter": "B",
+          "text": "dual-career family"
+        },
+        {
+          "letter": "C",
+          "text": "fear of unemployment"
+        },
+        {
+          "letter": "D",
+          "text": "new technologies"
+        },
+        {
+          "letter": "E",
+          "text": "physical surroundings"
+        },
+        {
+          "letter": "F",
+          "text": "powerlessness"
+        },
+        {
+          "letter": "G",
+          "text": "too much work"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "cause of stress for them? Ramon Team work Kikuko (1) Boris (2) Etienne (3) Nagwa (4) Possible causes of stress A bad management B dual-career family C fear of unemployme",
-      "groupId": "q1-4"
+      "prompt": "Boris ____",
+      "groupId": "q1-4",
+      "instructions": "Complete the list of reasons why these people suffer from stress. Choose from the list of possible causes below. What did each person say was the principal cause of stress for them? Ramon Team work Kikuko",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "bad management"
+        },
+        {
+          "letter": "B",
+          "text": "dual-career family"
+        },
+        {
+          "letter": "C",
+          "text": "fear of unemployment"
+        },
+        {
+          "letter": "D",
+          "text": "new technologies"
+        },
+        {
+          "letter": "E",
+          "text": "physical surroundings"
+        },
+        {
+          "letter": "F",
+          "text": "powerlessness"
+        },
+        {
+          "letter": "G",
+          "text": "too much work"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "ress for them? Ramon Team work Kikuko (1) Boris (2) Etienne (3) Nagwa (4) Possible causes of stress A bad management B dual-career family C fear of unemployment D new tec",
-      "groupId": "q1-4"
+      "prompt": "Etienne ____",
+      "groupId": "q1-4",
+      "instructions": "Complete the list of reasons why these people suffer from stress. Choose from the list of possible causes below. What did each person say was the principal cause of stress for them? Ramon Team work Kikuko",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "bad management"
+        },
+        {
+          "letter": "B",
+          "text": "dual-career family"
+        },
+        {
+          "letter": "C",
+          "text": "fear of unemployment"
+        },
+        {
+          "letter": "D",
+          "text": "new technologies"
+        },
+        {
+          "letter": "E",
+          "text": "physical surroundings"
+        },
+        {
+          "letter": "F",
+          "text": "powerlessness"
+        },
+        {
+          "letter": "G",
+          "text": "too much work"
+        }
+      ]
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "Questions 1-4 Complete the list of reasons why these people suffer from stress. Choose from the list of possible causes be",
-      "groupId": "q1-4"
+      "prompt": "Nagwa ____",
+      "groupId": "q1-4",
+      "instructions": "Complete the list of reasons why these people suffer from stress. Choose from the list of possible causes below. What did each person say was the principal cause of stress for them? Ramon Team work Kikuko",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "bad management"
+        },
+        {
+          "letter": "B",
+          "text": "dual-career family"
+        },
+        {
+          "letter": "C",
+          "text": "fear of unemployment"
+        },
+        {
+          "letter": "D",
+          "text": "new technologies"
+        },
+        {
+          "letter": "E",
+          "text": "physical surroundings"
+        },
+        {
+          "letter": "F",
+          "text": "powerlessness"
+        },
+        {
+          "letter": "G",
+          "text": "too much work"
+        }
+      ]
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "uce stress. Write NO MORE THAN THREE WORDS for each answer. (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "List THREE parts of one’s daily routine that can help reduce stress. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "stress. Write NO MORE THAN THREE WORDS for each answer. (5) (6) (7)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "List THREE parts of one’s daily routine that can help reduce stress. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 5-7 List THREE parts of one’s daily routine that can help reduce stress. Write NO MORE THAN THREE WORDS for each",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "List THREE parts of one’s daily routine that can help reduce stress. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 8-10 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "ch answer. Khufu’s Pyramid Material – 2.3 million stones of (11) high and tons Built time – 4,500 years ago Tools – (12) and tools Astronomical significance – arranged to",
+      "prompt": "Khufu’s Pyramid Material – 2.3 million stones of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "of (11) high and tons Built time – 4,500 years ago Tools – (12) and tools Astronomical significance – arranged to north by using two stars moving around (13) Athens’ Anc",
+      "prompt": "high and tons Built time – 4,500 years ago Tools – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "icance – arranged to north by using two stars moving around (13) Athens’ Ancient Parthenon Material – made completely of (14) Built time – 5th century B.C. Design ideals",
+      "prompt": "and tools Astronomical significance – arranged to north by using two stars moving around ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "13) Athens’ Ancient Parthenon Material – made completely of (14) Built time – 5th century B.C. Design ideals – (15) and The height and width are designed with the logic o",
+      "prompt": "Athens’ Ancient Parthenon Material – made completely of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "etely of (14) Built time – 5th century B.C. Design ideals – (15) and The height and width are designed with the logic of (16) Symbolization – (17) The Roman Colosseum Sig",
+      "prompt": "Built time – 5th century B.C. Design ideals – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "15) and The height and width are designed with the logic of (16) Symbolization – (17) The Roman Colosseum Significance – show Romans’ (18) nature and thinking Built time",
+      "prompt": "and The height and width are designed with the logic of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "d width are designed with the logic of (16) Symbolization – (17) The Roman Colosseum Significance – show Romans’ (18) nature and thinking Built time – 80 A.D. Function –",
+      "prompt": "Symbolization – ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "tion – (17) The Roman Colosseum Significance – show Romans’ (18) nature and thinking Built time – 80 A.D. Function – to (19) the crowds Size – stand (20) meter high and h",
+      "prompt": "The Roman Colosseum Significance – show Romans’ ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "(18) nature and thinking Built time – 80 A.D. Function – to (19) the crowds Size – stand (20) meter high and hold audiences Part 3:",
+      "prompt": "nature and thinking Built time – 80 A.D. Function – to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 11-20 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 mi",
+      "prompt": "the crowds Size – stand ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Khufu’s Pyramid Material – 2.3 million stones of"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. The main aim of Dave’s project is to",
+      "stem": "The main aim of Dave’s project is to",
       "options": [
         {
           "letter": "A",
@@ -191,7 +331,8 @@
           "text": "identify a problem"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -211,7 +352,8 @@
           "text": "universities"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -231,7 +373,8 @@
           "text": "150"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -251,7 +394,8 @@
           "text": "owners"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -271,109 +415,203 @@
           "text": "companies"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "sentenceCompletion",
-      "prompt": "or each answer. Notes on project Introduction • Improve the (26) of ideas • Include a (27) of ‘Work Placement’ • Have separate sections for literature survey and research",
+      "prompt": "Notes on project Introduction • Improve the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction • Improve the"
     },
     {
       "number": 27,
       "type": "sentenceCompletion",
-      "prompt": "roject Introduction • Improve the (26) of ideas • Include a (27) of ‘Work Placement’ • Have separate sections for literature survey and research (28) and methods Findings",
+      "prompt": "of ideas • Include a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction • Improve the"
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "• Have separate sections for literature survey and research (28) and methods Findings • Preparation stage – add summary • (29) development – good • Constraints on learnin",
+      "prompt": "of ‘Work Placement’ • Have separate sections for literature survey and research ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction • Improve the"
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "8) and methods Findings • Preparation stage – add summary • (29) development – good • Constraints on learning – provide better links to the (30) from research Part 4:",
+      "prompt": "and methods Findings • Preparation stage – add summary • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction • Improve the"
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 26-30 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction •",
+      "prompt": "development – good • Constraints on learning – provide better links to the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Notes on project Introduction • Improve the"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31 and 32 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. Besides sporting i",
+      "prompt": "Besides sporting injuries, sports medicine doctors deal more with problems of common individuals",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31 and 32 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 31. Besides sporting injuries",
+      "prompt": "The total care offered by sports medicine doctors includes workouts, instant care and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "• Problem – the damages of tissues can cause the joints to (33) and • Preventive measures – X-rays to determine potential (34) Joints • The repetition of motions can cau",
+      "prompt": "and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": ") and • Preventive measures – X-rays to determine potential (34) Joints • The repetition of motions can cause (35) of the soft tissue • Losing balance even causes bone fr",
+      "prompt": "and • Preventive measures – X-rays to determine potential ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "potential (34) Joints • The repetition of motions can cause (35) of the soft tissue • Losing balance even causes bone fracture Treatment • Use ice pack to reduce the swel",
+      "prompt": "Joints • The repetition of motions can cause ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "ing and pain New treatment • The injured joints receive the (36) of mixture of healing protein and blood Advantages • Convenience • Without (37)",
+      "prompt": "bone fracture Treatment • Use ice pack to reduce the swelling and pain New treatment • The injured joints receive the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "Questions 33-37 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries o",
+      "prompt": "of mixture of healing protein and blood Advantages • Convenience • Without ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Injuries and treatment Injuries of bones, muscles and ligaments • Problem – the damages of tissues can cause the joints to"
     },
     {
       "number": 38,
       "type": "gapFill",
       "prompt": "Question 38",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "What is the advice of preventing sports injuries? Circle THREE letters from A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lighten the training tenseness"
+        },
+        {
+          "letter": "B",
+          "text": "practice constant fitness-training activities"
+        },
+        {
+          "letter": "C",
+          "text": "perform enough fitness exercises"
+        },
+        {
+          "letter": "D",
+          "text": "do enough preparatory exercises before training"
+        },
+        {
+          "letter": "E",
+          "text": "stop doing exercises when you don’t feel well"
+        },
+        {
+          "letter": "F",
+          "text": "use homemade medicines"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
       "prompt": "Question 39",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "What is the advice of preventing sports injuries? Circle THREE letters from A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lighten the training tenseness"
+        },
+        {
+          "letter": "B",
+          "text": "practice constant fitness-training activities"
+        },
+        {
+          "letter": "C",
+          "text": "perform enough fitness exercises"
+        },
+        {
+          "letter": "D",
+          "text": "do enough preparatory exercises before training"
+        },
+        {
+          "letter": "E",
+          "text": "stop doing exercises when you don’t feel well"
+        },
+        {
+          "letter": "F",
+          "text": "use homemade medicines"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 38-40 What is the advice of preventing sports injuries? Circle THREE letters from A-F. A lighten the training ten",
-      "groupId": "q38-40"
+      "prompt": "Question 40",
+      "groupId": "q38-40",
+      "instructions": "What is the advice of preventing sports injuries? Circle THREE letters from A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "lighten the training tenseness"
+        },
+        {
+          "letter": "B",
+          "text": "practice constant fitness-training activities"
+        },
+        {
+          "letter": "C",
+          "text": "perform enough fitness exercises"
+        },
+        {
+          "letter": "D",
+          "text": "do enough preparatory exercises before training"
+        },
+        {
+          "letter": "E",
+          "text": "stop doing exercises when you don’t feel well"
+        },
+        {
+          "letter": "F",
+          "text": "use homemade medicines"
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -40,136 +40,156 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Report on a",
+      "prompt": "Report on abandoned vehicle Name of caller: Mrs Shefford Address: 41, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Report on abandoned vehicle Name of caller: Mrs Shefford Address: 41,"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Report on abandon",
+      "prompt": "Barrowdale WH45JP Telephone: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Report on abandoned vehicle Name of caller: Mrs Shefford Address: 41,"
     },
     {
       "number": 3,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 3"
+      "prompt": "Question 3",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 4,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 4"
+      "prompt": "Question 4",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 5,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 5"
+      "prompt": "Question 5",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 6,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 6"
+      "prompt": "Question 6",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 7,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 7"
+      "prompt": "Question 7",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 8,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 8"
+      "prompt": "Question 8",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 9,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 9"
+      "prompt": "Question 9",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 10,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 10"
+      "prompt": "Question 10",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. The story of John Manjiro 11. Manjiro started work as a when he was still a young boy. 12. He spent on a deserted island before he was r",
+      "prompt": "Manjiro started work as a when he was still a young boy.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "1. Manjiro started work as a when he was still a young boy. 12. He spent on a deserted island before he was rescued. 13. He became friends with William Whitefield who was",
+      "prompt": "He spent on a deserted island before he was rescued.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "y. 12. He spent on a deserted island before he was rescued. 13. He became friends with William Whitefield who was a ship’s 14. The cost of Manjiro’s in America was covere",
+      "prompt": "He became friends with William Whitefield who was a ship’s",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "He became friends with William Whitefield who was a ship’s 14. The cost of Manjiro’s in America was covered by the Whitefield family. 15. Manjiro eventually returned to",
+      "prompt": "The cost of Manjiro’s in America was covered by the Whitefield family.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Manjiro’s in America was covered by the Whitefield family. 15. Manjiro eventually returned to Japan, where he carried out important work as a teacher and 16. Fairhaven a",
+      "prompt": "Manjiro eventually returned to Japan, where he carried out important work as a teacher and",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "Japan, where he carried out important work as a teacher and 16. Fairhaven and Tosashimizu are now officially 17. Every two years, the John Manjiro is held in Fairhaven.",
+      "prompt": "Fairhaven and Tosashimizu are now officially",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-17 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of J",
+      "prompt": "Every two years, the John Manjiro is held in Fairhaven.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. The story of John Manjiro"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q18-20"
+      "prompt": "Whitefield family house",
+      "groupId": "q18-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 18-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q18-20"
+      "prompt": "Old Oxford school",
+      "groupId": "q18-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 18-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 18-20 Label the map below. Write the correct letter A-I next to",
-      "groupId": "q18-20"
+      "prompt": "School of Navigation",
+      "groupId": "q18-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 18-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-23 Choose the correct letter A, B or C. 21. What is the main thing Julia feels she has gained from her experience in retail?",
+      "stem": "What is the main thing Julia feels she has gained from her experience in retail?",
       "options": [
         {
           "letter": "A",
@@ -184,7 +204,8 @@
           "text": "more skill in setting priorities in her work"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -204,7 +225,8 @@
           "text": "it will provide managerial training focusing on her needs"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -224,122 +246,260 @@
           "text": "stay in an academic environment"
         }
       ],
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q24-27"
+      "prompt": "Library",
+      "groupId": "q24-27",
+      "instructions": "What does each university facility have? Choose your answers from the box and write correct letter A-G next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "laboratories"
+        },
+        {
+          "letter": "B",
+          "text": "rooms for individual study"
+        },
+        {
+          "letter": "C",
+          "text": "inter-disciplinary focus"
+        },
+        {
+          "letter": "D",
+          "text": "introductory course"
+        },
+        {
+          "letter": "E",
+          "text": "purpose built premises"
+        },
+        {
+          "letter": "F",
+          "text": "cafeteria"
+        },
+        {
+          "letter": "G",
+          "text": "emphasis on creative use 24. Library 25. Computer centre 26. Photomedia 27. Time based media"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q24-27"
+      "prompt": "Computer centre",
+      "groupId": "q24-27",
+      "instructions": "What does each university facility have? Choose your answers from the box and write correct letter A-G next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "laboratories"
+        },
+        {
+          "letter": "B",
+          "text": "rooms for individual study"
+        },
+        {
+          "letter": "C",
+          "text": "inter-disciplinary focus"
+        },
+        {
+          "letter": "D",
+          "text": "introductory course"
+        },
+        {
+          "letter": "E",
+          "text": "purpose built premises"
+        },
+        {
+          "letter": "F",
+          "text": "cafeteria"
+        },
+        {
+          "letter": "G",
+          "text": "emphasis on creative use 24. Library 25. Computer centre 26. Photomedia 27. Time based media"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q24-27"
+      "prompt": "Photomedia",
+      "groupId": "q24-27",
+      "instructions": "What does each university facility have? Choose your answers from the box and write correct letter A-G next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "laboratories"
+        },
+        {
+          "letter": "B",
+          "text": "rooms for individual study"
+        },
+        {
+          "letter": "C",
+          "text": "inter-disciplinary focus"
+        },
+        {
+          "letter": "D",
+          "text": "introductory course"
+        },
+        {
+          "letter": "E",
+          "text": "purpose built premises"
+        },
+        {
+          "letter": "F",
+          "text": "cafeteria"
+        },
+        {
+          "letter": "G",
+          "text": "emphasis on creative use 24. Library 25. Computer centre 26. Photomedia 27. Time based media"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 24-27 What does each university facility have? Choose your answers from the box and write correct letter A-G next",
-      "groupId": "q24-27"
+      "prompt": "Time based media",
+      "groupId": "q24-27",
+      "instructions": "What does each university facility have? Choose your answers from the box and write correct letter A-G next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "laboratories"
+        },
+        {
+          "letter": "B",
+          "text": "rooms for individual study"
+        },
+        {
+          "letter": "C",
+          "text": "inter-disciplinary focus"
+        },
+        {
+          "letter": "D",
+          "text": "introductory course"
+        },
+        {
+          "letter": "E",
+          "text": "purpose built premises"
+        },
+        {
+          "letter": "F",
+          "text": "cafeteria"
+        },
+        {
+          "letter": "G",
+          "text": "emphasis on creative use 24. Library 25. Computer centre 26. Photomedia 27. Time based media"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": "MA in fashion design: Assessment Assessment includes three (28) which take place at the end of the stages of the degree. Final assessment is based on a project and inclu",
+      "prompt": "MA in fashion design: Assessment Assessment includes three ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. MA in fashion design: Assessment Assessment includes three"
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "assessment is based on a project and includes the students’ (29) in the form of a written report and the (30) to which representatives of fashion companies are invited. P",
+      "prompt": "take place at the end of the stages of the degree. Final assessment is based on a project and includes the students’ ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. MA in fashion design: Assessment Assessment includes three"
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 28-30 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. MA in fashion design: Assessment",
+      "prompt": "in the form of a written report and the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. MA in fashion design: Assessment Assessment includes three"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ach answer. Laughter The nature of laughter • Laughter is a (31) process – involves movement and sound • It is controlled by our (32) Reasons for laughter • Only 10% of l",
+      "prompt": "Laughter The nature of laughter • Laughter is a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ess – involves movement and sound • It is controlled by our (32) Reasons for laughter • Only 10% of laughter is caused by jokes or funny stories • May have begun as sign",
+      "prompt": "process – involves movement and sound • It is controlled by our ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "aused by jokes or funny stories • May have begun as sign of (33) after a dangerous situation • Nowadays may help to develop (34) within a group • Connected to (35) (e.g.",
+      "prompt": "Reasons for laughter • Only 10% of laughter is caused by jokes or funny stories • May have begun as sign of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "after a dangerous situation • Nowadays may help to develop (34) within a group • Connected to (35) (e.g. use of humor by politicians or bosses) • May be related to male/",
+      "prompt": "after a dangerous situation • Nowadays may help to develop ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "days may help to develop (34) within a group • Connected to (35) (e.g. use of humor by politicians or bosses) • May be related to male/ female differences (e.g. women lau",
+      "prompt": "within a group • Connected to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "(e.g. women laugh more at male speakers) • May be used in a (36) way to keep someone out of a group Benefits of laughter • Safe method for the (37) of emotions such as an",
+      "prompt": "or bosses) • May be related to male/ female differences (e.g. women laugh more at male speakers) • May be used in a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "e out of a group Benefits of laughter • Safe method for the (37) of emotions such as anger and sadness • Provides good aerobic exercise • Leads to drop in levels of stres",
+      "prompt": "way to keep someone out of a group Benefits of laughter • Safe method for the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "erobic exercise • Leads to drop in levels of stress-related (38) • Improved the (39) • Can stop (40) and improve sleep",
+      "prompt": "of emotions such as anger and sadness • Provides good aerobic exercise • Leads to drop in levels of stress-related ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "ads to drop in levels of stress-related (38) • Improved the (39) • Can stop (40) and improve sleep",
+      "prompt": "• Improved the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter •",
+      "prompt": "• Can stop ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. Laughter The nature of laughter • Laughter is a"
     }
   ],
   "answerKey": {

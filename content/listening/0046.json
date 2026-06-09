@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "e the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "e table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "ble below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "w. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 1-10 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER. (1) (2) (3) (4) (5) (6) (7) (8) (9) (10)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. According to the speaker, why is it a good time for D-I-Y painting?",
+      "stem": "According to the speaker, why is it a good time for D-I-Y painting?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "people have more free time than before"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "there was a major project to repaint public buildings"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "an automatic calculator can be downloaded from the internet"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,48 +198,187 @@
           "text": "it sells unused paint and donates the money to charity"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 15 and 16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint? A do not buy ex",
-      "groupId": "q15-16"
+      "prompt": "Question 15",
+      "groupId": "q15-16",
+      "instructions": "16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "do not buy expensive paint"
+        },
+        {
+          "letter": "B",
+          "text": "test the color before buying a lot"
+        },
+        {
+          "letter": "C",
+          "text": "choose a light color"
+        },
+        {
+          "letter": "D",
+          "text": "use water-based paint"
+        },
+        {
+          "letter": "E",
+          "text": "buy enough paint for more than one application"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 15 and 16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint? A do not buy expensive",
-      "groupId": "q15-16"
+      "prompt": "Question 16",
+      "groupId": "q15-16",
+      "instructions": "16 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about paint?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "do not buy expensive paint"
+        },
+        {
+          "letter": "B",
+          "text": "test the color before buying a lot"
+        },
+        {
+          "letter": "C",
+          "text": "choose a light color"
+        },
+        {
+          "letter": "D",
+          "text": "use water-based paint"
+        },
+        {
+          "letter": "E",
+          "text": "buy enough paint for more than one application"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation? A replace",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "replace any loose plaster"
+        },
+        {
+          "letter": "B",
+          "text": "don’t spend too long preparing surfaces"
+        },
+        {
+          "letter": "C",
+          "text": "use decorators’ soap to remove grease from walls"
+        },
+        {
+          "letter": "D",
+          "text": "wash dirty walls with warm water"
+        },
+        {
+          "letter": "E",
+          "text": "paint over cracks and small holes"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation? A replace any lo",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about preparation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "replace any loose plaster"
+        },
+        {
+          "letter": "B",
+          "text": "don’t spend too long preparing surfaces"
+        },
+        {
+          "letter": "C",
+          "text": "use decorators’ soap to remove grease from walls"
+        },
+        {
+          "letter": "D",
+          "text": "wash dirty walls with warm water"
+        },
+        {
+          "letter": "E",
+          "text": "paint over cracks and small holes"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting? A put a heat",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "put a heater in the room"
+        },
+        {
+          "letter": "B",
+          "text": "wash brushes in cold water"
+        },
+        {
+          "letter": "C",
+          "text": "use a roller with a short pile"
+        },
+        {
+          "letter": "D",
+          "text": "apply paint directly from the tin"
+        },
+        {
+          "letter": "E",
+          "text": "open doors and windows Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting? A put a heater in t",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What TWO pieces of advice does the speaker give about painting?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "put a heater in the room"
+        },
+        {
+          "letter": "B",
+          "text": "wash brushes in cold water"
+        },
+        {
+          "letter": "C",
+          "text": "use a roller with a short pile"
+        },
+        {
+          "letter": "D",
+          "text": "apply paint directly from the tin"
+        },
+        {
+          "letter": "E",
+          "text": "open doors and windows Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. 21. Why is Matthew considering a student work placement?",
+      "stem": "Why is Matthew considering a student work placement?",
       "options": [
         {
           "letter": "A",
@@ -241,7 +393,8 @@
           "text": "he want to try out a career option"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -261,7 +414,8 @@
           "text": "the individual task"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -281,7 +435,8 @@
           "text": "calculate the cost of design faults"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -301,7 +456,8 @@
           "text": "she felt she had to prove her worth"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -321,7 +477,8 @@
           "text": "team working"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -341,101 +498,220 @@
           "text": "the opportunity to use new software"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "The Science of Materials",
+      "groupId": "q27-30",
+      "instructions": "What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and write next to questions 27-30. Options",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "helpful illustrations"
+        },
+        {
+          "letter": "B",
+          "text": "easy to understand"
+        },
+        {
+          "letter": "C",
+          "text": "up to date"
+        },
+        {
+          "letter": "D",
+          "text": "comprehensive"
+        },
+        {
+          "letter": "E",
+          "text": "specialized"
+        },
+        {
+          "letter": "F",
+          "text": "useful case studies Books 27. The Science of Materials 28. Materials Engineering 29. Engineering Basics 30. Evolution of Materials Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "Materials Engineering",
+      "groupId": "q27-30",
+      "instructions": "What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and write next to questions 27-30. Options",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "helpful illustrations"
+        },
+        {
+          "letter": "B",
+          "text": "easy to understand"
+        },
+        {
+          "letter": "C",
+          "text": "up to date"
+        },
+        {
+          "letter": "D",
+          "text": "comprehensive"
+        },
+        {
+          "letter": "E",
+          "text": "specialized"
+        },
+        {
+          "letter": "F",
+          "text": "useful case studies Books 27. The Science of Materials 28. Materials Engineering 29. Engineering Basics 30. Evolution of Materials Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "Engineering Basics",
+      "groupId": "q27-30",
+      "instructions": "What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and write next to questions 27-30. Options",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "helpful illustrations"
+        },
+        {
+          "letter": "B",
+          "text": "easy to understand"
+        },
+        {
+          "letter": "C",
+          "text": "up to date"
+        },
+        {
+          "letter": "D",
+          "text": "comprehensive"
+        },
+        {
+          "letter": "E",
+          "text": "specialized"
+        },
+        {
+          "letter": "F",
+          "text": "useful case studies Books 27. The Science of Materials 28. Materials Engineering 29. Engineering Basics 30. Evolution of Materials Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and writ",
-      "groupId": "q27-30"
+      "prompt": "Evolution of Materials",
+      "groupId": "q27-30",
+      "instructions": "What does Linda think about the books on Matthew’s reading list? Choose FOUR answers from the list and write next to questions 27-30. Options",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "helpful illustrations"
+        },
+        {
+          "letter": "B",
+          "text": "easy to understand"
+        },
+        {
+          "letter": "C",
+          "text": "up to date"
+        },
+        {
+          "letter": "D",
+          "text": "comprehensive"
+        },
+        {
+          "letter": "E",
+          "text": "specialized"
+        },
+        {
+          "letter": "F",
+          "text": "useful case studies Books 27. The Science of Materials 28. Materials Engineering 29. Engineering Basics 30. Evolution of Materials Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "hides – two types Parchment Sheep skin: white in color and (31) Greasy – writing cannot be erased so often used for (32) Vellum Calf skin: most popular for prestigious w",
+      "prompt": "Animal hides – two types Parchment Sheep skin: white in color and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "nd (31) Greasy – writing cannot be erased so often used for (32) Vellum Calf skin: most popular for prestigious work because you can get (33) lettering Preparation of hid",
+      "prompt": "Greasy – writing cannot be erased so often used for ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "skin: most popular for prestigious work because you can get (33) lettering Preparation of hides: • Treated in berries of lime – where this was not available skins were (3",
+      "prompt": "Vellum Calf skin: most popular for prestigious work because you can get ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "n berries of lime – where this was not available skins were (34) (removed hair) • Stretched tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct",
+      "prompt": "lettering Preparation of hides: • Treated in berries of lime – where this was not available skins were ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "hair) • Stretched tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct color Genetic testing – finding origins Previously – analysed handwriting",
+      "prompt": "(removed hair) • Stretched tight on a frame • Scraped to create same ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "tight on a frame • Scraped to create same (35) • Vellum was (36) – for correct color Genetic testing – finding origins Previously – analysed handwriting and (37) used by",
+      "prompt": "• Vellum was ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ing – finding origins Previously – analysed handwriting and (37) used by the writer Now – using genetic data from ‘known manuscripts’ to create a (38) Uses of new data Gi",
+      "prompt": "– for correct color Genetic testing – finding origins Previously – analysed handwriting and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "w – using genetic data from ‘known manuscripts’ to create a (38) Uses of new data Gives information on individual books Shows the (39) of the book industry Helps define (",
+      "prompt": "used by the writer Now – using genetic data from ‘known manuscripts’ to create a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "of new data Gives information on individual books Shows the (39) of the book industry Helps define (40) in medieval period",
+      "prompt": "Uses of new data Gives information on individual books Shows the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment",
+      "prompt": "of the book industry Helps define ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Animal hides – two types Parchment Sheep skin: white in color and"
     }
   ],
   "answerKey": {

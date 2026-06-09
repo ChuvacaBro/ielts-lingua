@@ -40,127 +40,147 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "onal information Example: Name – Louise Taylor Nationality: (1) Date of birth: 14 December 1977 Occupation: interior designer Reason for visit: business (to buy antique (",
-      "groupId": "q1-10"
+      "prompt": "CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "nterior designer Reason for visit: business (to buy antique (2) ) Length of stay: two months Current address: (3) Apartments (No 15) Details of theft Items stolen: – a wa",
-      "groupId": "q1-10"
+      "prompt": "Date of birth: 14 December 1977 Occupation: interior designer Reason for visit: business (to buy antique ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "y antique (2) ) Length of stay: two months Current address: (3) Apartments (No 15) Details of theft Items stolen: – a wallet containing approximately (4) £ – a (5) Date o",
-      "groupId": "q1-10"
+      "prompt": "Length of stay: two months Current address: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "of theft Items stolen: – a wallet containing approximately (4) £ – a (5) Date of theft: (6) Possible time and place of theft Location: outside the (7) at about 4 pm Deta",
-      "groupId": "q1-10"
+      "prompt": "Apartments (No 15) Details of theft Items stolen: – a wallet containing approximately ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Items stolen: – a wallet containing approximately (4) £ – a (5) Date of theft: (6) Possible time and place of theft Location: outside the (7) at about 4 pm Details of sus",
-      "groupId": "q1-10"
+      "prompt": "£ – a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "allet containing approximately (4) £ – a (5) Date of theft: (6) Possible time and place of theft Location: outside the (7) at about 4 pm Details of suspect: – some boys a",
-      "groupId": "q1-10"
+      "prompt": "Date of theft: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "(6) Possible time and place of theft Location: outside the (7) at about 4 pm Details of suspect: – some boys asked for the (8) then ran off – one had a T-shirt with a pi",
-      "groupId": "q1-10"
+      "prompt": "Possible time and place of theft Location: outside the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "at about 4 pm Details of suspect: – some boys asked for the (8) then ran off – one had a T-shirt with a picture of a tiger – he was about 12, slim build with (9) hair Cri",
-      "groupId": "q1-10"
+      "prompt": "at about 4 pm Details of suspect: – some boys asked for the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "ith a picture of a tiger – he was about 12, slim build with (9) hair Crime reference number allocated – (10) Part 2:",
-      "groupId": "q1-10"
+      "prompt": "then ran off – one had a T-shirt with a picture of a tiger – he was about 12, slim build with ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: t",
-      "groupId": "q1-10"
+      "prompt": "hair Crime reference number allocated – ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer. CRIME REPORT FORM Type of crime: theft Personal information Example: Name – Louise Taylor Nationality:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 – 20 Induction talk for new apprentices",
-      "groupId": "q11-20"
+      "prompt": "Question 11",
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "Question 12",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 13,
       "type": "gapFill",
       "prompt": "Question 13",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 14,
       "type": "gapFill",
       "prompt": "Question 14",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 11 – 20 Induction talk for new apprentices",
-      "groupId": "q11-20"
+      "prompt": "Question 20",
+      "groupId": "q11-20",
+      "instructions": "Induction talk for new apprentices"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "– 25 Choose the correct letter, A, B or C. Cities built by the sea 21. Carla and Rob were surprised to learn that coastal cities",
+      "stem": "Carla and Rob were surprised to learn that coastal cities",
       "options": [
         {
           "letter": "A",
@@ -175,7 +195,8 @@
           "text": "are growing twice as fast as other cities."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Cities built by the sea"
     },
     {
       "number": 22,
@@ -195,7 +216,8 @@
           "text": "may mean the countryside is spoiled by industry."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Cities built by the sea"
     },
     {
       "number": 23,
@@ -215,7 +237,8 @@
           "text": "They did not allow for the effects of climate change."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Cities built by the sea"
     },
     {
       "number": 24,
@@ -235,7 +258,8 @@
           "text": "stop disposing of waste materials into the ocean"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Cities built by the sea"
     },
     {
       "number": 25,
@@ -255,107 +279,123 @@
           "text": "agreement on shared policies"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C. Cities built by the sea"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 26 – 30 What decision do the students make about each of the following parts of their presentation? Choose FIV",
-      "groupId": "q26-30"
+      "prompt": "Question 26",
+      "groupId": "q26-30",
+      "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26 – 30 What decision do the students make about each of the following parts of their presentation? Choose FIVE ans",
-      "groupId": "q26-30"
+      "prompt": "Question 30",
+      "groupId": "q26-30",
+      "instructions": "What decision do the students make about each of the following parts of their presentation? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy)",
+      "prompt": "Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "n’t create pollution Wave energy Advantage: waves provide a (32) source of renewable energy Electricity can be generated using offshore or onshore systems Onshore systems",
+      "prompt": "What’s needed: • renewable energy sources • methods that won’t create pollution Wave energy Advantage: waves provide a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "stems may use a reservoir Problems: • waves can move in any (33) • movement of sand, etc. on the (34) of the ocean may be affected Tidal energy Tides are more (35) than w",
+      "prompt": "be generated using offshore or onshore systems Onshore systems may use a reservoir Problems: • waves can move in any ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "waves can move in any (33) • movement of sand, etc. on the (34) of the ocean may be affected Tidal energy Tides are more (35) than waves Planned tidal lagoon in Wales: •",
+      "prompt": "• movement of sand, etc. on the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "4) of the ocean may be affected Tidal energy Tides are more (35) than waves Planned tidal lagoon in Wales: • will be created in a (36) at Swansea • breakwater (dam) conta",
+      "prompt": "of the ocean may be affected Tidal energy Tides are more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "waves Planned tidal lagoon in Wales: • will be created in a (36) at Swansea • breakwater (dam) containing 16 turbines • rising tide forces water through turbines, generat",
+      "prompt": "than waves Planned tidal lagoon in Wales: • will be created in a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": ", generating electricity • stored water is released through (37) , driving the turbines in the reverse direction Advantages: • not dependent on weather • no (38) is requi",
+      "prompt": "16 turbines • rising tide forces water through turbines, generating electricity • stored water is released through ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "verse direction Advantages: • not dependent on weather • no (38) is required to make it work • likely to create a number of (39) Problem: • may harm fish and birds, e.g.",
+      "prompt": "driving the turbines in the reverse direction Advantages: • not dependent on weather • no ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "is required to make it work • likely to create a number of (39) Problem: • may harm fish and birds, e.g. by affecting (40) and building up silt Ocean thermal energy conv",
+      "prompt": "is required to make it work • likely to create a number of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31 – 40 Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Intro",
+      "prompt": "Problem: • may harm fish and birds, e.g. by affecting ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Marine renewable energy (ocean energy) Introduction More energy required because of growth in population and"
     }
   ],
   "answerKey": {

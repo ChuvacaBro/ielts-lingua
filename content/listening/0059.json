@@ -40,210 +40,283 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Areas dealt with: (1) and north suburbs Rent: from (2) £ to £ a month Depends on: the area availability of (3) garage Properties",
-      "groupId": "q1-10"
+      "prompt": "Areas dealt with: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "s below. Areas dealt with: (1) and north suburbs Rent: from (2) £ to £ a month Depends on: the area availability of (3) garage Properties available: West Park Road rent (",
-      "groupId": "q1-10"
+      "prompt": "and north suburbs Rent: from ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "rom (2) £ to £ a month Depends on: the area availability of (3) garage Properties available: West Park Road rent (4) £ a month including (5) Tithe Road rent £380 a month",
-      "groupId": "q1-10"
+      "prompt": "£ to £ a month Depends on: the area availability of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ity of (3) garage Properties available: West Park Road rent (4) £ a month including (5) Tithe Road rent £380 a month including (6) rental Viewing arrangements: meet at of",
-      "groupId": "q1-10"
+      "prompt": "garage Properties available: West Park Road rent ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "ties available: West Park Road rent (4) £ a month including (5) Tithe Road rent £380 a month including (6) rental Viewing arrangements: meet at office on (7) at 5.00 pm N",
-      "groupId": "q1-10"
+      "prompt": "£ a month including ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "month including (5) Tithe Road rent £380 a month including (6) rental Viewing arrangements: meet at office on (7) at 5.00 pm Need: letter from bank reference from (8) Mu",
-      "groupId": "q1-10"
+      "prompt": "Tithe Road rent £380 a month including ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ncluding (6) rental Viewing arrangements: meet at office on (7) at 5.00 pm Need: letter from bank reference from (8) Must: give (9) notice of moving in give deposit of (1",
-      "groupId": "q1-10"
+      "prompt": "rental Viewing arrangements: meet at office on ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ice on (7) at 5.00 pm Need: letter from bank reference from (8) Must: give (9) notice of moving in give deposit of (10) pay for contract Part 2:",
-      "groupId": "q1-10"
+      "prompt": "at 5.00 pm Need: letter from bank reference from ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": ".00 pm Need: letter from bank reference from (8) Must: give (9) notice of moving in give deposit of (10) pay for contract Part 2:",
-      "groupId": "q1-10"
+      "prompt": "Must: give ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Areas dealt with: (1) and north suburbs Rent: from (2) £ to £ a month Depends on:",
-      "groupId": "q1-10"
+      "prompt": "notice of moving in give deposit of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Areas dealt with:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Write NO MORE THAN THREE WORDS for each answer. 11. Who is Mrs Sutton worried about? 12. What is the",
+      "prompt": "Who is Mrs Sutton worried about?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Write NO MORE THAN THREE WORDS for each answer. 11. Who is Mrs Sutton worried about? 12. What is the name f",
+      "prompt": "What is the name for a group of family doctors working in the same building together?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 13,
       "type": "formCompletion",
-      "prompt": "h (16)________patients Dr. Shaw is good with small children (13) (14) (15) (16) (17)",
+      "prompt": "Dr. Jones is good with (16) ____patients Dr. Shaw is good with small children ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good with (16)________patients Dr. Shaw is good with small children"
     },
     {
       "number": 14,
       "type": "formCompletion",
-      "prompt": ")________patients Dr. Shaw is good with small children (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good with (16)________patients Dr. Shaw is good with small children"
     },
     {
       "number": 15,
       "type": "formCompletion",
-      "prompt": "____patients Dr. Shaw is good with small children (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good with (16)________patients Dr. Shaw is good with small children"
     },
     {
       "number": 16,
       "type": "formCompletion",
-      "prompt": "atients Dr. Shaw is good with small children (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good with (16)________patients Dr. Shaw is good with small children"
     },
     {
       "number": 17,
       "type": "formCompletion",
-      "prompt": "Questions 13-17 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Dr. Jones is good with (16)________patients Dr. Shaw is good with small children"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18 Write NO MORE THAN TWO WORDS OR A NUMBER. 18. Doctors start seeing patients at the Health Centre from o’clo",
+      "prompt": "Doctors start seeing patients at the Health Centre from o’clock.",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q18-18"
+      "groupId": "q18-18",
+      "instructions": "Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19 Choose TWO letters A-E. 19. Which TWO groups of patients receive free medication? A people over 17 years ol",
-      "groupId": "q19-19"
+      "prompt": "Which TWO groups of patients receive free medication? A people over 17 years old B unemployed people C non-UK residents D people over 60 years old E pregnant women",
+      "groupId": "q19-19",
+      "instructions": "Choose TWO letters A-E.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "people over 17 years old"
+        },
+        {
+          "letter": "B",
+          "text": "unemployed people"
+        },
+        {
+          "letter": "C",
+          "text": "non-UK residents"
+        },
+        {
+          "letter": "D",
+          "text": "people over 60 years old"
+        },
+        {
+          "letter": "E",
+          "text": "pregnant women"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Question 20 Write NO MORE THAN TWO WORDS OR A NUMBER. 20. The charge for one item of medication is about £ Part 3:",
+      "prompt": "The charge for one item of medication is about £",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q20-20"
+      "groupId": "q20-20",
+      "instructions": "Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 21,
       "type": "formCompletion",
-      "prompt": "for each answer. Name: Jonathan Briggs Degree: Economic and (21) Teaching experience: Volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of sc",
+      "prompt": "Name: Jonathan Briggs Degree: Economic and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 22,
       "type": "formCompletion",
-      "prompt": "c and (21) Teaching experience: Volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subject taught: (26) Forms 1, 2 and 3 Engli",
+      "prompt": "Teaching experience: Volunteer teacher Location: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 23,
       "type": "formCompletion",
-      "prompt": "eaching experience: Volunteer teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subject taught: (26) Forms 1, 2 and 3 English Form (27)",
+      "prompt": "Dates: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 24,
       "type": "formCompletion",
-      "prompt": "teacher Location: (22) Dates: (23) Volunteer organization: (24) Type of school: (25) Subject taught: (26) Forms 1, 2 and 3 English Form (27) Agriculture science Form 6 R",
+      "prompt": "Volunteer organization: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 25,
       "type": "formCompletion",
-      "prompt": "2) Dates: (23) Volunteer organization: (24) Type of school: (25) Subject taught: (26) Forms 1, 2 and 3 English Form (27) Agriculture science Form 6 Reasons for wanting to",
+      "prompt": "Type of school: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 26,
       "type": "formCompletion",
-      "prompt": "eer organization: (24) Type of school: (25) Subject taught: (26) Forms 1, 2 and 3 English Form (27) Agriculture science Form 6 Reasons for wanting to leave in first year:",
+      "prompt": "Subject taught: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 27,
       "type": "formCompletion",
-      "prompt": "ol: (25) Subject taught: (26) Forms 1, 2 and 3 English Form (27) Agriculture science Form 6 Reasons for wanting to leave in first year: (28) – Few teaching resources Reas",
+      "prompt": "Forms 1, 2 and 3 English Form ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 28,
       "type": "formCompletion",
-      "prompt": "science Form 6 Reasons for wanting to leave in first year: (28) – Few teaching resources Reasons for wanting to extend tour: – success of cattle breeding project – Obtai",
+      "prompt": "Agriculture science Form 6 Reasons for wanting to leave in first year: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 29,
       "type": "formCompletion",
-      "prompt": "Reasons for wanting to train to teach Geography: it is his (29) It has many (30) Part 4:",
+      "prompt": "cattle breeding project – Obtained funds for farm building Reasons for wanting to train to teach Geography: it is his ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 30,
       "type": "formCompletion",
-      "prompt": "Questions 21-30 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Bri",
+      "prompt": "It has many ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Name: Jonathan Briggs Degree: Economic and"
     },
     {
       "number": 31,
+      "type": "gapFill",
+      "prompt": "Which column of the bar chart represents the figures quoted? A B C",
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "32."
+        }
+      ]
+    },
+    {
+      "number": 32,
       "type": "multipleChoice",
-      "stem": "-36 Choose the correct letter A, B or C. 31. Which column of the bar chart represents the figures quoted?",
+      "stem": "According to the speaker, the main cause of back pain in women is",
       "options": [
         {
           "letter": "A",
-          "text": "B C 32. According to the speaker, the main cause of back pain in women is A pregnancy"
+          "text": "pregnancy"
         },
         {
           "letter": "B",
@@ -254,13 +327,8 @@
           "text": "lack of exercise"
         }
       ],
-      "groupId": "q31-36"
-    },
-    {
-      "number": 32,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 32"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -280,7 +348,8 @@
           "text": "exercise routines"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
@@ -300,7 +369,8 @@
           "text": "its response to injury often results in more damage."
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 35,
@@ -320,7 +390,8 @@
           "text": "for pain lasting more than two days."
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 36,
@@ -340,31 +411,36 @@
           "text": "reduces the effectiveness of exercise."
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Choose the correct option. (37) (38) (39) (40)",
-      "groupId": "q37-40"
+      "prompt": "____",
+      "groupId": "q37-40",
+      "instructions": "Choose the correct option."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Choose the correct option. (37) (38) (39) (40)",
-      "groupId": "q37-40"
+      "prompt": "____",
+      "groupId": "q37-40",
+      "instructions": "Choose the correct option."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Choose the correct option. (37) (38) (39) (40)",
-      "groupId": "q37-40"
+      "prompt": "____",
+      "groupId": "q37-40",
+      "instructions": "Choose the correct option."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Choose the correct option. (37) (38) (39) (40)",
-      "groupId": "q37-40"
+      "prompt": "____",
+      "groupId": "q37-40",
+      "instructions": "Choose the correct option."
     }
   ],
   "answerKey": {

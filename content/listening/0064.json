@@ -40,35 +40,39 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "plete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "e the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "e notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Questions 1-4 Complete the notes below. Write ONE WORD ONLY for each answer. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 5,
       "type": "multipleChoice",
-      "stem": "-7 Choose the correct letter, A, B, or C. 5. Which of these extra services does the customer agree to do?",
+      "stem": "Which of these extra services does the customer agree to do?",
       "options": [
         {
           "letter": "A",
@@ -83,7 +87,8 @@
           "text": "Clean the glass"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 6,
@@ -103,7 +108,8 @@
           "text": "Mats"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 7,
@@ -123,30 +129,34 @@
           "text": "Clean and dry the clothes"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 8,
       "type": "sentenceCompletion",
-      "prompt": "AND/OR A NUMBER for each answer. The agent’s address is 12 (8) Road. Her house will get cleaned next (9) The maximum time of cleaning service is (10) hours Part 2:",
-      "groupId": "q8-10"
+      "prompt": "The agent’s address is 12 ____",
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. The agent’s address is 12"
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "t’s address is 12 (8) Road. Her house will get cleaned next (9) The maximum time of cleaning service is (10) hours Part 2:",
-      "groupId": "q8-10"
+      "prompt": "Road. Her house will get cleaned next ____",
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. The agent’s address is 12"
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 8-10 Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. The agent’s address is 12 (8)",
-      "groupId": "q8-10"
+      "prompt": "The maximum time of cleaning service is ____",
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write ONE WORD AND/OR A NUMBER for each answer. The agent’s address is 12"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-17 Choose the correct letter, A, B, or C. 11. The main purpose of the service is to",
+      "stem": "The main purpose of the service is to",
       "options": [
         {
           "letter": "A",
@@ -161,7 +171,8 @@
           "text": "provide people with comfort."
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 12,
@@ -181,7 +192,8 @@
           "text": "440"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 13,
@@ -201,7 +213,8 @@
           "text": "their skill at locating narcotics."
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 14,
@@ -218,16 +231,32 @@
         },
         {
           "letter": "C",
-          "text": "72,"
+          "text": "72,000."
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 15"
+      "type": "multipleChoice",
+      "stem": "People carrying items that are not allowed",
+      "options": [
+        {
+          "letter": "A",
+          "text": "will get arrested."
+        },
+        {
+          "letter": "B",
+          "text": "will be refused on board."
+        },
+        {
+          "letter": "C",
+          "text": "will be given a warning."
+        }
+      ],
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 16,
@@ -247,7 +276,8 @@
           "text": "Parcels"
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 17,
@@ -267,97 +297,267 @@
           "text": "It is passed on to higher-level authorities."
         }
       ],
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": ". The acceptable material for packing goods in Australia is (18) The belongings most of time are refused due to problems with the (19) The customs must be given notice of",
+      "prompt": "The acceptable material for packing goods in Australia is ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The acceptable material for packing goods in Australia is"
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "elongings most of time are refused due to problems with the (19) The customs must be given notice of the goods from (20) days before it arrives in Australia. Part 3:",
+      "prompt": "The belongings most of time are refused due to problems with the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The acceptable material for packing goods in Australia is"
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The acceptable material for p",
+      "prompt": "The customs must be given notice of the goods from ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. The acceptable material for packing goods in Australia is"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 21-26 Write the correct letter, A-F, next to",
-      "groupId": "q21-26"
+      "prompt": "____",
+      "groupId": "q21-26",
+      "instructions": "Write the correct letter, A-F, next to questions 21-26.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Video resource centre"
+        },
+        {
+          "letter": "B",
+          "text": "Reading room"
+        },
+        {
+          "letter": "C",
+          "text": "Food service centre"
+        },
+        {
+          "letter": "D",
+          "text": "Periodicals section"
+        },
+        {
+          "letter": "E",
+          "text": "Enquiry desk"
+        },
+        {
+          "letter": "F",
+          "text": "Satellite TV station"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "sentenceCompletion",
-      "prompt": "you need to find information on a certain book, you can use (27) check-out cards. If you want to find information in a specific field, use the (28) guides. Computers in s",
+      "prompt": "If you need to find information on a certain book, you can use ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find information on a certain book, you can use"
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "f you want to find information in a specific field, use the (28) guides. Computers in some (29) cannot be linked to the network. You can find more information in a (30) o",
+      "prompt": "check-out cards. If you want to find information in a specific field, use the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find information on a certain book, you can use"
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "in a specific field, use the (28) guides. Computers in some (29) cannot be linked to the network. You can find more information in a (30) on my desk. Part 4:",
+      "prompt": "guides. Computers in some ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find information on a certain book, you can use"
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 27-30 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find informati",
+      "prompt": "cannot be linked to the network. You can find more information in a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. If you need to find information on a certain book, you can use"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-35 Choose the correct letter, A, B, or C. 31. The student thought there were no crocodiles in Northern Africa because",
+      "stem": "The student thought there were no crocodiles in Northern Africa because",
       "options": [
         {
           "letter": "A",
@@ -372,7 +572,8 @@
           "text": "there is very little water in North Africa."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 32,
@@ -392,7 +593,8 @@
           "text": "46"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 33,
@@ -412,7 +614,8 @@
           "text": "warm, wet climates."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 34,
@@ -432,7 +635,8 @@
           "text": "underwater."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 35,
@@ -452,42 +656,48 @@
           "text": "North Africa used to be wetland but slowly turned to desert over time."
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter, A, B, or C."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "s sometimes live in places with dry periods that last up to (36) months. A hole dug by a female crocodile in which to lay eggs can have a (37) of up to 60 cm. Local peopl",
+      "prompt": "Desert crocodiles sometimes live in places with dry periods that last up to ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodiles sometimes live in places with dry periods that last up to"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "e dug by a female crocodile in which to lay eggs can have a (37) of up to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate th",
+      "prompt": "months. A hole dug by a female crocodile in which to lay eggs can have a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodiles sometimes live in places with dry periods that last up to"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "y eggs can have a (37) of up to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate their habitat. Researchers want to study mor",
+      "prompt": "of up to 60 cm. Local people are not ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodiles sometimes live in places with dry periods that last up to"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "to 60 cm. Local people are not (38) crocodiles. Crocodiles (39) out of fear when humans populate their habitat. Researchers want to study more about population size, (40",
+      "prompt": "crocodiles. Crocodiles ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodiles sometimes live in places with dry periods that last up to"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 36-40 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodil",
+      "prompt": "out of fear when humans populate their habitat. Researchers want to study more about population size, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Desert crocodiles sometimes live in places with dry periods that last up to"
     }
   ],
   "answerKey": {

@@ -40,147 +40,167 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "RDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address: (1) , Greendale Contact number: (2) Size of car engine: 1200cc Type of car: Manufacturer: Hewton Model: (3) Ye",
+      "prompt": "CAR INSURANCE Name: Patrick Jones Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "ame: Patrick Jones Address: (1) , Greendale Contact number: (2) Size of car engine: 1200cc Type of car: Manufacturer: Hewton Model: (3) Year: 1997 Previous insurance comp",
+      "prompt": "Greendale Contact number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "car engine: 1200cc Type of car: Manufacturer: Hewton Model: (3) Year: 1997 Previous insurance company: (4) Any insurance claims in the last five year? Yes If yes, give br",
+      "prompt": "Size of car engine: 1200cc Type of car: Manufacturer: Hewton Model: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "r: Hewton Model: (3) Year: 1997 Previous insurance company: (4) Any insurance claims in the last five year? Yes If yes, give brief details: Car was (5) in 1999 Name(s) of",
+      "prompt": "Year: 1997 Previous insurance company: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "the last five year? Yes If yes, give brief details: Car was (5) in 1999 Name(s) of other driver(s): Simon (6) Relationship to main driver: (7) Uses of car: Social and (8)",
+      "prompt": "Any insurance claims in the last five year? Yes If yes, give brief details: Car was ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "ails: Car was (5) in 1999 Name(s) of other driver(s): Simon (6) Relationship to main driver: (7) Uses of car: Social and (8) Start date: 31st January Recommended insuranc",
+      "prompt": "in 1999 Name(s) of other driver(s): Simon ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "of other driver(s): Simon (6) Relationship to main driver: (7) Uses of car: Social and (8) Start date: 31st January Recommended insurance arrangement: Name of company: (",
+      "prompt": "Relationship to main driver: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "6) Relationship to main driver: (7) Uses of car: Social and (8) Start date: 31st January Recommended insurance arrangement: Name of company: (9) Annual Cost: (10) $ Part",
+      "prompt": "Uses of car: Social and ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "January Recommended insurance arrangement: Name of company: (9) Annual Cost: (10) $ Part 2:",
+      "prompt": "Start date: 31st January Recommended insurance arrangement: Name of company: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Addr",
+      "prompt": "Annual Cost: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. CAR INSURANCE Name: Patrick Jones Address:"
     },
     {
       "number": 11,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 11 and 12 Label the map below. Write NO MORE THAN TWO WORDS. (11) (12)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Label the map below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 12,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 11 and 12 Label the map below. Write NO MORE THAN TWO WORDS. (11) (12)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-12"
+      "groupId": "q11-12",
+      "instructions": "12 Label the map below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "w. Write NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "Questions 13-18 Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (13) (14) (15) (16) (17) (18)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q13-18"
+      "groupId": "q13-18",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. How often do the Top Bus Company",
+      "prompt": "How often do the Top Bus Company tours run?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 19. How often do the Top Bus Company tours",
+      "prompt": "Where can you catch a Number One Sightseeing Tour from?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. 21. The Antarctic Centre was established in Christchurch because",
+      "stem": "The Antarctic Centre was established in Christchurch because",
       "options": [
         {
           "letter": "A",
@@ -195,7 +215,8 @@
           "text": "the climate of Christchurch is suitable"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -215,7 +236,8 @@
           "text": "ensure that research is internationally relevant"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -235,7 +257,8 @@
           "text": "show people what Antarctica is like"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -255,7 +278,8 @@
           "text": "too cold for tourists"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -275,7 +299,8 @@
           "text": "it is an extremely dry continent"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -295,36 +320,85 @@
           "text": "it is very close to South America"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "Questions 27 and 28 Complete the table below. Write ONE WORD OR TWO NUMBERS. (27) (28)",
-      "groupId": "q27-28"
+      "prompt": "____",
+      "groupId": "q27-28",
+      "instructions": "28 Complete the table below. Write ONE WORD OR TWO NUMBERS."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "Questions 27 and 28 Complete the table below. Write ONE WORD OR TWO NUMBERS. (27) (28)",
-      "groupId": "q27-28"
+      "prompt": "____",
+      "groupId": "q27-28",
+      "instructions": "28 Complete the table below. Write ONE WORD OR TWO NUMBERS."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO achievements of the Antarctic Treaty are mentioned by the speakers",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO achievements of the Antarctic Treaty are mentioned by the speakers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "no military use"
+        },
+        {
+          "letter": "B",
+          "text": "animals protected"
+        },
+        {
+          "letter": "C",
+          "text": "historic sites reserved"
+        },
+        {
+          "letter": "D",
+          "text": "no nuclear testing"
+        },
+        {
+          "letter": "E",
+          "text": "fishing rites protected Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO achievements of the Antarctic Treaty are mentioned by the speakers? A no",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO achievements of the Antarctic Treaty are mentioned by the speakers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "no military use"
+        },
+        {
+          "letter": "B",
+          "text": "animals protected"
+        },
+        {
+          "letter": "C",
+          "text": "historic sites reserved"
+        },
+        {
+          "letter": "D",
+          "text": "no nuclear testing"
+        },
+        {
+          "letter": "E",
+          "text": "fishing rites protected Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-35 Choose the correct letter A, B or C. Left and Right Handedness in Sport 31. Anita first felt the Matthews article was of value when she realised",
+      "stem": "Anita first felt the Matthews article was of value when she realised",
       "options": [
         {
           "letter": "A",
@@ -339,7 +413,8 @@
           "text": "the impressive size of his research project"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter A, B or C. Left and Right Handedness in Sport"
     },
     {
       "number": 32,
@@ -359,7 +434,8 @@
           "text": "developing suitable training programmes for sportspeople"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter A, B or C. Left and Right Handedness in Sport"
     },
     {
       "number": 33,
@@ -379,16 +455,17 @@
           "text": "underestimate what science has to offer sport"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter A, B or C. Left and Right Handedness in Sport"
     },
     {
       "number": 34,
       "type": "multipleChoice",
-      "stem": "A German study showed there was greater ‘mixed handedness’ in musicians who",
+      "stem": "Question 34",
       "options": [
         {
           "letter": "A",
-          "text": "started playing instruments in early youth"
+          "text": "German study showed there was greater ‘mixed handedness’ in musicians who A started playing instruments in early youth"
         },
         {
           "letter": "B",
@@ -399,7 +476,8 @@
           "text": "practise a great deal on their instrument"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter A, B or C. Left and Right Handedness in Sport"
     },
     {
       "number": 35,
@@ -419,42 +497,48 @@
           "text": "more apes are left-handed than right-handed"
         }
       ],
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Choose the correct letter A, B or C. Left and Right Handedness in Sport"
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN TWO WORDS OR A NUMBER. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "w. Write NO MORE THAN TWO WORDS OR A NUMBER. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     }
   ],
   "answerKey": {

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. Type of job required: Part-time",
+      "prompt": "Type of job required: Part-time Student in studying ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. Type of job required: Part-time Student in studying"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. Type of job required: Part-time Studen",
+      "prompt": "Student is in the ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN THREE WORDS OR A NUMBER. Type of job required: Part-time Student in studying"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "3-5 Complete the table below. Write NO MORE THAN TWO WORDS. (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "Complete the table below. Write NO MORE THAN TWO WORDS. (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 3-5 Complete the table below. Write NO MORE THAN TWO WORDS. (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q3-5"
+      "groupId": "q3-5",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "form below. Write NO MORE THAN THREE WORDS OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "ow. Write NO MORE THAN THREE WORDS OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 6-10 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY 11. On the holiday, you will be walking for",
+      "stem": "On the holiday, you will be walking for",
       "options": [
         {
           "letter": "A",
@@ -125,16 +135,38 @@
           "text": "10 days"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY"
     },
     {
       "number": 12,
+      "type": "gapFill",
+      "prompt": "What proportion of the sponsorship money goes to charity? A B C",
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "6 days"
+        },
+        {
+          "letter": "B",
+          "text": "8 days"
+        },
+        {
+          "letter": "C",
+          "text": "10 days 12."
+        }
+      ]
+    },
+    {
+      "number": 13,
       "type": "multipleChoice",
-      "stem": "What proportion of the sponsorship money goes to charity?",
+      "stem": "Each walker’s sponsorship money goes to one",
       "options": [
         {
           "letter": "A",
-          "text": "B C 13. Each walker’s sponsorship money goes to one A student"
+          "text": "student"
         },
         {
           "letter": "B",
@@ -145,13 +177,8 @@
           "text": "school"
         }
       ],
-      "groupId": "q11-16"
-    },
-    {
-      "number": 13,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 13"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY"
     },
     {
       "number": 14,
@@ -171,7 +198,8 @@
           "text": "already very fit"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY"
     },
     {
       "number": 15,
@@ -191,7 +219,8 @@
           "text": "none of your belongings"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY"
     },
     {
       "number": 16,
@@ -211,105 +240,190 @@
           "text": "carving wood"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B or C. SPONSORED WALKING HOLIDAY"
     },
     {
       "number": 17,
       "type": "formCompletion",
-      "prompt": "estions 17-20 Complete the form below. Write ONE WORD ONLY. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the form below. Write ONE WORD ONLY."
     },
     {
       "number": 18,
       "type": "formCompletion",
-      "prompt": "ns 17-20 Complete the form below. Write ONE WORD ONLY. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the form below. Write ONE WORD ONLY."
     },
     {
       "number": 19,
       "type": "formCompletion",
-      "prompt": "-20 Complete the form below. Write ONE WORD ONLY. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the form below. Write ONE WORD ONLY."
     },
     {
       "number": 20,
       "type": "formCompletion",
-      "prompt": "Questions 17-20 Complete the form below. Write ONE WORD ONLY. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the form below. Write ONE WORD ONLY."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "Questions 21 and 22 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. OCEAN RESEARCH The Robotic Float",
+      "prompt": "OCEAN RESEARCH The Robotic Float Project • Float is shaped like a ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. OCEAN RESEARCH The Robotic Float Project • Float is shaped like a"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "Questions 21 and 22 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. OCEAN RESEARCH The Robotic Float Projec",
+      "prompt": "• Scientists from ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. OCEAN RESEARCH The Robotic Float Project • Float is shaped like a"
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "-25 Complete the diagram below. Write ONE WORD OR A NUMBER. (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the diagram below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "omplete the diagram below. Write ONE WORD OR A NUMBER. (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the diagram below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 23-25 Complete the diagram below. Write ONE WORD OR A NUMBER. (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the diagram below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q26-30"
+      "prompt": "understanding of El Nino",
+      "groupId": "q26-30",
+      "instructions": "In what time period can data from the float projects help with the following things? Write the correct letter A, B or C next to questions 26-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "At present"
+        },
+        {
+          "letter": "B",
+          "text": "In the near future"
+        },
+        {
+          "letter": "C",
+          "text": "In the long term future Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q26-30"
+      "prompt": "understanding of climate change",
+      "groupId": "q26-30",
+      "instructions": "In what time period can data from the float projects help with the following things? Write the correct letter A, B or C next to questions 26-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "At present"
+        },
+        {
+          "letter": "B",
+          "text": "In the near future"
+        },
+        {
+          "letter": "C",
+          "text": "In the long term future Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q26-30"
+      "prompt": "naval rescues",
+      "groupId": "q26-30",
+      "instructions": "In what time period can data from the float projects help with the following things? Write the correct letter A, B or C next to questions 26-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "At present"
+        },
+        {
+          "letter": "B",
+          "text": "In the near future"
+        },
+        {
+          "letter": "C",
+          "text": "In the long term future Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q26-30"
+      "prompt": "sustainable fishing practices",
+      "groupId": "q26-30",
+      "instructions": "In what time period can data from the float projects help with the following things? Write the correct letter A, B or C next to questions 26-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "At present"
+        },
+        {
+          "letter": "B",
+          "text": "In the near future"
+        },
+        {
+          "letter": "C",
+          "text": "In the long term future Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 In what time period can data from the float projects help with the following things? Write the correct lett",
-      "groupId": "q26-30"
+      "prompt": "crop selection A At present B In the near future C In the long term future",
+      "groupId": "q26-30",
+      "instructions": "In what time period can data from the float projects help with the following things? Write the correct letter A, B or C next to questions 26-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "At present"
+        },
+        {
+          "letter": "B",
+          "text": "In the near future"
+        },
+        {
+          "letter": "C",
+          "text": "In the long term future Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-34 Choose the correct letter A, B or C. Hotels and Tourist Industry 31. According to the speaker, how might a guest feel when staying in a luxury hotel?",
+      "stem": "According to the speaker, how might a guest feel when staying in a luxury hotel?",
       "options": [
         {
           "letter": "A",
@@ -324,7 +438,8 @@
           "text": "concerned at the high costs"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Hotels and Tourist Industry"
     },
     {
       "number": 32,
@@ -344,7 +459,8 @@
           "text": "offer an individual and personal welcome"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Hotels and Tourist Industry"
     },
     {
       "number": 33,
@@ -364,7 +480,8 @@
           "text": "exotic holiday hotels"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Hotels and Tourist Industry"
     },
     {
       "number": 34,
@@ -384,49 +501,56 @@
           "text": "It has no effect whatsoever"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Hotels and Tourist Industry"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "uxury serviced apartments aims to: • cater specifically for (35) travellers • provide a stylish (36) for guests to use • set a trend throughout the (37) which becomes per",
+      "prompt": "A company providing luxury serviced apartments aims to: • cater specifically for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "cater specifically for (35) travellers • provide a stylish (36) for guests to use • set a trend throughout the (37) which becomes permanent Traditional holiday hotels at",
+      "prompt": "travellers • provide a stylish ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "stylish (36) for guests to use • set a trend throughout the (37) which becomes permanent Traditional holiday hotels attract people by: • offering the chance to (38) their",
+      "prompt": "for guests to use • set a trend throughout the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "holiday hotels attract people by: • offering the chance to (38) their ordinary routine life • making sure that they are cared for in all respects – like a (39) • leaving",
+      "prompt": "which becomes permanent Traditional holiday hotels attract people by: • offering the chance to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "aking sure that they are cared for in all respects – like a (39) • leaving small treats in their rooms – e.g. cosmetics or (40)",
+      "prompt": "their ordinary routine life • making sure that they are cared for in all respects – like a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 35-40 Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • ca",
+      "prompt": "• leaving small treats in their rooms – e.g. cosmetics or ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. A company providing luxury serviced apartments aims to: • cater specifically for"
     }
   ],
   "answerKey": {

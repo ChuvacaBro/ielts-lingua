@@ -40,73 +40,139 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "ach answer. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "prompt": "Budget accommodation in Queenstown, New Zealand ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "answer. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "er. Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "Budget accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "et accommodation in Queenstown, New Zealand (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation i",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Budget accommodation in Queenstown, New Zealand"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Question 7",
-      "groupId": "q7-10"
+      "prompt": "bungee jump",
+      "groupId": "q7-10",
+      "instructions": "Who wants to do each of the activities below?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "only Jacinta"
+        },
+        {
+          "letter": "B",
+          "text": "only Lewis"
+        },
+        {
+          "letter": "C",
+          "text": "both Jacinta and Lewis Write the correct letter A, B or C next to questions 7-10 7. bungee jump 8. white-water rafting 9. jet-boat ride 10. trekking on wilderness trail Part 2:"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 8",
-      "groupId": "q7-10"
+      "prompt": "white-water rafting",
+      "groupId": "q7-10",
+      "instructions": "Who wants to do each of the activities below?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "only Jacinta"
+        },
+        {
+          "letter": "B",
+          "text": "only Lewis"
+        },
+        {
+          "letter": "C",
+          "text": "both Jacinta and Lewis Write the correct letter A, B or C next to questions 7-10 7. bungee jump 8. white-water rafting 9. jet-boat ride 10. trekking on wilderness trail Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Question 9",
-      "groupId": "q7-10"
+      "prompt": "jet-boat ride",
+      "groupId": "q7-10",
+      "instructions": "Who wants to do each of the activities below?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "only Jacinta"
+        },
+        {
+          "letter": "B",
+          "text": "only Lewis"
+        },
+        {
+          "letter": "C",
+          "text": "both Jacinta and Lewis Write the correct letter A, B or C next to questions 7-10 7. bungee jump 8. white-water rafting 9. jet-boat ride 10. trekking on wilderness trail Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 7-10 Who wants to do each of the activities below? A only Jacinta B only Lewis C both Jacinta and Lewis Write th",
-      "groupId": "q7-10"
+      "prompt": "trekking on wilderness trail",
+      "groupId": "q7-10",
+      "instructions": "Who wants to do each of the activities below?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "only Jacinta"
+        },
+        {
+          "letter": "B",
+          "text": "only Lewis"
+        },
+        {
+          "letter": "C",
+          "text": "both Jacinta and Lewis Write the correct letter A, B or C next to questions 7-10 7. bungee jump 8. white-water rafting 9. jet-boat ride 10. trekking on wilderness trail Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. Jack says that in London these days many people",
+      "stem": "Jack says that in London these days many people",
       "options": [
         {
           "letter": "A",
@@ -121,7 +187,8 @@
           "text": "take too many risks when cycling"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -138,90 +205,130 @@
         },
         {
           "letter": "C",
-          "text": "teaching them basic skills on quiet roads first. 13 Jack works with some advanced cyclists who want to develop A international competitive riding skills. B knowledge of advanced equipment. C confidence in complex road systems. 14 CitiCyclist supports the view that cyclists should A have separate sections of the road from motor traffic. B always wear protective clothing when cycling. C know how to ride confidently on busy roads."
+          "text": "teaching them basic skills on quiet roads first."
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 13"
+      "type": "multipleChoice",
+      "stem": "Jack works with some advanced cyclists who want to develop",
+      "options": [
+        {
+          "letter": "A",
+          "text": "international competitive riding skills."
+        },
+        {
+          "letter": "B",
+          "text": "knowledge of advanced equipment."
+        },
+        {
+          "letter": "C",
+          "text": "confidence in complex road systems."
+        }
+      ],
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 14"
+      "type": "multipleChoice",
+      "stem": "CitiCyclist supports the view that cyclists should",
+      "options": [
+        {
+          "letter": "A",
+          "text": "have separate sections of the road from motor traffic."
+        },
+        {
+          "letter": "B",
+          "text": "always wear protective clothing when cycling."
+        },
+        {
+          "letter": "C",
+          "text": "know how to ride confidently on busy roads."
+        }
+      ],
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "s services. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "List THREE types of organizations for which CitiCyclist provides services. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "vices. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "List THREE types of organizations for which CitiCyclist provides services. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 15-17 List THREE types of organizations for which CitiCyclist provides services. Write NO MORE THAN THREE WORDS f",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "List THREE types of organizations for which CitiCyclist provides services. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "for each answer. Website address: citicyclist.co.uk Phone: (18) Cost (single person): (19) per person Usual length of course: (20) except complete beginners) Part 3:",
+      "prompt": "Website address: citicyclist.co.uk Phone: ____",
       "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND OR A NUMBER for each answer. Website address: citicyclist.co.uk Phone:"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "ddress: citicyclist.co.uk Phone: (18) Cost (single person): (19) per person Usual length of course: (20) except complete beginners) Part 3:",
+      "prompt": "Cost (single person): ____",
       "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND OR A NUMBER for each answer. Website address: citicyclist.co.uk Phone:"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 18-20 Complete the notes below. Write NO MORE THAN THREE WORDS AND OR A NUMBER for each answer. Website address:",
+      "prompt": "per person Usual length of course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS AND OR A NUMBER",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND OR A NUMBER for each answer. Website address: citicyclist.co.uk Phone:"
     },
     {
       "number": 21,
       "type": "shortAnswer",
-      "prompt": "ions below. Write NO MORE THAN THREE WORDS for each answer. 21. What do Sharon and Xiao Li agree was the strongest aspect of their presentation? 22. Which part of their p",
+      "prompt": "What do Sharon and Xiao Li agree was the strongest aspect of their presentation?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "shortAnswer",
-      "prompt": "ao Li agree was the strongest aspect of their presentation? 22. Which part of their presentation was Xiao Li least happy with? 23. Which section does Sharon feel they sho",
+      "prompt": "Which part of their presentation was Xiao Li least happy with?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "shortAnswer",
-      "prompt": "Questions 21-23 Answer the questions below. Write NO MORE THAN THREE WORDS for each answer. 21. What do Sharon and Xiao Li",
+      "prompt": "Which section does Sharon feel they should have discussed in more depth?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "multipleChoice",
-      "stem": "-27 Choose the correct letters A-C. 24. Sharon and Xiao Li were surprised when the class said",
+      "stem": "Sharon and Xiao Li were surprised when the class said",
       "options": [
         {
           "letter": "A",
@@ -236,7 +343,8 @@
           "text": "their talk was not well organised."
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letters A-C."
     },
     {
       "number": 25,
@@ -256,7 +364,8 @@
           "text": "use of eye contact."
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letters A-C."
     },
     {
       "number": 26,
@@ -276,104 +385,133 @@
           "text": "the background reading was more extensive"
         }
       ],
-      "groupId": "q24-27"
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letters A-C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 27"
+      "prompt": "Which bar chart represents the marks given by the tutor? A B C",
+      "groupId": "q24-27",
+      "instructions": "Choose the correct letters A-C.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they spoke too quickly."
+        },
+        {
+          "letter": "B",
+          "text": "they included too much information."
+        },
+        {
+          "letter": "C",
+          "text": "their talk was not well organised."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "rite ONE WORD ONLY for each answer. The tutor says that the (28) of the presentation seemed rather sudden. The tutor praises the students’ discussion of the (29) of their",
+      "prompt": "The tutor says that the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. The tutor says that the"
     },
     {
       "number": 29,
       "type": "sentenceCompletion",
-      "prompt": "r sudden. The tutor praises the students’ discussion of the (29) of their results. The tutor suggests that they could extend the (30) review in their report. Part 4:",
+      "prompt": "of the presentation seemed rather sudden. The tutor praises the students’ discussion of the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. The tutor says that the"
     },
     {
       "number": 30,
       "type": "sentenceCompletion",
-      "prompt": "Questions 28-30 Complete the sentences below. Write ONE WORD ONLY for each answer. The tutor says that the (28) of the pres",
+      "prompt": "of their results. The tutor suggests that they could extend the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer. The tutor says that the"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "World Health Organisation says a healthy city must • have a (31) and environment. • meet the (32) of all its inhabitants. • provide easily accessible health services. • e",
+      "prompt": "The World Health Organisation says a healthy city must • have a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. The World Health Organisation says a healthy city must • have a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "healthy city must • have a (31) and environment. • meet the (32) of all its inhabitants. • provide easily accessible health services. • encourage ordinary people to take",
+      "prompt": "and environment. • meet the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. The World Health Organisation says a healthy city must • have a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "Questions 31-33 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. The World Health Organisation say",
+      "prompt": "of all its inhabitants. • provide easily accessible health services. • encourage ordinary people to take part in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. The World Health Organisation says a healthy city must • have a"
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 34-40 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (34) (35) (36) (37) (38) (39) (40",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

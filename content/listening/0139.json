@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of accoun",
+      "prompt": "Type of account: deposit account Name of account decided on: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "it account Name of account decided on: (1) Customer’s name: (2) Date of birth: (3) / / 1970 Current address: 10, (4) , South Quay Duration of time living there: about (5)",
+      "prompt": "Customer’s name: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "account decided on: (1) Customer’s name: (2) Date of birth: (3) / / 1970 Current address: 10, (4) , South Quay Duration of time living there: about (5) Address (before):",
+      "prompt": "Date of birth: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "name: (2) Date of birth: (3) / / 1970 Current address: 10, (4) , South Quay Duration of time living there: about (5) Address (before): Flat 3 Canada House, (6) , Edinbur",
+      "prompt": "/ / 1970 Current address: 10, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": ": 10, (4) , South Quay Duration of time living there: about (5) Address (before): Flat 3 Canada House, (6) , Edinburgh Office number: 02072356735 Home number: (7) Occupat",
+      "prompt": "South Quay Duration of time living there: about ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "ing there: about (5) Address (before): Flat 3 Canada House, (6) , Edinburgh Office number: 02072356735 Home number: (7) Occupation: (8) Identity (security): Name of his (",
+      "prompt": "Address (before): Flat 3 Canada House, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "se, (6) , Edinburgh Office number: 02072356735 Home number: (7) Occupation: (8) Identity (security): Name of his (9) : Monica The account opening sum: (10) Part 2:",
+      "prompt": "Edinburgh Office number: 02072356735 Home number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "rgh Office number: 02072356735 Home number: (7) Occupation: (8) Identity (security): Name of his (9) : Monica The account opening sum: (10) Part 2:",
+      "prompt": "Occupation: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "umber: (7) Occupation: (8) Identity (security): Name of his (9) : Monica The account opening sum: (10) Part 2:",
+      "prompt": "Identity (security): Name of his ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1 – 10 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: d",
+      "prompt": "Monica The account opening sum: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Type of account: deposit account Name of account decided on:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. Jonathan Owen bought the house in 1965 as it was built in the way of",
+      "stem": "Jonathan Owen bought the house in 1965 as it was built in the way of",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "the traditional Middle Ages of the Britain"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "a supervisor of accounting"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "public relations"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,189 +198,216 @@
           "text": "the back yard"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "shortAnswer",
-      "prompt": "Questions 15 and 16 Answer the questions below. Write NO MORE THAN TWO WORDS for each answer. 15. What did Owen’s brothe",
+      "prompt": "What did Owen’s brother study in Paris?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-16"
+      "groupId": "q15-16",
+      "instructions": "16 Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "shortAnswer",
-      "prompt": "Questions 15 and 16 Answer the questions below. Write NO MORE THAN TWO WORDS for each answer. 15. What did Owen’s brother study",
+      "prompt": "What is the two hundred-year-old tree?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-16"
+      "groupId": "q15-16",
+      "instructions": "16 Answer the questions below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 17. You can find the shop between the path and 18. In the snack bar, you will be able to rest and get 19. Thro",
+      "prompt": "You can find the shop between the path and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "each answer. 17. You can find the shop between the path and 18. In the snack bar, you will be able to rest and get 19. Through there is a beautiful walk. 20. Both and are",
+      "prompt": "In the snack bar, you will be able to rest and get",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "and 18. In the snack bar, you will be able to rest and get 19. Through there is a beautiful walk. 20. Both and are the local products that are promoted and marketed ever",
+      "prompt": "Through there is a beautiful walk.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 17-20 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 17. You can find the shop bet",
+      "prompt": "Both and are the local products that are promoted and marketed every year with a variety of events and festivals.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "Questions 21-24 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (21) (22) (23) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "summaryCompletion",
-      "prompt": "NUMBER for each answer. Of the countries chosen, ceramic of (25) is a unique kind that the researchers are interested in. On (26) of ceramic, the decoration is compared w",
+      "prompt": "Of the countries chosen, ceramic of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 26,
       "type": "summaryCompletion",
-      "prompt": "is a unique kind that the researchers are interested in. On (26) of ceramic, the decoration is compared with artwork of the present time. The natives made the ceramic fro",
+      "prompt": "is a unique kind that the researchers are interested in. On ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 27,
       "type": "summaryCompletion",
-      "prompt": "work of the present time. The natives made the ceramic from (27) , like mountain, basement, and the bottom of the lake. From (28) plants, the natives made various colors",
+      "prompt": "of ceramic, the decoration is compared with artwork of the present time. The natives made the ceramic from ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 28,
       "type": "summaryCompletion",
-      "prompt": ", like mountain, basement, and the bottom of the lake. From (28) plants, the natives made various colors through a process of (29) The tones of ceramic were used by (30)",
+      "prompt": "like mountain, basement, and the bottom of the lake. From ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 29,
       "type": "summaryCompletion",
-      "prompt": "lants, the natives made various colors through a process of (29) The tones of ceramic were used by (30) Part 4:",
+      "prompt": "plants, the natives made various colors through a process of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 30,
       "type": "summaryCompletion",
-      "prompt": "Questions 25-30 Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries",
+      "prompt": "The tones of ceramic were used by ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Of the countries chosen, ceramic of"
     },
     {
       "number": 31,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 31. Only of people collect waste. 32. By 2012, waste emissions need to be lower than in 2000. 33. Local counci",
+      "prompt": "Only of people collect waste.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 32,
       "type": "sentenceCompletion",
-      "prompt": "A NUMBER for each answer. 31. Only of people collect waste. 32. By 2012, waste emissions need to be lower than in 2000. 33. Local councils are able to aid achievements wi",
+      "prompt": "By 2012, waste emissions need to be lower than in 2000.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 33,
       "type": "sentenceCompletion",
-      "prompt": "32. By 2012, waste emissions need to be lower than in 2000. 33. Local councils are able to aid achievements with two solutions involving the and local flea markets. 34. A",
+      "prompt": "Local councils are able to aid achievements with two solutions involving the and local flea markets.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 34,
       "type": "sentenceCompletion",
-      "prompt": "ts with two solutions involving the and local flea markets. 34. A flea market, sometimes referred to as is a local small market where people can buy and sell cheap or sec",
+      "prompt": "A flea market, sometimes referred to as is a local small market where people can buy and sell cheap or second-hand products.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 35,
       "type": "sentenceCompletion",
-      "prompt": "here people can buy and sell cheap or second-hand products. 35. One critical problem of carrying out questionnaires is that they are deficient in both and 36. In England,",
+      "prompt": "One critical problem of carrying out questionnaires is that they are deficient in both and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "Questions 31-36 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 31. Only of",
+      "prompt": "In England, of waste (e.g. electronic and furniture goods) is recycled in the flea markets each year.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "summaryCompletion",
-      "prompt": "WO WORDS AND/ OR A NUMBER for each answer. Less than 15% of (37) are collected in England, where as Europe collects (38) and (39) collects 80%. To protect the quality of",
+      "prompt": "Less than 15% of ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Less than 15% of"
     },
     {
       "number": 38,
       "type": "summaryCompletion",
-      "prompt": "of (37) are collected in England, where as Europe collects (38) and (39) collects 80%. To protect the quality of the office paper, a union, called (40) sells waste paper",
+      "prompt": "are collected in England, where as Europe collects ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Less than 15% of"
     },
     {
       "number": 39,
       "type": "summaryCompletion",
-      "prompt": "are collected in England, where as Europe collects (38) and (39) collects 80%. To protect the quality of the office paper, a union, called (40) sells waste paper that has",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Less than 15% of"
     },
     {
       "number": 40,
       "type": "summaryCompletion",
-      "prompt": "Questions 37-40 Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Less than 15% of",
+      "prompt": "collects 80%. To protect the quality of the office paper, a union, called ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Less than 15% of"
     }
   ],
   "answerKey": {

@@ -40,272 +40,493 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "and Craft Workshops • Adults must accompany children under (1) • Cost: £2.50 • Workshops held in: Winter House, (2) Street • Security device: must push the (3) to open d",
+      "prompt": "Children’s Art and Craft Workshops • Adults must accompany children under ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and Craft Workshops • Adults must accompany children under"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "rkshops • Adults must accompany children under (1) • Cost: £2.50 • Workshops held in: Winter House, (2) Street • Security device: must push the (3) to open door • Should",
+      "prompt": "50 • Workshops held in: Winter House, (2) Street • Security device: must push the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and Craft Workshops • Adults must accompany children under"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": ": Winter House, (2) Street • Security device: must push the (3) to open door • Should leave car behind the (4) • Book workshops by phoning the (5) (on 200765)",
+      "prompt": "50 • Workshops held in: Winter House, (2) Street • Security device: must push the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and Craft Workshops • Adults must accompany children under"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ust push the (3) to open door • Should leave car behind the (4) • Book workshops by phoning the (5) (on 200765)",
+      "prompt": "to open door • Should leave car behind the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and Craft Workshops • Adults must accompany children under"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and C",
+      "prompt": "• Book workshops by phoning the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. Children’s Art and Craft Workshops • Adults must accompany children under"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 6-10 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "WO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATION 11. Local services depart from railway station. 12. National services depart from the railway station. 13. Tra",
+      "prompt": "Local services depart from railway station.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATION"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "INFORMATION 11. Local services depart from railway station. 12. National services depart from the railway station. 13. Trains for London depart every each day during the",
+      "prompt": "National services depart from the railway station.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATION"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "ion. 12. National services depart from the railway station. 13. Trains for London depart every each day during the week. 14. The price of a first class ticket includes",
+      "prompt": "Trains for London depart every each day during the week.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATION"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-14 Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATI",
+      "prompt": "The price of a first class ticket includes",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. TRAIN INFORMATION"
     },
     {
       "number": 15,
       "type": "formCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "formCompletion",
-      "prompt": "O MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "formCompletion",
-      "prompt": "Questions 15-17 Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Which THREE attractions can you visit at present by train from Trebirch?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a science museum"
+        },
+        {
+          "letter": "B",
+          "text": "a theme park"
+        },
+        {
+          "letter": "C",
+          "text": "a climbing wall"
+        },
+        {
+          "letter": "D",
+          "text": "a mining museum"
+        },
+        {
+          "letter": "E",
+          "text": "an aquarium"
+        },
+        {
+          "letter": "F",
+          "text": "a castle"
+        },
+        {
+          "letter": "G",
+          "text": "a zoo Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Which THREE attractions can you visit at present by train from Trebirch?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a science museum"
+        },
+        {
+          "letter": "B",
+          "text": "a theme park"
+        },
+        {
+          "letter": "C",
+          "text": "a climbing wall"
+        },
+        {
+          "letter": "D",
+          "text": "a mining museum"
+        },
+        {
+          "letter": "E",
+          "text": "an aquarium"
+        },
+        {
+          "letter": "F",
+          "text": "a castle"
+        },
+        {
+          "letter": "G",
+          "text": "a zoo Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Which THREE attractions can you visit at present by train from Trebirch? A a science museum B a theme park",
-      "groupId": "q18-20"
+      "prompt": "Question 20",
+      "groupId": "q18-20",
+      "instructions": "Which THREE attractions can you visit at present by train from Trebirch?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a science museum"
+        },
+        {
+          "letter": "B",
+          "text": "a theme park"
+        },
+        {
+          "letter": "C",
+          "text": "a climbing wall"
+        },
+        {
+          "letter": "D",
+          "text": "a mining museum"
+        },
+        {
+          "letter": "E",
+          "text": "an aquarium"
+        },
+        {
+          "letter": "F",
+          "text": "a castle"
+        },
+        {
+          "letter": "G",
+          "text": "a zoo Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "formCompletion",
-      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "formCompletion",
-      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "formCompletion",
-      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "formCompletion",
-      "prompt": "THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "formCompletion",
-      "prompt": "WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 26,
       "type": "formCompletion",
-      "prompt": "S AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "formCompletion",
-      "prompt": "/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "formCompletion",
-      "prompt": "NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "formCompletion",
-      "prompt": "ER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "formCompletion",
-      "prompt": "Questions 21-30 Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31-37 31. Some photographs of a horse running showed A all feet off the ground B at least one foot on the ground C t",
-      "groupId": "q31-37"
+      "prompt": "Some photographs of a horse running showed A all feet off the ground B at least one foot on the ground C two feet off the ground",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "B at least one foot on the ground C two feet off the ground 32. The Scotsman employed by Edison A designed a system to use the technology Edison had invited B used availa",
-      "groupId": "q31-37"
+      "prompt": "The Scotsman employed by Edison A designed a system to use the technology Edison had invited B used available technology to make a new system C was already an expert in motion picture technology",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "system C was already an expert in motion picture technology 33. One major problem with the first system was that A only one person could be filmed B people could only see",
-      "groupId": "q31-37"
+      "prompt": "One major problem with the first system was that A only one person could be filmed B people could only see very short films C the camera was very heavy",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "could only see very short films C the camera was very heavy 34. Rival systems started to appear in Europe after people had A been told about the American system B seen th",
-      "groupId": "q31-37"
+      "prompt": "Rival systems started to appear in Europe after people had A been told about the American system B seen the American system C used the American system",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "ystem B seen the American system C used the American system 35. In 1895, a famous new system was developed by A a French team working alone B a Fernch and German team wor",
-      "groupId": "q31-37"
+      "prompt": "In 1895, a famous new system was developed by A a French team working alone B a Fernch and German team working together C a German team who invented the word ‘cinema’",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "ing together C a German team who invented the word ‘cinema’ 36. Longer filmes were not made at the time because of problems involving A the subject matters B the camera C",
-      "groupId": "q31-37"
+      "prompt": "Longer filmes were not made at the time because of problems involving A the subject matters B the camera C the film projector",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 31-37 31. Some photographs of a horse running showed A all feet off the ground B at least one foot on the ground",
-      "groupId": "q31-37"
+      "prompt": "The ‘Lantham Loop’ invention relied on A removing tension between the film reels B adding three more films reels to the system C making one of the film reels more effective",
+      "groupId": "q31-37",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all feet off the ground"
+        },
+        {
+          "letter": "B",
+          "text": "at least one foot on the ground"
+        },
+        {
+          "letter": "C",
+          "text": "two feet off the ground 32."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 38. The first motion picture was called The 39. were used for the first time on film in 1926. 40. Subtitles we",
+      "prompt": "The first motion picture was called The",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "or each answer. 38. The first motion picture was called The 39. were used for the first time on film in 1926. 40. Subtitles were added to The Lights of New York because o",
+      "prompt": "were used for the first time on film in 1926.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 38-40 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 38. The first motion picture",
+      "prompt": "Subtitles were added to The Lights of New York because of its",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

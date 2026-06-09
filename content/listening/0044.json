@@ -40,48 +40,54 @@
     {
       "number": 1,
       "type": "sentenceCompletion",
-      "prompt": "Question 1 Complete the sentence below. Write NO MORE THAN TWO WORDS. Mr. White is a personnel manager 1. Ms. Jones got",
+      "prompt": "Ms. Jones got to the interview",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-1"
+      "groupId": "q1-1",
+      "instructions": "Complete the sentence below. Write NO MORE THAN TWO WORDS. Mr. White is a personnel manager"
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "answer. Personal details of applicant Full name: Penny Ann (2) Citizenship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email",
+      "prompt": "Personal details of applicant Full name: Penny Ann ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q2-5"
+      "groupId": "q2-5",
+      "instructions": "Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details of applicant Full name: Penny Ann"
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "details of applicant Full name: Penny Ann (2) Citizenship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email address: jenny27@",
+      "prompt": "Citizenship: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q2-5"
+      "groupId": "q2-5",
+      "instructions": "Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details of applicant Full name: Penny Ann"
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "nship: (3) Date of birth: Jan 3, 1980 Address: Flat 502, 56 (4) Oxford Home phone number: (5) Email address: jenny27@hotmail.com",
+      "prompt": "Date of birth: Jan 3, 1980 Address: Flat 502, 56 ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q2-5"
+      "groupId": "q2-5",
+      "instructions": "Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details of applicant Full name: Penny Ann"
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 2-5 Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details",
+      "prompt": "Oxford Home phone number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q2-5"
+      "groupId": "q2-5",
+      "instructions": "Complete the following form. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Personal details of applicant Full name: Penny Ann"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Question 6 Complete the following sentence with THREE WORDS. 6. Ms Jones has a degree in",
-      "groupId": "q6-6"
+      "prompt": "Ms Jones has a degree in",
+      "groupId": "q6-6",
+      "instructions": "Complete the following sentence with THREE WORDS."
     },
     {
       "number": 7,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A-C. 7. Ms Jones says",
+      "stem": "Ms Jones says",
       "options": [
         {
           "letter": "A",
@@ -96,232 +102,398 @@
           "text": "her parents helped her to select her major"
         }
       ],
-      "groupId": "q7-7"
+      "groupId": "q7-7",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "stions 8-10 Write NO MORE THAN THREE WORDS for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr White call companies’ threats of job losses? 10. What",
+      "prompt": "Where is Ms Jones applying for a job?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "S for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr White call companies’ threats of job losses? 10. What does Ms Jones say can help companies red",
+      "prompt": "What does Mr White call companies’ threats of job losses?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Write NO MORE THAN THREE WORDS for each answer. 8. Where is Ms Jones applying for a job? 9. What does Mr Wh",
+      "prompt": "What does Ms Jones say can help companies reduce costs?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "tress will first tell her visitors about her kindergarten’s (11) and (12) Maria Montessori is an (13)",
+      "prompt": "The headmistress will first tell her visitors about her kindergarten’s ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. The headmistress will first tell her visitors about her kindergarten’s"
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "l first tell her visitors about her kindergarten’s (11) and (12) Maria Montessori is an (13)",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. The headmistress will first tell her visitors about her kindergarten’s"
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 11-13 Complete the following sentences with NO MORE THAN THREE WORDS for each answer. The headmistress will first",
+      "prompt": "Maria Montessori is an ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. The headmistress will first tell her visitors about her kindergarten’s"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "ing with toys and other things can help children to develop (14) She says things like (15) and (16) should be seen as valuable resources.",
+      "prompt": "The headmistress says playing with toys and other things can help children to develop ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The headmistress says playing with toys and other things can help children to develop"
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "ings can help children to develop (14) She says things like (15) and (16) should be seen as valuable resources.",
+      "prompt": "She says things like ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The headmistress says playing with toys and other things can help children to develop"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 14-16 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The headmistress says playing",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-16"
+      "groupId": "q14-16",
+      "instructions": "Complete the following sentences with NO MORE THAN TWO WORDS for each answer. The headmistress says playing with toys and other things can help children to develop"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the (17) and B is the (18)",
+      "prompt": "On this map of school, A is the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-18"
+      "groupId": "q17-18",
+      "instructions": "18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the (17) and B is the (18)",
+      "prompt": "and B is the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-18"
+      "groupId": "q17-18",
+      "instructions": "18 Write NO MORE THAN TWO WORDS for each answer. On this map of school, A is the"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 19. The headmistress",
+      "prompt": "The headmistress says getting dirty in the garden is good for the children’s",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer. 19. The headmistress says g",
+      "prompt": "There are inside the cupboard of the first classroom",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the following sentences. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Why was Jill late? A she was busy doing something for Harry and Bob B she ne",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Why was Jill late?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "she was busy doing something for Harry and Bob"
+        },
+        {
+          "letter": "B",
+          "text": "she needed to eat breakfast"
+        },
+        {
+          "letter": "C",
+          "text": "she had a problem with a shoe"
+        },
+        {
+          "letter": "D",
+          "text": "she had too many phone calls"
+        },
+        {
+          "letter": "E",
+          "text": "because of traffic jams"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters A-E. Why was Jill late? A she was busy doing something for Harry and Bob B she needed to",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters A-E. Why was Jill late?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "she was busy doing something for Harry and Bob"
+        },
+        {
+          "letter": "B",
+          "text": "she needed to eat breakfast"
+        },
+        {
+          "letter": "C",
+          "text": "she had a problem with a shoe"
+        },
+        {
+          "letter": "D",
+          "text": "she had too many phone calls"
+        },
+        {
+          "letter": "E",
+          "text": "because of traffic jams"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Answer the following questions in NO MORE THAN THREE WORDS. 23. Where does Jill say Bob and Harry go every night? 24. What does Jill say Bob and Harry should do first? 25",
+      "prompt": "Where does Jill say Bob and Harry go every night?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Answer the following questions in NO MORE THAN THREE WORDS."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "ORDS. 23. Where does Jill say Bob and Harry go every night? 24. What does Jill say Bob and Harry should do first? 25. What does Jill consider her suggestions as?",
+      "prompt": "What does Jill say Bob and Harry should do first?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Answer the following questions in NO MORE THAN THREE WORDS."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 23-25 Answer the following questions in NO MORE THAN THREE WORDS. 23. Where does Jill say Bob and Harry go every",
+      "prompt": "What does Jill consider her suggestions as?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Answer the following questions in NO MORE THAN THREE WORDS."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "h answer. For a few weeks, Jill wants Harry and Bob to stop (26) and (27) Jill wants the other two to (28) timetable as soon as she leaves them.",
+      "prompt": "For a few weeks, Jill wants Harry and Bob to stop ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. For a few weeks, Jill wants Harry and Bob to stop"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "For a few weeks, Jill wants Harry and Bob to stop (26) and (27) Jill wants the other two to (28) timetable as soon as she leaves them.",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. For a few weeks, Jill wants Harry and Bob to stop"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 26-28 Complete the following sentences with NO MORE THAN THREE WORDS for each answer. For a few weeks, Jill wants",
+      "prompt": "Jill wants the other two to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer. For a few weeks, Jill wants Harry and Bob to stop"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "Choose TWO letters A-F. Jill says",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the time for reviewing is limited"
+        },
+        {
+          "letter": "B",
+          "text": "when reviewing, it is best to take a five minute break every hour"
+        },
+        {
+          "letter": "C",
+          "text": "when reviewing, one should walk around once an hour"
+        },
+        {
+          "letter": "D",
+          "text": "reviewing separately is not a good idea"
+        },
+        {
+          "letter": "E",
+          "text": "Harry and Bob should question each other regularly while reviewing Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29-30 Choose TWO letters A-F. Jill says A the time for reviewing is limited B when reviewing, it is best to take",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "Choose TWO letters A-F. Jill says",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the time for reviewing is limited"
+        },
+        {
+          "letter": "B",
+          "text": "when reviewing, it is best to take a five minute break every hour"
+        },
+        {
+          "letter": "C",
+          "text": "when reviewing, one should walk around once an hour"
+        },
+        {
+          "letter": "D",
+          "text": "reviewing separately is not a good idea"
+        },
+        {
+          "letter": "E",
+          "text": "Harry and Bob should question each other regularly while reviewing Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "OR A NUMBER for each answer. Data collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with in",
+      "prompt": "Data collected on the town of: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data collected on the town of:"
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": ". Data collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with income over £50,000: (34) No.",
+      "prompt": "Number of households: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data collected on the town of:"
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "a collected on the town of: (31) Number of households: (32) (33) : 31,000 Average annual household income: £83,000 No. of families with income over £50,000: (34) No. of f",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data collected on the town of:"
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "d income: £83,000 No. of families with income over £50,000: (34) No. of families surveyed: (35)",
+      "prompt": "31,000 Average annual household income: £83,000 No. of families with income over £50,000: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data collected on the town of:"
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 31-35 Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data",
+      "prompt": "No. of families surveyed: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Fill in the blanks on the following form. Use NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Data collected on the town of:"
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "ed in the second and third years after the school opens are (36) and (37) And one of the most important facilities required by most parents is a (38)",
+      "prompt": "Two types of facilities that are planned to be added in the second and third years after the school opens are ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Two types of facilities that are planned to be added in the second and third years after the school opens are"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "second and third years after the school opens are (36) and (37) And one of the most important facilities required by most parents is a (38)",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Two types of facilities that are planned to be added in the second and third years after the school opens are"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "Questions 36-38 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Two types of facilities that ar",
+      "prompt": "And one of the most important facilities required by most parents is a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-38"
+      "groupId": "q36-38",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Two types of facilities that are planned to be added in the second and third years after the school opens are"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-E. According to the talk which of the following are right? A the club does not",
-      "groupId": "q39-40"
+      "prompt": "Question 39",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-E. According to the talk which of the following are right?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the club does not need a large golf practice range"
+        },
+        {
+          "letter": "B",
+          "text": "the range is close to the site of the proposed school"
+        },
+        {
+          "letter": "C",
+          "text": "the parents insist on no computer games"
+        },
+        {
+          "letter": "D",
+          "text": "the parents want a cafeteria selling fast food to save students’ time"
+        },
+        {
+          "letter": "E",
+          "text": "musical instruments are included in the budget"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 39 and 40 Choose TWO letters A-E. According to the talk which of the following are right? A the club does not need a",
-      "groupId": "q39-40"
+      "prompt": "Question 40",
+      "groupId": "q39-40",
+      "instructions": "40 Choose TWO letters A-E. According to the talk which of the following are right?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the club does not need a large golf practice range"
+        },
+        {
+          "letter": "B",
+          "text": "the range is close to the site of the proposed school"
+        },
+        {
+          "letter": "C",
+          "text": "the parents insist on no computer games"
+        },
+        {
+          "letter": "D",
+          "text": "the parents want a cafeteria selling fast food to save students’ time"
+        },
+        {
+          "letter": "E",
+          "text": "musical instruments are included in the budget"
+        }
+      ]
     }
   ],
   "answerKey": {

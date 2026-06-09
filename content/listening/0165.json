@@ -40,141 +40,161 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "RAMME Visit places which have: • historical interest • good (1) • (2) Cost: between £5.00 and £15.00 per person Note: special trips organised for groups of (3) people Tim",
+      "prompt": "NOTES ON SOCIAL PROGRAMME Visit places which have: • historical interest • good ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. NOTES ON SOCIAL PROGRAMME Visit places which have: • historical interest • good"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Visit places which have: • historical interest • good (1) • (2) Cost: between £5.00 and £15.00 per person Note: special trips organised for groups of (3) people Time: dep",
+      "prompt": "• ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. NOTES ON SOCIAL PROGRAMME Visit places which have: • historical interest • good"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "5.00 per person Note: special trips organised for groups of (3) people Time: departure – 8.30 a.m and return – 6.00 p.m. To reserve a seat: sign name on the (4) 3 days in",
+      "prompt": "Cost: between £5.00 and £15.00 per person Note: special trips organised for groups of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. NOTES ON SOCIAL PROGRAMME Visit places which have: • historical interest • good"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Questions 1-4 Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. NOTES ON SOCIAL PRO",
+      "prompt": "people Time: departure – 8.30 a.m and return – 6.00 p.m. To reserve a seat: sign name on the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. NOTES ON SOCIAL PROGRAMME Visit places which have: • historical interest • good"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "stions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 5-10 Complete the table given below. (5) (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q5-10"
+      "prompt": "____",
+      "groupId": "q5-10",
+      "instructions": "Complete the table given below."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "D/OR A NUMBER for each answer. RIVERSIDE INDUSTRIAL VILLAGE 11. Riverside Village was a good place to start an industry because it had water, raw materials and fuels such",
+      "prompt": "Riverside Village was a good place to start an industry because it had water, raw materials and fuels such as and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. RIVERSIDE INDUSTRIAL VILLAGE"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "y because it had water, raw materials and fuels such as and 12. The metal industry was established at Riverside Village by who lived in the area. 13. There were over wate",
+      "prompt": "The metal industry was established at Riverside Village by who lived in the area.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. RIVERSIDE INDUSTRIAL VILLAGE"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-13 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. RIVERSIDE IND",
+      "prompt": "There were over water-powered mills in the area in the eighteenth century.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. RIVERSIDE INDUSTRIAL VILLAGE"
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "he plan below using NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "an below using NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "low using NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "sing NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "RE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 14-20 Complete the plan below using NO MORE THAN TWO WORDS for each answer. (14) (15) (16) (17) (18) (19) (20) Pa",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q14-20"
+      "groupId": "q14-20",
+      "instructions": "Complete the plan below using NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "and 22 Choose the correct letter, A, B or C. 21. Melanie says she has not started the assignment because",
+      "stem": "Melanie says she has not started the assignment because",
       "options": [
         {
           "letter": "A",
@@ -189,7 +209,8 @@
           "text": "she hasn’t spent time in the library."
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -209,125 +230,294 @@
           "text": "personal illness or accident."
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q23-27"
+      "prompt": "Jackson",
+      "groupId": "q23-27",
+      "instructions": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "must read"
+        },
+        {
+          "letter": "B",
+          "text": "useful"
+        },
+        {
+          "letter": "C",
+          "text": "limited value"
+        },
+        {
+          "letter": "D",
+          "text": "read first section"
+        },
+        {
+          "letter": "E",
+          "text": "read research methods"
+        },
+        {
+          "letter": "F",
+          "text": "read conclusion"
+        },
+        {
+          "letter": "G",
+          "text": "don’t read"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q23-27"
+      "prompt": "Roberts",
+      "groupId": "q23-27",
+      "instructions": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "must read"
+        },
+        {
+          "letter": "B",
+          "text": "useful"
+        },
+        {
+          "letter": "C",
+          "text": "limited value"
+        },
+        {
+          "letter": "D",
+          "text": "read first section"
+        },
+        {
+          "letter": "E",
+          "text": "read research methods"
+        },
+        {
+          "letter": "F",
+          "text": "read conclusion"
+        },
+        {
+          "letter": "G",
+          "text": "don’t read"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q23-27"
+      "prompt": "Morris",
+      "groupId": "q23-27",
+      "instructions": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "must read"
+        },
+        {
+          "letter": "B",
+          "text": "useful"
+        },
+        {
+          "letter": "C",
+          "text": "limited value"
+        },
+        {
+          "letter": "D",
+          "text": "read first section"
+        },
+        {
+          "letter": "E",
+          "text": "read research methods"
+        },
+        {
+          "letter": "F",
+          "text": "read conclusion"
+        },
+        {
+          "letter": "G",
+          "text": "don’t read"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q23-27"
+      "prompt": "Cooper",
+      "groupId": "q23-27",
+      "instructions": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "must read"
+        },
+        {
+          "letter": "B",
+          "text": "useful"
+        },
+        {
+          "letter": "C",
+          "text": "limited value"
+        },
+        {
+          "letter": "D",
+          "text": "read first section"
+        },
+        {
+          "letter": "E",
+          "text": "read research methods"
+        },
+        {
+          "letter": "F",
+          "text": "read conclusion"
+        },
+        {
+          "letter": "G",
+          "text": "don’t read"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 23-27 What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and",
-      "groupId": "q23-27"
+      "prompt": "Forster A must read B useful C limited value D read first section E read research methods F read conclusion G don’t read",
+      "groupId": "q23-27",
+      "instructions": "What recommendations does Dr Johnson make about the journal articles? Choose your answers from the box and write the letters A–G next to questions 23–27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "must read"
+        },
+        {
+          "letter": "B",
+          "text": "useful"
+        },
+        {
+          "letter": "C",
+          "text": "limited value"
+        },
+        {
+          "letter": "D",
+          "text": "read first section"
+        },
+        {
+          "letter": "E",
+          "text": "read research methods"
+        },
+        {
+          "letter": "F",
+          "text": "read conclusion"
+        },
+        {
+          "letter": "G",
+          "text": "don’t read"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q28-30"
+      "prompt": "____",
+      "groupId": "q28-30",
+      "instructions": "Label the chart below. Choose your answers from the box below and write the letters A–H next to questions 28–30."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q28-30"
+      "prompt": "____",
+      "groupId": "q28-30",
+      "instructions": "Label the chart below. Choose your answers from the box below and write the letters A–H next to questions 28–30."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Label the chart below. Choose your answers from the box below and write the letters A–H next to",
-      "groupId": "q28-30"
+      "prompt": "____",
+      "groupId": "q28-30",
+      "instructions": "Label the chart below. Choose your answers from the box below and write the letters A–H next to questions 28–30."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "t of vegetation on the urban climate • ways of planning our (31) better Large-scale impact of trees: • they can make cities more or less (32) • in summer they can make ci",
+      "prompt": "THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "-scale impact of trees: • they can make cities more or less (32) • in summer they can make cities cooler • they can make inland cities more (33) Local impact of trees: •",
+      "prompt": "better Large-scale impact of trees: • they can make cities more or less ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "y can make cities cooler • they can make inland cities more (33) Local impact of trees: • they can make local areas – more (34) – cooler – more humid – less windy – less",
+      "prompt": "• in summer they can make cities cooler • they can make inland cities more ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": ") Local impact of trees: • they can make local areas – more (34) – cooler – more humid – less windy – less (35) Comparing trees and buildings Temperature regulation: • tr",
+      "prompt": "Local impact of trees: • they can make local areas – more ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "areas – more (34) – cooler – more humid – less windy – less (35) Comparing trees and buildings Temperature regulation: • trees evaporate water through their (36) • buildi",
+      "prompt": "– cooler – more humid – less windy – less ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "mperature regulation: • trees evaporate water through their (36) • building surfaces may reach high temperatures Wind force: • tall buildings cause more wind at (37) leve",
+      "prompt": "Comparing trees and buildings Temperature regulation: • trees evaporate water through their ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "emperatures Wind force: • tall buildings cause more wind at (37) level • trees (38) the wind force Noise: • trees have a small effect on traffic noise • (39) frequency no",
+      "prompt": "• building surfaces may reach high temperatures Wind force: • tall buildings cause more wind at ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "rce: • tall buildings cause more wind at (37) level • trees (38) the wind force Noise: • trees have a small effect on traffic noise • (39) frequency noise passes through",
+      "prompt": "level • trees ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "force Noise: • trees have a small effect on traffic noise • (39) frequency noise passes through trees Important points to consider: • trees require a lot of sunlight, wat",
+      "prompt": "the wind force Noise: • trees have a small effect on traffic noise • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of foc",
+      "prompt": "frequency noise passes through trees Important points to consider: • trees require a lot of sunlight, water and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below using NO MORE THAN TWO WORDS for each answer. THE URBAN LANDSCAPE Two areas of focus: • the effect of vegetation on the urban climate • ways of planning our"
     }
   ],
   "answerKey": {

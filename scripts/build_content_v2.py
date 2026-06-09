@@ -26,6 +26,7 @@ import argparse
 import json
 import re
 import shutil
+from datetime import datetime, timezone
 from glob import glob
 from pathlib import Path
 
@@ -42,6 +43,16 @@ if not V2.exists():
     
 CONTENT = ROOT / "content"
 PUBLIC_AUDIO = ROOT / "public" / "audio"
+
+# Source MP3s are named "{n}_we.mp3". Prefer v2/audio, fall back to the
+# scraper's output dir at the repo root (ielts-crack/audio).
+AUDIO_SRC = V2 / "audio"
+if not (AUDIO_SRC.exists() and any(AUDIO_SRC.glob("*.mp3"))):
+    for cand in (ROOT.parent / "audio", ROOT.parent.parent / "audio"):
+        if cand.exists() and any(cand.glob("*.mp3")):
+            AUDIO_SRC = cand
+            break
+print("AUDIO_SRC", AUDIO_SRC)
 
 # ---- question classification (shared with the HTML parser) -----------------
 
@@ -75,7 +86,7 @@ WORD_LIMIT_RE = re.compile(
     r"NO MORE THAN TWO WORDS AND/?OR A NUMBER|TWO WORDS? AND/OR A NUMBER)",
     re.I,
 )
-HEADER_RE = re.compile(r"Questions?\s+(\d+)\s*(?:and|–|-|to|,|&)\s*(\d+)|Question\s+(\d+)", re.I)
+HEADER_RE = re.compile(r"Questions?\s+(\d+)\s*(?:and|to|or|through|[-–—~,&])\s*(\d+)|Question\s+(\d+)", re.I)
 
 
 def classify(text: str):
@@ -89,53 +100,221 @@ def clean(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+def norm_blanks(s: str) -> str:
+    """Dotted blank lines ('………', '....') → a single '____' placeholder."""
+    return re.sub(r"(?:\.{2,}|…+)(?:\s*\.{2,}|\s*…+)*", " ____ ", s)
+
+
+def tidy_prompt(s: str) -> str:
+    s = clean(s)
+    s = re.sub(r"^[\s.):,;…-]+", "", s)        # stray leading punctuation
+    # trailing rubric clause that ran into the last item ("… Write NO MORE THAN …")
+    s = re.sub(r"\s*(?:Write|Choose|Answer)\s+(?:NO MORE THAN|ONE WORD|FIVE|THREE|TWO)\b.*$", "", s, flags=re.I)
+    s = re.sub(r"____(?:\s*[.,;:]+)+", "____", s)    # drop punctuation glued to a blank
+    s = re.sub(r"(?:\s*____){2,}", " ____", s)       # collapse repeated blanks
+    return s.strip()
+
+
 def parse_mcq(chunk: str, lo: int, hi: int):
-    """Extract MC questions; tolerant of A./A)/A formats. Falls back to gapFill if no options."""
+    """Extract MC questions. Each numbered item ('1 stem A … B … C … D …') is
+    split first, then its options. Items are delimited by 'N ' markers (this
+    dataset rarely uses 'N.'), so reuse split_items rather than a monolithic
+    regex. Returns only the items that look like MCQs; caller falls back."""
+    items = split_items(chunk, lo, hi)
     out = []
-    pat = re.compile(
-        r"(\d+)[.)]?\s*(.+?)\s*\bA[.)\s]\s*(.+?)\s*\bB[.)\s]\s*(.+?)\s*\bC[.)\s]\s*(.+?)"
-        r"(?=\s*\d+[.)]\s|\s*Part\s|\s*Questions?\s|$)",
-        re.S,
-    )
-    for m in pat.finditer(chunk):
-        n = int(m.group(1))
-        if lo <= n <= hi:
-            out.append({
-                "number": n, "type": "multipleChoice",
-                "stem": clean(m.group(2)),
-                "options": [
-                    {"letter": "A", "text": clean(m.group(3))},
-                    {"letter": "B", "text": clean(m.group(4))},
-                    {"letter": "C", "text": clean(m.group(5))},
-                ],
-            })
+    for n in range(lo, hi + 1):
+        it = items.get(n)
+        if not it or not it["after"]:
+            continue
+        opts, ostart = parse_letter_options(it["after"])
+        if len(opts) < 2:
+            continue
+        stem = clean(it["after"][:ostart])
+        out.append({
+            "number": n, "type": "multipleChoice",
+            "stem": stem or f"Question {n}",
+            "options": [{"letter": o["letter"], "text": o["text"]} for o in opts],
+        })
     return out
 
 
+# A question marker: an optionally-parenthesised 1–2 digit number sitting on a
+# token boundary. The leading `(?<!\d)` stops us matching the interior of long
+# runs like phone numbers ("01273512634") or years.
+ITEM_MARK = re.compile(r"(?<!\d)(\()?\s*(\d{1,2})\s*(\))?(?=[.\s):]|$)")
+# A line that is pure rubric/instruction, never per-item content.
+INSTR_LINE = re.compile(
+    r"^\s*(Questions?\s+\d|Part\s+\d|You should spend|Complete\b|Write\b|Choose\b|"
+    r"Answer the\b|Label\b|Match\b|Do the following|In boxes|Use the information|NB\b)",
+    re.I,
+)
+# Self-references to question/answer-sheet numbers ("Questions 25-26",
+# "in boxes 25 and 26") — NOT per-item markers; ignore them when locating items.
+REF_RE = re.compile(
+    r"(?:in\s+)?(?:boxes?|questions?)\s+\d+(?:\s*(?:and|or|to|[-–,&])\s*\d+)?",
+    re.I,
+)
+# Instruction that runs inline (no newline) up to a recognisable end cue.
+HEADER_SENT = re.compile(
+    r"^\s*Questions?\s+.*?"
+    r"(for each answer\.?|write:?|below[.:]?|following[^.]*\.|letters?\s+[A-J](?:\s*[-–]\s*[A-J])?)",
+    re.I,
+)
+
+
+def strip_header(chunk: str, lo: int | None = None, hi: int | None = None) -> str:
+    """Drop leading rubric lines ('Questions N–M', 'Complete the notes…',
+    'Write NO MORE THAN…') so they never leak into per-item prompts — they
+    already live on the part's `instructions`. A rubric line that also carries
+    the group's items (the scraper often flattens them onto one line) is kept,
+    so the items survive."""
+    lines = chunk.split("\n")
+    i = 0
+    while i < len(lines) and INSTR_LINE.match(lines[i]):
+        if lo is not None:
+            rest = REF_RE.sub(" ", lines[i])  # ignore "Questions/boxes N–M" self-refs
+            if first_item_offset(rest, lo, hi) >= 0:
+                break
+        i += 1
+    body = "\n".join(lines[i:]) if i else chunk
+    # Same-line rubric (instruction and items share one line, no newline).
+    m = HEADER_SENT.match(body)
+    return body[m.end():] if m else body
+
+
+def split_items(chunk: str, lo: int, hi: int) -> dict:
+    """Locate each question number lo..hi in order and return, per number, the
+    text immediately before it (the label, for inline `(N)` blanks) and after it
+    (the statement/sentence, for leading `N.` items)."""
+    body = norm_blanks(strip_header(chunk, lo, hi))
+    expected = lo
+    marks = []  # (n, start, end, is_paren)
+    for m in ITEM_MARK.finditer(body):
+        if int(m.group(2)) == expected:
+            marks.append((expected, m.start(), m.end(), bool(m.group(1))))
+            expected += 1
+            if expected > hi:
+                break
+
+    out: dict[int, dict] = {}
+    for i, (n, s, e, paren) in enumerate(marks):
+        prev_end = marks[i - 1][2] if i > 0 else 0
+        next_start = marks[i + 1][1] if i + 1 < len(marks) else len(body)
+        after = clean(body[e:next_start])
+        after = re.sub(r"^[.):\s]+", "", after)                 # leftover "." after "1."
+        after = re.sub(r"\s*Part\s+\d+\s*:?\s*$", "", after, flags=re.I)  # trailing part header
+        out[n] = {"before": clean(body[prev_end:s]), "after": after, "paren": paren}
+    return out
+
+
+def _label_tail(text: str, limit: int = 120) -> str:
+    """Keep the trailing, most-relevant part of a label/lead-in."""
+    if len(text) <= limit:
+        return text
+    cut = text[-limit:]
+    sp = cut.find(" ")
+    return "… " + (cut[sp + 1:] if sp != -1 else cut)
+
+
 def parse_statements(chunk: str, lo: int, hi: int, typ: str):
+    items = split_items(chunk, lo, hi)
     out = []
-    for m in re.finditer(r"(?<![A-Za-z])(\d+)[\s.)]+([^\n]+?)(?=\s*\d+[\s.)]|\s*Questions?\s|$)", chunk):
-        n = int(m.group(1))
-        if lo <= n <= hi:
-            out.append({"number": n, "type": typ, "statement": clean(m.group(2))})
+    for n in range(lo, hi + 1):
+        it = items.get(n)
+        statement = tidy_prompt(it["after"]) if it else ""
+        out.append({"number": n, "type": typ, "statement": statement or f"Statement {n}"})
     return out
 
 
 def parse_gapfills(chunk: str, lo: int, hi: int, typ: str, word_limit):
+    items = split_items(chunk, lo, hi)
     out = []
-    flat = clean(chunk)
     for n in range(lo, hi + 1):
-        m = re.search(rf"\(?\b{n}\)?[.:\s]", flat)
-        prompt = ""
-        if m:
-            start = max(0, m.start() - 60)
-            end = min(len(flat), m.start() + 110)
-            prompt = flat[start:end].strip()
-        q = {"number": n, "type": typ, "prompt": prompt or f"Question {n}"}
+        it = items.get(n)
+        if not it:
+            prompt = f"Question {n}"
+        elif it["paren"]:
+            # inline blank: label precedes the (N) marker
+            prompt = tidy_prompt(_label_tail(it["before"]) + " ____")
+        else:
+            # leading-number item: the sentence/question follows the marker
+            prompt = tidy_prompt(it["after"]) or tidy_prompt(_label_tail(it["before"]) + " ____")
+        q = {"number": n, "type": typ, "prompt": prompt}
         if word_limit:
             q["wordLimit"] = word_limit
         out.append(q)
     return out
+
+
+LETTER_MARK = re.compile(r"(?<![A-Za-z(])([A-J])[.)\s]")
+BANK_TYPES = {"gapFill", "summaryCompletion", "matchFeatures", "matchHeadings",
+              "matchEndings", "matchInfo"}
+# Marker for an answer whose question was never published in the source page
+# (confirmed absent from all archive snapshots). Such tests are hidden.
+SOURCE_MISSING_NOTE = ("This question was not included in the source text; "
+                       "only its answer is available (shown in review).")
+
+
+def is_incomplete(out: dict) -> bool:
+    """True if any question is a source-missing placeholder."""
+    return any(
+        q.get("groupId") == "qfallback"
+        or (q.get("instructions") or "") == SOURCE_MISSING_NOTE
+        for q in out["questions"]
+    )
+
+
+def parse_letter_options(text: str):
+    """Parse a sequential 'A … B … C …' option list. Returns (options, start)
+    where start is the char offset of 'A' (or -1 if there is no real list)."""
+    marks = []
+    for m in LETTER_MARK.finditer(text):
+        if m.group(1) == chr(ord("A") + len(marks)):
+            marks.append((m.group(1), m.start(), m.end()))
+    if len(marks) < 3:
+        return [], -1
+    opts = []
+    for i, (letter, _s, e) in enumerate(marks):
+        nxt = marks[i + 1][1] if i + 1 < len(marks) else len(text)
+        opts.append({"letter": letter, "text": clean(text[e:nxt])})
+    return opts, marks[0][1]
+
+
+def first_item_offset(body: str, lo: int, hi: int) -> int:
+    expected = lo
+    for m in ITEM_MARK.finditer(body):
+        if int(m.group(2)) == expected:
+            return m.start()
+    return -1
+
+
+def group_meta(chunk: str, lo: int, hi: int):
+    """Shared rubric + option bank for a question group (so list/diagram/
+    choose-letter questions that have no per-item text still make sense)."""
+    body = strip_header(chunk, lo, hi)
+    rubric = re.sub(r"^\s*Questions?\s+\d+\s*(?:and|to|[-–,&]\s*\d+)?\s*", "",
+                    clean(chunk[: len(chunk) - len(body)]), flags=re.I).strip()
+    opts, opt_start = parse_letter_options(body)
+    # The last option often swallows trailing prose (no letter to bound it):
+    # trim each option at its first sentence end when long.
+    def _opt(s):
+        s = clean(s)
+        if len(s) > 180:
+            m = re.search(r"\.\s", s)
+            s = s[: m.start() + 1] if m else s[:180]
+        return s
+    opts = [{"letter": o["letter"], "text": _opt(o["text"])} for o in opts]
+    # Long "options" are really lettered passage paragraphs (A, B, C…) that the
+    # chunk ran into — not a real answer bank. We still use their start as the
+    # cut-off so they don't leak into the instruction text.
+    bank = [] if (opts and max(len(o["text"]) for o in opts) > 220) else opts
+    item_start = first_item_offset(body, lo, hi)
+    cut = min([x for x in (opt_start, item_start, len(body)) if x >= 0])
+    asking = clean(body[:cut])
+    if len(asking) > 300:  # safety net against runaway passage prose
+        asking = asking[:300].rsplit(" ", 1)[0] + "…"
+    instruction = clean(f"{rubric} {asking}")
+    return instruction, bank
 
 
 def parse_questions_from_text(text: str, answer_nums: set[int]):
@@ -143,7 +322,9 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
     Walk a text stream, segment on Questions N-M headers, classify each chunk,
     and emit typed questions. Guarantee every answer number is covered.
     """
-    headers = list(HEADER_RE.finditer(text))
+    # Real group headers are capitalised ("Questions 11-15"); lowercase
+    # "…next to questions 11-15" is a back-reference and must not split items.
+    headers = [h for h in HEADER_RE.finditer(text) if h.group(0)[:1] == "Q"]
     questions: dict[int, dict] = {}
     for i, h in enumerate(headers):
         if h.group(3):  # single "Question N"
@@ -170,18 +351,52 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
         else:
             qs = parse_gapfills(chunk, lo, hi, "gapFill", word_limit)
 
+        # Backfill numbers the primary parser missed (e.g. a summary group whose
+        # chunk was misclassified because a header-less question polluted it):
+        # give them a best-effort prompt from the chunk so they still inherit the
+        # group's instruction below instead of becoming context-less fallbacks.
+        covered = {q["number"] for q in qs}
+        missing = [n for n in range(lo, hi + 1) if n not in covered]
+        if missing:
+            bf_type = typ if typ in (
+                "sentenceCompletion", "summaryCompletion", "noteCompletion",
+                "tableCompletion", "formCompletion", "flowChartCompletion",
+                "shortAnswer", "diagramLabel", "mapPlanLabelling",
+            ) else "gapFill"
+            qs += [q for q in parse_gapfills(chunk, lo, hi, bf_type, word_limit)
+                   if q["number"] in missing]
+
+        instruction, opts = group_meta(chunk, lo, hi)
         for q in qs:
             q["groupId"] = group_id
+            if instruction:
+                q["instructions"] = instruction
+            # Attach the A–J option bank only to types whose answers ARE letters
+            # or that draw from a word list (choose-letters, summary-with-list,
+            # matching) — never to word-completion/diagram types.
+            if opts and q["type"] in BANK_TYPES and "bank" not in q:
+                q["bank"] = opts
             if 0 < q["number"] and q["number"] not in questions:
                 questions[q["number"]] = q
 
-    # Guarantee coverage: any answer number missing a question -> gapFill fallback.
+    # Coverage guarantee: an answer number with no parsed group means that
+    # question was never published in the source page (confirmed absent from all
+    # archive snapshots too). Keep it answerable but say so.
     for n in answer_nums:
         if n not in questions:
             questions[n] = {
                 "number": n, "type": "gapFill", "groupId": "qfallback",
                 "prompt": f"Question {n}",
+                "instructions": SOURCE_MISSING_NOTE,
             }
+    # Any question still left as a bare context-less placeholder (e.g. a group
+    # header with an empty body) gets the same honest note.
+    for q in questions.values():
+        text = q.get("prompt") or q.get("statement") or ""
+        if re.fullmatch(r"(Question|Statement) \d+", text) and not (
+            q.get("instructions") or q.get("bank")
+        ):
+            q["instructions"] = SOURCE_MISSING_NOTE
     return [questions[n] for n in sorted(questions)]
 
 
@@ -229,18 +444,49 @@ def build_reading(doc, tid):
     top = runs[:3]
     # restore reading order of the chosen runs
     top.sort(key=lambda r: content.index(next(b for b in content if b.strip() == r[0])))
+
+    joined = "\n".join(content)
+    questions = parse_questions_from_text(joined, answer_nums)
+    max_q = max([q["number"] for q in questions] + list(answer_nums), default=40)
+
+    # Map each passage to its question range, mirroring the original 3-part
+    # layout: a passage owns the questions whose group headers fall after its
+    # text starts and before the next passage's text.
+    groups = sorted(
+        (h.start(), int(h.group(3) or h.group(1)))
+        for h in HEADER_RE.finditer(joined)
+        if h.group(0)[:1] == "Q"
+    )
+
+    def first_q_after(offset):
+        for off, lo in groups:
+            if off >= offset:
+                return lo
+        return None
+
+    p_offsets = [joined.find(run[0][:40]) for run in top]
+    bounds = [first_q_after(o) for o in p_offsets]
+    if bounds and bounds[0] not in (None, 1):
+        bounds[0] = 1  # passage 1 always starts at question 1
+    # Fall back to an even split if positional mapping is unreliable.
+    if len(top) != 3 or any(b is None for b in bounds) or bounds != sorted(bounds) or len(set(bounds)) != len(bounds):
+        step = max_q / max(len(top), 1)
+        bounds = [round(i * step) + 1 for i in range(len(top))]
+
     passages = []
     for i, run in enumerate(top):
+        lo = bounds[i]
+        hi = (bounds[i + 1] - 1) if i + 1 < len(bounds) else max_q
         passages.append({
             "number": i + 1,
             "title": f"Passage {i + 1}",
+            "questionRange": [lo, hi],
             "bodyHtml": "".join(f"<p>{clean(p)}</p>" for p in run),
         })
     if not passages:
-        passages = [{"number": 1, "title": "Passage 1",
+        passages = [{"number": 1, "title": "Passage 1", "questionRange": [1, max_q],
                      "bodyHtml": "".join(f"<p>{clean(b)}</p>" for b in content)}]
 
-    questions = parse_questions_from_text("\n".join(content), answer_nums)
     return {
         "id": tid, "variant": "academic", "source": "v2",
         "passages": passages, "questions": questions, "answerKey": answers,
@@ -270,7 +516,7 @@ def build_listening(doc, tid, n):
         })
 
     questions = parse_questions_from_text(text, answer_nums)
-    audio_present = (V2 / "audio" / f"{n}_we.mp3").exists()
+    audio_present = (AUDIO_SRC / f"{n}_we.mp3").exists()
     return {
         "id": tid,
         "audioUrl": None,
@@ -299,12 +545,15 @@ def main():
                 f.unlink()
         d.mkdir(parents=True, exist_ok=True)
 
-    stats = {"reading": 0, "listening": 0, "audio": 0, "skipped": []}
+    stats = {"reading": 0, "listening": 0, "audio": 0,
+             "hidden_no_audio": 0, "hidden_incomplete": 0, "skipped": []}
+    hidden = {"reading": [], "listening": []}  # {id, reasons, missing} report
 
     # READING
     rfiles = sorted(glob(str(V2 / "reading" / "*.json")))
     if args.limit:
         rfiles = rfiles[: args.limit]
+    cat_reading, cat_listening = [], []
     for f in rfiles:
         doc = json.load(open(f))
         if not doc.get("answers"):
@@ -316,6 +565,16 @@ def main():
         json.dump(out, open(CONTENT / "reading" / f"{tid}.json", "w"),
                   ensure_ascii=False, indent=2)
         stats["reading"] += 1
+        # Hide tests with question groups missing from the source. The JSON stays
+        # on disk, so they reappear automatically if the source is ever recovered.
+        if is_incomplete(out):
+            missing = [q["number"] for q in out["questions"]
+                       if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
+            hidden["reading"].append({"id": tid, "reasons": ["source-missing-questions"],
+                                      "missing": missing})
+            stats["hidden_incomplete"] += 1
+            continue
+        cat_reading.append({"id": tid, "flags": {"questions": len(out["questions"])}})
 
     # LISTENING
     lfiles = sorted(glob(str(V2 / "listening_structured" / "*.json")))
@@ -333,15 +592,53 @@ def main():
         json.dump(out, open(CONTENT / "listening" / f"{tid}.json", "w"),
                   ensure_ascii=False, indent=2)
         stats["listening"] += 1
+        # Hide a listening test if it has no audio OR has source-missing question
+        # groups. JSON stays on disk so it returns to the catalog once fixed.
+        reasons = []
+        if not out["localAudioPath"]:
+            reasons.append("no-audio"); stats["hidden_no_audio"] += 1
+        if is_incomplete(out):
+            reasons.append("source-missing-questions"); stats["hidden_incomplete"] += 1
+        if reasons:
+            missing = [q["number"] for q in out["questions"]
+                       if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
+            hidden["listening"].append({"id": tid, "reasons": reasons, "missing": missing})
+        else:
+            cat_listening.append({
+                "id": tid,
+                "flags": {"hasAudio": True, "hasAudioUrl": bool(out["audioUrl"])},
+            })
         if args.copy_audio:
-            src = V2 / "audio" / f"{n}_we.mp3"
+            src = AUDIO_SRC / f"{n}_we.mp3"
             if src.exists():
                 shutil.copy(src, PUBLIC_AUDIO / f"{tid}.mp3")
                 stats["audio"] += 1
 
+    # Rebuild the catalog for reading+listening; keep writing+speaking as-is.
+    index_path = CONTENT / "index.json"
+    existing = json.load(open(index_path)) if index_path.exists() else {}
+    catalog = {
+        "reading": sorted(cat_reading, key=lambda e: e["id"]),
+        "listening": sorted(cat_listening, key=lambda e: e["id"]),
+        "writing": existing.get("writing", []),
+        "speaking": existing.get("speaking", []),
+        "generatedAt": datetime.now(timezone.utc).isoformat(),
+    }
+    json.dump(catalog, open(index_path, "w"), ensure_ascii=False, indent=2)
+
+    # Report of hidden tests (the "mark"): which ids, why, and which questions.
+    hidden["generatedAt"] = datetime.now(timezone.utc).isoformat()
+    json.dump(hidden, open(CONTENT / "_hidden.json", "w"), ensure_ascii=False, indent=2)
+
     print(f"Reading written:   {stats['reading']}")
     print(f"Listening written: {stats['listening']}")
     print(f"Audio copied:      {stats['audio']}")
+    print(f"Hidden — no audio: {stats['hidden_no_audio']}, "
+          f"incomplete (source-missing): {stats['hidden_incomplete']}")
+    print(f"Hidden tests: reading {len(hidden['reading'])}, "
+          f"listening {len(hidden['listening'])} → content/_hidden.json")
+    print(f"Catalog: reading {len(cat_reading)}, listening {len(cat_listening)}, "
+          f"writing {len(catalog['writing'])}, speaking {len(catalog['speaking'])}")
     if stats["skipped"]:
         print(f"Skipped {len(stats['skipped'])}: {stats['skipped'][:10]}")
 

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ransport Survey Travelled to town today: by bus Name: Lusia (1) Address: (2) White Stone Road Area: Bradfield Postcode: (3) Occupation: (4) Reason for visit to town: to g",
+      "prompt": "Transport Survey Travelled to town today: by bus Name: Lusia ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ey Travelled to town today: by bus Name: Lusia (1) Address: (2) White Stone Road Area: Bradfield Postcode: (3) Occupation: (4) Reason for visit to town: to go to the (5)",
+      "prompt": "Address: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "(1) Address: (2) White Stone Road Area: Bradfield Postcode: (3) Occupation: (4) Reason for visit to town: to go to the (5) Suggestions for improvement: better (6) Have mo",
+      "prompt": "White Stone Road Area: Bradfield Postcode: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "White Stone Road Area: Bradfield Postcode: (3) Occupation: (4) Reason for visit to town: to go to the (5) Suggestions for improvement: better (6) Have more footpaths Mor",
+      "prompt": "Occupation: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "(3) Occupation: (4) Reason for visit to town: to go to the (5) Suggestions for improvement: better (6) Have more footpaths More frequent (7) Things that would encourage",
+      "prompt": "Reason for visit to town: to go to the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "town: to go to the (5) Suggestions for improvement: better (6) Have more footpaths More frequent (7) Things that would encourage cycling to work: • Having (8) parking pl",
+      "prompt": "Suggestions for improvement: better ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "r improvement: better (6) Have more footpaths More frequent (7) Things that would encourage cycling to work: • Having (8) parking places for bicycles • Being able to use",
+      "prompt": "Have more footpaths More frequent ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "t (7) Things that would encourage cycling to work: • Having (8) parking places for bicycles • Being able to use a (9) at work • The opportunity to have cycling (10) on bu",
+      "prompt": "Things that would encourage cycling to work: • Having ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "aving (8) parking places for bicycles • Being able to use a (9) at work • The opportunity to have cycling (10) on busy roads Part 2:",
+      "prompt": "parking places for bicycles • Being able to use a ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name",
+      "prompt": "at work • The opportunity to have cycling ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD OR A NUMBER. Transport Survey Travelled to town today: by bus Name: Lusia"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter, A, B or C. New city developments 11. The idea for the two new developments in the city came from",
+      "stem": "The idea for the two new developments in the city came from",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "the SWRDC"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. New city developments"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "its method of water treatment"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. New city developments"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "the size of the facilities"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. New city developments"
     },
     {
       "number": 14,
@@ -185,72 +198,171 @@
           "text": "who will open it"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C. New city developments"
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q15-20"
+      "prompt": "Asia",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q15-20"
+      "prompt": "Antarctica",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q15-20"
+      "prompt": "South America",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q15-20"
+      "prompt": "North America",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q15-20"
+      "prompt": "Europe",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 15-20 Which feature is related to each of the following areas of the world represented in the playground? Choose",
-      "groupId": "q15-20"
+      "prompt": "Africa",
+      "groupId": "q15-20",
+      "instructions": "Which feature is related to each of the following areas of the world represented in the playground? Choose SIX answers from the box and write the correct letter, A-l, next to questions 15-20. Areas of the world"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO hobbies was Thor Heyerdahl very interested in as a youth? A campi",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO hobbies was Thor Heyerdahl very interested in as a youth?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "camping"
+        },
+        {
+          "letter": "B",
+          "text": "climbing"
+        },
+        {
+          "letter": "C",
+          "text": "collecting"
+        },
+        {
+          "letter": "D",
+          "text": "hunting"
+        },
+        {
+          "letter": "E",
+          "text": "reading"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO hobbies was Thor Heyerdahl very interested in as a youth? A camping B cl",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO hobbies was Thor Heyerdahl very interested in as a youth?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "camping"
+        },
+        {
+          "letter": "B",
+          "text": "climbing"
+        },
+        {
+          "letter": "C",
+          "text": "collecting"
+        },
+        {
+          "letter": "D",
+          "text": "hunting"
+        },
+        {
+          "letter": "E",
+          "text": "reading"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which do the speakers say are the TWO reasons why Heyerdahl went to live on",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which do the speakers say are the TWO reasons why Heyerdahl went to live on an island?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "to examine ancient carvings"
+        },
+        {
+          "letter": "B",
+          "text": "to experience an isolated place"
+        },
+        {
+          "letter": "C",
+          "text": "to formulate a new theory"
+        },
+        {
+          "letter": "D",
+          "text": "to learn survival skills"
+        },
+        {
+          "letter": "E",
+          "text": "to study the impact of an extreme environment"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which do the speakers say are the TWO reasons why Heyerdahl went to live on an isl",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which do the speakers say are the TWO reasons why Heyerdahl went to live on an island?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "to examine ancient carvings"
+        },
+        {
+          "letter": "B",
+          "text": "to experience an isolated place"
+        },
+        {
+          "letter": "C",
+          "text": "to formulate a new theory"
+        },
+        {
+          "letter": "D",
+          "text": "to learn survival skills"
+        },
+        {
+          "letter": "E",
+          "text": "to study the impact of an extreme environment"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter, A, B or C. The later life of Thor Heyerdahl 25. According to Victor and Olivia, academics thought that Polynesian migration from the east was impossible due to",
+      "stem": "According to Victor and Olivia, academics thought that Polynesian migration from the east was impossible due to",
       "options": [
         {
           "letter": "A",
@@ -265,7 +377,8 @@
           "text": "the direction of the winds and currents"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 26,
@@ -285,7 +398,8 @@
           "text": "to test a new theory"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 27,
@@ -305,7 +419,8 @@
           "text": "the use of authentic construction methods"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 28,
@@ -325,7 +440,8 @@
           "text": "to learn the local language"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 29,
@@ -345,7 +461,8 @@
           "text": "establishing archaeology as an academic subject"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 30,
@@ -365,77 +482,88 @@
           "text": "Its methodology is flawed"
         }
       ],
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Choose the correct letter, A, B or C. The later life of Thor Heyerdahl"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "D ONLY. THE FUTURE OF MANAGEMENT Business markets • greater (31) among companies • increase in power of large (32) companies • rising (33) in certain countries External i",
+      "prompt": "THE FUTURE OF MANAGEMENT Business markets • greater ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "• greater (31) among companies • increase in power of large (32) companies • rising (33) in certain countries External influences on businesses • more discussion with (34",
+      "prompt": "among companies • increase in power of large ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "panies • increase in power of large (32) companies • rising (33) in certain countries External influences on businesses • more discussion with (34) before making business",
+      "prompt": "companies • rising ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "es External influences on businesses • more discussion with (34) before making business decisions • environmental concerns which may lead to more (35) Business structures",
+      "prompt": "in certain countries External influences on businesses • more discussion with ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "s decisions • environmental concerns which may lead to more (35) Business structures • more teams will be formed to work on a particular (36) • businesses may need to off",
+      "prompt": "before making business decisions • environmental concerns which may lead to more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "uctures • more teams will be formed to work on a particular (36) • businesses may need to offer hours that are (37) , or the chance to work remotely Management styles • i",
+      "prompt": "Business structures • more teams will be formed to work on a particular ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "rticular (36) • businesses may need to offer hours that are (37) , or the chance to work remotely Management styles • increasing need for managers to provide good (38) •",
+      "prompt": "• businesses may need to offer hours that are ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "ement styles • increasing need for managers to provide good (38) • changes influenced by (39) taking senior roles Changes in the economy • service sector continues to be",
+      "prompt": "or the chance to work remotely Management styles • increasing need for managers to provide good ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "d for managers to provide good (38) • changes influenced by (39) taking senior roles Changes in the economy • service sector continues to be important • increasing value",
+      "prompt": "• changes influenced by ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater (31) amo",
+      "prompt": "in the economy • service sector continues to be important • increasing value of intellectual property • more and more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. THE FUTURE OF MANAGEMENT Business markets • greater"
     }
   ],
   "answerKey": {

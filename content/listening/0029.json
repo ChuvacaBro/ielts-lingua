@@ -40,198 +40,226 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. Main programme Day 1 (1) (2) (3) (4) (5)",
+      "prompt": "(1)",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Day"
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. Main programme Day 1 (1) (2) (3) (4) (5)",
+      "prompt": "(1) ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Day"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "/ OR A NUMBER for each answer. Main programme Day 1 (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Day"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "A NUMBER for each answer. Main programme Day 1 (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Day"
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "Questions 1-5 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Da",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Main programme Day"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Label the places on the map below. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Label the places on the map below."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Label the places on the map below. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Label the places on the map below."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Label the places on the map below. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Label the places on the map below."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "estions 6-10 Label the places on the map below. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Label the places on the map below."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Label the places on the map below. (6) (7) (8) (9) (10) Part 2:",
-      "groupId": "q6-10"
+      "prompt": "____",
+      "groupId": "q6-10",
+      "instructions": "Label the places on the map below."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "AND/ OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "OR A NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "NUMBER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "ER for each answer. (11) (12) (13) (14) (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 11-20 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (11) (12) (13) (14",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "UMBER for each answer. Name: John Evans Degree: French with (21) Duration of studies: 4 years NOTE: (22) months spent in Bruges, Belgium Previous employment 1 Job: transl",
+      "prompt": "Name: John Evans Degree: French with ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "Degree: French with (21) Duration of studies: 4 years NOTE: (22) months spent in Bruges, Belgium Previous employment 1 Job: translator for restoration projects Organizati",
+      "prompt": "Duration of studies: 4 years NOTE: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "nt 1 Job: translator for restoration projects Organization: (23) Duties: liaising between building owners and (24) Duration of job: (25) months Previous employment 2 Job:",
+      "prompt": "months spent in Bruges, Belgium Previous employment 1 Job: translator for restoration projects Organization: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "nization: (23) Duties: liaising between building owners and (24) Duration of job: (25) months Previous employment 2 Job: translator and translation (26) Organization: BCF",
+      "prompt": "Duties: liaising between building owners and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "liaising between building owners and (24) Duration of job: (25) months Previous employment 2 Job: translator and translation (26) Organization: BCFC Duties: translation,",
+      "prompt": "Duration of job: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "onths Previous employment 2 Job: translator and translation (26) Organization: BCFC Duties: translation, coordinating translations in other (27) Duration of job: (28) mon",
+      "prompt": "months Previous employment 2 Job: translator and translation ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "CFC Duties: translation, coordinating translations in other (27) Duration of job: (28) months",
+      "prompt": "Organization: BCFC Duties: translation, coordinating translations in other ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "Questions 21-28 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans D",
+      "prompt": "Duration of job: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-28"
+      "groupId": "q21-28",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Name: John Evans Degree: French with"
     },
     {
       "number": 29,
       "type": "multipleChoice",
-      "stem": "and 30 Choose the correct letter A, B or C. 29. John hoped to train as a teacher because",
+      "stem": "John hoped to train as a teacher because",
       "options": [
         {
           "letter": "A",
@@ -246,7 +274,8 @@
           "text": "he has always wanted to"
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "30 Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -266,46 +295,66 @@
           "text": "French and cultural awareness"
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "30 Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Question 31 Which picture shows the instrument described? A. B. C.",
-      "groupId": "q31-31"
+      "prompt": "Question 31",
+      "groupId": "q31-31",
+      "instructions": "Which picture shows the instrument described?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        }
+      ]
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "notes below. Write NO MORE THAN TWO WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "s below. Write NO MORE THAN TWO WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 32-35 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "multipleChoice",
-      "stem": "-40 Choose the correct letter A, B or C. 36. The Kentish pipe can be played",
+      "stem": "The Kentish pipe can be played",
       "options": [
         {
           "letter": "A",
@@ -320,7 +369,8 @@
           "text": "in several ways"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 37,
@@ -340,7 +390,8 @@
           "text": "in many different styles"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 38,
@@ -360,7 +411,8 @@
           "text": "no longer exists"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 39,
@@ -380,7 +432,8 @@
           "text": "adapted by his colleagues"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 40,
@@ -400,7 +453,8 @@
           "text": "some familiar classical pieces"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter A, B or C."
     }
   ],
   "answerKey": {

@@ -40,144 +40,230 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "orm Customer details Caller’s name: Sue Brown Company name: (1) Address: (2) Trading estate, 210 new hampton road south down Contact number: (3) (mobile) Delivery option:",
+      "prompt": "KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "details Caller’s name: Sue Brown Company name: (1) Address: (2) Trading estate, 210 new hampton road south down Contact number: (3) (mobile) Delivery option: 1 or 2 (no (",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ing estate, 210 new hampton road south down Contact number: (3) (mobile) Delivery option: 1 or 2 (no (4) ) Method of payment: credit card, Type: (5)",
+      "prompt": "Trading estate, 210 new hampton road south down Contact number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "wn Contact number: (3) (mobile) Delivery option: 1 or 2 (no (4) ) Method of payment: credit card, Type: (5)",
+      "prompt": "(mobile) Delivery option: 1 or 2 (no ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture custo",
+      "prompt": "Method of payment: credit card, Type: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. KT Furniture customer order form Customer details Caller’s name: Sue Brown Company name:"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "ite NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "ORE THAN TWO WORDS AND/OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "THAN TWO WORDS AND/OR A NUMBER for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 6-10 Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer. (6) (7) (8) (9) (10",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "N TWO WORDS for each answer. Marathon – tips for spectators 11. To enjoy the day, make sure you it first. 12. Travel within the city centre. 13. Wear on the day. 14. Chec",
+      "prompt": "To enjoy the day, make sure you it first.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "or spectators 11. To enjoy the day, make sure you it first. 12. Travel within the city centre. 13. Wear on the day. 14. Check the the night before the marathon 15. Let th",
+      "prompt": "Travel within the city centre.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "make sure you it first. 12. Travel within the city centre. 13. Wear on the day. 14. Check the the night before the marathon 15. Let the give drinks to runners. 16. Ray o",
+      "prompt": "Wear on the day.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "st. 12. Travel within the city centre. 13. Wear on the day. 14. Check the the night before the marathon 15. Let the give drinks to runners. 16. Ray on one side of the roa",
+      "prompt": "Check the the night before the marathon",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "ear on the day. 14. Check the the night before the marathon 15. Let the give drinks to runners. 16. Ray on one side of the road to avoid 17. Don’t arrange to meet runners",
+      "prompt": "Let the give drinks to runners.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "ght before the marathon 15. Let the give drinks to runners. 16. Ray on one side of the road to avoid 17. Don’t arrange to meet runners near the",
+      "prompt": "Ray on one side of the road to avoid",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-17 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators",
+      "prompt": "Don’t arrange to meet runners near the",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. Marathon – tips for spectators"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q18-20"
+      "prompt": "taxis",
+      "groupId": "q18-20",
+      "instructions": "What does she speaker say about the following forms of transport? Write the correct letter, A, B, C, or E next to questions 18-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "will take more passengers than usual"
+        },
+        {
+          "letter": "B",
+          "text": "will suit people who want to see the start of the race"
+        },
+        {
+          "letter": "C",
+          "text": "waiting times will be longer than usual"
+        },
+        {
+          "letter": "D",
+          "text": "will have fewer staff than usual"
+        },
+        {
+          "letter": "E",
+          "text": "some work schedules will change 18. taxis 19. trams 20. buses Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q18-20"
+      "prompt": "trams",
+      "groupId": "q18-20",
+      "instructions": "What does she speaker say about the following forms of transport? Write the correct letter, A, B, C, or E next to questions 18-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "will take more passengers than usual"
+        },
+        {
+          "letter": "B",
+          "text": "will suit people who want to see the start of the race"
+        },
+        {
+          "letter": "C",
+          "text": "waiting times will be longer than usual"
+        },
+        {
+          "letter": "D",
+          "text": "will have fewer staff than usual"
+        },
+        {
+          "letter": "E",
+          "text": "some work schedules will change 18. taxis 19. trams 20. buses Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 What does she speaker say about the following forms of transport? Write the correct letter, A, B, C, or E n",
-      "groupId": "q18-20"
+      "prompt": "buses",
+      "groupId": "q18-20",
+      "instructions": "What does she speaker say about the following forms of transport? Write the correct letter, A, B, C, or E next to questions 18-20",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "will take more passengers than usual"
+        },
+        {
+          "letter": "B",
+          "text": "will suit people who want to see the start of the race"
+        },
+        {
+          "letter": "C",
+          "text": "waiting times will be longer than usual"
+        },
+        {
+          "letter": "D",
+          "text": "will have fewer staff than usual"
+        },
+        {
+          "letter": "E",
+          "text": "some work schedules will change 18. taxis 19. trams 20. buses Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter, A, B or C. 21. What does Ahmed say about last week’s seminar?",
+      "stem": "What does Ahmed say about last week’s seminar?",
       "options": [
         {
           "letter": "A",
@@ -192,7 +278,8 @@
           "text": "He couldn’t understand everything."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -212,7 +299,8 @@
           "text": "He read some useful articles."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
@@ -232,7 +320,8 @@
           "text": "He felt embarrassed when students looked at him"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 24,
@@ -252,7 +341,8 @@
           "text": "staying focused"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 25,
@@ -272,7 +362,8 @@
           "text": "He feels he is acting a part."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 26,
@@ -292,101 +383,204 @@
           "text": "ask other students for their views."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO strategies does the tutor suggest for the next seminar? A speak mo",
-      "groupId": "q27-28"
+      "prompt": "Question 27",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO strategies does the tutor suggest for the next seminar?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "speak more frequently"
+        },
+        {
+          "letter": "B",
+          "text": "behave in a confident manner"
+        },
+        {
+          "letter": "C",
+          "text": "sit next to someone helpful"
+        },
+        {
+          "letter": "D",
+          "text": "listen to what other people say"
+        },
+        {
+          "letter": "E",
+          "text": "think of questions to ask"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27 and 28 Choose TWO letters A-E. Which TWO strategies does the tutor suggest for the next seminar? A speak more freq",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "28 Choose TWO letters A-E. Which TWO strategies does the tutor suggest for the next seminar?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "speak more frequently"
+        },
+        {
+          "letter": "B",
+          "text": "behave in a confident manner"
+        },
+        {
+          "letter": "C",
+          "text": "sit next to someone helpful"
+        },
+        {
+          "letter": "D",
+          "text": "listen to what other people say"
+        },
+        {
+          "letter": "E",
+          "text": "think of questions to ask"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO suggestions does the tutor make about taking note? A plan them bef",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO suggestions does the tutor make about taking note?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "plan them before the seminar"
+        },
+        {
+          "letter": "B",
+          "text": "note down key words that people say"
+        },
+        {
+          "letter": "C",
+          "text": "note points to say late"
+        },
+        {
+          "letter": "D",
+          "text": "include self-analysis"
+        },
+        {
+          "letter": "E",
+          "text": "rewrite them after the seminar Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO suggestions does the tutor make about taking note? A plan them before the",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO suggestions does the tutor make about taking note?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "plan them before the seminar"
+        },
+        {
+          "letter": "B",
+          "text": "note down key words that people say"
+        },
+        {
+          "letter": "C",
+          "text": "note points to say late"
+        },
+        {
+          "letter": "D",
+          "text": "include self-analysis"
+        },
+        {
+          "letter": "E",
+          "text": "rewrite them after the seminar Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ERT PLANTS Background • Deserts found in what is known as a (31) (or dry area) • Annual rainfall, if any, amounts to (32) • Soil contains a lot of salt and (33) General a",
+      "prompt": "DESERT PLANTS Background • Deserts found in what is known as a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "a (31) (or dry area) • Annual rainfall, if any, amounts to (32) • Soil contains a lot of salt and (33) General adaptations of desert plants • They can (34) and store wat",
+      "prompt": "(or dry area) • Annual rainfall, if any, amounts to ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": ", if any, amounts to (32) • Soil contains a lot of salt and (33) General adaptations of desert plants • They can (34) and store water • They have features that reduce wat",
+      "prompt": "• Soil contains a lot of salt and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "lt and (33) General adaptations of desert plants • They can (34) and store water • They have features that reduce water loss. Examples of adaptations • Saguaro Cactus: st",
+      "prompt": "General adaptations of desert plants • They can ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "amples of adaptations • Saguaro Cactus: stores water in its (35) • Barrel Cactus: can (36) or shrink according to weather • Old Man Cactus: has (37) that reflect the sun",
+      "prompt": "store water • They have features that reduce water loss. Examples of adaptations • Saguaro Cactus: stores water in its ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "guaro Cactus: stores water in its (35) • Barrel Cactus: can (36) or shrink according to weather • Old Man Cactus: has (37) that reflect the sun • Prickly Pear Cactus: has",
+      "prompt": "• Barrel Cactus: can ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "n (36) or shrink according to weather • Old Man Cactus: has (37) that reflect the sun • Prickly Pear Cactus: has (38) to keep away animals • Desert Spoon: leaves are (39)",
+      "prompt": "or shrink according to weather • Old Man Cactus: has ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "s: has (37) that reflect the sun • Prickly Pear Cactus: has (38) to keep away animals • Desert Spoon: leaves are (39) to reduce water loss • Aloe Plant: leaf surface acts",
+      "prompt": "that reflect the sun • Prickly Pear Cactus: has ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "s: has (38) to keep away animals • Desert Spoon: leaves are (39) to reduce water loss • Aloe Plant: leaf surface acts like a (40) covering and keeps water inside",
+      "prompt": "to keep away animals • Desert Spoon: leaves are ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts",
+      "prompt": "to reduce water loss • Aloe Plant: leaf surface acts like a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. DESERT PLANTS Background • Deserts found in what is known as a"
     }
   ],
   "answerKey": {

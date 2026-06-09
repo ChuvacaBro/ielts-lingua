@@ -40,109 +40,202 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "d Trip Time: next week Destination: the Warrangamba dam and (1) Matching course: Environmental science Departing time of coach: at (2) next Monday Length of journey there",
+      "prompt": "University Geography Field Trip Time: next week Destination: the Warrangamba dam and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "g course: Environmental science Departing time of coach: at (2) next Monday Length of journey there: (3) roughly and three hours back First day’s activity: (4) Spending t",
+      "prompt": "Matching course: Environmental science Departing time of coach: at ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "time of coach: at (2) next Monday Length of journey there: (3) roughly and three hours back First day’s activity: (4) Spending the night: in (5) Meals provided: in the f",
+      "prompt": "next Monday Length of journey there: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "ere: (3) roughly and three hours back First day’s activity: (4) Spending the night: in (5) Meals provided: in the form of (6) Sydney’s daily water consumption: equal to w",
+      "prompt": "roughly and three hours back First day’s activity: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "hours back First day’s activity: (4) Spending the night: in (5) Meals provided: in the form of (6) Sydney’s daily water consumption: equal to water to fill (7) full size",
+      "prompt": "Spending the night: in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": ") Spending the night: in (5) Meals provided: in the form of (6) Sydney’s daily water consumption: equal to water to fill (7) full size Olympic swimming pools Second day’s",
+      "prompt": "Meals provided: in the form of ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Questions 1-7 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geogra",
+      "prompt": "Sydney’s daily water consumption: equal to water to fill ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. University Geography Field Trip Time: next week Destination: the Warrangamba dam and"
     },
     {
       "number": 8,
       "type": "gapFill",
       "prompt": "Question 8",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-F. Which THREE things does Cesar recommend bringing?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "binoculars"
+        },
+        {
+          "letter": "B",
+          "text": "camera"
+        },
+        {
+          "letter": "C",
+          "text": "penknife"
+        },
+        {
+          "letter": "D",
+          "text": "map"
+        },
+        {
+          "letter": "E",
+          "text": "raincoat"
+        },
+        {
+          "letter": "F",
+          "text": "mobile phone Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
       "prompt": "Question 9",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-F. Which THREE things does Cesar recommend bringing?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "binoculars"
+        },
+        {
+          "letter": "B",
+          "text": "camera"
+        },
+        {
+          "letter": "C",
+          "text": "penknife"
+        },
+        {
+          "letter": "D",
+          "text": "map"
+        },
+        {
+          "letter": "E",
+          "text": "raincoat"
+        },
+        {
+          "letter": "F",
+          "text": "mobile phone Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 8-10 Choose THREE letters A-F. Which THREE things does Cesar recommend bringing? A binoculars B camera C penknif",
-      "groupId": "q8-10"
+      "prompt": "Question 10",
+      "groupId": "q8-10",
+      "instructions": "Choose THREE letters A-F. Which THREE things does Cesar recommend bringing?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "binoculars"
+        },
+        {
+          "letter": "B",
+          "text": "camera"
+        },
+        {
+          "letter": "C",
+          "text": "penknife"
+        },
+        {
+          "letter": "D",
+          "text": "map"
+        },
+        {
+          "letter": "E",
+          "text": "raincoat"
+        },
+        {
+          "letter": "F",
+          "text": "mobile phone Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. The last programme in the present series is 12. Miss Patty Ching has been rewarded as ‘Consumer of ’ for h",
+      "prompt": "The last programme in the present series is",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "ach answer. 11. The last programme in the present series is 12. Miss Patty Ching has been rewarded as ‘Consumer of ’ for her persistent effort to see through a result of",
+      "prompt": "Miss Patty Ching has been rewarded as ‘Consumer of ’ for her persistent effort to see through a result of a complaint.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "r persistent effort to see through a result of a complaint. 13. She took of photographs on her tour in Europe. 14. What happened to her photos after she gave them to Top-",
+      "prompt": "She took of photographs on her tour in Europe.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "mplaint. 13. She took of photographs on her tour in Europe. 14. What happened to her photos after she gave them to Top-class photo services for developing? 15. The photo",
+      "prompt": "What happened to her photos after she gave them to Top-class photo services for developing?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-15 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. The last",
+      "prompt": "The photo services compensated her for the loss in the end.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B, C or D. 16. What is the problem that many listeners write about?",
+      "stem": "What is the problem that many listeners write about?",
       "options": [
         {
           "letter": "A",
@@ -154,10 +247,15 @@
         },
         {
           "letter": "C",
-          "text": "faulty goods D bad assistant"
+          "text": "faulty goods"
+        },
+        {
+          "letter": "D",
+          "text": "bad assistant"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 17,
@@ -174,10 +272,15 @@
         },
         {
           "letter": "C",
-          "text": "$150 D $300"
+          "text": "$150"
+        },
+        {
+          "letter": "D",
+          "text": "$300"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 18,
@@ -194,10 +297,15 @@
         },
         {
           "letter": "C",
-          "text": "ask the shopkeeper for a favour D the shopkeeper should be responsible for it"
+          "text": "ask the shopkeeper for a favour"
+        },
+        {
+          "letter": "D",
+          "text": "the shopkeeper should be responsible for it"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 19,
@@ -214,10 +322,15 @@
         },
         {
           "letter": "C",
-          "text": "talk directly to the assistant D ask to see the seller"
+          "text": "talk directly to the assistant"
+        },
+        {
+          "letter": "D",
+          "text": "ask to see the seller"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 20,
@@ -234,35 +347,43 @@
         },
         {
           "letter": "C",
-          "text": "write a complaining letter D find out with whom you discuss the matter"
+          "text": "write a complaining letter"
+        },
+        {
+          "letter": "D",
+          "text": "find out with whom you discuss the matter"
         }
       ],
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "Questions 21 and 22 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student r",
+      "prompt": "Student record card Name: David Simons Address: 15 Market Ave. Hornsby Student number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student record card Name: David Simons Address: 15 Market Ave. Hornsby Student number:"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "Questions 21 and 22 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student record c",
+      "prompt": "Prerequisites completed Screen studies course: YES 18 credit points: NO If no, reasons: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Student record card Name: David Simons Address: 15 Market Ave. Hornsby Student number:"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "Question 23 Complete the notes below. Write TWO DATES for the answer. 23. The final date of the examination should be",
-      "groupId": "q23-23"
+      "prompt": "The final date of the examination should be",
+      "groupId": "q23-23",
+      "instructions": "Complete the notes below. Write TWO DATES for the answer."
     },
     {
       "number": 24,
       "type": "multipleChoice",
-      "stem": "and 25 Choose the correct letter A-D. 24. Dr. Richardson explains that the set exercises",
+      "stem": "Dr. Richardson explains that the set exercises",
       "options": [
         {
           "letter": "A",
@@ -274,10 +395,15 @@
         },
         {
           "letter": "C",
-          "text": "focus on key terms and concepts in media studies D do not have answers"
+          "text": "focus on key terms and concepts in media studies"
+        },
+        {
+          "letter": "D",
+          "text": "do not have answers"
         }
       ],
-      "groupId": "q24-25"
+      "groupId": "q24-25",
+      "instructions": "25 Choose the correct letter A-D."
     },
     {
       "number": 25,
@@ -294,46 +420,56 @@
         },
         {
           "letter": "C",
-          "text": "both emphasise studies of audiences D should be especially easy for David"
+          "text": "both emphasise studies of audiences"
+        },
+        {
+          "letter": "D",
+          "text": "should be especially easy for David"
         }
       ],
-      "groupId": "q24-25"
+      "groupId": "q24-25",
+      "instructions": "25 Choose the correct letter A-D."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "ach of the following? Assignments Description Set exercises (26) Assignment 1 (27) Assignment 2 A Assignment 3 (28) Questions 29 Choose the correct answer. 29. Which two",
-      "groupId": "q26-28"
+      "prompt": "A Journalistic J How does Dr. Richardson describe each of the following? Assignments Description Set exercises ____",
+      "groupId": "q26-28",
+      "instructions": "Complete the table by writing ONE or TWO appropriate letters (M, T, A or J) as explained below. Mechanical M Theoretical T Analytical"
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "ng? Assignments Description Set exercises (26) Assignment 1 (27) Assignment 2 A Assignment 3 (28) Questions 29 Choose the correct answer. 29. Which two time slots does Dr",
-      "groupId": "q26-28"
+      "prompt": "Assignment 1 ____",
+      "groupId": "q26-28",
+      "instructions": "Complete the table by writing ONE or TWO appropriate letters (M, T, A or J) as explained below. Mechanical M Theoretical T Analytical"
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "Questions 26-28 Complete the table by writing ONE or TWO appropriate letters (M, T, A or J) as explained below. Mechanical",
-      "groupId": "q26-28"
+      "prompt": "Assignment 2 A Assignment 3 ____",
+      "groupId": "q26-28",
+      "instructions": "Complete the table by writing ONE or TWO appropriate letters (M, T, A or J) as explained below. Mechanical M Theoretical T Analytical"
     },
     {
       "number": 29,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 29"
+      "prompt": "Question 29",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 30,
       "type": "shortAnswer",
-      "prompt": "Question 30 Answer the question below. Write NO MORE THAN THREE WORDS for the answer. 30. What will David do before he",
+      "prompt": "What will David do before he decided which part of the programmes to use?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q30-30"
+      "groupId": "q30-30",
+      "instructions": "Answer the question below. Write NO MORE THAN THREE WORDS for the answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A-C. 31. What does John Upton compare a computer virus to?",
+      "stem": "What does John Upton compare a computer virus to?",
       "options": [
         {
           "letter": "A",
@@ -348,40 +484,45 @@
           "text": "an irritating person"
         }
       ],
-      "groupId": "q31-31"
+      "groupId": "q31-31",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 32,
       "type": "flowChartCompletion",
-      "prompt": "flow chart. Write NO MORE THAN THREE WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "flowChartCompletion",
-      "prompt": "chart. Write NO MORE THAN THREE WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "flowChartCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "flowChartCompletion",
-      "prompt": "Questions 32-35 Complete the flow chart. Write NO MORE THAN THREE WORDS for each answer. (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-35"
+      "groupId": "q32-35",
+      "instructions": "Complete the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A-C. 36. What does the speaker find surprising?",
+      "stem": "What does the speaker find surprising?",
       "options": [
         {
           "letter": "A",
@@ -396,35 +537,40 @@
           "text": "the fact that people blame their own computers"
         }
       ],
-      "groupId": "q36-36"
+      "groupId": "q36-36",
+      "instructions": "Choose the correct letter A-C."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "ng viruses. Write NO MORE THAN THREE WORDS for each answer. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "List FOUR ways of combating viruses. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ruses. Write NO MORE THAN THREE WORDS for each answer. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "List FOUR ways of combating viruses. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "List FOUR ways of combating viruses. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 List FOUR ways of combating viruses. Write NO MORE THAN THREE WORDS for each answer. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "List FOUR ways of combating viruses. Write NO MORE THAN THREE WORDS for each answer."
     }
   ],
   "answerKey": {

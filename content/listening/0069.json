@@ -40,37 +40,42 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "MBER for each answer. Celebrating 20 years Budget for meal: (1) $ Meal C: cost – $50 per head Consists of prawns, and seafood platter with (2) and oysters Meal D: cost –",
-      "groupId": "q1-5"
+      "prompt": "Celebrating 20 years Budget for meal: ____",
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for meal:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "– $50 per head Consists of prawns, and seafood platter with (2) and oysters Meal D: cost – (3) $ Consists of (4) with (5) soup, dessert and coffee",
-      "groupId": "q1-5"
+      "prompt": "$ Meal C: cost – $50 per head Consists of prawns, and seafood platter with ____",
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for meal:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ns, and seafood platter with (2) and oysters Meal D: cost – (3) $ Consists of (4) with (5) soup, dessert and coffee",
-      "groupId": "q1-5"
+      "prompt": "and oysters Meal D: cost – ____",
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for meal:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "atter with (2) and oysters Meal D: cost – (3) $ Consists of (4) with (5) soup, dessert and coffee",
-      "groupId": "q1-5"
+      "prompt": "$ Consists of ____",
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for meal:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for me",
-      "groupId": "q1-5"
+      "prompt": "with ____",
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write ONE WORD AND OR A NUMBER for each answer. Celebrating 20 years Budget for meal:"
     },
     {
       "number": 6,
       "type": "multipleChoice",
-      "stem": "-10 Choose the correct letter A, B or C. 6. The function will take place on the",
+      "stem": "The function will take place on the",
       "options": [
         {
           "letter": "A",
@@ -85,32 +90,34 @@
           "text": "20th"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 7,
-      "type": "multipleChoice",
-      "stem": "It will start at",
-      "options": [
+      "type": "gapFill",
+      "prompt": "It will start at A 7 pm B 7.30 pm C",
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C.",
+      "bank": [
         {
           "letter": "A",
-          "text": "7 pm"
+          "text": "14th"
         },
         {
           "letter": "B",
-          "text": "7.30 pm"
+          "text": "18th"
         },
         {
           "letter": "C",
-          "text": "8 pm"
+          "text": "20th 7."
         }
-      ],
-      "groupId": "q6-10"
+      ]
     },
     {
       "number": 8,
       "type": "multipleChoice",
-      "stem": "The dress code will be",
+      "stem": "pm 8. The dress code will be",
       "options": [
         {
           "letter": "A",
@@ -125,7 +132,8 @@
           "text": "casual"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 9,
@@ -145,7 +153,8 @@
           "text": "smoke in special places"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 10,
@@ -165,143 +174,164 @@
           "text": "large box"
         }
       ],
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to questions 11-15."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to questions 11-15."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to questions 11-15."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to questions 11-15."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Questions 11-15 Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to",
-      "groupId": "q11-15"
+      "prompt": "____",
+      "groupId": "q11-15",
+      "instructions": "Fill in the timeline. Choose FIVE answers from the list and write the correct letter A-F next to questions 11-15."
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "THAN TWO WORDS for each answer. Changes to University Plaza 16. Instead of concrete, the paths will be 17. The rear corner will have 18. The left hand strip will have a 1",
+      "prompt": "Instead of concrete, the paths will be",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza"
     },
     {
       "number": 17,
       "type": "sentenceCompletion",
-      "prompt": "University Plaza 16. Instead of concrete, the paths will be 17. The rear corner will have 18. The left hand strip will have a 19. In the middle, there will be 20. The wal",
+      "prompt": "The rear corner will have",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza"
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "f concrete, the paths will be 17. The rear corner will have 18. The left hand strip will have a 19. In the middle, there will be 20. The walls will have Part 3:",
+      "prompt": "The left hand strip will have a",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza"
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "e rear corner will have 18. The left hand strip will have a 19. In the middle, there will be 20. The walls will have Part 3:",
+      "prompt": "In the middle, there will be",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza"
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 16-20 Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza 16. Inste",
+      "prompt": "The walls will have",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Complete the sentences. Write NO MORE THAN TWO WORDS for each answer. Changes to University Plaza"
     },
     {
       "number": 21,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 22,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 23,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 24,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "Questions 21-26 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (21) (22) (23) (24) (25) (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "e. Which scientist does each person think was the greatest? 27. Steve 28. David 29. Susan 30. Peter G Galileo N Newton E Einstein Part 4:",
-      "groupId": "q27-30"
+      "prompt": "Steve",
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter G, N or E. NB you may use a letter more than once. Which scientist does each person think was the greatest?"
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "cientist does each person think was the greatest? 27. Steve 28. David 29. Susan 30. Peter G Galileo N Newton E Einstein Part 4:",
-      "groupId": "q27-30"
+      "prompt": "David",
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter G, N or E. NB you may use a letter more than once. Which scientist does each person think was the greatest?"
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "oes each person think was the greatest? 27. Steve 28. David 29. Susan 30. Peter G Galileo N Newton E Einstein Part 4:",
-      "groupId": "q27-30"
+      "prompt": "Susan",
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter G, N or E. NB you may use a letter more than once. Which scientist does each person think was the greatest?"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 Choose the correct letter G, N or E. NB you may use a letter more than once. Which scientist does each pers",
-      "groupId": "q27-30"
+      "prompt": "Peter G Galileo N Newton E Einstein",
+      "groupId": "q27-30",
+      "instructions": "Choose the correct letter G, N or E. NB you may use a letter more than once. Which scientist does each person think was the greatest?"
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "and 32 Choose the correct letter A, B or C. 31. ‘Echo’ is an example of a",
+      "stem": "‘Echo’ is an example of a",
       "options": [
         {
           "letter": "A",
@@ -316,7 +346,8 @@
           "text": "symbol"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -336,60 +367,147 @@
           "text": "have many products"
         }
       ],
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Choose the correct letter A, B or C."
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Question 33",
-      "groupId": "q33-35"
+      "prompt": "Amazon",
+      "groupId": "q33-35",
+      "instructions": "Choose THREE answers from the list and write the correct letter A-F next to questions 33-35. What type of name does each company use?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Acronym"
+        },
+        {
+          "letter": "B",
+          "text": "Descriptive"
+        },
+        {
+          "letter": "C",
+          "text": "Evocative"
+        },
+        {
+          "letter": "D",
+          "text": "Founders’ names"
+        },
+        {
+          "letter": "E",
+          "text": "Neologism"
+        },
+        {
+          "letter": "F",
+          "text": "Rhyming"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Question 34",
-      "groupId": "q33-35"
+      "prompt": "Safe and Sleek",
+      "groupId": "q33-35",
+      "instructions": "Choose THREE answers from the list and write the correct letter A-F next to questions 33-35. What type of name does each company use?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Acronym"
+        },
+        {
+          "letter": "B",
+          "text": "Descriptive"
+        },
+        {
+          "letter": "C",
+          "text": "Evocative"
+        },
+        {
+          "letter": "D",
+          "text": "Founders’ names"
+        },
+        {
+          "letter": "E",
+          "text": "Neologism"
+        },
+        {
+          "letter": "F",
+          "text": "Rhyming"
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "Questions 33-35 Choose THREE answers from the list and write the correct letter A-F next to",
-      "groupId": "q33-35"
+      "prompt": "Kodak Type of name A Acronym B Descriptive C Evocative D Founders’ names E Neologism F Rhyming",
+      "groupId": "q33-35",
+      "instructions": "Choose THREE answers from the list and write the correct letter A-F next to questions 33-35. What type of name does each company use?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Acronym"
+        },
+        {
+          "letter": "B",
+          "text": "Descriptive"
+        },
+        {
+          "letter": "C",
+          "text": "Evocative"
+        },
+        {
+          "letter": "D",
+          "text": "Founders’ names"
+        },
+        {
+          "letter": "E",
+          "text": "Neologism"
+        },
+        {
+          "letter": "F",
+          "text": "Rhyming"
+        }
+      ]
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "e below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 36-40 Complete the table below. Write NO MORE THAN TWO WORDS for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS for each answer."
     }
   ],
   "answerKey": {

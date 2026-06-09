@@ -40,137 +40,247 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 1. Cheapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of pro",
+      "prompt": "Cheapest properties: £ per week",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "NUMBER for each answer. 1. Cheapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of properties available on",
+      "prompt": "Minimum period of contract",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "eapest properties: £ per week 2. Minimum period of contract 3. Office open Saturdays until 4. List of properties available on",
+      "prompt": "Office open Saturdays until",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "Questions 1-4 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. 1. Cheapest propert",
+      "prompt": "List of properties available on",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "ncluded for free with every property for rent from Easylet? (5) (6) (7) A heating bills B kitchen equipment C plates and glasses D sheets and towels E telephone F televis",
-      "groupId": "q5-7"
+      "prompt": "Which THREE things are included for free with every property for rent from Easylet? ____",
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which THREE things are included for free with every property for rent from Easylet?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "heating bills"
+        },
+        {
+          "letter": "B",
+          "text": "kitchen equipment"
+        },
+        {
+          "letter": "C",
+          "text": "plates and glasses"
+        },
+        {
+          "letter": "D",
+          "text": "sheets and towels"
+        },
+        {
+          "letter": "E",
+          "text": "telephone"
+        },
+        {
+          "letter": "F",
+          "text": "television"
+        },
+        {
+          "letter": "G",
+          "text": "water bill"
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "ded for free with every property for rent from Easylet? (5) (6) (7) A heating bills B kitchen equipment C plates and glasses D sheets and towels E telephone F television",
-      "groupId": "q5-7"
+      "prompt": "____",
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which THREE things are included for free with every property for rent from Easylet?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "heating bills"
+        },
+        {
+          "letter": "B",
+          "text": "kitchen equipment"
+        },
+        {
+          "letter": "C",
+          "text": "plates and glasses"
+        },
+        {
+          "letter": "D",
+          "text": "sheets and towels"
+        },
+        {
+          "letter": "E",
+          "text": "telephone"
+        },
+        {
+          "letter": "F",
+          "text": "television"
+        },
+        {
+          "letter": "G",
+          "text": "water bill"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 5-7 Choose THREE letters A-G. Which THREE things are included for free with every property for rent from Easylet",
-      "groupId": "q5-7"
+      "prompt": "____",
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which THREE things are included for free with every property for rent from Easylet?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "heating bills"
+        },
+        {
+          "letter": "B",
+          "text": "kitchen equipment"
+        },
+        {
+          "letter": "C",
+          "text": "plates and glasses"
+        },
+        {
+          "letter": "D",
+          "text": "sheets and towels"
+        },
+        {
+          "letter": "E",
+          "text": "telephone"
+        },
+        {
+          "letter": "F",
+          "text": "television"
+        },
+        {
+          "letter": "G",
+          "text": "water bill"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "mapPlanLabelling",
-      "prompt": "Question 8",
-      "groupId": "q8-10"
+      "prompt": "Eastern Towers",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 8-10. Where are the following blocks of flats situated?"
     },
     {
       "number": 9,
       "type": "mapPlanLabelling",
-      "prompt": "Question 9",
-      "groupId": "q8-10"
+      "prompt": "Granby Mansions",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 8-10. Where are the following blocks of flats situated?"
     },
     {
       "number": 10,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 8-10 Label the map below. Write the correct letter A-H next to",
-      "groupId": "q8-10"
+      "prompt": "Busby Garden",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the correct letter A-H next to questions 8-10. Where are the following blocks of flats situated?"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "ow. Write NO MORE THAN TWO WORDS for each answer. The Hotel 11. You must book in advance. 12. There are some interesting in the lounge. Activities 13. The visit to the ha",
+      "prompt": "You must book in advance.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "DS for each answer. The Hotel 11. You must book in advance. 12. There are some interesting in the lounge. Activities 13. The visit to the has been cancelled. 14. There wi",
+      "prompt": "There are some interesting in the lounge. Activities",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "e. 12. There are some interesting in the lounge. Activities 13. The visit to the has been cancelled. 14. There will be a talk about from the area on Saturday. 15. The vis",
+      "prompt": "The visit to the has been cancelled.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "lounge. Activities 13. The visit to the has been cancelled. 14. There will be a talk about from the area on Saturday. 15. The visit to the will take place on Saturday. 16",
+      "prompt": "There will be a talk about from the area on Saturday.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 15,
       "type": "sentenceCompletion",
-      "prompt": ". 14. There will be a talk about from the area on Saturday. 15. The visit to the will take place on Saturday. 16. There is a collection of in the art gallery.",
+      "prompt": "The visit to the will take place on Saturday.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 16,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-16 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel 11. You must book in",
+      "prompt": "There is a collection of in the art gallery.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. The Hotel"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-I next to",
-      "groupId": "q17-20"
+      "prompt": "____",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-I next to questions 17-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter A, B or C. 21. How old are the students of the nursing program?",
+      "stem": "How old are the students of the nursing program?",
       "options": [
         {
           "letter": "A",
@@ -185,7 +295,8 @@
           "text": "they belong to different age groups"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -205,7 +316,8 @@
           "text": "it provides supportive learning environment"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -225,7 +337,8 @@
           "text": "there is internship provided"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -245,113 +358,334 @@
           "text": "it takes up too much time"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q25-30"
+      "prompt": "Essays",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q25-30"
+      "prompt": "Lectures",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q25-30"
+      "prompt": "Research",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q25-30"
+      "prompt": "Online forum",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q25-30"
+      "prompt": "Placement tests",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter",
-      "groupId": "q25-30"
+      "prompt": "Freshmen A get feedback from teaching staff B do more reading C get help from school supporting staff D get help for nursing problems E manage time properly F be well prepared G review the notes regularly H do not set unrealistic goals",
+      "groupId": "q25-30",
+      "instructions": "What are the suggestions offered by the speakers? Choose SIX answers from the list and write correct letter A-H next to questions 25-30.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "get feedback from teaching staff"
+        },
+        {
+          "letter": "B",
+          "text": "do more reading"
+        },
+        {
+          "letter": "C",
+          "text": "get help from school supporting staff"
+        },
+        {
+          "letter": "D",
+          "text": "get help for nursing problems"
+        },
+        {
+          "letter": "E",
+          "text": "manage time properly"
+        },
+        {
+          "letter": "F",
+          "text": "be well prepared"
+        },
+        {
+          "letter": "G",
+          "text": "review the notes regularly"
+        },
+        {
+          "letter": "H",
+          "text": "do not set unrealistic goals Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "otes below. Write NO MORE THAN THREE WORDS for each answer. 31. Although it is called wild, most varieties of wild rice are 32. Wild rice is mostly found in lakes that ha",
+      "prompt": "Although it is called wild, most varieties of wild rice are",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "Although it is called wild, most varieties of wild rice are 32. Wild rice is mostly found in lakes that have water. 33. Wild rice was gathered by Indians before any ever",
+      "prompt": "Wild rice is mostly found in lakes that have water.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "are 32. Wild rice is mostly found in lakes that have water. 33. Wild rice was gathered by Indians before any ever arrived. 34. Early visitors thought that wild rice had g",
+      "prompt": "Wild rice was gathered by Indians before any ever arrived.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "Questions 31-34 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. 31. Although it is called wild, m",
+      "prompt": "Early visitors thought that wild rice had greatly increased the and of the Indians.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Questions 35-37 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-37"
+      "groupId": "q35-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "ch answer. Buying wild rice: Fact Sheet You need to harvest (38) pounds of seed to yield 1 pound of wild rice. Wild rice on the market that is harvested by (39) is slowly",
+      "prompt": "Buying wild rice: Fact Sheet You need to harvest ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the fact sheet below. Write NO MORE THAN THREE WORDS for each answer. Buying wild rice: Fact Sheet You need to harvest"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "of wild rice. Wild rice on the market that is harvested by (39) is slowly being pushed. (40)",
+      "prompt": "pounds of seed to yield 1 pound of wild rice. Wild rice on the market that is harvested by ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the fact sheet below. Write NO MORE THAN THREE WORDS for each answer. Buying wild rice: Fact Sheet You need to harvest"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 38-40 Complete the fact sheet below. Write NO MORE THAN THREE WORDS for each answer. Buying wild rice: Fact Sheet",
+      "prompt": "is slowly being pushed. ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q38-40"
+      "groupId": "q38-40",
+      "instructions": "Complete the fact sheet below. Write NO MORE THAN THREE WORDS for each answer. Buying wild rice: Fact Sheet You need to harvest"
     }
   ],
   "answerKey": {

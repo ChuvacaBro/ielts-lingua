@@ -40,123 +40,140 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "rk’s Bicycle Hire Type: touring bike Rental: £50 a week, or (1) £ a day Late return fee: (2) £ per extra hour Deposit: (3) £ returnable Accessories: £5 for (4) : pannier",
+      "prompt": "Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ng bike Rental: £50 a week, or (1) £ a day Late return fee: (2) £ per extra hour Deposit: (3) £ returnable Accessories: £5 for (4) : pannier or handlebar type Free: pump,",
+      "prompt": "£ a day Late return fee: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "(1) £ a day Late return fee: (2) £ per extra hour Deposit: (3) £ returnable Accessories: £5 for (4) : pannier or handlebar type Free: pump, repair kit, strong (5) Insura",
+      "prompt": "£ per extra hour Deposit: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "er extra hour Deposit: (3) £ returnable Accessories: £5 for (4) : pannier or handlebar type Free: pump, repair kit, strong (5) Insurance: included, but must pay for first",
+      "prompt": "£ returnable Accessories: £5 for ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "2) £ per extra hour Deposit: (3) £ returnable Accessories: £5 for (4) : pannier or handlebar type Free: pump, repair kit, strong (5) Insurance: included, but must pay for",
+      "prompt": "pannier or handlebar type Free: pump, repair kit, strong ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "kit, strong (5) Insurance: included, but must pay for first (6) £ of claim Pay: by (7) only",
+      "prompt": "Insurance: included, but must pay for first ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "Questions 1-7 Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s B",
+      "prompt": "£ of claim Pay: by ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-7"
+      "groupId": "q1-7",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Notes – Clark’s Bicycle Hire Type: touring bike Rental: £50 a week, or"
     },
     {
       "number": 8,
       "type": "mapPlanLabelling",
-      "prompt": "the map below. Write the appropriate letter A-E on the map. (8) (9) (10) A health centre B Maple Leaf pub C Clark’s cycle hire D supermarket E garage Part 2:",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the appropriate letter A-E on the map."
     },
     {
       "number": 9,
       "type": "mapPlanLabelling",
-      "prompt": "map below. Write the appropriate letter A-E on the map. (8) (9) (10) A health centre B Maple Leaf pub C Clark’s cycle hire D supermarket E garage Part 2:",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the appropriate letter A-E on the map."
     },
     {
       "number": 10,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 8-10 Label the map below. Write the appropriate letter A-E on the map. (8) (9) (10) A health centre B Maple Leaf",
-      "groupId": "q8-10"
+      "prompt": "____",
+      "groupId": "q8-10",
+      "instructions": "Label the map below. Write the appropriate letter A-E on the map."
     },
     {
       "number": 11,
       "type": "tableCompletion",
-      "prompt": "r each answer. (12) ________ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "(12) ____ RELIGIOUS Dancing Speed dating ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 12,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 13,
       "type": "tableCompletion",
-      "prompt": "wer. (12) ________ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 14,
       "type": "tableCompletion",
-      "prompt": "(12) ________ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "________ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "___ RELIGIOUS Dancing Speed dating (11) (12) (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "Questions 11-17 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing S",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-17"
+      "groupId": "q11-17",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (12) ________ RELIGIOUS Dancing Speed dating"
     },
     {
       "number": 18,
       "type": "multipleChoice",
-      "stem": "-20 Choose the correct letter A, B or C. 18. In this city, clubs and societies are mainly paid for by",
+      "stem": "In this city, clubs and societies are mainly paid for by",
       "options": [
         {
           "letter": "A",
@@ -171,7 +188,8 @@
           "text": "the city council"
         }
       ],
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 19,
@@ -191,7 +209,8 @@
           "text": "friends"
         }
       ],
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 20,
@@ -211,142 +230,233 @@
           "text": "join one in another town"
         }
       ],
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "flow chart. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Label the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "chart. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Label the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Label the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Label the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 21-25 Label the flow chart. Write NO MORE THAN THREE WORDS for each answer. (21) (22) (23) (24) (25)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Label the flow chart. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "questions. Write NO MORE THAN THREE WORDS for each answer. 26. Where should you sit when you attend a lecture? 27. What should you do if you miss an important point? 28.",
+      "prompt": "Where should you sit when you attend a lecture?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-29"
+      "groupId": "q26-29",
+      "instructions": "Answer the following questions. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "answer. 26. Where should you sit when you attend a lecture? 27. What should you do if you miss an important point? 28. Why must your notes be easy to read? 29. What do we",
+      "prompt": "What should you do if you miss an important point?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-29"
+      "groupId": "q26-29",
+      "instructions": "Answer the following questions. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "ure? 27. What should you do if you miss an important point? 28. Why must your notes be easy to read? 29. What do we call expressions which indicate what is coming next?",
+      "prompt": "Why must your notes be easy to read?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-29"
+      "groupId": "q26-29",
+      "instructions": "Answer the following questions. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 26-29 Answer the following questions. Write NO MORE THAN THREE WORDS for each answer. 26. Where should you sit wh",
+      "prompt": "What do we call expressions which indicate what is coming next?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-29"
+      "groupId": "q26-29",
+      "instructions": "Answer the following questions. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30 Choose the correct letter A, B, C or D. 30. Where does Carlos write summing up points on his notes? A B C D",
-      "groupId": "q30-30"
+      "type": "multipleChoice",
+      "stem": "Where does Carlos write summing up points on his notes?",
+      "options": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": "D"
+        }
+      ],
+      "groupId": "q30-30",
+      "instructions": "Choose the correct letter A, B, C or D."
     },
     {
       "number": 31,
       "type": "summaryCompletion",
-      "prompt": "answer. The Australian mining town of Coober Pedy is about (31) kms south of Alice Springs. Opals were first found in the area in (32) and people began to settle there a",
+      "prompt": "The Australian mining town of Coober Pedy is about ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 32,
       "type": "summaryCompletion",
-      "prompt": "uth of Alice Springs. Opals were first found in the area in (32) and people began to settle there after the (33) In the late 1940s new opal fields and mass immigration fr",
+      "prompt": "kms south of Alice Springs. Opals were first found in the area in ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 33,
       "type": "summaryCompletion",
-      "prompt": "the area in (32) and people began to settle there after the (33) In the late 1940s new opal fields and mass immigration from (34) created a boom, despite the extreme clim",
+      "prompt": "and people began to settle there after the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 34,
       "type": "summaryCompletion",
-      "prompt": "In the late 1940s new opal fields and mass immigration from (34) created a boom, despite the extreme climate which forced about (35) of the population to live underground",
+      "prompt": "In the late 1940s new opal fields and mass immigration from ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 35,
       "type": "summaryCompletion",
-      "prompt": "ated a boom, despite the extreme climate which forced about (35) of the population to live underground, where they built hotels, churches and the world’s only underground",
+      "prompt": "created a boom, despite the extreme climate which forced about ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 36,
       "type": "summaryCompletion",
-      "prompt": "Questions 31-36 Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of C",
+      "prompt": "of the population to live underground, where they built hotels, churches and the world’s only underground ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the summary below. Write NO MORE THAN THREE WORDS for each answer. The Australian mining town of Coober Pedy is about"
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
-      "groupId": "q37-40"
+      "prompt": "the town of Woomera",
+      "groupId": "q37-40",
+      "instructions": "Write the appropriate letters A, B or C next to questions 37-40. What are the locations of the following places? Example The conical hills B",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the town of Coober Pedy"
+        },
+        {
+          "letter": "B",
+          "text": "near Coober Pedy"
+        },
+        {
+          "letter": "C",
+          "text": "far from Coober Pedy"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
-      "groupId": "q37-40"
+      "prompt": "the opal museum",
+      "groupId": "q37-40",
+      "instructions": "Write the appropriate letters A, B or C next to questions 37-40. What are the locations of the following places? Example The conical hills B",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the town of Coober Pedy"
+        },
+        {
+          "letter": "B",
+          "text": "near Coober Pedy"
+        },
+        {
+          "letter": "C",
+          "text": "far from Coober Pedy"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
-      "groupId": "q37-40"
+      "prompt": "the Dingo Fence",
+      "groupId": "q37-40",
+      "instructions": "Write the appropriate letters A, B or C next to questions 37-40. What are the locations of the following places? Example The conical hills B",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the town of Coober Pedy"
+        },
+        {
+          "letter": "B",
+          "text": "near Coober Pedy"
+        },
+        {
+          "letter": "C",
+          "text": "far from Coober Pedy"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 37-40 Write the appropriate letters A, B or C next to",
-      "groupId": "q37-40"
+      "prompt": "the set of films A in the town of Coober Pedy B near Coober Pedy C far from Coober Pedy",
+      "groupId": "q37-40",
+      "instructions": "Write the appropriate letters A, B or C next to questions 37-40. What are the locations of the following places? Example The conical hills B",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in the town of Coober Pedy"
+        },
+        {
+          "letter": "B",
+          "text": "near Coober Pedy"
+        },
+        {
+          "letter": "C",
+          "text": "far from Coober Pedy"
+        }
+      ]
     }
   ],
   "answerKey": {

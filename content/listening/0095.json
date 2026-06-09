@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ding for group project Name: Ralph Pearson Contact address: (1) Drayton, DR68AB Telephone number: 01453 586098 Name of group: Community Youth Theatre Group Description of",
+      "prompt": "Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "Theatre Group Description of group: amateur theatre group ( (2) members) Involved in drama (3) and Amount of money requested: (4) £ Description of project: to produce a s",
+      "prompt": "number: 01453 586098 Name of group: Community Youth Theatre Group Description of group: amateur theatre group ( ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "oup: amateur theatre group ( (2) members) Involved in drama (3) and Amount of money requested: (4) £ Description of project: to produce a short (5) play for young childre",
+      "prompt": "members) Involved in drama ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "mbers) Involved in drama (3) and Amount of money requested: (4) £ Description of project: to produce a short (5) play for young children Money needed for: (6) for scenery",
+      "prompt": "and Amount of money requested: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "requested: (4) £ Description of project: to produce a short (5) play for young children Money needed for: (6) for scenery Costumes Cost of (7) (8) Sundries How source of",
+      "prompt": "£ Description of project: to produce a short ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "oduce a short (5) play for young children Money needed for: (6) for scenery Costumes Cost of (7) (8) Sundries How source of funding will be credited • Acknowledged in the",
+      "prompt": "play for young children Money needed for: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 7,
       "type": "formCompletion",
-      "prompt": "children Money needed for: (6) for scenery Costumes Cost of (7) (8) Sundries How source of funding will be credited • Acknowledged in the (9) given to audience Other orga",
+      "prompt": "for scenery Costumes Cost of ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "dren Money needed for: (6) for scenery Costumes Cost of (7) (8) Sundries How source of funding will be credited • Acknowledged in the (9) given to audience Other organisa",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "ow source of funding will be credited • Acknowledged in the (9) given to audience Other organisations approached for funding (and outcome) • National Youth Services – mon",
+      "prompt": "Sundries How source of funding will be credited • Acknowledged in the ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 1-10 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme A",
+      "prompt": "given to audience Other organisations approached for funding (and outcome) • National Youth Services – money was ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. Council Youth Scheme Application for funding for group project Name: Ralph Pearson Contact address:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. 11. Joanne says that visitors to Darwin are often surprised by",
+      "stem": "Joanne says that visitors to Darwin are often surprised by",
       "options": [
         {
           "letter": "A",
@@ -122,16 +132,32 @@
         },
         {
           "letter": "C",
-          "text": "the range of cultures. 12 To enjoy cultural activities, the people of Darwin tend to A travel to southern Australia. B bring in artists from other areas. C involve themselves in production."
+          "text": "the range of cultures."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 12"
+      "type": "multipleChoice",
+      "stem": "To enjoy cultural activities, the people of Darwin tend to",
+      "options": [
+        {
+          "letter": "A",
+          "text": "travel to southern Australia."
+        },
+        {
+          "letter": "B",
+          "text": "bring in artists from other areas."
+        },
+        {
+          "letter": "C",
+          "text": "involve themselves in production."
+        }
+      ],
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -151,7 +177,8 @@
           "text": "was demolished to make room for new buildings."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -171,7 +198,8 @@
           "text": "the hills"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -191,166 +219,672 @@
           "text": "You should stay in certain restricted areas."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "‘Aquascene’",
+      "groupId": "q16-20",
+      "instructions": "What can you find at each of the places below? Choose your answers from the list and write correct letter A-H next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a flower market"
+        },
+        {
+          "letter": "B",
+          "text": "a chance to feed the fish"
+        },
+        {
+          "letter": "C",
+          "text": "good nightlife"
+        },
+        {
+          "letter": "D",
+          "text": "international arts and crafts"
+        },
+        {
+          "letter": "E",
+          "text": "good cheap international food"
+        },
+        {
+          "letter": "F",
+          "text": "a trip to catch fish"
+        },
+        {
+          "letter": "G",
+          "text": "shops and seafood restaurants"
+        },
+        {
+          "letter": "H",
+          "text": "a wide range of different plants 16. ‘Aquascene’ 17. Smith Street Mall 18. Cullen Bay Marina 19. Fannie Bay 20. Mitchell Street Part 3:"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Smith Street Mall",
+      "groupId": "q16-20",
+      "instructions": "What can you find at each of the places below? Choose your answers from the list and write correct letter A-H next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a flower market"
+        },
+        {
+          "letter": "B",
+          "text": "a chance to feed the fish"
+        },
+        {
+          "letter": "C",
+          "text": "good nightlife"
+        },
+        {
+          "letter": "D",
+          "text": "international arts and crafts"
+        },
+        {
+          "letter": "E",
+          "text": "good cheap international food"
+        },
+        {
+          "letter": "F",
+          "text": "a trip to catch fish"
+        },
+        {
+          "letter": "G",
+          "text": "shops and seafood restaurants"
+        },
+        {
+          "letter": "H",
+          "text": "a wide range of different plants 16. ‘Aquascene’ 17. Smith Street Mall 18. Cullen Bay Marina 19. Fannie Bay 20. Mitchell Street Part 3:"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Cullen Bay Marina",
+      "groupId": "q16-20",
+      "instructions": "What can you find at each of the places below? Choose your answers from the list and write correct letter A-H next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a flower market"
+        },
+        {
+          "letter": "B",
+          "text": "a chance to feed the fish"
+        },
+        {
+          "letter": "C",
+          "text": "good nightlife"
+        },
+        {
+          "letter": "D",
+          "text": "international arts and crafts"
+        },
+        {
+          "letter": "E",
+          "text": "good cheap international food"
+        },
+        {
+          "letter": "F",
+          "text": "a trip to catch fish"
+        },
+        {
+          "letter": "G",
+          "text": "shops and seafood restaurants"
+        },
+        {
+          "letter": "H",
+          "text": "a wide range of different plants 16. ‘Aquascene’ 17. Smith Street Mall 18. Cullen Bay Marina 19. Fannie Bay 20. Mitchell Street Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Fannie Bay",
+      "groupId": "q16-20",
+      "instructions": "What can you find at each of the places below? Choose your answers from the list and write correct letter A-H next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a flower market"
+        },
+        {
+          "letter": "B",
+          "text": "a chance to feed the fish"
+        },
+        {
+          "letter": "C",
+          "text": "good nightlife"
+        },
+        {
+          "letter": "D",
+          "text": "international arts and crafts"
+        },
+        {
+          "letter": "E",
+          "text": "good cheap international food"
+        },
+        {
+          "letter": "F",
+          "text": "a trip to catch fish"
+        },
+        {
+          "letter": "G",
+          "text": "shops and seafood restaurants"
+        },
+        {
+          "letter": "H",
+          "text": "a wide range of different plants 16. ‘Aquascene’ 17. Smith Street Mall 18. Cullen Bay Marina 19. Fannie Bay 20. Mitchell Street Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 16-20 What can you find at each of the places below? Choose your answers from the list and write correct letter A",
-      "groupId": "q16-20"
+      "prompt": "Mitchell Street",
+      "groupId": "q16-20",
+      "instructions": "What can you find at each of the places below? Choose your answers from the list and write correct letter A-H next to questions 16-20.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a flower market"
+        },
+        {
+          "letter": "B",
+          "text": "a chance to feed the fish"
+        },
+        {
+          "letter": "C",
+          "text": "good nightlife"
+        },
+        {
+          "letter": "D",
+          "text": "international arts and crafts"
+        },
+        {
+          "letter": "E",
+          "text": "good cheap international food"
+        },
+        {
+          "letter": "F",
+          "text": "a trip to catch fish"
+        },
+        {
+          "letter": "G",
+          "text": "shops and seafood restaurants"
+        },
+        {
+          "letter": "H",
+          "text": "a wide range of different plants 16. ‘Aquascene’ 17. Smith Street Mall 18. Cullen Bay Marina 19. Fannie Bay 20. Mitchell Street Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "HAN THREE WORDS for each answer. Effects on weather on mood 21. Phil and Stella’s goal is to the hypothesis that weather has an effect on a person’s mood. 22. They expect",
+      "prompt": "Phil and Stella’s goal is to the hypothesis that weather has an effect on a person’s mood.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Effects on weather on mood"
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "e hypothesis that weather has an effect on a person’s mood. 22. They expect to find that ‘good’ weather (weather which is ) has a positive effect on a person’s mood. 23.",
+      "prompt": "They expect to find that ‘good’ weather (weather which is ) has a positive effect on a person’s mood.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Effects on weather on mood"
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-23 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Effects on weather on mood 21",
+      "prompt": "Stella defines effect on mood’ as a in the way a person feels.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. Effects on weather on mood"
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q24-27"
+      "prompt": "Vickers",
+      "groupId": "q24-27",
+      "instructions": "What information was given by each writer? Choose your answers from the list below and write correct letters A-F next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the benefits of moving to a warmer environment"
+        },
+        {
+          "letter": "B",
+          "text": "the type of weather with the worst effect on mood"
+        },
+        {
+          "letter": "C",
+          "text": "how past events affect attitudes to weather"
+        },
+        {
+          "letter": "D",
+          "text": "the important effect of stress on mood"
+        },
+        {
+          "letter": "E",
+          "text": "the important effect of hours of sunshine on mood"
+        },
+        {
+          "letter": "F",
+          "text": "psychological problems due to having to cope with bad weather 24. Vickers 25. Whitebourne 26. Haverton 27. Stanfield"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q24-27"
+      "prompt": "Whitebourne",
+      "groupId": "q24-27",
+      "instructions": "What information was given by each writer? Choose your answers from the list below and write correct letters A-F next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the benefits of moving to a warmer environment"
+        },
+        {
+          "letter": "B",
+          "text": "the type of weather with the worst effect on mood"
+        },
+        {
+          "letter": "C",
+          "text": "how past events affect attitudes to weather"
+        },
+        {
+          "letter": "D",
+          "text": "the important effect of stress on mood"
+        },
+        {
+          "letter": "E",
+          "text": "the important effect of hours of sunshine on mood"
+        },
+        {
+          "letter": "F",
+          "text": "psychological problems due to having to cope with bad weather 24. Vickers 25. Whitebourne 26. Haverton 27. Stanfield"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q24-27"
+      "prompt": "Haverton",
+      "groupId": "q24-27",
+      "instructions": "What information was given by each writer? Choose your answers from the list below and write correct letters A-F next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the benefits of moving to a warmer environment"
+        },
+        {
+          "letter": "B",
+          "text": "the type of weather with the worst effect on mood"
+        },
+        {
+          "letter": "C",
+          "text": "how past events affect attitudes to weather"
+        },
+        {
+          "letter": "D",
+          "text": "the important effect of stress on mood"
+        },
+        {
+          "letter": "E",
+          "text": "the important effect of hours of sunshine on mood"
+        },
+        {
+          "letter": "F",
+          "text": "psychological problems due to having to cope with bad weather 24. Vickers 25. Whitebourne 26. Haverton 27. Stanfield"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 24-27 What information was given by each writer? Choose your answers from the list below and write correct letter",
-      "groupId": "q24-27"
+      "prompt": "Stanfield",
+      "groupId": "q24-27",
+      "instructions": "What information was given by each writer? Choose your answers from the list below and write correct letters A-F next to questions 24-27.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the benefits of moving to a warmer environment"
+        },
+        {
+          "letter": "B",
+          "text": "the type of weather with the worst effect on mood"
+        },
+        {
+          "letter": "C",
+          "text": "how past events affect attitudes to weather"
+        },
+        {
+          "letter": "D",
+          "text": "the important effect of stress on mood"
+        },
+        {
+          "letter": "E",
+          "text": "the important effect of hours of sunshine on mood"
+        },
+        {
+          "letter": "F",
+          "text": "psychological problems due to having to cope with bad weather 24. Vickers 25. Whitebourne 26. Haverton 27. Stanfield"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-H. Which THREE things do Phil and Stella still have to decide on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "how to analyse their results"
+        },
+        {
+          "letter": "B",
+          "text": "their methods of presentation"
+        },
+        {
+          "letter": "C",
+          "text": "the design of their questionnaire"
+        },
+        {
+          "letter": "D",
+          "text": "the location of their survey"
+        },
+        {
+          "letter": "E",
+          "text": "weather variables to be measured"
+        },
+        {
+          "letter": "F",
+          "text": "the dates of their survey"
+        },
+        {
+          "letter": "G",
+          "text": "the size of their survey"
+        },
+        {
+          "letter": "H",
+          "text": "the source of data on weather variables Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-H. Which THREE things do Phil and Stella still have to decide on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "how to analyse their results"
+        },
+        {
+          "letter": "B",
+          "text": "their methods of presentation"
+        },
+        {
+          "letter": "C",
+          "text": "the design of their questionnaire"
+        },
+        {
+          "letter": "D",
+          "text": "the location of their survey"
+        },
+        {
+          "letter": "E",
+          "text": "weather variables to be measured"
+        },
+        {
+          "letter": "F",
+          "text": "the dates of their survey"
+        },
+        {
+          "letter": "G",
+          "text": "the size of their survey"
+        },
+        {
+          "letter": "H",
+          "text": "the source of data on weather variables Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Choose THREE letters A-H. Which THREE things do Phil and Stella still have to decide on? A how to analyse t",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Choose THREE letters A-H. Which THREE things do Phil and Stella still have to decide on?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "how to analyse their results"
+        },
+        {
+          "letter": "B",
+          "text": "their methods of presentation"
+        },
+        {
+          "letter": "C",
+          "text": "the design of their questionnaire"
+        },
+        {
+          "letter": "D",
+          "text": "the location of their survey"
+        },
+        {
+          "letter": "E",
+          "text": "weather variables to be measured"
+        },
+        {
+          "letter": "F",
+          "text": "the dates of their survey"
+        },
+        {
+          "letter": "G",
+          "text": "the size of their survey"
+        },
+        {
+          "letter": "H",
+          "text": "the source of data on weather variables Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letters A-F Which TWO of the following problems are causing concern to educational author",
-      "groupId": "q31-32"
+      "prompt": "Question 31",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letters A-F Which TWO of the following problems are causing concern to educational authorities in the USA?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "differences between rich and poor students"
+        },
+        {
+          "letter": "B",
+          "text": "high numbers dropping out of education"
+        },
+        {
+          "letter": "C",
+          "text": "falling standards of students"
+        },
+        {
+          "letter": "D",
+          "text": "poor results compared with other nationalities"
+        },
+        {
+          "letter": "E",
+          "text": "low scores of overseas students"
+        },
+        {
+          "letter": "F",
+          "text": "differences between rural and urban students"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letters A-F Which TWO of the following problems are causing concern to educational authorities i",
-      "groupId": "q31-32"
+      "prompt": "Question 32",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letters A-F Which TWO of the following problems are causing concern to educational authorities in the USA?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "differences between rich and poor students"
+        },
+        {
+          "letter": "B",
+          "text": "high numbers dropping out of education"
+        },
+        {
+          "letter": "C",
+          "text": "falling standards of students"
+        },
+        {
+          "letter": "D",
+          "text": "poor results compared with other nationalities"
+        },
+        {
+          "letter": "E",
+          "text": "low scores of overseas students"
+        },
+        {
+          "letter": "F",
+          "text": "differences between rural and urban students"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Questions 33 and 34 Choose TWO letters A-F According to the speaker, what are two advantages of reducing class sizes? A",
-      "groupId": "q33-34"
+      "prompt": "Question 33",
+      "groupId": "q33-34",
+      "instructions": "34 Choose TWO letters A-F According to the speaker, what are two advantages of reducing class sizes?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "more employment for teachers"
+        },
+        {
+          "letter": "B",
+          "text": "improvement in general health of the population"
+        },
+        {
+          "letter": "C",
+          "text": "reduction in number of days taken off sick by teachers"
+        },
+        {
+          "letter": "D",
+          "text": "better use of existing buildings and resources"
+        },
+        {
+          "letter": "E",
+          "text": "better level of education of workforce"
+        },
+        {
+          "letter": "F",
+          "text": "availability of better qualified teachers"
+        }
+      ]
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "Questions 33 and 34 Choose TWO letters A-F According to the speaker, what are two advantages of reducing class sizes? A more em",
-      "groupId": "q33-34"
+      "prompt": "Question 34",
+      "groupId": "q33-34",
+      "instructions": "34 Choose TWO letters A-F According to the speaker, what are two advantages of reducing class sizes?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "more employment for teachers"
+        },
+        {
+          "letter": "B",
+          "text": "improvement in general health of the population"
+        },
+        {
+          "letter": "C",
+          "text": "reduction in number of days taken off sick by teachers"
+        },
+        {
+          "letter": "D",
+          "text": "better use of existing buildings and resources"
+        },
+        {
+          "letter": "E",
+          "text": "better level of education of workforce"
+        },
+        {
+          "letter": "F",
+          "text": "availability of better qualified teachers"
+        }
+      ]
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "ORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "HAN THREE WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "HREE WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 35-40 Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. (35) (36) (37) (",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

@@ -40,119 +40,225 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ONLY for each answer. First day at work Name of supervisor: (1) Where to leave coat and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Loc",
-      "groupId": "q1-6"
+      "prompt": "First day at work Name of supervisor: ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "rk Name of supervisor: (1) Where to leave coat and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supe",
-      "groupId": "q1-6"
+      "prompt": "Where to leave coat and bag: use ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "at and bag: use (2) in staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
-      "groupId": "q1-6"
+      "prompt": "in staffroom See Tiffany in HR: to give ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "staffroom See Tiffany in HR: to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
-      "groupId": "q1-6"
+      "prompt": "number to collect ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "to give (3) number to collect (4) Location of HR office: on (5) floor Supervisor’s mobile number: (6)",
-      "groupId": "q1-6"
+      "prompt": "Location of HR office: on ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Questions 1-6 Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of su",
-      "groupId": "q1-6"
+      "prompt": "floor Supervisor’s mobile number: ____",
+      "groupId": "q1-6",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER ONLY for each answer. First day at work Name of supervisor:"
     },
     {
       "number": 7,
       "type": "tableCompletion",
       "prompt": "Question 7",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 8,
       "type": "tableCompletion",
       "prompt": "Question 8",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 9,
       "type": "tableCompletion",
       "prompt": "Question 9",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write ONE WORD ONLY for each answer. Part 2:",
+      "prompt": "Question 10",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write ONE WORD ONLY for each answer. Part 2:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz m",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz mention?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "There is a risk of serious injury."
+        },
+        {
+          "letter": "B",
+          "text": "They are unsuitable for certain age groups."
+        },
+        {
+          "letter": "C",
+          "text": "They are unsuitable for people with health issues."
+        },
+        {
+          "letter": "D",
+          "text": "It is difficult to stay motivated."
+        },
+        {
+          "letter": "E",
+          "text": "There is a lack of individual support."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz mention?",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 Choose TWO letters, A-E. Which TWO problems with some training programmes for new runners does Liz mention?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "There is a risk of serious injury."
+        },
+        {
+          "letter": "B",
+          "text": "They are unsuitable for certain age groups."
+        },
+        {
+          "letter": "C",
+          "text": "They are unsuitable for people with health issues."
+        },
+        {
+          "letter": "D",
+          "text": "It is difficult to stay motivated."
+        },
+        {
+          "letter": "E",
+          "text": "There is a lack of individual support."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners? A doing two runs a week",
-      "groupId": "q13-14"
+      "prompt": "Question 13",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "doing two runs a week"
+        },
+        {
+          "letter": "B",
+          "text": "running in the evening"
+        },
+        {
+          "letter": "C",
+          "text": "going on runs with a friend"
+        },
+        {
+          "letter": "D",
+          "text": "listening to music during runs"
+        },
+        {
+          "letter": "E",
+          "text": "running very slowly"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 13 and 14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners? A doing two runs a week B runni",
-      "groupId": "q13-14"
+      "prompt": "Question 14",
+      "groupId": "q13-14",
+      "instructions": "14 Choose TWO letters, A-E. Which TWO tips does Liz recommend for new runners?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "doing two runs a week"
+        },
+        {
+          "letter": "B",
+          "text": "running in the evening"
+        },
+        {
+          "letter": "C",
+          "text": "going on runs with a friend"
+        },
+        {
+          "letter": "D",
+          "text": "listening to music during runs"
+        },
+        {
+          "letter": "E",
+          "text": "running very slowly"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
       "prompt": "Question 15",
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently? Write the correct letter, A, B, or C next to"
     },
     {
       "number": 16,
       "type": "gapFill",
       "prompt": "Question 16",
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently? Write the correct letter, A, B, or C next to"
     },
     {
       "number": 17,
       "type": "gapFill",
       "prompt": "Question 17",
-      "groupId": "q15-18"
+      "groupId": "q15-18",
+      "instructions": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently? Write the correct letter, A, B, or C next to"
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 15-18 What reason prevented each of the following members of the Compton Park Runners Club from joining until rec",
-      "groupId": "q15-18"
+      "prompt": "Question 18",
+      "groupId": "q15-18",
+      "instructions": "What reason prevented each of the following members of the Compton Park Runners Club from joining until recently? Write the correct letter, A, B, or C next to"
     },
     {
       "number": 19,
       "type": "multipleChoice",
-      "stem": "and 20 Choose the correct letter, A, B or C. 19. What does Liz say about running her first marathon?",
+      "stem": "What does Liz say about running her first marathon?",
       "options": [
         {
           "letter": "A",
@@ -167,7 +273,8 @@
           "text": "She nearly gave up before the end."
         }
       ],
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Choose the correct letter, A, B or C."
     },
     {
       "number": 20,
@@ -187,12 +294,13 @@
           "text": "after completing several practice runs."
         }
       ],
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Choose the correct letter, A, B or C."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter, A, B or C. 21. Kieran thinks the packing advice given by Jane’s grandfather is",
+      "stem": "Kieran thinks the packing advice given by Jane’s grandfather is",
       "options": [
         {
           "letter": "A",
@@ -207,7 +315,8 @@
           "text": "over-protective."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -227,7 +336,8 @@
           "text": "They have sentimental value for her,"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
@@ -247,7 +357,8 @@
           "text": "more attractively designed."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 24,
@@ -267,7 +378,8 @@
           "text": "explains why some books are easier to remove than others."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 25,
@@ -287,107 +399,123 @@
           "text": "Not everyone can afford them."
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 26-30 Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers fr",
-      "groupId": "q26-30"
+      "prompt": "Question 30",
+      "groupId": "q26-30",
+      "instructions": "Where does Jane’s grandfather keep each of the following types of books in his shop? Choose FIVE answers from the box and write the correct letter, A-G, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "species • not include invasive species because of possible (31) with native species • aim to capture carbon, protect the environment and provide sustainable sources of (",
+      "prompt": "Reforestation projects should: • include a range of tree species • not include invasive species because of possible ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "protect the environment and provide sustainable sources of (32) for local people • use tree seeds with a high genetic diversity to increase resistance to (33) and climat",
+      "prompt": "with native species • aim to capture carbon, protect the environment and provide sustainable sources of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "eds with a high genetic diversity to increase resistance to (33) and climate change • plant trees on previously forested land which is in a bad condition, not select land",
+      "prompt": "for local people • use tree seeds with a high genetic diversity to increase resistance to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "in a bad condition, not select land which is being used for (34) Large-scale reforestation projects • Base planning decisions on information from accurate (35) • Drones a",
+      "prompt": "change • plant trees on previously forested land which is in a bad condition, not select land which is being used for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ects • Base planning decisions on information from accurate (35) • Drones are useful for identifying areas in Brazil which are endangered by keeping (36) and illegal logg",
+      "prompt": "Large-scale reforestation projects • Base planning decisions on information from accurate ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "identifying areas in Brazil which are endangered by keeping (36) and illegal logging. Lampang Province, Northern Thailand • A forest was restored in an area damaged by mi",
+      "prompt": "• Drones are useful for identifying areas in Brazil which are endangered by keeping ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ant for o supporting many wildlife species o increasing the (37) of recovery by attracting animals and birds, e.g., (38) were soon attracted to the area. Involving local",
+      "prompt": "A variety of native fig trees were planted, which are important for o supporting many wildlife species o increasing the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "the (37) of recovery by attracting animals and birds, e.g., (38) were soon attracted to the area. Involving local communities • Destruction of mangrove forests in Madagas",
+      "prompt": "of recovery by attracting animals and birds, e.g., ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "dagascar made it difficult for people to make a living from (39) • The mangrove reforestation project: o provided employment for local people o restored a healthy ecosyst",
+      "prompt": "local communities • Destruction of mangrove forests in Madagascar made it difficult for people to make a living from ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should:",
+      "prompt": "project: o provided employment for local people o restored a healthy ecosystem o protects against the higher risk of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Tree planting Reforestation projects should: • include a range of tree species • not include invasive species because of possible"
     }
   ],
   "answerKey": {

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "or each answer. Job Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "Job Inquiry Type of job required: part-time ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ach answer. Job Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "answer. Job Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "er. Job Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Job Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Inquiry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "iry Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "Type of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "of job required: part-time (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: p",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Job Inquiry Type of job required: part-time"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. The host families will",
+      "stem": "The host families will",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "receive stable pay"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "language barriers"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "cook together"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,54 +198,61 @@
           "text": "they will know more people from different countries"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "he website and contact the advisor • Keep in touch with the (15) • Provide two photos one for the host family and other for (16) • Send in some documents to confirm your",
+      "prompt": "How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "• Provide two photos one for the host family and other for (16) • Send in some documents to confirm your (17) • Receive (18) within 7 working days • Have an (19) in Lond",
+      "prompt": "• Provide two photos one for the host family and other for ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "and other for (16) • Send in some documents to confirm your (17) • Receive (18) within 7 working days • Have an (19) in London • Pay the extra fee for a fast track servic",
+      "prompt": "• Send in some documents to confirm your ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "16) • Send in some documents to confirm your (17) • Receive (18) within 7 working days • Have an (19) in London • Pay the extra fee for a fast track service • Receive a w",
+      "prompt": "• Receive ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "rm your (17) • Receive (18) within 7 working days • Have an (19) in London • Pay the extra fee for a fast track service • Receive a written (20) Part 3:",
+      "prompt": "within 7 working days • Have an ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 15-20 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit",
+      "prompt": "in London • Pay the extra fee for a fast track service • Receive a written ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for a homestay • Visit the website and contact the advisor • Keep in touch with the"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. 21. What kind of research method does the professor recommend?",
+      "stem": "What kind of research method does the professor recommend?",
       "options": [
         {
           "letter": "A",
@@ -247,7 +267,8 @@
           "text": "questionnaire"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -267,7 +288,8 @@
           "text": "an Australian study"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -287,7 +309,8 @@
           "text": "build more than 3 groups"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -307,7 +330,8 @@
           "text": "work hard enough."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -327,7 +351,8 @@
           "text": "to practice using the date table."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
@@ -347,101 +372,172 @@
           "text": "he hasn’t spent time in the library."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "final report",
+      "groupId": "q27-30",
+      "instructions": "What do the students decide about the following parts of the project? Write the correct letter A, B or C next to questions 27-30",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jane will do"
+        },
+        {
+          "letter": "B",
+          "text": "Douglas will do"
+        },
+        {
+          "letter": "C",
+          "text": "They will do together 27. final report 28. sheet preparation 29. letter 30. transcript Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "sheet preparation",
+      "groupId": "q27-30",
+      "instructions": "What do the students decide about the following parts of the project? Write the correct letter A, B or C next to questions 27-30",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jane will do"
+        },
+        {
+          "letter": "B",
+          "text": "Douglas will do"
+        },
+        {
+          "letter": "C",
+          "text": "They will do together 27. final report 28. sheet preparation 29. letter 30. transcript Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "letter",
+      "groupId": "q27-30",
+      "instructions": "What do the students decide about the following parts of the project? Write the correct letter A, B or C next to questions 27-30",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jane will do"
+        },
+        {
+          "letter": "B",
+          "text": "Douglas will do"
+        },
+        {
+          "letter": "C",
+          "text": "They will do together 27. final report 28. sheet preparation 29. letter 30. transcript Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What do the students decide about the following parts of the project? Write the correct letter A, B or C ne",
-      "groupId": "q27-30"
+      "prompt": "transcript",
+      "groupId": "q27-30",
+      "instructions": "What do the students decide about the following parts of the project? Write the correct letter A, B or C next to questions 27-30",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jane will do"
+        },
+        {
+          "letter": "B",
+          "text": "Douglas will do"
+        },
+        {
+          "letter": "C",
+          "text": "They will do together 27. final report 28. sheet preparation 29. letter 30. transcript Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "the Americas, and Oceania • still has something to do with (31) use today Ancient graphic writing systems • Researchers obtain a wide range of (32) about past civilisati",
+      "prompt": "writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "raphic writing systems • Researchers obtain a wide range of (32) about past civilisations. – Rosetta Stone was found in 1799 when members of Napoleon’s expedition got to",
+      "prompt": "use today Ancient graphic writing systems • Researchers obtain a wide range of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "phonetic values of the symbols in 1822. • In those symbols, (33) are used to depict various meanings. Camera obscura • (34) helps people understand history better. • Some",
+      "prompt": "Egypt. – Frenchman Jean-François Champollion determined the phonetic values of the symbols in 1822. • In those symbols, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "(33) are used to depict various meanings. Camera obscura • (34) helps people understand history better. • Some charities will (35) many endangered species. • A camera wa",
+      "prompt": "are used to depict various meanings. Camera obscura • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "lps people understand history better. • Some charities will (35) many endangered species. • A camera was tied to one (36) of a bird.",
+      "prompt": "helps people understand history better. • Some charities will ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "Questions 31-36 Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includ",
+      "prompt": "many endangered species. • A camera was tied to one ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. GRAPHICAL SYMBOL ‘Graphical symbol’ • includes the logographs in Egyptian hieroglyphic writing and ancient Chinese pictograms • found in Africa, the Americas, and Oceania • still has something to do with"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD ONLY for each answer. 37 More will be included in the future with the development of photography. 38 Companies would like to invest",
+      "prompt": "More will be included in the future with the development of photography.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "included in the future with the development of photography. 38 Companies would like to invest a lot to advertise in 39 Designing appealing is used as a way of effective b",
+      "prompt": "Companies would like to invest a lot to advertise in",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "hy. 38 Companies would like to invest a lot to advertise in 39 Designing appealing is used as a way of effective branding. 40 Graphic writing systems are of great importa",
+      "prompt": "Designing appealing is used as a way of effective branding.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 37-40 Complete the sentences below. Write ONE WORD ONLY for each answer. 37 More will be included in the future w",
+      "prompt": "Graphic writing systems are of great importance in the subject of",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     }
   ],
   "answerKey": {

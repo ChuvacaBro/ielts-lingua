@@ -40,7 +40,7 @@
     {
       "number": 1,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 1. Mr. Jones moved to Los Angeles",
+      "stem": "Mr. Jones moved to Los Angeles",
       "options": [
         {
           "letter": "A",
@@ -55,19 +55,21 @@
           "text": "two days ago"
         }
       ],
-      "groupId": "q1-1"
+      "groupId": "q1-1",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Question 2 Answer the question with NO MORE THAN TWO WORDS. 2. When does Mr. Jones have to go to his office?",
+      "prompt": "When does Mr. Jones have to go to his office?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q2-2"
+      "groupId": "q2-2",
+      "instructions": "Answer the question with NO MORE THAN TWO WORDS."
     },
     {
       "number": 3,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 3. Mr. Jones for a(n)",
+      "stem": "Mr. Jones for a(n)",
       "options": [
         {
           "letter": "A",
@@ -82,82 +84,93 @@
           "text": "real estate company"
         }
       ],
-      "groupId": "q3-3"
+      "groupId": "q3-3",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "Questions 4 and 5 Complete the following sentences with ONE WORD OR A NUMBER. Mr. Jones’ appointment with the doctor is",
+      "prompt": "Mr. Jones’ appointment with the doctor is at ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the following sentences with ONE WORD OR A NUMBER. Mr. Jones’ appointment with the doctor is at"
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 4 and 5 Complete the following sentences with ONE WORD OR A NUMBER. Mr. Jones’ appointment with the doctor is at (4)",
+      "prompt": "am on ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-5"
+      "groupId": "q4-5",
+      "instructions": "5 Complete the following sentences with ONE WORD OR A NUMBER. Mr. Jones’ appointment with the doctor is at"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "tests that the insurance company requires Mr. Jones to have (6) (7) (8)",
+      "prompt": "List any THREE medical tests that the insurance company requires Mr. Jones to have ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. List any THREE medical tests that the insurance company requires Mr. Jones to have"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "s that the insurance company requires Mr. Jones to have (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. List any THREE medical tests that the insurance company requires Mr. Jones to have"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 6-8 Write NO MORE THAN THREE WORDS for each answer. List any THREE medical tests that the insurance company requ",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-8"
+      "groupId": "q6-8",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer. List any THREE medical tests that the insurance company requires Mr. Jones to have"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Answer the following questions. Write ONE WORD OR A NUMBER for each answer. 9 What is Mr. Jones’ home",
+      "prompt": "What is Mr. Jones’ home telephone number including the area code?",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Answer the following questions. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Answer the following questions. Write ONE WORD OR A NUMBER for each answer. 9 What is Mr. Jones’ home telep",
+      "prompt": "What is secretary’s first name?",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q9-10"
+      "groupId": "q9-10",
+      "instructions": "10 Answer the following questions. Write ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "ng sentences with NO MORE THAN THREE WORDS for each answer. 11. Mr. Smith manages group tours to Australia, New Zealand and the 12. Morning Sun Travel did some and develo",
+      "prompt": "Mr. Smith manages group tours to Australia, New Zealand and the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Smith manages group tours to Australia, New Zealand and the 12. Morning Sun Travel did some and developed their new tour. 13. From the Five Seasons Hotel Sydney, one can",
+      "prompt": "Morning Sun Travel did some and developed their new tour.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Questions 11-13 Complete the following sentences with NO MORE THAN THREE WORDS for each answer. 11. Mr. Smith manages group",
+      "prompt": "From the Five Seasons Hotel Sydney, one can clearly see a harbor, a bridge and",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-13"
+      "groupId": "q11-13",
+      "instructions": "Complete the following sentences with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 14. Mr. Smith says that to get used to the time difference it is best to",
+      "stem": "Mr. Smith says that to get used to the time difference it is best to",
       "options": [
         {
           "letter": "A",
@@ -172,19 +185,21 @@
           "text": "go outside"
         }
       ],
-      "groupId": "q14-14"
+      "groupId": "q14-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15 Complete the following sentence WITH ONE WORD only. 15. A wombat looks like a with two short legs.",
+      "prompt": "A wombat looks like a with two short legs.",
       "wordLimit": "ONE WORD only",
-      "groupId": "q15-15"
+      "groupId": "q15-15",
+      "instructions": "Complete the following sentence WITH ONE WORD only."
     },
     {
       "number": 16,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 16. After the visit to the Sydney Olympic Site the tour group will return to downtown Sydney by",
+      "stem": "After the visit to the Sydney Olympic Site the tour group will return to downtown Sydney by",
       "options": [
         {
           "letter": "A",
@@ -199,72 +214,148 @@
           "text": "seaplane"
         }
       ],
-      "groupId": "q16-16"
+      "groupId": "q16-16",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17 Answer the question with ONE WORD OR A NUMBER only. 17. How high will the seaplane fly over Bondi Beach?",
+      "prompt": "How high will the seaplane fly over Bondi Beach?",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q17-17"
+      "groupId": "q17-17",
+      "instructions": "Answer the question with ONE WORD OR A NUMBER only."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18 and 19 Complete the sentence below with ONE WORD only. Mr. Smith says that in addition to Italian and Chine",
+      "prompt": "Mr. Smith says that in addition to Italian and Chinese food, in Australian cities one can find ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q18-19"
+      "groupId": "q18-19",
+      "instructions": "19 Complete the sentence below with ONE WORD only. Mr. Smith says that in addition to Italian and Chinese food, in Australian cities one can find"
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18 and 19 Complete the sentence below with ONE WORD only. Mr. Smith says that in addition to Italian and Chinese food",
+      "prompt": "and ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q18-19"
+      "groupId": "q18-19",
+      "instructions": "19 Complete the sentence below with ONE WORD only. Mr. Smith says that in addition to Italian and Chinese food, in Australian cities one can find"
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Question 20 Answer the question with ONE WORD only. 20. After Sydney, what is the destination on the tour itinerary? Pa",
+      "prompt": "After Sydney, what is the destination on the tour itinerary?",
       "wordLimit": "ONE WORD only",
-      "groupId": "q20-20"
+      "groupId": "q20-20",
+      "instructions": "Answer the question with ONE WORD only."
     },
     {
       "number": 21,
       "type": "gapFill",
       "prompt": "Question 21",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters from A-E. Why is Ann late preparing her talk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "her mother is ill"
+        },
+        {
+          "letter": "B",
+          "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+        },
+        {
+          "letter": "C",
+          "text": "Ann and her mother cannot pay for extra help"
+        },
+        {
+          "letter": "D",
+          "text": "the neighbours are all too busy to help her mother"
+        },
+        {
+          "letter": "E",
+          "text": "she spends too much time playing computer games"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
       "prompt": "Question 22",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters from A-E. Why is Ann late preparing her talk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "her mother is ill"
+        },
+        {
+          "letter": "B",
+          "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+        },
+        {
+          "letter": "C",
+          "text": "Ann and her mother cannot pay for extra help"
+        },
+        {
+          "letter": "D",
+          "text": "the neighbours are all too busy to help her mother"
+        },
+        {
+          "letter": "E",
+          "text": "she spends too much time playing computer games"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 21-23 Choose THREE letters from A-E. Why is Ann late preparing her talk? A her mother is ill B the doctor says An",
-      "groupId": "q21-23"
+      "prompt": "Question 23",
+      "groupId": "q21-23",
+      "instructions": "Choose THREE letters from A-E. Why is Ann late preparing her talk?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "her mother is ill"
+        },
+        {
+          "letter": "B",
+          "text": "the doctor says Ann should do all the cooking and cleaning for her mother"
+        },
+        {
+          "letter": "C",
+          "text": "Ann and her mother cannot pay for extra help"
+        },
+        {
+          "letter": "D",
+          "text": "the neighbours are all too busy to help her mother"
+        },
+        {
+          "letter": "E",
+          "text": "she spends too much time playing computer games"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. When studying (24) in",
+      "prompt": "When studying ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q24-25"
+      "groupId": "q24-25",
+      "instructions": "25 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. When studying"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 24 and 25 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. When studying (24) in high sc",
+      "prompt": "in high school, Bill read about an experiment on how wearing a uniform can change people’s ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q24-25"
+      "groupId": "q24-25",
+      "instructions": "25 Complete the following sentences with NO MORE THAN TWO WORDS for each answer. When studying"
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "and 27 Choose the correct letter A, B or C. 26. Bill thinks that the professor is from",
+      "stem": "Bill thinks that the professor is from",
       "options": [
         {
           "letter": "A",
@@ -279,7 +370,8 @@
           "text": "University of Los Angeles"
         }
       ],
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -299,55 +391,151 @@
           "text": "police station"
         }
       ],
-      "groupId": "q26-27"
+      "groupId": "q26-27",
+      "instructions": "27 Choose the correct letter A, B or C."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 28 and 29 Choose TWO letters from A-E. Why does Bill say the arrested students did not know the other students",
-      "groupId": "q28-29"
+      "prompt": "Question 28",
+      "groupId": "q28-29",
+      "instructions": "29 Choose TWO letters from A-E. Why does Bill say the arrested students did not know the other students?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they had not been introduced"
+        },
+        {
+          "letter": "B",
+          "text": "they went to different schools"
+        },
+        {
+          "letter": "C",
+          "text": "to prevent them realizing they were there for the experiment they had signed up for"
+        },
+        {
+          "letter": "D",
+          "text": "the other students were in uniform"
+        },
+        {
+          "letter": "E",
+          "text": "the professor did not want them to know each other"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 28 and 29 Choose TWO letters from A-E. Why does Bill say the arrested students did not know the other students? A the",
-      "groupId": "q28-29"
+      "prompt": "Question 29",
+      "groupId": "q28-29",
+      "instructions": "29 Choose TWO letters from A-E. Why does Bill say the arrested students did not know the other students?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they had not been introduced"
+        },
+        {
+          "letter": "B",
+          "text": "they went to different schools"
+        },
+        {
+          "letter": "C",
+          "text": "to prevent them realizing they were there for the experiment they had signed up for"
+        },
+        {
+          "letter": "D",
+          "text": "the other students were in uniform"
+        },
+        {
+          "letter": "E",
+          "text": "the professor did not want them to know each other"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Question 30 Complete the following sentence with NO MORE THAN TWO WORDS. 30. Bill says the ‘prisons’ started having Par",
+      "prompt": "Bill says the ‘prisons’ started having",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q30-30"
+      "groupId": "q30-30",
+      "instructions": "Complete the following sentence with NO MORE THAN TWO WORDS."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letter from A-E. The lecturer will talk about A the media B the internet C types of messa",
-      "groupId": "q31-32"
+      "prompt": "Question 31",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letter from A-E. The lecturer will talk about",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the media"
+        },
+        {
+          "letter": "B",
+          "text": "the internet"
+        },
+        {
+          "letter": "C",
+          "text": "types of message"
+        },
+        {
+          "letter": "D",
+          "text": "Yahoo"
+        },
+        {
+          "letter": "E",
+          "text": "advertising"
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "Questions 31 and 32 Choose TWO letter from A-E. The lecturer will talk about A the media B the internet C types of message D Ya",
-      "groupId": "q31-32"
+      "prompt": "Question 32",
+      "groupId": "q31-32",
+      "instructions": "32 Choose TWO letter from A-E. The lecturer will talk about",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the media"
+        },
+        {
+          "letter": "B",
+          "text": "the internet"
+        },
+        {
+          "letter": "C",
+          "text": "types of message"
+        },
+        {
+          "letter": "D",
+          "text": "Yahoo"
+        },
+        {
+          "letter": "E",
+          "text": "advertising"
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 33"
+      "prompt": "Question 33",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 34,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 34"
+      "prompt": "Question 34",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 35,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 35. Advertisers always want to change people’s",
+      "stem": "Advertisers always want to change people’s",
       "options": [
         {
           "letter": "A",
@@ -362,42 +550,48 @@
           "text": "working habits"
         }
       ],
-      "groupId": "q35-35"
+      "groupId": "q35-35",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 36,
       "type": "sentenceCompletion",
-      "prompt": "O MORE THAN THREE WORDS for each answer. People usually buy (36) because they recognize the name of the manufacture. The speaker says that Shell has purchased a (37) and",
+      "prompt": "People usually buy ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy"
     },
     {
       "number": 37,
       "type": "sentenceCompletion",
-      "prompt": "he manufacture. The speaker says that Shell has purchased a (37) and marketed a beer they called (38) San Fran Video Store handed out cards with a (39) and a (40) Of the",
+      "prompt": "because they recognize the name of the manufacture. The speaker says that Shell has purchased a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy"
     },
     {
       "number": 38,
       "type": "sentenceCompletion",
-      "prompt": "Shell has purchased a (37) and marketed a beer they called (38) San Fran Video Store handed out cards with a (39) and a (40) Of the store locations of them.",
+      "prompt": "and marketed a beer they called ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy"
     },
     {
       "number": 39,
       "type": "sentenceCompletion",
-      "prompt": "ey called (38) San Fran Video Store handed out cards with a (39) and a (40) Of the store locations of them.",
+      "prompt": "San Fran Video Store handed out cards with a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy"
     },
     {
       "number": 40,
       "type": "sentenceCompletion",
-      "prompt": "Questions 36-40 Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy (36) because they",
+      "prompt": "and a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the sentences with NO MORE THAN THREE WORDS for each answer. People usually buy"
     }
   ],
   "answerKey": {

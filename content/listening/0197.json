@@ -40,67 +40,77 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "for each answer. Hinchingbrooke Country Park The park Area: (1) hectares Habitats: wetland, grassland and woodland Wetland: lakes, ponds and a (2) Wildlife includes birds",
-      "groupId": "q1-10"
+      "prompt": "Hinchingbrooke Country Park The park Area: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "wetland, grassland and woodland Wetland: lakes, ponds and a (2) Wildlife includes birds, insects and animals Subjects studied in educational visits include Science: Child",
-      "groupId": "q1-10"
+      "prompt": "hectares Habitats: wetland, grassland and woodland Wetland: lakes, ponds and a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ied in educational visits include Science: Children look at (3) about plants, etc. Geography: includes learning to use a (4) and compass History: changes in land use Leis",
-      "groupId": "q1-10"
+      "prompt": "Wildlife includes birds, insects and animals Subjects studied in educational visits include Science: Children look at ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "3) about plants, etc. Geography: includes learning to use a (4) and compass History: changes in land use Leisure and tourism: mostly concentrates on the park’s (5) Music:",
-      "groupId": "q1-10"
+      "prompt": "about plants, etc. Geography: includes learning to use a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "use Leisure and tourism: mostly concentrates on the park’s (5) Music: Children make (6) with natural materials, and experiment with rhythm and speed. Benefits of outdoor",
-      "groupId": "q1-10"
+      "prompt": "and compass History: changes in land use Leisure and tourism: mostly concentrates on the park’s ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "mostly concentrates on the park’s (5) Music: Children make (6) with natural materials, and experiment with rhythm and speed. Benefits of outdoor educational visits They",
-      "groupId": "q1-10"
+      "prompt": "Music: Children make ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "outdoor educational visits They give children a feeling of (7) that they may not have elsewhere. Children learn new (8) and gain self-confidence. Practical issues Cost p",
-      "groupId": "q1-10"
+      "prompt": "materials, and experiment with rhythm and speed. Benefits of outdoor educational visits They give children a feeling of ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "of (7) that they may not have elsewhere. Children learn new (8) and gain self-confidence. Practical issues Cost per child: (9) £ Adults, such as (10) , free Part 2:",
-      "groupId": "q1-10"
+      "prompt": "that they may not have elsewhere. Children learn new ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "and gain self-confidence. Practical issues Cost per child: (9) £ Adults, such as (10) , free Part 2:",
-      "groupId": "q1-10"
+      "prompt": "and gain self-confidence. Practical issues Cost per child: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The p",
-      "groupId": "q1-10"
+      "prompt": "£ Adults, such as ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer. Hinchingbrooke Country Park The park Area:"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B or C. Stanthorpe Twinning Association 11. During the visit to Malatte, in France, members especially enjoyed",
+      "stem": "During the visit to Malatte, in France, members especially enjoyed",
       "options": [
         {
           "letter": "A",
@@ -115,7 +125,8 @@
           "text": "visiting a cheese factory."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Stanthorpe Twinning Association"
     },
     {
       "number": 12,
@@ -135,7 +146,8 @@
           "text": "A footbridge will be built."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Stanthorpe Twinning Association"
     },
     {
       "number": 13,
@@ -155,7 +167,8 @@
           "text": "the cookery demonstration"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Stanthorpe Twinning Association"
     },
     {
       "number": 14,
@@ -175,7 +188,8 @@
           "text": "have a meal at home."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Stanthorpe Twinning Association"
     },
     {
       "number": 15,
@@ -195,167 +209,281 @@
           "text": "take part in a competition."
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. Stanthorpe Twinning Association"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
       "prompt": "Question 16",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
       "prompt": "Question 17",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
       "prompt": "Question 18",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to"
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
       "prompt": "Question 19",
-      "groupId": "q16-20"
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to"
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the map below. Write the correct letter, A-H, next to",
-      "groupId": "q16-20"
+      "prompt": "Question 20",
+      "groupId": "q16-20",
+      "instructions": "Label the map below. Write the correct letter, A-H, next to"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO things did Colin find most satisfying about his bread reuse proje",
-      "groupId": "q21-22"
+      "prompt": "Question 21",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO things did Colin find most satisfying about his bread reuse project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "receiving support from local restaurants"
+        },
+        {
+          "letter": "B",
+          "text": "finding a good way to prevent waste"
+        },
+        {
+          "letter": "C",
+          "text": "overcoming problems in a basic process"
+        },
+        {
+          "letter": "D",
+          "text": "experimenting with designs and colours"
+        },
+        {
+          "letter": "E",
+          "text": "learning how to apply 3-D printing"
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Questions 21 and 22 Choose TWO letters, A-E. Which TWO things did Colin find most satisfying about his bread reuse project? A r",
-      "groupId": "q21-22"
+      "prompt": "Question 22",
+      "groupId": "q21-22",
+      "instructions": "22 Choose TWO letters, A-E. Which TWO things did Colin find most satisfying about his bread reuse project?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "receiving support from local restaurants"
+        },
+        {
+          "letter": "B",
+          "text": "finding a good way to prevent waste"
+        },
+        {
+          "letter": "C",
+          "text": "overcoming problems in a basic process"
+        },
+        {
+          "letter": "D",
+          "text": "experimenting with designs and colours"
+        },
+        {
+          "letter": "E",
+          "text": "learning how to apply 3-D printing"
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO ways do the students agree that touch-sensitive sensors for food",
-      "groupId": "q23-24"
+      "prompt": "Question 23",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "for use on medical products"
+        },
+        {
+          "letter": "B",
+          "text": "to show that food is no longer fit to eat"
+        },
+        {
+          "letter": "C",
+          "text": "for use with drinks as well as foods"
+        },
+        {
+          "letter": "D",
+          "text": "to provide applications for blind people"
+        },
+        {
+          "letter": "E",
+          "text": "to indicate the weight of certain foods"
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Questions 23 and 24 Choose TWO letters, A-E. Which TWO ways do the students agree that touch-sensitive sensors for food labels",
-      "groupId": "q23-24"
+      "prompt": "Question 24",
+      "groupId": "q23-24",
+      "instructions": "24 Choose TWO letters, A-E. Which TWO ways do the students agree that touch-sensitive sensors for food labels could be developed in future?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "for use on medical products"
+        },
+        {
+          "letter": "B",
+          "text": "to show that food is no longer fit to eat"
+        },
+        {
+          "letter": "C",
+          "text": "for use with drinks as well as foods"
+        },
+        {
+          "letter": "D",
+          "text": "to provide applications for blind people"
+        },
+        {
+          "letter": "E",
+          "text": "to indicate the weight of certain foods"
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
       "prompt": "Question 25",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 26,
       "type": "gapFill",
       "prompt": "Question 26",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and",
-      "groupId": "q25-30"
+      "prompt": "Question 30",
+      "groupId": "q25-30",
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "cher realised that stones beneath the bog surface were once (31) • His (32) became an archaeologist and undertook an investigation of the site: – a traditional method use",
+      "prompt": "northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "ed that stones beneath the bog surface were once (31) • His (32) became an archaeologist and undertook an investigation of the site: – a traditional method used by local",
+      "prompt": "• His ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ite: – a traditional method used by local people to dig for (33) was used to identify where stones were located – carbon dating later proved the site was Neolithic. • Ite",
+      "prompt": "an archaeologist and undertook an investigation of the site: – a traditional method used by local people to dig for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "• Items are well preserved in the bog because of a lack of (34) Neolithic farmers • Houses were (35) in shape and had a hole in the roof. • Neolithic innovations include",
+      "prompt": "located – carbon dating later proved the site was Neolithic. • Items are well preserved in the bog because of a lack of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "g because of a lack of (34) Neolithic farmers • Houses were (35) in shape and had a hole in the roof. • Neolithic innovations include: – cooking indoors – pots used for s",
+      "prompt": "Neolithic farmers • Houses were ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "lude: – cooking indoors – pots used for storage and to make (36) • Each field at Ceide was large enough to support a big (37) • The fields were probably used to restrict",
+      "prompt": "and had a hole in the roof. • Neolithic innovations include: – cooking indoors – pots used for storage and to make ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "36) • Each field at Ceide was large enough to support a big (37) • The fields were probably used to restrict the grazing of animals – no evidence of structures to house t",
+      "prompt": "• Each field at Ceide was large enough to support a big ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "of animals – no evidence of structures to house them during 38 Reasons for the decline in farming • a decline in (39) quality • an increase in (40)",
+      "prompt": "Reasons for the decline in farming • a decline in",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "during 38 Reasons for the decline in farming • a decline in (39) quality • an increase in (40)",
+      "prompt": "Reasons for the decline in farming • a decline in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archae",
+      "prompt": "quality • an increase in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Ceide Fields • an important Neolithic archaeological site in the northwest of Ireland Discovery • In the 1930s, a local teacher realised that stones beneath the bog surface were once"
     }
   ],
   "answerKey": {

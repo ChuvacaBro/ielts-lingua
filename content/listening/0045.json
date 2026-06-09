@@ -40,175 +40,200 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "s: pre-paid, 24-month contract plans Prepaid plans: without (1) SIM cards: 15 minutes of (2) Minimal plan: $12, 40 minutes and without (3) Social plan: $40, 200 minutes,",
+      "prompt": "Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "t plans Prepaid plans: without (1) SIM cards: 15 minutes of (2) Minimal plan: $12, 40 minutes and without (3) Social plan: $40, 200 minutes, (4) and 2GB data (5) plan: 5",
+      "prompt": "SIM cards: 15 minutes of ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "15 minutes of (2) Minimal plan: $12, 40 minutes and without (3) Social plan: $40, 200 minutes, (4) and 2GB data (5) plan: 5 numbers, free talking and texting, $70 and 3GB",
+      "prompt": "Minimal plan: $12, 40 minutes and without ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": ", 40 minutes and without (3) Social plan: $40, 200 minutes, (4) and 2GB data (5) plan: 5 numbers, free talking and texting, $70 and 3GB data Changing plans: at any time,",
+      "prompt": "Social plan: $40, 200 minutes, ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "without (3) Social plan: $40, 200 minutes, (4) and 2GB data (5) plan: 5 numbers, free talking and texting, $70 and 3GB data Changing plans: at any time, in person and acc",
+      "prompt": "and 2GB data ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-pa",
+      "prompt": "plan: 5 numbers, free talking and texting, $70 and 3GB data Changing plans: at any time, in person and access the ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN TWO WORDS OR A NUMBER. Cell phone packages Type of plans: pre-paid, 24-month contract plans Prepaid plans: without"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "for each answer. Sales form Plan: social plan Phone number: (7) 047 – Customer name: (8) Address: 375, Thompson (9) Total payment: $42.50 Payment method: (10) Part 2:",
+      "prompt": "Sales form Plan: social plan Phone number: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sales form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Sales form Plan: social plan Phone number:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "rm Plan: social plan Phone number: (7) 047 – Customer name: (8) Address: 375, Thompson (9) Total payment: $42.50 Payment method: (10) Part 2:",
+      "prompt": "047 – Customer name: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sales form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Sales form Plan: social plan Phone number:"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "number: (7) 047 – Customer name: (8) Address: 375, Thompson (9) Total payment: $42.50 Payment method: (10) Part 2:",
+      "prompt": "Address: 375, Thompson ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sales form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Sales form Plan: social plan Phone number:"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 7-10 Complete the sales form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Sales form Pl",
+      "prompt": "Total payment: $42.50 Payment method: ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the sales form below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Sales form Plan: social plan Phone number:"
     },
     {
       "number": 11,
       "type": "mapPlanLabelling",
-      "prompt": "Question 11",
-      "groupId": "q11-17"
+      "prompt": "Shoe rack",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 12,
       "type": "mapPlanLabelling",
-      "prompt": "Question 12",
-      "groupId": "q11-17"
+      "prompt": "Carpet",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 13,
       "type": "mapPlanLabelling",
-      "prompt": "Question 13",
-      "groupId": "q11-17"
+      "prompt": "Bookcase",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 14,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14",
-      "groupId": "q11-17"
+      "prompt": "Dress-upcupboard",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
-      "groupId": "q11-17"
+      "prompt": "Cubbyholes",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q11-17"
+      "prompt": "Climbing walls",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 11-17 Label the plan below. Write the correct letter A-I next to",
-      "groupId": "q11-17"
+      "prompt": "Chickens",
+      "groupId": "q11-17",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 11-17."
     },
     {
       "number": 18,
       "type": "sentenceCompletion",
-      "prompt": "ite NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. 18. The official ratio of adults to children who are two or older is one adult to children. 19. Parents who ar",
+      "prompt": "The official ratio of adults to children who are two or older is one adult to children.",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 19,
       "type": "sentenceCompletion",
-      "prompt": "to children who are two or older is one adult to children. 19. Parents who are often late may be asked to 20. The quickest waiting time for a place in the Day Care is Pa",
+      "prompt": "Parents who are often late may be asked to",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 20,
       "type": "sentenceCompletion",
-      "prompt": "Questions 18-20 Complete the sentences below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer. 18. The officia",
+      "prompt": "The quickest waiting time for a place in the Day Care is",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD AND/ OR A NUMBER for each answer."
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "tences below. Write NO MORE THAN TWO WORDS for each answer. 21. Students must follow to prevent accidents in the lab. 22. The students have not been using while in the la",
+      "prompt": "Students must follow to prevent accidents in the lab.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": ". 21. Students must follow to prevent accidents in the lab. 22. The students have not been using while in the lab. 23. Students cannot eat or drink until is finished and",
+      "prompt": "The students have not been using while in the lab.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "lab. 22. The students have not been using while in the lab. 23. Students cannot eat or drink until is finished and they have washed their hands. 24. Tessa should tie her",
+      "prompt": "Students cannot eat or drink until is finished and they have washed their hands.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "r drink until is finished and they have washed their hands. 24. Tessa should tie her hair back to avoid danger when she is working with a or chemicals. 25. Students must",
+      "prompt": "Tessa should tie her hair back to avoid danger when she is working with a or chemicals.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-25 Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer. 21. Students must follow to pre",
+      "prompt": "Students must wear long sleeves and shoes made of in the lab.",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "-28 Choose the correct letter A, B or C. 26. Which student is currently using an appropriate notebook?",
+      "stem": "Which student is currently using an appropriate notebook?",
       "options": [
         {
           "letter": "A",
@@ -223,7 +248,8 @@
           "text": "Neither"
         }
       ],
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 27,
@@ -243,7 +269,8 @@
           "text": "means that others can understand them"
         }
       ],
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 28,
@@ -263,89 +290,146 @@
           "text": "next to each drawing and written section"
         }
       ],
-      "groupId": "q26-28"
+      "groupId": "q26-28",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO things must be included in the conclusion to the experiment? A the",
-      "groupId": "q29-30"
+      "prompt": "Question 29",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO things must be included in the conclusion to the experiment?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the questions investigated"
+        },
+        {
+          "letter": "B",
+          "text": "the solutions to the questions"
+        },
+        {
+          "letter": "C",
+          "text": "the students’ own thoughts about the experiment"
+        },
+        {
+          "letter": "D",
+          "text": "the length of time spent on the experiment"
+        },
+        {
+          "letter": "E",
+          "text": "the student’s signature Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29 and 30 Choose TWO letters A-E. Which TWO things must be included in the conclusion to the experiment? A the questi",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "30 Choose TWO letters A-E. Which TWO things must be included in the conclusion to the experiment?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the questions investigated"
+        },
+        {
+          "letter": "B",
+          "text": "the solutions to the questions"
+        },
+        {
+          "letter": "C",
+          "text": "the students’ own thoughts about the experiment"
+        },
+        {
+          "letter": "D",
+          "text": "the length of time spent on the experiment"
+        },
+        {
+          "letter": "E",
+          "text": "the student’s signature Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "summaryCompletion",
-      "prompt": "THAN TWO WORDS for each answer. If soil is healthy, it is a (31) teeming with life such as worms, fungi and bacteria. If plants are grown in poor soil, they will lack (32",
+      "prompt": "If soil is healthy, it is a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. If soil is healthy, it is a"
     },
     {
       "number": 32,
       "type": "summaryCompletion",
-      "prompt": "bacteria. If plants are grown in poor soil, they will lack (32) and human health will suffer. Plants are nourished by organic matter, (33) and other essential elements w",
+      "prompt": "teeming with life such as worms, fungi and bacteria. If plants are grown in poor soil, they will lack ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. If soil is healthy, it is a"
     },
     {
       "number": 33,
       "type": "summaryCompletion",
-      "prompt": "Questions 31-33 Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. If soil is healthy, it is a (31)",
+      "prompt": "and human health will suffer. Plants are nourished by organic matter, ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Complete the summary below. Write NO MORE THAN TWO WORDS for each answer. If soil is healthy, it is a"
     },
     {
       "number": 34,
       "type": "diagramLabel",
-      "prompt": "iagram below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "diagramLabel",
-      "prompt": "m below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "diagramLabel",
-      "prompt": "Questions 34-36 Label the diagram below. Write NO MORE THAN TWO WORDS for each answer. (34) (35) (36)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-36"
+      "groupId": "q34-36",
+      "instructions": "Label the diagram below. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "MORE THAN TWO WORDS for each answer. Problems: • Erosion • (37) from various sources, including chemical fertilisers (38) (39) (40)",
+      "prompt": "Problems: • Erosion • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Problems: • Erosion •"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "• (37) from various sources, including chemical fertilisers (38) (39) (40)",
+      "prompt": "from various sources, including chemical fertilisers ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Problems: • Erosion •"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": ") from various sources, including chemical fertilisers (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Problems: • Erosion •"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 37-40 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Problems: • Erosion • (37) from var",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. Problems: • Erosion •"
     }
   ],
   "answerKey": {

@@ -40,145 +40,209 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "teven Godfrey No. of bedrooms: 4 Preferred location: in the (1) area of town Maximum monthly rent: (2) £ Length of let required: (3) Starting: September 1st",
+      "prompt": "Rented Properties Customer’s Requirements Name: Steven Godfrey No. of bedrooms: 4 Preferred location: in the ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Rented Properties Customer’s Requirements Name: Steven Godfrey No. of bedrooms: 4 Preferred location: in the"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "red location: in the (1) area of town Maximum monthly rent: (2) £ Length of let required: (3) Starting: September 1st",
+      "prompt": "area of town Maximum monthly rent: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Rented Properties Customer’s Requirements Name: Steven Godfrey No. of bedrooms: 4 Preferred location: in the"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "Questions 1-3 Complete the form below. Write ONE WORD OR A NUMBER. Rented Properties Customer’s Requirements Name: Steven",
+      "prompt": "£ Length of let required: ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q1-3"
+      "groupId": "q1-3",
+      "instructions": "Complete the form below. Write ONE WORD OR A NUMBER. Rented Properties Customer’s Requirements Name: Steven Godfrey No. of bedrooms: 4 Preferred location: in the"
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "s 4-8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-8"
+      "groupId": "q4-8",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-8"
+      "groupId": "q4-8",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "mplete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-8"
+      "groupId": "q4-8",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "te the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-8"
+      "groupId": "q4-8",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "Questions 4-8 Complete the table below. Write ONE WORD OR A NUMBER. (4) (5) (6) (7) (8)",
+      "prompt": "____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q4-8"
+      "groupId": "q4-8",
+      "instructions": "Complete the table below. Write ONE WORD OR A NUMBER."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public a",
-      "groupId": "q9-10"
+      "prompt": "Question 9",
+      "groupId": "q9-10",
+      "instructions": "10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public at the moment?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "museum"
+        },
+        {
+          "letter": "B",
+          "text": "concert hall"
+        },
+        {
+          "letter": "C",
+          "text": "cinema"
+        },
+        {
+          "letter": "D",
+          "text": "sports centre"
+        },
+        {
+          "letter": "E",
+          "text": "swimming pool Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 9 and 10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public at the",
-      "groupId": "q9-10"
+      "prompt": "Question 10",
+      "groupId": "q9-10",
+      "instructions": "10 Choose TWO letters, A-E. Which TWO facilities in the district of Devon Close are open to the public at the moment?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "museum"
+        },
+        {
+          "letter": "B",
+          "text": "concert hall"
+        },
+        {
+          "letter": "C",
+          "text": "cinema"
+        },
+        {
+          "letter": "D",
+          "text": "sports centre"
+        },
+        {
+          "letter": "E",
+          "text": "swimming pool Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for: (11) Complex consists of: concert rooms, theatres, cinemas, art galleries, public library, restaurants and a (",
+      "prompt": "THE NATIONAL ARTS CENTER Well known for: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": ", cinemas, art galleries, public library, restaurants and a (12) Historical background: 1940-area destroyed by bombs 1960s-1970s – centre was (13) and built in (14) – ope",
+      "prompt": "Complex consists of: concert rooms, theatres, cinemas, art galleries, public library, restaurants and a ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "ound: 1940-area destroyed by bombs 1960s-1970s – centre was (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "prompt": "Historical background: 1940-area destroyed by bombs 1960s-1970s – centre was ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "stroyed by bombs 1960s-1970s – centre was (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "prompt": "and built in ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "s (13) and built in (14) – opened to public Managed by: the (15) Open: (16) days per year",
+      "prompt": "– opened to public Managed by: the ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "Questions 11-16 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for",
+      "prompt": "Open: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. THE NATIONAL ARTS CENTER Well known for:"
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "he table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "ble below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "elow. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 17-20 Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER. (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS OR A NUMBER."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. Latin American Studies 21. Paul decided to get work experience in South America because he wanted",
+      "stem": "Paul decided to get work experience in South America because he wanted",
       "options": [
         {
           "letter": "A",
@@ -193,7 +257,8 @@
           "text": "to learn about Latin American life"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 22,
@@ -210,16 +275,32 @@
         },
         {
           "letter": "C",
-          "text": "tourism 23 Why did Paul change from one project to another? A His first job was not well organized B He found doing the routine work very boring C The work was too physically demanding"
+          "text": "tourism"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "groupId": "qfallback",
-      "prompt": "Question 23"
+      "type": "multipleChoice",
+      "stem": "Why did Paul change from one project to another?",
+      "options": [
+        {
+          "letter": "A",
+          "text": "His first job was not well organized"
+        },
+        {
+          "letter": "B",
+          "text": "He found doing the routine work very boring"
+        },
+        {
+          "letter": "C",
+          "text": "The work was too physically demanding"
+        }
+      ],
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 24,
@@ -239,7 +320,8 @@
           "text": "use money wisely"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 25,
@@ -259,7 +341,8 @@
           "text": "He was very supportive of Paul"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 26,
@@ -279,36 +362,97 @@
           "text": "an extension to his contract"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Latin American Studies"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q27-30"
+      "prompt": "Gender studies in Latin America",
+      "groupId": "q27-30",
+      "instructions": "What does Paul decide about each of the following modules? Write the correct letter A, B or C next to questions 27-30. Module",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He will do this."
+        },
+        {
+          "letter": "B",
+          "text": "He might do this."
+        },
+        {
+          "letter": "C",
+          "text": "He won’t do this. Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q27-30"
+      "prompt": "Second language acquisition",
+      "groupId": "q27-30",
+      "instructions": "What does Paul decide about each of the following modules? Write the correct letter A, B or C next to questions 27-30. Module",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He will do this."
+        },
+        {
+          "letter": "B",
+          "text": "He might do this."
+        },
+        {
+          "letter": "C",
+          "text": "He won’t do this. Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q27-30"
+      "prompt": "Indigenous women’s lives",
+      "groupId": "q27-30",
+      "instructions": "What does Paul decide about each of the following modules? Write the correct letter A, B or C next to questions 27-30. Module",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He will do this."
+        },
+        {
+          "letter": "B",
+          "text": "He might do this."
+        },
+        {
+          "letter": "C",
+          "text": "He won’t do this. Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 27-30 What does Paul decide about each of the following modules? Write the correct letter A, B or C next to",
-      "groupId": "q27-30"
+      "prompt": "Portuguese language studies A He will do this. B He might do this. C He won’t do this.",
+      "groupId": "q27-30",
+      "instructions": "What does Paul decide about each of the following modules? Write the correct letter A, B or C next to questions 27-30. Module",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "He will do this."
+        },
+        {
+          "letter": "B",
+          "text": "He might do this."
+        },
+        {
+          "letter": "C",
+          "text": "He won’t do this. Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-34 Choose the correct letter A, B or C. Trying to repeat success 31. Compared to introducing new business processes, attempts to copy existing processes are",
+      "stem": "Compared to introducing new business processes, attempts to copy existing processes are",
       "options": [
         {
           "letter": "A",
@@ -323,7 +467,8 @@
           "text": "more straightforward"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Trying to repeat success"
     },
     {
       "number": 32,
@@ -343,7 +488,8 @@
           "text": "related to only a few contexts"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Trying to repeat success"
     },
     {
       "number": 33,
@@ -363,7 +509,8 @@
           "text": "Experts are sometimes unwilling to give advice"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Trying to repeat success"
     },
     {
       "number": 34,
@@ -383,49 +530,56 @@
           "text": "details are sometimes altered by workers"
         }
       ],
-      "groupId": "q31-34"
+      "groupId": "q31-34",
+      "instructions": "Choose the correct letter A, B or C. Trying to repeat success"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ies to: • Improve on the original process • Create an ideal (35) from the best parts of several processes Cause of problems • Information was inaccurate • Comparison betw",
+      "prompt": "based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "d • Disadvantages were overlooked e.g. effect of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (3",
+      "prompt": "• Comparison between the business settings was invalid • Disadvantages were overlooked e.g. effect of changes on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "overlooked e.g. effect of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (39) o The (40) of origin",
+      "prompt": "Solution • Change ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "of changes on (36) Solution • Change (37) • Impose rigorous (38) • Copy original very closely: o Physical features of the (39) o The (40) of original employees",
+      "prompt": "• Impose rigorous ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "8) • Copy original very closely: o Physical features of the (39) o The (40) of original employees",
+      "prompt": "• Copy original very closely: o Physical features of the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 35-40 Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes",
+      "prompt": "o The ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q35-40"
+      "groupId": "q35-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Setting up systems based on an existing process Two mistakes: Manager tries to: • Improve on the original process • Create an ideal"
     }
   ],
   "answerKey": {

@@ -40,141 +40,389 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "SSWORD Call taken by: Natasha Customer’s full name: Michael (1) Date of birth: 27 March 1988 Previous address: 319 (2) East providence Phone number: 049248002 Data allowa",
+      "prompt": "NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "hael (1) Date of birth: 27 March 1988 Previous address: 319 (2) East providence Phone number: 049248002 Data allowance: (3) Current plan: (4) Mother’s maiden name: (5) Fi",
+      "prompt": "Date of birth: 27 March 1988 Previous address: 319 ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "(2) East providence Phone number: 049248002 Data allowance: (3) Current plan: (4) Mother’s maiden name: (5) First pet: (6) New password sent on: (7) Extra services requir",
+      "prompt": "East providence Phone number: 049248002 Data allowance: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "e Phone number: 049248002 Data allowance: (3) Current plan: (4) Mother’s maiden name: (5) First pet: (6) New password sent on: (7) Extra services required: new (8) Cancel",
+      "prompt": "Current plan: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Data allowance: (3) Current plan: (4) Mother’s maiden name: (5) First pet: (6) New password sent on: (7) Extra services required: new (8) Cancel (9) (10) pack Part 2:",
+      "prompt": "Mother’s maiden name: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "(3) Current plan: (4) Mother’s maiden name: (5) First pet: (6) New password sent on: (7) Extra services required: new (8) Cancel (9) (10) pack Part 2:",
+      "prompt": "First pet: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "her’s maiden name: (5) First pet: (6) New password sent on: (7) Extra services required: new (8) Cancel (9) (10) pack Part 2:",
+      "prompt": "New password sent on: ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "(6) New password sent on: (7) Extra services required: new (8) Cancel (9) (10) pack Part 2:",
+      "prompt": "Extra services required: new ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "ssword sent on: (7) Extra services required: new (8) Cancel (9) (10) pack Part 2:",
+      "prompt": "Cancel ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. NEW PASSWORD Call taken by: Natasha Customer’s full name: Michael"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-16"
+      "prompt": "Alarm",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-16"
+      "prompt": "Garage key",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-16"
+      "prompt": "Laundry detergent",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
-      "groupId": "q11-16"
+      "prompt": "Beach towels",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
-      "groupId": "q11-16"
+      "prompt": "Bath towels",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 Where can each of the following items be found? Choose SIX answers from the box and write the correct lette",
-      "groupId": "q11-16"
+      "prompt": "Light bulbs",
+      "groupId": "q11-16",
+      "instructions": "Where can each of the following items be found? Choose SIX answers from the box and write the correct letter A-I next to questions 11-16. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in hallway cupboard"
+        },
+        {
+          "letter": "C",
+          "text": "in hot water cupboard"
+        },
+        {
+          "letter": "D",
+          "text": "next to back door"
+        },
+        {
+          "letter": "E",
+          "text": "in bathroom"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "in bedroom"
+        },
+        {
+          "letter": "H",
+          "text": "under kitchen sink"
+        },
+        {
+          "letter": "I",
+          "text": "above front door 11. Alarm 12. Garage key 13. Laundry detergent 14. Beach towels 15. Bath towels 16. Light bulbs"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "Difficult parking in town at the weekend because of so many (17) Museum is closed on (18) Recommended places to eat: • (19) for Chinese food • Pizzeria for Italian food P",
+      "prompt": "Difficult parking in town at the weekend because of so many ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Difficult parking in town at the weekend because of so many"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "at the weekend because of so many (17) Museum is closed on (18) Recommended places to eat: • (19) for Chinese food • Pizzeria for Italian food Phone number for takeaway",
+      "prompt": "Museum is closed on ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Difficult parking in town at the weekend because of so many"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "(17) Museum is closed on (18) Recommended places to eat: • (19) for Chinese food • Pizzeria for Italian food Phone number for takeaway pizza (20) Part 3:",
+      "prompt": "Recommended places to eat: • ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Difficult parking in town at the weekend because of so many"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 17-20 Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Difficult parking",
+      "prompt": "for Chinese food • Pizzeria for Italian food Phone number for takeaway pizza ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q17-20"
+      "groupId": "q17-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. Difficult parking in town at the weekend because of so many"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-25 Choose the correct letter A, B or C. 21. Why did Joanne accept the offer from Gregory Associates?",
+      "stem": "Why did Joanne accept the offer from Gregory Associates?",
       "options": [
         {
           "letter": "A",
@@ -189,7 +437,8 @@
           "text": "it was the only offer she received"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 22,
@@ -209,7 +458,8 @@
           "text": "the work was not related to her studies"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 23,
@@ -229,7 +479,8 @@
           "text": "working closely with the project managers"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 24,
@@ -249,7 +500,8 @@
           "text": "working such long hours"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 25,
@@ -269,112 +521,128 @@
           "text": "decided not to continue her studies"
         }
       ],
-      "groupId": "q21-25"
+      "groupId": "q21-25",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "N TWO WORDS for each answer. How to apply for an internship (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "How to apply for an internship ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "WORDS for each answer. How to apply for an internship (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "S for each answer. How to apply for an internship (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "each answer. How to apply for an internship (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 26-30 Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship (26)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS for each answer. How to apply for an internship"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "stand: • How societies change and progress over time • What (31) help to make these changes Two approaches • Theoretical (understand how change occurs) • Applied (examine",
+      "prompt": "DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "eoretical (understand how change occurs) • Applied (examine (32) and how they can be applied) Areas of focus: Asia Pacific region; urbanizing (including employment and (3",
+      "prompt": "help to make these changes Two approaches • Theoretical (understand how change occurs) • Applied (examine ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": ": Asia Pacific region; urbanizing (including employment and (33) ); migration, trade You will develop skills to: • Understand key development issue in detail • Gather dat",
+      "prompt": "and how they can be applied) Areas of focus: Asia Pacific region; urbanizing (including employment and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "erstand key development issue in detail • Gather data (both (34) and textual data) • Carefully (35) findings • (36) on a research project Brief history of development stu",
+      "prompt": "migration, trade You will develop skills to: • Understand key development issue in detail • Gather data (both ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "tail • Gather data (both (34) and textual data) • Carefully (35) findings • (36) on a research project Brief history of development studies: • 1950s – the discipline emer",
+      "prompt": "and textual data) • Carefully ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "ta (both (34) and textual data) • Carefully (35) findings • (36) on a research project Brief history of development studies: • 1950s – the discipline emerges • (37) issue",
+      "prompt": "findings • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "of development studies: • 1950s – the discipline emerges • (37) issues are the major consideration • 1970s – development studies became more (38) of the establishment. Q",
+      "prompt": "on a research project Brief history of development studies: • 1950s – the discipline emerges • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "jor consideration • 1970s – development studies became more (38) of the establishment. Questions were raised about power, environmental sustainability and (39) issues. •",
+      "prompt": "issues are the major consideration • 1970s – development studies became more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "s were raised about power, environmental sustainability and (39) issues. • 1980s – today – national governments were no longer as important. Growing interests in small sc",
+      "prompt": "of the establishment. Questions were raised about power, environmental sustainability and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies atte",
+      "prompt": "– national governments were no longer as important. Growing interests in small scale practices such as remittances and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. DEVELOPMENT STUDIES Development studies attempts to understand: • How societies change and progress over time • What"
     }
   ],
   "answerKey": {

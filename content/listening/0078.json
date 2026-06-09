@@ -40,127 +40,147 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "A PUBLIC ROOM • The main hall seats 200 Room and cost • The (1) room seats 100 • Cost of main hall for Saturday evening: (2) £ + £250 deposit (3) payment is required) • C",
-      "groupId": "q1-10"
+      "prompt": "HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "1) room seats 100 • Cost of main hall for Saturday evening: (2) £ + £250 deposit (3) payment is required) • Cost includes use of tables and chairs and also (4) • Addition",
-      "groupId": "q1-10"
+      "prompt": "room seats 100 • Cost of main hall for Saturday evening: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "ost of main hall for Saturday evening: (2) £ + £250 deposit (3) payment is required) • Cost includes use of tables and chairs and also (4) • Additional charge for use of",
-      "groupId": "q1-10"
+      "prompt": "£ + £250 deposit ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "required) • Cost includes use of tables and chairs and also (4) • Additional charge for use of the kitchen: £25 Before the event • Will need a (5) licence • Need to conta",
-      "groupId": "q1-10"
+      "prompt": "payment is required) • Cost includes use of tables and chairs and also ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "for use of the kitchen: £25 Before the event • Will need a (5) licence • Need to contact caretaker (Mr Evans) in advance to arrange (6) During the event • The building i",
-      "groupId": "q1-10"
+      "prompt": "• Additional charge for use of the kitchen: £25 Before the event • Will need a ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "Need to contact caretaker (Mr Evans) in advance to arrange (6) During the event • The building is no smoking • The band should use the (7) door at the back • Don’t touch",
-      "groupId": "q1-10"
+      "prompt": "licence • Need to contact caretaker (Mr Evans) in advance to arrange ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "vent • The building is no smoking • The band should use the (7) door at the back • Don’t touch the system that controls the volume • For microphones, contact the caretake",
-      "groupId": "q1-10"
+      "prompt": "During the event • The building is no smoking • The band should use the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "s, contact the caretaker After the event • Need to know the (8) for the cleaning cupboard • The (9) must be washed and rubbish placed in black bags • All (10) must be tak",
-      "groupId": "q1-10"
+      "prompt": "touch the system that controls the volume • For microphones, contact the caretaker After the event • Need to know the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "vent • Need to know the (8) for the cleaning cupboard • The (9) must be washed and rubbish placed in black bags • All (10) must be taken down • Chairs and tables must be",
-      "groupId": "q1-10"
+      "prompt": "for the cleaning cupboard • The ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Ro",
-      "groupId": "q1-10"
+      "prompt": "must be washed and rubbish placed in black bags • All ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER. HIRING A PUBLIC ROOM • The main hall seats 200 Room and cost • The"
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "siting the farm Visitors should • Take care not to harm any (11) • Not touch any (12) • Wear (13) • Not bring (14) into the farm, with certain exceptions",
-      "groupId": "q11-14"
+      "prompt": "Fiddy Working Heritage Farm Advice about visiting the farm Visitors should • Take care not to harm any ____",
+      "groupId": "q11-14",
+      "instructions": "Complete the notes below. Write ONE WORD for each answer. Fiddy Working Heritage Farm Advice about visiting the farm Visitors should • Take care not to harm any"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "ors should • Take care not to harm any (11) • Not touch any (12) • Wear (13) • Not bring (14) into the farm, with certain exceptions",
-      "groupId": "q11-14"
+      "prompt": "• Not touch any ____",
+      "groupId": "q11-14",
+      "instructions": "Complete the notes below. Write ONE WORD for each answer. Fiddy Working Heritage Farm Advice about visiting the farm Visitors should • Take care not to harm any"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "Take care not to harm any (11) • Not touch any (12) • Wear (13) • Not bring (14) into the farm, with certain exceptions",
-      "groupId": "q11-14"
+      "prompt": "• Wear ____",
+      "groupId": "q11-14",
+      "instructions": "Complete the notes below. Write ONE WORD for each answer. Fiddy Working Heritage Farm Advice about visiting the farm Visitors should • Take care not to harm any"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "Questions 11-14 Complete the notes below. Write ONE WORD for each answer. Fiddy Working Heritage Farm Advice about visiting",
-      "groupId": "q11-14"
+      "prompt": "• Not bring ____",
+      "groupId": "q11-14",
+      "instructions": "Complete the notes below. Write ONE WORD for each answer. Fiddy Working Heritage Farm Advice about visiting the farm Visitors should • Take care not to harm any"
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
-      "groupId": "q15-20"
+      "prompt": "Scarecrow",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q15-20"
+      "prompt": "Maze",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q15-20"
+      "prompt": "Café",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q15-20"
+      "prompt": "Black Barn",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q15-20"
+      "prompt": "Covered picnic area",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 15-20 Label the map below. Write the correct letter A-I, next to",
-      "groupId": "q15-20"
+      "prompt": "Fiddy house",
+      "groupId": "q15-20",
+      "instructions": "Label the map below. Write the correct letter A-I, next to questions 15-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter A, B or C. Study on Gender in Physics 21. The students in Akira Miyake’s study were all majoring in",
+      "stem": "The students in Akira Miyake’s study were all majoring in",
       "options": [
         {
           "letter": "A",
@@ -175,7 +195,8 @@
           "text": "science, technology, engineering or mathematics"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 22,
@@ -195,7 +216,8 @@
           "text": "whether fewer women than men study physics at college"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 23,
@@ -215,7 +237,8 @@
           "text": "their test results were lower than the male students’"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 24,
@@ -235,7 +258,8 @@
           "text": "something that was important to them personally"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 25,
@@ -255,7 +279,8 @@
           "text": "to encourage logical thinking"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 26,
@@ -275,7 +300,8 @@
           "text": "the difference between male and female performance"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 27,
@@ -295,7 +321,8 @@
           "text": "the information the students were given"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 28,
@@ -315,7 +342,8 @@
           "text": "two different oral tasks"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 29,
@@ -335,7 +363,8 @@
           "text": "improved the results of men more than of women"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 30,
@@ -355,77 +384,88 @@
           "text": "look at the science timetable"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter A, B or C. Study on Gender in Physics"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "many different species • important for locating targets for (31) • at first only identified on land Boris Worm, 2005 • identified hotspots for large ocean predators, e.g.",
+      "prompt": "Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "arks • found that ocean hotspots: – were not always rich in (32) – had higher temperatures at the (33) – had sufficient (34) in the water Lisa Ballance, 2007 • looked for",
+      "prompt": "• identified hotspots for large ocean predators, e.g. sharks • found that ocean hotspots: – were not always rich in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "re not always rich in (32) – had higher temperatures at the (33) – had sufficient (34) in the water Lisa Ballance, 2007 • looked for hotspots for marine (35) • found thes",
+      "prompt": "– had higher temperatures at the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "(32) – had higher temperatures at the (33) – had sufficient (34) in the water Lisa Ballance, 2007 • looked for hotspots for marine (35) • found these were all located whe",
+      "prompt": "– had sufficient ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "water Lisa Ballance, 2007 • looked for hotspots for marine (35) • found these were all located where ocean currents meet Census of Marine Life • found new ocean species",
+      "prompt": "in the water Lisa Ballance, 2007 • looked for hotspots for marine ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "f Marine Life • found new ocean species living: – under the (36) – near volcanoes on the ocean floor Global Marine Species Assessment • want to list endangered ocean spec",
+      "prompt": "these were all located where ocean currents meet Census of Marine Life • found new ocean species living: – under the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ng: – population size – geographical distribution – rate of (37) • Aim: to assess 20,000 species and make a distribution (38) for each one Recommendations to retain ocean",
+      "prompt": "• want to list endangered ocean species, considering: – population size – geographical distribution – rate of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "37) • Aim: to assess 20,000 species and make a distribution (38) for each one Recommendations to retain ocean biodiversity • increase the number of ocean reserves • estab",
+      "prompt": "• Aim: to assess 20,000 species and make a distribution ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "versity • increase the number of ocean reserves • establish (39) corridors (e.g. for turtles) • reduce fishing quotas • catch fish only for the purpose of (40)",
+      "prompt": "for each one Recommendations to retain ocean biodiversity • increase the number of ocean reserves • establish ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing",
+      "prompt": "corridors (e.g. for turtles) • reduce fishing quotas • catch fish only for the purpose of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY. Ocean Biodiversity Biodiversity hotspots • areas containing many different species • important for locating targets for"
     }
   ],
   "answerKey": {

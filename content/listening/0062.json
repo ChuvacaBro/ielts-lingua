@@ -40,272 +40,312 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "answer. Survey form Dealing with: exercise Time contacted: (1) Suburb: (2) Age group: (3) Occupation: (4) Family: (5)",
+      "prompt": "Survey form Dealing with: exercise Time contacted: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealing with: exercise Time contacted:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "vey form Dealing with: exercise Time contacted: (1) Suburb: (2) Age group: (3) Occupation: (4) Family: (5)",
+      "prompt": "Suburb: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealing with: exercise Time contacted:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "g with: exercise Time contacted: (1) Suburb: (2) Age group: (3) Occupation: (4) Family: (5)",
+      "prompt": "Age group: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealing with: exercise Time contacted:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "Time contacted: (1) Suburb: (2) Age group: (3) Occupation: (4) Family: (5)",
+      "prompt": "Occupation: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealing with: exercise Time contacted:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": "Questions 1-5 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealin",
+      "prompt": "Family: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Survey form Dealing with: exercise Time contacted:"
     },
     {
       "number": 6,
       "type": "summaryCompletion",
-      "prompt": "r each answer. The subject undertakes exercise by regularly (6) She does yoga in order to relax and (7) her muscles. When she was younger she would (8) , and in the futur",
+      "prompt": "The subject undertakes exercise by regularly ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly"
     },
     {
       "number": 7,
       "type": "summaryCompletion",
-      "prompt": "ercise by regularly (6) She does yoga in order to relax and (7) her muscles. When she was younger she would (8) , and in the future, she may (9) , although that will depe",
+      "prompt": "She does yoga in order to relax and ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly"
     },
     {
       "number": 8,
       "type": "summaryCompletion",
-      "prompt": "o relax and (7) her muscles. When she was younger she would (8) , and in the future, she may (9) , although that will depend on whether she has enough (10) Part 2:",
+      "prompt": "her muscles. When she was younger she would ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly"
     },
     {
       "number": 9,
       "type": "summaryCompletion",
-      "prompt": "she was younger she would (8) , and in the future, she may (9) , although that will depend on whether she has enough (10) Part 2:",
+      "prompt": "and in the future, she may ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly"
     },
     {
       "number": 10,
       "type": "summaryCompletion",
-      "prompt": "Questions 6-10 Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly (6)",
+      "prompt": "although that will depend on whether she has enough ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the summary. Write ONE WORD only for each answer. The subject undertakes exercise by regularly"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "l the floor plan. Write correct letter A-F for each answer. 11. Quiet reading 12. Computers 13. Newspapers and magazines 14. Reference books 15. Audio section 16. Main li",
-      "groupId": "q11-16"
+      "prompt": "Quiet reading",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Write correct letter A-F for each answer. 11. Quiet reading 12. Computers 13. Newspapers and magazines 14. Reference books 15. Audio section 16. Main library",
-      "groupId": "q11-16"
+      "prompt": "Computers",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "letter A-F for each answer. 11. Quiet reading 12. Computers 13. Newspapers and magazines 14. Reference books 15. Audio section 16. Main library",
-      "groupId": "q11-16"
+      "prompt": "Newspapers and magazines",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "1. Quiet reading 12. Computers 13. Newspapers and magazines 14. Reference books 15. Audio section 16. Main library",
-      "groupId": "q11-16"
+      "prompt": "Reference books",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Computers 13. Newspapers and magazines 14. Reference books 15. Audio section 16. Main library",
-      "groupId": "q11-16"
+      "prompt": "Audio section",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 11-16 Label the floor plan. Write correct letter A-F for each answer. 11. Quiet reading 12. Computers 13. Newspap",
-      "groupId": "q11-16"
+      "prompt": "Main library",
+      "groupId": "q11-16",
+      "instructions": "Label the floor plan. Write correct letter A-F for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "he timetable. Write the correct letter A-J for each answer. 17. Teacher-led discussion 18. Writing skills 19. On-call teacher 20. Language exchange Part 3:",
-      "groupId": "q17-20"
+      "prompt": "Teacher-led discussion",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-J for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "rect letter A-J for each answer. 17. Teacher-led discussion 18. Writing skills 19. On-call teacher 20. Language exchange Part 3:",
-      "groupId": "q17-20"
+      "prompt": "Writing skills",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-J for each answer."
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "each answer. 17. Teacher-led discussion 18. Writing skills 19. On-call teacher 20. Language exchange Part 3:",
-      "groupId": "q17-20"
+      "prompt": "On-call teacher",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-J for each answer."
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 17-20 Complete the timetable. Write the correct letter A-J for each answer. 17. Teacher-led discussion 18. Writin",
-      "groupId": "q17-20"
+      "prompt": "Language exchange",
+      "groupId": "q17-20",
+      "instructions": "Complete the timetable. Write the correct letter A-J for each answer."
     },
     {
       "number": 21,
       "type": "summaryCompletion",
-      "prompt": "f the basic strategies when listening to lectures is to use (21) This saves time, but it is only effective if they can be (22) later. More generally, it is necessary to (",
+      "prompt": "One of the basic strategies when listening to lectures is to use ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write ONE WORD only for each answer. One of the basic strategies when listening to lectures is to use"
     },
     {
       "number": 22,
       "type": "summaryCompletion",
-      "prompt": "1) This saves time, but it is only effective if they can be (22) later. More generally, it is necessary to (23) the page in anticipation of the nature of the lecture. As",
+      "prompt": "This saves time, but it is only effective if they can be ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write ONE WORD only for each answer. One of the basic strategies when listening to lectures is to use"
     },
     {
       "number": 23,
       "type": "summaryCompletion",
-      "prompt": "they can be (22) later. More generally, it is necessary to (23) the page in anticipation of the nature of the lecture. As an example, one can draw (24) , tables and flow",
+      "prompt": "later. More generally, it is necessary to ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write ONE WORD only for each answer. One of the basic strategies when listening to lectures is to use"
     },
     {
       "number": 24,
       "type": "summaryCompletion",
-      "prompt": "Questions 21-24 Complete the summary below. Write ONE WORD only for each answer. One of the basic strategies when listening",
+      "prompt": "the page in anticipation of the nature of the lecture. As an example, one can draw ____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the summary below. Write ONE WORD only for each answer. One of the basic strategies when listening to lectures is to use"
     },
     {
       "number": 25,
       "type": "tableCompletion",
-      "prompt": "plete the table below. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 26,
       "type": "tableCompletion",
-      "prompt": "the table below. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "table below. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "below. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "w. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 25-30 Complete the table below. Write ONE WORD only for each answer. (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "ONE WORD only",
-      "groupId": "q25-30"
+      "groupId": "q25-30",
+      "instructions": "Complete the table below. Write ONE WORD only for each answer."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "te the notes. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "e notes. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "es. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "rite NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "Questions 31-35 Complete the notes. Write NO MORE THAN TWO WORDS for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the notes. Write NO MORE THAN TWO WORDS for each answer."
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "te NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 36-40 Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer. (36) (37) (38) (39) (4",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Complete the diagram. Write NO MORE THAN TWO WORDS AND/ OR A NUMBER for each answer."
     }
   ],
   "answerKey": {

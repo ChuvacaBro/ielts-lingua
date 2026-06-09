@@ -40,127 +40,235 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "ction Survey Customer details Name: Sophie Bird Occupation: (1) Reason for travel today: (2) Journey information Name of station returning to: (3) Type of ticket purchase",
-      "groupId": "q1-10"
+      "prompt": "Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Name: Sophie Bird Occupation: (1) Reason for travel today: (2) Journey information Name of station returning to: (3) Type of ticket purchased: standard (4) ticket Cost o",
-      "groupId": "q1-10"
+      "prompt": "Reason for travel today: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "oday: (2) Journey information Name of station returning to: (3) Type of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday W",
-      "groupId": "q1-10"
+      "prompt": "Journey information Name of station returning to: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "tation returning to: (3) Type of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday Where ticket was bought: (6) Satisfactio",
-      "groupId": "q1-10"
+      "prompt": "Type of ticket purchased: standard ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "pe of ticket purchased: standard (4) ticket Cost of ticket: (5) £ When ticket was purchased: yesterday Where ticket was bought: (6) Satisfaction with journey: Most satisf",
-      "groupId": "q1-10"
+      "prompt": "ticket Cost of ticket: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "en ticket was purchased: yesterday Where ticket was bought: (6) Satisfaction with journey: Most satisfied with: the wifi Least satisfied with: the (7) this morning Satisf",
-      "groupId": "q1-10"
+      "prompt": "£ When ticket was purchased: yesterday Where ticket was bought: ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "ey: Most satisfied with: the wifi Least satisfied with: the (7) this morning Satisfaction with station facilities Most satisfied with: how much (8) was provided Least sat",
-      "groupId": "q1-10"
+      "prompt": "Satisfaction with journey: Most satisfied with: the wifi Least satisfied with: the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ction with station facilities Most satisfied with: how much (8) was provided Least satisfied with: lack of seats, particularly on the (9) Neither satisfied nor dissatisfi",
-      "groupId": "q1-10"
+      "prompt": "this morning Satisfaction with station facilities Most satisfied with: how much ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "ed Least satisfied with: lack of seats, particularly on the (9) Neither satisfied nor dissatisfied with: the (10) available Part 2:",
-      "groupId": "q1-10"
+      "prompt": "was provided Least satisfied with: lack of seats, particularly on the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Cus",
-      "groupId": "q1-10"
+      "prompt": "Neither satisfied nor dissatisfied with: the ____",
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below. Write ONE WORD AND/ OR A NUMBER for each answer. Customer Satisfaction Survey Customer details Name: Sophie Bird Occupation:"
     },
     {
       "number": 11,
       "type": "mapPlanLabelling",
-      "prompt": "Question 11",
-      "groupId": "q11-16"
+      "prompt": "café",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 12,
       "type": "mapPlanLabelling",
-      "prompt": "Question 12",
-      "groupId": "q11-16"
+      "prompt": "toilets",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 13,
       "type": "mapPlanLabelling",
-      "prompt": "Question 13",
-      "groupId": "q11-16"
+      "prompt": "formal gardens",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 14,
       "type": "mapPlanLabelling",
-      "prompt": "Question 14",
-      "groupId": "q11-16"
+      "prompt": "outdoor gyms",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
-      "groupId": "q11-16"
+      "prompt": "skateboard ramp",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 11-16 Label the map below. Write the correct letters A-H next to",
-      "groupId": "q11-16"
+      "prompt": "wild flowers",
+      "groupId": "q11-16",
+      "instructions": "Label the map below. Write the correct letters A-H next to questions 11-16."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What does the speaker say about the adventure playground? A children must be",
-      "groupId": "q17-18"
+      "prompt": "Question 17",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. What does the speaker say about the adventure playground?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "children must be supervised"
+        },
+        {
+          "letter": "B",
+          "text": "it costs more in winter"
+        },
+        {
+          "letter": "C",
+          "text": "some activities are only for younger children"
+        },
+        {
+          "letter": "D",
+          "text": "no payment is required"
+        },
+        {
+          "letter": "E",
+          "text": "it was recently expanded"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 17 and 18 Choose TWO letters A-E. What does the speaker say about the adventure playground? A children must be superv",
-      "groupId": "q17-18"
+      "prompt": "Question 18",
+      "groupId": "q17-18",
+      "instructions": "18 Choose TWO letters A-E. What does the speaker say about the adventure playground?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "children must be supervised"
+        },
+        {
+          "letter": "B",
+          "text": "it costs more in winter"
+        },
+        {
+          "letter": "C",
+          "text": "some activities are only for younger children"
+        },
+        {
+          "letter": "D",
+          "text": "no payment is required"
+        },
+        {
+          "letter": "E",
+          "text": "it was recently expanded"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What does the speaker say about the glass houses? A they are closed at weeke",
-      "groupId": "q19-20"
+      "prompt": "Question 19",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What does the speaker say about the glass houses?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they are closed at weekends"
+        },
+        {
+          "letter": "B",
+          "text": "volunteers are needed to work there"
+        },
+        {
+          "letter": "C",
+          "text": "they were badly damaged by fire"
+        },
+        {
+          "letter": "D",
+          "text": "more money is needed to repair some of the glass"
+        },
+        {
+          "letter": "E",
+          "text": "visitors can see palm trees from tropical regions Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 19 and 20 Choose TWO letters A-E. What does the speaker say about the glass houses? A they are closed at weekends B v",
-      "groupId": "q19-20"
+      "prompt": "Question 20",
+      "groupId": "q19-20",
+      "instructions": "20 Choose TWO letters A-E. What does the speaker say about the glass houses?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "they are closed at weekends"
+        },
+        {
+          "letter": "B",
+          "text": "volunteers are needed to work there"
+        },
+        {
+          "letter": "C",
+          "text": "they were badly damaged by fire"
+        },
+        {
+          "letter": "D",
+          "text": "more money is needed to repair some of the glass"
+        },
+        {
+          "letter": "E",
+          "text": "visitors can see palm trees from tropical regions Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-24 Choose the correct letter A, B or C. Presentation about refrigeration 21. What did Annie discover from reading about icehouses?",
+      "stem": "What did Annie discover from reading about icehouses?",
       "options": [
         {
           "letter": "A",
@@ -175,7 +283,8 @@
           "text": "where they were located"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Presentation about refrigeration"
     },
     {
       "number": 22,
@@ -195,7 +304,8 @@
           "text": "it took a long time to become popular"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Presentation about refrigeration"
     },
     {
       "number": 23,
@@ -215,7 +325,8 @@
           "text": "the large number that quickly break down"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Presentation about refrigeration"
     },
     {
       "number": 24,
@@ -235,113 +346,214 @@
           "text": "they are more useful than other domestic appliances"
         }
       ],
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Choose the correct letter A, B or C. Presentation about refrigeration"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q25-30"
+      "prompt": "the goods that are refrigerated",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
-      "groupId": "q25-30"
+      "prompt": "the effects on health",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
-      "groupId": "q25-30"
+      "prompt": "the impact on food producers",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
-      "groupId": "q25-30"
+      "prompt": "the impact on cities",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
-      "groupId": "q25-30"
+      "prompt": "refrigerated transport",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 25-30 Who is going to do research into each topic? Write the correct letter A-C next to",
-      "groupId": "q25-30"
+      "prompt": "domestic fridges",
+      "groupId": "q25-30",
+      "instructions": "Who is going to do research into each topic? Write the correct letter A-C next to questions 25-30. People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Annie"
+        },
+        {
+          "letter": "B",
+          "text": "Jack"
+        },
+        {
+          "letter": "C",
+          "text": "both Annie and Jack Topics 25."
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "t time, people’s possessions were used to measure Britain’s (31) • Developments in production of goods and in (32) greatly changed lives Main areas of change Manufacturin",
+      "prompt": "affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "Britain’s (31) • Developments in production of goods and in (32) greatly changed lives Main areas of change Manufacturing • The Industrial Revolution would not have happe",
+      "prompt": "• Developments in production of goods and in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "Revolution would not have happened without the new types of (33) that were used then • The leading industry was (34) (its products became widely available) • New (35) mad",
+      "prompt": "lives Main areas of change Manufacturing • The Industrial Revolution would not have happened without the new types of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ypes of (33) that were used then • The leading industry was (34) (its products became widely available) • New (35) made factories necessary and so more people moved into",
+      "prompt": "that were used then • The leading industry was ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "ustry was (34) (its products became widely available) • New (35) made factories necessary and so more people moved into towns Transport • The railways took the place of c",
+      "prompt": "(its products became widely available) • New ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "canals • Because of the new transport: o Greater access to (36) made people more aware of what they could buy in shops o When shopping people were not limited to buying",
+      "prompt": "moved into towns Transport • The railways took the place of canals • Because of the new transport: o Greater access to ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "in shops o When shopping people were not limited to buying (37) Goods Retailing • The first department stores were opened • The displays of goods were more visible: o In",
+      "prompt": "made people more aware of what they could buy in shops o When shopping people were not limited to buying ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "goods were more visible: o Inside stores because of better (38) o Outside stores because (39) were bigger • (40) that was persuasive became much more common",
+      "prompt": "• The first department stores were opened • The displays of goods were more visible: o Inside stores because of better ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "side stores because of better (38) o Outside stores because (39) were bigger • (40) that was persuasive became much more common",
+      "prompt": "o Outside stores because ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life",
+      "prompt": "were bigger • ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. How the Industrial Revolution affected life in Britain 19th century • For the first time, people’s possessions were used to measure Britain’s"
     }
   ],
   "answerKey": {

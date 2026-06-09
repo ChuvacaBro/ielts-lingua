@@ -40,269 +40,435 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00"
+        }
+      ]
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00"
+        }
+      ]
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "ns 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00"
+        }
+      ]
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "le the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
-      "groupId": "q1-5"
+      "prompt": "A B C D",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00"
+        }
+      ]
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Circle the appropriate letter. 1. A B C D 2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman g",
-      "groupId": "q1-5"
+      "prompt": "How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00",
+      "groupId": "q1-5",
+      "instructions": "Circle the appropriate letter.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ""
+        },
+        {
+          "letter": "B",
+          "text": ""
+        },
+        {
+          "letter": "C",
+          "text": ""
+        },
+        {
+          "letter": "D",
+          "text": "2. A B C D 3. A B C D 4. A B C D 5 How much money does the woman give the man? A $2.00 B $3.00 C $3.50 D $5.00"
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "ation form using NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "prompt": "Name of student: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the registration form using NO MORE THAN THREE WORDS. Name of student:"
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "ing NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "prompt": "Address: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the registration form using NO MORE THAN THREE WORDS. Name of student:"
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "THREE WORDS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "prompt": "Flat/5 Town: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the registration form using NO MORE THAN THREE WORDS. Name of student:"
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "DS. Name of student: (6) Address: (7) Flat/5 Town: (8) Tel: (9) Course: (10) Part 2:",
+      "prompt": "Tel: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the registration form using NO MORE THAN THREE WORDS. Name of student:"
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 6-10 Complete the registration form using NO MORE THAN THREE WORDS. Name of student: (6) Address: (7) Flat/5 Tow",
+      "prompt": "Course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the registration form using NO MORE THAN THREE WORDS. Name of student:"
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 A B C D 12. What must the students do as part of registration at the university? A Check the notice",
-      "groupId": "q11-12"
+      "prompt": "Question 11",
+      "groupId": "q11-12",
+      "instructions": "12 A B C D 12. What must the students do as part of registration at the university?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Check the notice board in the Law Faculty"
+        },
+        {
+          "letter": "B",
+          "text": "Find out about lectures"
+        },
+        {
+          "letter": "C",
+          "text": "Organise tutorial groups"
+        },
+        {
+          "letter": "D",
+          "text": "Pay the union fees"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Questions 11 and 12 A B C D 12. What must the students do as part of registration at the university? A Check the notice board i",
-      "groupId": "q11-12"
+      "prompt": "Question 12",
+      "groupId": "q11-12",
+      "instructions": "12 A B C D 12. What must the students do as part of registration at the university?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Check the notice board in the Law Faculty"
+        },
+        {
+          "letter": "B",
+          "text": "Find out about lectures"
+        },
+        {
+          "letter": "C",
+          "text": "Organise tutorial groups"
+        },
+        {
+          "letter": "D",
+          "text": "Pay the union fees"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "the notes. Write NO MORE THAN THREE WORDS for each answer. (13) Funding • Must provide (14) I can support myself. • Services will depend on personal circumstances and di",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "AN THREE WORDS for each answer. (13) Funding • Must provide (14) I can support myself. • Services will depend on personal circumstances and discretion of Bank Manager. Op",
+      "prompt": "Funding • Must provide ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "cretion of Bank Manager. Opening an account • Take with me: (15) and letter of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarante",
+      "prompt": "• Services will depend on personal circumstances and discretion of Bank Manager. Opening an account • Take with me: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "h me: (15) and letter of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarantees cheques. Other services • Cashcard: (you can (18) c",
+      "prompt": "and letter of enrollment. • Recommended account: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "of enrollment. • Recommended account: (16) • Bank supplies: (17) and chequecard which guarantees cheques. Other services • Cashcard: (you can (18) cash at any time.) • Sw",
+      "prompt": "• Bank supplies: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "ich guarantees cheques. Other services • Cashcard: (you can (18) cash at any time.) • Switch/Delta cards: (take the money (19) the account.) Overdraft • Must have (20) •S",
+      "prompt": "and chequecard which guarantees cheques. Other services • Cashcard: (you can ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "8) cash at any time.) • Switch/Delta cards: (take the money (19) the account.) Overdraft • Must have (20) •Sometimes must pay interest. Opening times • Most banks open un",
+      "prompt": "cash at any time.) • Switch/Delta cards: (take the money ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "s: (take the money (19) the account.) Overdraft • Must have (20) •Sometimes must pay interest. Opening times • Most banks open until (21) during the week. • Some open for",
+      "prompt": "the account.) Overdraft • Must have ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "Questions 13-21 Complete the notes. Write NO MORE THAN THREE WORDS for each answer. (13) Funding • Must provide (14) I can",
+      "prompt": "•Sometimes must pay interest. Opening times • Most banks open until ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q13-21"
+      "groupId": "q13-21",
+      "instructions": "Complete the notes. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "N THREE WORDS for each answer. FACTSHEET – Aluminium Cans • (22) produced every day in the US — more cans produced than nails or (23) • each can weighs 0.48 ounces — thin",
+      "prompt": "FACTSHEET – Aluminium Cans • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q22-25"
+      "groupId": "q22-25",
+      "instructions": "Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans •"
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "uced every day in the US — more cans produced than nails or (23) • each can weighs 0.48 ounces — thinner than two (24) • can take more than 90 pounds of pressure per squa",
+      "prompt": "produced every day in the US — more cans produced than nails or ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q22-25"
+      "groupId": "q22-25",
+      "instructions": "Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans •"
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "ls or (23) • each can weighs 0.48 ounces — thinner than two (24) • can take more than 90 pounds of pressure per square inch — over (25) the pressure of a car tyre (26) (2",
+      "prompt": "• each can weighs 0.48 ounces — thinner than two ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q22-25"
+      "groupId": "q22-25",
+      "instructions": "Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans •"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Questions 22-25 Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans • (22) p",
+      "prompt": "• can take more than 90 pounds of pressure per square inch — over ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q22-25"
+      "groupId": "q22-25",
+      "instructions": "Complete the factsheet. Write NO MORE THAN THREE WORDS for each answer. FACTSHEET – Aluminium Cans •"
     },
     {
       "number": 26,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 26"
+      "prompt": "Question 26",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 27,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 27"
+      "prompt": "Question 27",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 28,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 28"
+      "prompt": "Question 28",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 29,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 29"
+      "prompt": "Question 29",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 30,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 30"
+      "prompt": "Question 30",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 31,
       "type": "gapFill",
       "groupId": "qfallback",
-      "prompt": "Question 31"
+      "prompt": "Question 31",
+      "instructions": "This question was not included in the source text; only its answer is available (shown in review)."
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "r each answer. Purpose of the mini lecture: • To experience (32) • To find out about (33) The three strands of Sports Studies are: • Sports psychology • Sports (34) • Spo",
+      "prompt": "Purpose of the mini lecture: • To experience ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "the mini lecture: • To experience (32) • To find out about (33) The three strands of Sports Studies are: • Sports psychology • Sports (34) • Sports physiology • The psyc",
+      "prompt": "• To find out about ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "strands of Sports Studies are: • Sports psychology • Sports (34) • Sports physiology • The psychologists work with The psychologists work with (35) They want to discover",
+      "prompt": "The three strands of Sports Studies are: • Sports psychology • Sports ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "y • The psychologists work with The psychologists work with (35) They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators wa",
+      "prompt": "• Sports physiology • The psychologists work with The psychologists work with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "The psychologists work with (35) They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is als",
+      "prompt": "They want to discover what ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": ") They want to discover what (36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "prompt": "Sports marketing looks at ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "(36) Sports marketing looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "prompt": "Sport now competes with ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "looks at (37) Sport now competes with (38) Spectators want (39) Sports physiology is also known as (40)",
+      "prompt": "Spectators want ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Questions 32-40 Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To",
+      "prompt": "Sports physiology is also known as ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q32-40"
+      "groupId": "q32-40",
+      "instructions": "Complete the lecture notes. Use NO MORE THAN THREE WORDS for each answer. Purpose of the mini lecture: • To experience"
     }
   ],
   "answerKey": {

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name: (1) Sex: female Passport number: (2) Present address: Room 21C, Willow College Length of homestay: approx. (3)",
+      "prompt": "HOMESTAY APPLICATION Surname: Yuichini First name: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "name: Yuichini First name: (1) Sex: female Passport number: (2) Present address: Room 21C, Willow College Length of homestay: approx. (3) Couse enrolled in: (4) Family pr",
+      "prompt": "Sex: female Passport number: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "dress: Room 21C, Willow College Length of homestay: approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "prompt": "Present address: Room 21C, Willow College Length of homestay: approx. ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "College Length of homestay: approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "prompt": "Couse enrolled in: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 5,
       "type": "formCompletion",
-      "prompt": ": approx. (3) Couse enrolled in: (4) Family preferences: no (5) and no objection to (6)",
+      "prompt": "Family preferences: no ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 6,
       "type": "formCompletion",
-      "prompt": "Questions 1-6 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini",
+      "prompt": "and no objection to ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER. HOMESTAY APPLICATION Surname: Yuichini First name:"
     },
     {
       "number": 7,
       "type": "shortAnswer",
-      "prompt": "0 Answer the questions below. Write NO MORE THAN TWO WORDS. 7. What does the student particularly like to eat? 8. What sport does the student play? 9. What mode of transp",
+      "prompt": "What does the student particularly like to eat?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 8,
       "type": "shortAnswer",
-      "prompt": "O WORDS. 7. What does the student particularly like to eat? 8. What sport does the student play? 9. What mode of transport does the student prefer? 10. When will the stud",
+      "prompt": "What sport does the student play?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 9,
       "type": "shortAnswer",
-      "prompt": "ticularly like to eat? 8. What sport does the student play? 9. What mode of transport does the student prefer? 10. When will the student find out her homestay address? Pa",
+      "prompt": "What mode of transport does the student prefer?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 10,
       "type": "shortAnswer",
-      "prompt": "Questions 7-10 Answer the questions below. Write NO MORE THAN TWO WORDS. 7. What does the student particularly like to eat",
+      "prompt": "When will the student find out her homestay address?",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter A, B or C. 11. What kind of tour is Sally leading?",
+      "stem": "What kind of tour is Sally leading?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "a walking tour"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "shops"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "a sports centre"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,182 +198,307 @@
           "text": "Bicentennial Park"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "bel the plan below. Write NO MORE THAN TWO WORDS. (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "he plan below. Write NO MORE THAN TWO WORDS. (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 13-17 Label the plan below. Write NO MORE THAN TWO WORDS. (13) (14) (15) (16) (17)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q13-17"
+      "groupId": "q13-17",
+      "instructions": "Label the plan below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "-20 Complete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "omplete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 18-20 Complete the table below. Write NO MORE THAN TWO WORDS. (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21 and 22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The prese",
+      "prompt": "The presentation will last 15 minutes. There will be ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The presentation will last 15 minutes. There will be"
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21 and 22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The presentation",
+      "prompt": "minutes for questions. The presentation will not be ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Complete the sentences below. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer. The presentation will last 15 minutes. There will be"
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q23-26"
+      "prompt": "Geographical Location",
+      "groupId": "q23-26",
+      "instructions": "What do the students decide about each topic for the geography presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They will definitely include this topic."
+        },
+        {
+          "letter": "B",
+          "text": "They might include this topic."
+        },
+        {
+          "letter": "C",
+          "text": "They will not include this topic."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q23-26"
+      "prompt": "Economy",
+      "groupId": "q23-26",
+      "instructions": "What do the students decide about each topic for the geography presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They will definitely include this topic."
+        },
+        {
+          "letter": "B",
+          "text": "They might include this topic."
+        },
+        {
+          "letter": "C",
+          "text": "They will not include this topic."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q23-26"
+      "prompt": "Overview of Education System",
+      "groupId": "q23-26",
+      "instructions": "What do the students decide about each topic for the geography presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They will definitely include this topic."
+        },
+        {
+          "letter": "B",
+          "text": "They might include this topic."
+        },
+        {
+          "letter": "C",
+          "text": "They will not include this topic."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 23-26 What do the students decide about each topic for the geography presentation? A They will definitely include",
-      "groupId": "q23-26"
+      "prompt": "Role of English Language",
+      "groupId": "q23-26",
+      "instructions": "What do the students decide about each topic for the geography presentation?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They will definitely include this topic."
+        },
+        {
+          "letter": "B",
+          "text": "They might include this topic."
+        },
+        {
+          "letter": "C",
+          "text": "They will not include this topic."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "tableCompletion",
-      "prompt": "-30 Complete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 28,
       "type": "tableCompletion",
-      "prompt": "omplete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 29,
       "type": "tableCompletion",
-      "prompt": "te the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 30,
       "type": "tableCompletion",
-      "prompt": "Questions 27-30 Complete the table below. Write NO MORE THAN TWO WORDS. (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS."
     },
     {
       "number": 31,
       "type": "gapFill",
-      "prompt": "Questions 31-33 Monosodium Glutamate (MSG) 31. The speaker says the main topic of the lecture is A the history of monosodium glutamate B the way monosodi",
-      "groupId": "q31-33"
+      "prompt": "The speaker says the main topic of the lecture is A the history of monosodium glutamate B the way monosodium glutamate works C where monosodium glutamate is used",
+      "groupId": "q31-33",
+      "instructions": "Monosodium Glutamate (MSG)",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the history of monosodium glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "the way monosodium glutamate works"
+        },
+        {
+          "letter": "C",
+          "text": "where monosodium glutamate is used 32."
+        }
+      ]
     },
     {
       "number": 32,
       "type": "gapFill",
-      "prompt": "sodium glutamate works C where monosodium glutamate is used 32. In 1908, scientists in Japan A made monosodium glutamate B began using kombu C identified glutamate 33. Wh",
-      "groupId": "q31-33"
+      "prompt": "In 1908, scientists in Japan A made monosodium glutamate B began using kombu C identified glutamate",
+      "groupId": "q31-33",
+      "instructions": "Monosodium Glutamate (MSG)",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the history of monosodium glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "the way monosodium glutamate works"
+        },
+        {
+          "letter": "C",
+          "text": "where monosodium glutamate is used 32."
+        }
+      ]
     },
     {
       "number": 33,
       "type": "gapFill",
-      "prompt": "Questions 31-33 Monosodium Glutamate (MSG) 31. The speaker says the main topic of the lecture is A the history of monosodiu",
-      "groupId": "q31-33"
+      "prompt": "What change occurred in the manufacture of glutamate in 1956? A It began to be manufactured on a large scale B The Japanese began extracting it from natural sources C It became much more expensive to produce",
+      "groupId": "q31-33",
+      "instructions": "Monosodium Glutamate (MSG)",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the history of monosodium glutamate"
+        },
+        {
+          "letter": "B",
+          "text": "the way monosodium glutamate works"
+        },
+        {
+          "letter": "C",
+          "text": "where monosodium glutamate is used 32."
+        }
+      ]
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "(MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o (34) (9.6%) • Glutamate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in",
+      "prompt": "Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "• Glutamate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in many different parts of the world. • In 1908 Kikunae Ikeda discovered",
+      "prompt": "(9.6%) • Glutamate is found in foods that contain protein such as ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "ate is found in foods that contain protein such as (35) and (36) • MSG is used in foods in many different parts of the world. • In 1908 Kikunae Ikeda discovered a (37) •",
+      "prompt": "and ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "nt parts of the world. • In 1908 Kikunae Ikeda discovered a (37) • Our ability to detect glutamate makes sense because it is so (38) naturally. • John Prescott suggests t",
+      "prompt": "• MSG is used in foods in many different parts of the world. • In 1908 Kikunae Ikeda discovered a ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "ur ability to detect glutamate makes sense because it is so (38) naturally. • John Prescott suggests that: o Sweetness tells us that a food contains carbohydrates. o (39)",
+      "prompt": "• Our ability to detect glutamate makes sense because it is so ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "o Sweetness tells us that a food contains carbohydrates. o (39) tells us that a food contains toxins. o Saltiness tells us that a food contains (40)",
+      "prompt": "naturally. • John Prescott suggests that: o Sweetness tells us that a food contains carbohydrates. o ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 34-40 Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutama",
+      "prompt": "tells us that a food contains toxins. o Saltiness tells us that a food contains ____",
       "wordLimit": "NO MORE THAN TWO WORDS",
-      "groupId": "q34-40"
+      "groupId": "q34-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS. Monosodium Glutamate (MSG) • MSG contains o Glutamate (78.2%) o Sodium (12.2%) o"
     }
   ],
   "answerKey": {

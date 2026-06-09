@@ -40,137 +40,351 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "uestions 1-4 Complete the table below. Write ONE WORD ONLY. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "ions 1-4 Complete the table below. Write ONE WORD ONLY. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "1-4 Complete the table below. Write ONE WORD ONLY. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "Questions 1-4 Complete the table below. Write ONE WORD ONLY. (1) (2) (3) (4)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 5 and 6 Choose TWO letters A-E. Which TWO of the following are offered free of charge at Shore Lane Health Cen",
-      "groupId": "q5-6"
+      "prompt": "Question 5",
+      "groupId": "q5-6",
+      "instructions": "6 Choose TWO letters A-E. Which TWO of the following are offered free of charge at Shore Lane Health Centre?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "acupuncture"
+        },
+        {
+          "letter": "B",
+          "text": "employment medicals"
+        },
+        {
+          "letter": "C",
+          "text": "sports injury therapy"
+        },
+        {
+          "letter": "D",
+          "text": "travel advice"
+        },
+        {
+          "letter": "E",
+          "text": "vaccinations"
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Questions 5 and 6 Choose TWO letters A-E. Which TWO of the following are offered free of charge at Shore Lane Health Centre? A",
-      "groupId": "q5-6"
+      "prompt": "Question 6",
+      "groupId": "q5-6",
+      "instructions": "6 Choose TWO letters A-E. Which TWO of the following are offered free of charge at Shore Lane Health Centre?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "acupuncture"
+        },
+        {
+          "letter": "B",
+          "text": "employment medicals"
+        },
+        {
+          "letter": "C",
+          "text": "sports injury therapy"
+        },
+        {
+          "letter": "D",
+          "text": "travel advice"
+        },
+        {
+          "letter": "E",
+          "text": "vaccinations"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "le below. Write NO MORE THAN TWO WORDS OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 7-10 Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER. (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS OR A NUMBER."
     },
     {
       "number": 11,
       "type": "diagramLabel",
-      "prompt": "REE answers from the box and write the correct letters A-E. (11) (12) (13)",
-      "groupId": "q11-13"
+      "prompt": "____",
+      "groupId": "q11-13",
+      "instructions": "Label the diagram below. Choose THREE answers from the box and write the correct letters A-E."
     },
     {
       "number": 12,
       "type": "diagramLabel",
-      "prompt": "nswers from the box and write the correct letters A-E. (11) (12) (13)",
-      "groupId": "q11-13"
+      "prompt": "____",
+      "groupId": "q11-13",
+      "instructions": "Label the diagram below. Choose THREE answers from the box and write the correct letters A-E."
     },
     {
       "number": 13,
       "type": "diagramLabel",
-      "prompt": "Questions 11-13 Label the diagram below. Choose THREE answers from the box and write the correct letters A-E. (11) (12) (13",
-      "groupId": "q11-13"
+      "prompt": "____",
+      "groupId": "q11-13",
+      "instructions": "Label the diagram below. Choose THREE answers from the box and write the correct letters A-E."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "lf of back door F on top of television G under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map",
-      "groupId": "q14-18"
+      "prompt": "Pillows",
+      "groupId": "q14-18",
+      "instructions": "Where can each of the following items be found? Choose FIVE answers from the options and write the correct letter A-G. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in box on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in cupboard on landing"
+        },
+        {
+          "letter": "C",
+          "text": "in chest of drawers"
+        },
+        {
+          "letter": "D",
+          "text": "next to window in living room"
+        },
+        {
+          "letter": "E",
+          "text": "on shelf of back door"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "oor F on top of television G under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map",
-      "groupId": "q14-18"
+      "prompt": "Washing powder",
+      "groupId": "q14-18",
+      "instructions": "Where can each of the following items be found? Choose FIVE answers from the options and write the correct letter A-G. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in box on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in cupboard on landing"
+        },
+        {
+          "letter": "C",
+          "text": "in chest of drawers"
+        },
+        {
+          "letter": "D",
+          "text": "next to window in living room"
+        },
+        {
+          "letter": "E",
+          "text": "on shelf of back door"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "evision G under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map",
-      "groupId": "q14-18"
+      "prompt": "Key",
+      "groupId": "q14-18",
+      "instructions": "Where can each of the following items be found? Choose FIVE answers from the options and write the correct letter A-G. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in box on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in cupboard on landing"
+        },
+        {
+          "letter": "C",
+          "text": "in chest of drawers"
+        },
+        {
+          "letter": "D",
+          "text": "next to window in living room"
+        },
+        {
+          "letter": "E",
+          "text": "on shelf of back door"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map"
+        }
+      ]
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "G under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map",
-      "groupId": "q14-18"
+      "prompt": "Light bulbs",
+      "groupId": "q14-18",
+      "instructions": "Where can each of the following items be found? Choose FIVE answers from the options and write the correct letter A-G. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in box on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in cupboard on landing"
+        },
+        {
+          "letter": "C",
+          "text": "in chest of drawers"
+        },
+        {
+          "letter": "D",
+          "text": "next to window in living room"
+        },
+        {
+          "letter": "E",
+          "text": "on shelf of back door"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map"
+        }
+      ]
     },
     {
       "number": 18,
       "type": "gapFill",
-      "prompt": "Questions 14-18 Where can each of the following items be found? Choose FIVE answers from the options and write the correct",
-      "groupId": "q14-18"
+      "prompt": "Map",
+      "groupId": "q14-18",
+      "instructions": "Where can each of the following items be found? Choose FIVE answers from the options and write the correct letter A-G. Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "in box on washing machine"
+        },
+        {
+          "letter": "B",
+          "text": "in cupboard on landing"
+        },
+        {
+          "letter": "C",
+          "text": "in chest of drawers"
+        },
+        {
+          "letter": "D",
+          "text": "next to window in living room"
+        },
+        {
+          "letter": "E",
+          "text": "on shelf of back door"
+        },
+        {
+          "letter": "F",
+          "text": "on top of television"
+        },
+        {
+          "letter": "G",
+          "text": "under kitchen sink 14. Pillows 15. Washing powder 16. Key 17. Light bulbs 18. Map"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "Questions 19 and 20 Complete the notes below. Write ONE WORD OR A NUMBER. The best place to park in town – next to stati",
+      "prompt": "The best place to park in town – next to station Phone number for takeaway pizzas – ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the notes below. Write ONE WORD OR A NUMBER. The best place to park in town – next to station Phone number for takeaway pizzas –"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 19 and 20 Complete the notes below. Write ONE WORD OR A NUMBER. The best place to park in town – next to station Phon",
+      "prompt": "Railway museum closed on ____",
       "wordLimit": "ONE WORD OR A NUMBER",
-      "groupId": "q19-20"
+      "groupId": "q19-20",
+      "instructions": "20 Complete the notes below. Write ONE WORD OR A NUMBER. The best place to park in town – next to station Phone number for takeaway pizzas –"
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "and 22 Choose the correct letter, A, B or C. 21. In her home country, Kira had",
+      "stem": "In her home country, Kira had",
       "options": [
         {
           "letter": "A",
@@ -185,7 +399,8 @@
           "text": "found her course difficult"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter, A, B or C."
     },
     {
       "number": 22,
@@ -205,68 +420,77 @@
           "text": "change her way of thinking"
         }
       ],
-      "groupId": "q21-22"
+      "groupId": "q21-22",
+      "instructions": "22 Choose the correct letter, A, B or C."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "e the sentences below. Write ONE WORD ONLY for each answer. 23. Kira says that lecturers are easier to than those in her home country. 24. Paul suggests that Kira may be",
+      "prompt": "Kira says that lecturers are easier to than those in her home country.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "hat lecturers are easier to than those in her home country. 24. Paul suggests that Kira may be more than when she was studying before. 25. Kira says that students want to",
+      "prompt": "Paul suggests that Kira may be more than when she was studying before.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "Questions 23-25 Complete the sentences below. Write ONE WORD ONLY for each answer. 23. Kira says that lecturers are easier",
+      "prompt": "Kira says that students want to discuss things that worry them or that them very much.",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q23-25"
+      "groupId": "q23-25",
+      "instructions": "Complete the sentences below. Write ONE WORD ONLY for each answer."
     },
     {
       "number": 26,
       "type": "shortAnswer",
-      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 26. How did the students do their practical sessions? 27. In the second semester how often did Kira work in a",
+      "prompt": "How did the students do their practical sessions?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "shortAnswer",
-      "prompt": "swer. 26. How did the students do their practical sessions? 27. In the second semester how often did Kira work in a hospital? 28. How much full-time work did Kira do duri",
+      "prompt": "In the second semester how often did Kira work in a hospital?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "shortAnswer",
-      "prompt": "the second semester how often did Kira work in a hospital? 28. How much full-time work did Kira do during the year? 29. Having completed the year, how does Kira feel? 30",
+      "prompt": "How much full-time work did Kira do during the year?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "shortAnswer",
-      "prompt": "l? 28. How much full-time work did Kira do during the year? 29. Having completed the year, how does Kira feel? 30. In addition to the language, what do overseas students",
+      "prompt": "Having completed the year, how does Kira feel?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "shortAnswer",
-      "prompt": "Questions 26-30 Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 26. How did the",
+      "prompt": "In addition to the language, what do overseas students need to become familiar with?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q26-30"
+      "groupId": "q26-30",
+      "instructions": "Answer the questions below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-36 Choose the correct letter, A, B or C. Wildlife in city gardens 31. What led the group to choose their topic?",
+      "stem": "What led the group to choose their topic?",
       "options": [
         {
           "letter": "A",
@@ -281,7 +505,8 @@
           "text": "They wanted to investigate a recent phenomenon"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 32,
@@ -301,7 +526,8 @@
           "text": "discussions with town surveyors"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 33,
@@ -321,7 +547,8 @@
           "text": "get in contact when they saw a rare species"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 34,
@@ -341,7 +568,8 @@
           "text": "which had stable populations of rare animals"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 35,
@@ -361,7 +589,8 @@
           "text": "current gardening practices"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 36,
@@ -381,35 +610,40 @@
           "text": "they best indicated general trends"
         }
       ],
-      "groupId": "q31-36"
+      "groupId": "q31-36",
+      "instructions": "Choose the correct letter, A, B or C. Wildlife in city gardens"
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "stions 37-40 Complete the table below. Write ONE WORD ONLY. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 38,
       "type": "tableCompletion",
-      "prompt": "s 37-40 Complete the table below. Write ONE WORD ONLY. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 39,
       "type": "tableCompletion",
-      "prompt": "40 Complete the table below. Write ONE WORD ONLY. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     },
     {
       "number": 40,
       "type": "tableCompletion",
-      "prompt": "Questions 37-40 Complete the table below. Write ONE WORD ONLY. (37) (38) (39) (40)",
+      "prompt": "____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q37-40"
+      "groupId": "q37-40",
+      "instructions": "Complete the table below. Write ONE WORD ONLY."
     }
   ],
   "answerKey": {

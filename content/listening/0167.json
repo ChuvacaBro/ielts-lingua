@@ -40,35 +40,39 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "ST FORM Name: Sara Lim Age: 23 Length of time in Australia: (1) Present address: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required",
+      "prompt": "ACCOMMODATION REQUEST FORM Name: Sara Lim Age: 23 Length of time in Australia: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST FORM Name: Sara Lim Age: 23 Length of time in Australia:"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "gth of time in Australia: (1) Present address: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required from: (4) 7th September",
+      "prompt": "Present address: Flat 1, 539, ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST FORM Name: Sara Lim Age: 23 Length of time in Australia:"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "ress: Flat 1, 539, (2) Road Canterbury 2036 Present course: (3) English Accommodation required from: (4) 7th September",
+      "prompt": "Road Canterbury 2036 Present course: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST FORM Name: Sara Lim Age: 23 Length of time in Australia:"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "Questions 1-4 Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST F",
+      "prompt": "English Accommodation required from: ____",
       "wordLimit": "NO MORE THAN THREE WORDS OR A NUMBER",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS OR A NUMBER for each answer. ACCOMMODATION REQUEST FORM Name: Sara Lim Age: 23 Length of time in Australia:"
     },
     {
       "number": 5,
       "type": "multipleChoice",
-      "stem": "-7 Choose the correct letter, A, B or C 5. Sara requires a",
+      "stem": "Sara requires a",
       "options": [
         {
           "letter": "A",
@@ -83,7 +87,8 @@
           "text": "triple room"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B or C"
     },
     {
       "number": 6,
@@ -103,7 +108,8 @@
           "text": "couple"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B or C"
     },
     {
       "number": 7,
@@ -123,33 +129,37 @@
           "text": "studio apartment"
         }
       ],
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose the correct letter, A, B or C"
     },
     {
       "number": 8,
       "type": "sentenceCompletion",
-      "prompt": "ntences below. Write NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She needs to pay the rent by cash or cheque on a basis. 10. She needs to pay her part",
+      "prompt": "The will be $320.",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 9,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She needs to pay the rent by cash or cheque on a basis. 10. She needs to pay her part of the bill Part 2:",
+      "prompt": "She needs to pay the rent by cash or cheque on a basis.",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 10,
       "type": "sentenceCompletion",
-      "prompt": "Questions 8-10 Complete the sentences below. Write NO MORE THAN ONE WORD for each answer. 8. The will be $320. 9. She need",
+      "prompt": "She needs to pay her part of the bill",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the sentences below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-14 Choose the correct letter, A, B or C. 11. When is this year’s festival being held?",
+      "stem": "When is this year’s festival being held?",
       "options": [
         {
           "letter": "A",
@@ -164,7 +174,8 @@
           "text": "25-31 January"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 12,
@@ -184,7 +195,8 @@
           "text": "exhibitions"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 13,
@@ -204,7 +216,8 @@
           "text": "several"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 14,
@@ -224,58 +237,65 @@
           "text": "in a stadium"
         }
       ],
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "otes below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 15-20 Complete the notes below. Write NO MORE THAN THREE WORDS for each answer. (15) (16) (17) (18) (19) (20) Par",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-30 Choose the correct letter,",
+      "stem": "The man wants information on courses for",
       "options": [
         {
           "letter": "A",
-          "text": "B or C. 21. The man wants information on courses for A people going back to college"
+          "text": "people going back to college"
         },
         {
           "letter": "B",
@@ -286,7 +306,8 @@
           "text": "business executives"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 22,
@@ -306,7 +327,8 @@
           "text": "three days"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 23,
@@ -326,7 +348,8 @@
           "text": "clarity"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 24,
@@ -346,7 +369,8 @@
           "text": "thoroughly"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 25,
@@ -366,16 +390,17 @@
           "text": "develop literacy skills"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 26,
       "type": "multipleChoice",
-      "stem": "A key component of the course is learning how to",
+      "stem": "Question 26",
       "options": [
         {
           "letter": "A",
-          "text": "use time effectively"
+          "text": "key component of the course is learning how to A use time effectively"
         },
         {
           "letter": "B",
@@ -386,7 +411,8 @@
           "text": "select appropriate materials"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 27,
@@ -406,7 +432,8 @@
           "text": "reserve a place in advance"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 28,
@@ -426,16 +453,17 @@
           "text": "Monday, Thursday and Friday"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 29,
       "type": "multipleChoice",
-      "stem": "A feature of this course is",
+      "stem": "Question 29",
       "options": [
         {
           "letter": "A",
-          "text": "a physical training component"
+          "text": "feature of this course is A a physical training component"
         },
         {
           "letter": "B",
@@ -446,7 +474,8 @@
           "text": "a detailed weekly planner"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 30,
@@ -466,67 +495,106 @@
           "text": "he seeks to revise his skills"
         }
       ],
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the correct letter, A. B or C."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "Questions 31 and 32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Buildi",
+      "prompt": "• students were asked to give written suggestions on the building’s design • these points informed the design of A ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Building Procedures to establish student opinion: • students were asked to give written suggestions on the building’s design • these points informed the design of A"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "Questions 31 and 32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Building Proc",
+      "prompt": "• (there were ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q31-32"
+      "groupId": "q31-32",
+      "instructions": "32 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer. New Union Building Procedures to establish student opinion: • students were asked to give written suggestions on the building’s design • these points informed the design of A"
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "able below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": ". Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 36,
       "type": "tableCompletion",
-      "prompt": "te NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 37,
       "type": "tableCompletion",
-      "prompt": "Questions 33-37 Complete the table below. Write NO MORE THAN THREE WORDS for each answer. (33) (34) (35) (36) (37)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q33-37"
+      "groupId": "q33-37",
+      "instructions": "Complete the table below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38 Choose TWO letters A-G. 38. Which TWO facilities did the students request in the new Union building? A a li",
-      "groupId": "q38-38"
+      "prompt": "Which TWO facilities did the students request in the new Union building? A a library B a games room C a student health centre D a mini fitness centre E a large swimming pool F a travel agency G a lecture theatre",
+      "groupId": "q38-38",
+      "instructions": "Choose TWO letters A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a library"
+        },
+        {
+          "letter": "B",
+          "text": "a games room"
+        },
+        {
+          "letter": "C",
+          "text": "a student health centre"
+        },
+        {
+          "letter": "D",
+          "text": "a mini fitness centre"
+        },
+        {
+          "letter": "E",
+          "text": "a large swimming pool"
+        },
+        {
+          "letter": "F",
+          "text": "a travel agency"
+        },
+        {
+          "letter": "G",
+          "text": "a lecture theatre"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "multipleChoice",
-      "stem": "Choose the correct letters A, B and C. 39. Which argument was used AGAINST having a drama theatre?",
+      "stem": "Which argument was used AGAINST having a drama theatre?",
       "options": [
         {
           "letter": "A",
@@ -541,13 +609,37 @@
           "text": "It could not accommodate large production of plays"
         }
       ],
-      "groupId": "q39-39"
+      "groupId": "q39-39",
+      "instructions": "Choose the correct letters A, B and C."
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40 Choose TWO letters A-F. 40. Which TWO security measures have been requested? A closed circuit TV B show Uni",
-      "groupId": "q40-40"
+      "prompt": "Which TWO security measures have been requested? A closed circuit TV B show Union card on entering the building C show Union card when asked D sport searched of bags E permanent security office on site",
+      "groupId": "q40-40",
+      "instructions": "Choose TWO letters A-F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "closed circuit TV"
+        },
+        {
+          "letter": "B",
+          "text": "show Union card on entering the building"
+        },
+        {
+          "letter": "C",
+          "text": "show Union card when asked"
+        },
+        {
+          "letter": "D",
+          "text": "sport searched of bags"
+        },
+        {
+          "letter": "E",
+          "text": "permanent security office on site"
+        }
+      ]
     }
   ],
   "answerKey": {

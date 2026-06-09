@@ -40,102 +40,206 @@
     {
       "number": 1,
       "type": "formCompletion",
-      "prompt": "MBER for each answer. Model – Ford Fiesta Registration: 3R1 (1) Current mileage: (2) miles Estimated yearly mileage: 6,000 a year Overnight parking: (3) Cover: third part",
+      "prompt": "(1) Current mileage:",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Model – Ford Fiesta Registration: 3R"
     },
     {
       "number": 2,
       "type": "formCompletion",
-      "prompt": "Model – Ford Fiesta Registration: 3R1 (1) Current mileage: (2) miles Estimated yearly mileage: 6,000 a year Overnight parking: (3) Cover: third party (4) No claim bonus:",
+      "prompt": "(1) Current mileage: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Model – Ford Fiesta Registration: 3R"
     },
     {
       "number": 3,
       "type": "formCompletion",
-      "prompt": "s Estimated yearly mileage: 6,000 a year Overnight parking: (3) Cover: third party (4) No claim bonus: 6 years",
+      "prompt": "miles Estimated yearly mileage: 6,000 a year Overnight parking: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Model – Ford Fiesta Registration: 3R"
     },
     {
       "number": 4,
       "type": "formCompletion",
-      "prompt": "Questions 1-4 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Model – Ford Fiest",
+      "prompt": "Cover: third party ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-4"
+      "groupId": "q1-4",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Model – Ford Fiesta Registration: 3R"
     },
     {
       "number": 5,
       "type": "gapFill",
       "prompt": "Question 5",
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which additional cover does Liam want?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "legal"
+        },
+        {
+          "letter": "B",
+          "text": "14 day cover courtesy car"
+        },
+        {
+          "letter": "C",
+          "text": "driver injury"
+        },
+        {
+          "letter": "D",
+          "text": "protected no claim bonus"
+        },
+        {
+          "letter": "E",
+          "text": "breakdown"
+        },
+        {
+          "letter": "F",
+          "text": "lost car key"
+        },
+        {
+          "letter": "G",
+          "text": "windscreen"
+        }
+      ]
     },
     {
       "number": 6,
       "type": "gapFill",
       "prompt": "Question 6",
-      "groupId": "q5-7"
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which additional cover does Liam want?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "legal"
+        },
+        {
+          "letter": "B",
+          "text": "14 day cover courtesy car"
+        },
+        {
+          "letter": "C",
+          "text": "driver injury"
+        },
+        {
+          "letter": "D",
+          "text": "protected no claim bonus"
+        },
+        {
+          "letter": "E",
+          "text": "breakdown"
+        },
+        {
+          "letter": "F",
+          "text": "lost car key"
+        },
+        {
+          "letter": "G",
+          "text": "windscreen"
+        }
+      ]
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "Questions 5-7 Choose THREE letters A-G. Which additional cover does Liam want? A legal B 14 day cover courtesy car C drive",
-      "groupId": "q5-7"
+      "prompt": "Question 7",
+      "groupId": "q5-7",
+      "instructions": "Choose THREE letters A-G. Which additional cover does Liam want?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "legal"
+        },
+        {
+          "letter": "B",
+          "text": "14 day cover courtesy car"
+        },
+        {
+          "letter": "C",
+          "text": "driver injury"
+        },
+        {
+          "letter": "D",
+          "text": "protected no claim bonus"
+        },
+        {
+          "letter": "E",
+          "text": "breakdown"
+        },
+        {
+          "letter": "F",
+          "text": "lost car key"
+        },
+        {
+          "letter": "G",
+          "text": "windscreen"
+        }
+      ]
     },
     {
       "number": 8,
       "type": "formCompletion",
-      "prompt": "Byrd Address: 35 Bottiville Crescent, Birmingham Postcode: (8) Date of birth: 11/11/1969 Telephone: 0121 677 9887 Payment by: (9) Card number: **** 1551 Security number:",
+      "prompt": "Name: Liam Byrd Address: 35 Bottiville Crescent, Birmingham Postcode: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Name: Liam Byrd Address: 35 Bottiville Crescent, Birmingham Postcode:"
     },
     {
       "number": 9,
       "type": "formCompletion",
-      "prompt": "e of birth: 11/11/1969 Telephone: 0121 677 9887 Payment by: (9) Card number: **** 1551 Security number: *** How did the customer hear about Hartline? (10) Part 2:",
+      "prompt": "Date of birth: 11/11/1969 Telephone: 0121 677 9887 Payment by: ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Name: Liam Byrd Address: 35 Bottiville Crescent, Birmingham Postcode:"
     },
     {
       "number": 10,
       "type": "formCompletion",
-      "prompt": "Questions 8-10 Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Name: Liam Byrd A",
+      "prompt": "Card number: **** 1551 Security number: *** How did the customer hear about Hartline? ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q8-10"
+      "groupId": "q8-10",
+      "instructions": "Complete the form below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. Name: Liam Byrd Address: 35 Bottiville Crescent, Birmingham Postcode:"
     },
     {
       "number": 11,
       "type": "sentenceCompletion",
-      "prompt": "NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. Every year more than people try to climb Mont Blanc. 12. Approximately reach the top every day in the summ",
+      "prompt": "Every year more than people try to climb Mont Blanc.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 12,
       "type": "sentenceCompletion",
-      "prompt": "r. 11. Every year more than people try to climb Mont Blanc. 12. Approximately reach the top every day in the summer months. 13. In July 2007 there were 30 fatalities, chi",
+      "prompt": "Approximately reach the top every day in the summer months.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 13,
       "type": "sentenceCompletion",
-      "prompt": "Approximately reach the top every day in the summer months. 13. In July 2007 there were 30 fatalities, chiefly due to 14. One danger is caused by other climbers.",
+      "prompt": "In July 2007 there were 30 fatalities, chiefly due to",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 14,
       "type": "sentenceCompletion",
-      "prompt": "Questions 11-14 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer. 11. Every ye",
+      "prompt": "One danger is caused by other climbers.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-14"
+      "groupId": "q11-14",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/ OR A NUMBER for each answer."
     },
     {
       "number": 15,
       "type": "multipleChoice",
-      "stem": "-17 Choose the correct letter A, B or C. 15. How did Katherine do her most recent climb?",
+      "stem": "How did Katherine do her most recent climb?",
       "options": [
         {
           "letter": "A",
@@ -150,7 +254,8 @@
           "text": "on her own"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
@@ -170,7 +275,8 @@
           "text": "because the route was crowded"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 17,
@@ -190,86 +296,176 @@
           "text": "she climbed smaller peaks for training"
         }
       ],
-      "groupId": "q15-17"
+      "groupId": "q15-17",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-F. What has experience taught Katherine about climbing Mont Blanc?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be in good physical condition"
+        },
+        {
+          "letter": "B",
+          "text": "have the right climbing equipment"
+        },
+        {
+          "letter": "C",
+          "text": "wear several layers of clothing"
+        },
+        {
+          "letter": "D",
+          "text": "protect yourself from the sun"
+        },
+        {
+          "letter": "E",
+          "text": "climb with others"
+        },
+        {
+          "letter": "F",
+          "text": "acclimatize yourself to the altitude first Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-F. What has experience taught Katherine about climbing Mont Blanc?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be in good physical condition"
+        },
+        {
+          "letter": "B",
+          "text": "have the right climbing equipment"
+        },
+        {
+          "letter": "C",
+          "text": "wear several layers of clothing"
+        },
+        {
+          "letter": "D",
+          "text": "protect yourself from the sun"
+        },
+        {
+          "letter": "E",
+          "text": "climb with others"
+        },
+        {
+          "letter": "F",
+          "text": "acclimatize yourself to the altitude first Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Choose THREE letters A-F. What has experience taught Katherine about climbing Mont Blanc? A be in good phys",
-      "groupId": "q18-20"
+      "prompt": "Question 20",
+      "groupId": "q18-20",
+      "instructions": "Choose THREE letters A-F. What has experience taught Katherine about climbing Mont Blanc?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "be in good physical condition"
+        },
+        {
+          "letter": "B",
+          "text": "have the right climbing equipment"
+        },
+        {
+          "letter": "C",
+          "text": "wear several layers of clothing"
+        },
+        {
+          "letter": "D",
+          "text": "protect yourself from the sun"
+        },
+        {
+          "letter": "E",
+          "text": "climb with others"
+        },
+        {
+          "letter": "F",
+          "text": "acclimatize yourself to the altitude first Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "tions 21-23 Write NO MORE THAN THREE WORDS for each answer. 21. When do Elaine and Adam decide to meet for revision? 22. What item does Adam think will help them work ind",
+      "prompt": "When do Elaine and Adam decide to meet for revision?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "r. 21. When do Elaine and Adam decide to meet for revision? 22. What item does Adam think will help them work independently on revision? 23. How does Elaine suggest they",
+      "prompt": "What item does Adam think will help them work independently on revision?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Questions 21-23 Write NO MORE THAN THREE WORDS for each answer. 21. When do Elaine and Adam decide to meet for revision? 22",
+      "prompt": "How does Elaine suggest they spend their revision time between meetings?",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-23"
+      "groupId": "q21-23",
+      "instructions": "Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "nces below. Write NO MORE THAN THREE WORDS for each answer. 24. It’s best to avoid notes 25. Relate to key theories and arguments. 26. Using diagrams can help keep a lot",
+      "prompt": "It’s best to avoid notes",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 25,
       "type": "sentenceCompletion",
-      "prompt": "N THREE WORDS for each answer. 24. It’s best to avoid notes 25. Relate to key theories and arguments. 26. Using diagrams can help keep a lot of information 27. Bullet poi",
+      "prompt": "Relate to key theories and arguments.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 26,
       "type": "sentenceCompletion",
-      "prompt": "st to avoid notes 25. Relate to key theories and arguments. 26. Using diagrams can help keep a lot of information 27. Bullet points can enable you to highlight 28. Keep a",
+      "prompt": "Using diagrams can help keep a lot of information",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 27,
       "type": "sentenceCompletion",
-      "prompt": "ents. 26. Using diagrams can help keep a lot of information 27. Bullet points can enable you to highlight 28. Keep a record of your sources, such as the",
+      "prompt": "Bullet points can enable you to highlight",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 28,
       "type": "sentenceCompletion",
-      "prompt": "Questions 24-28 Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer. 24. It’s best to avoid notes",
+      "prompt": "Keep a record of your sources, such as the",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q24-28"
+      "groupId": "q24-28",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 29,
       "type": "multipleChoice",
-      "stem": "and 30 Choose the correct letter A, B or C. 29. In future revision sessions Adam suggests using past papers",
+      "stem": "In future revision sessions Adam suggests using past papers",
       "options": [
         {
           "letter": "A",
@@ -284,7 +480,8 @@
           "text": "to discuss the questions"
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "30 Choose the correct letter A, B or C."
     },
     {
       "number": 30,
@@ -304,12 +501,13 @@
           "text": "asking a tutor to mark their essays"
         }
       ],
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "30 Choose the correct letter A, B or C."
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-33 Choose the correct letter A, B or C. 31. According to the text, shared space",
+      "stem": "According to the text, shared space",
       "options": [
         {
           "letter": "A",
@@ -324,7 +522,8 @@
           "text": "improves the dynamic between drivers and pedestrians"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 32,
@@ -344,7 +543,8 @@
           "text": "increased local employment"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 33,
@@ -364,48 +564,163 @@
           "text": "encourages wildlife"
         }
       ],
-      "groupId": "q31-33"
+      "groupId": "q31-33",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 34,
       "type": "gapFill",
-      "prompt": "ists B Blind people C Cyclists D Supporters of shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37.",
-      "groupId": "q34-37"
+      "prompt": "Insufficient experience amongst planners",
+      "groupId": "q34-37",
+      "instructions": "Match the groups A-D with their concerns about shared space 34-37.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Motorists"
+        },
+        {
+          "letter": "B",
+          "text": "Blind people"
+        },
+        {
+          "letter": "C",
+          "text": "Cyclists"
+        },
+        {
+          "letter": "D",
+          "text": "Supporters of shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture"
+        }
+      ]
     },
     {
       "number": 35,
       "type": "gapFill",
-      "prompt": "f shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture",
-      "groupId": "q34-37"
+      "prompt": "A lack of important signage",
+      "groupId": "q34-37",
+      "instructions": "Match the groups A-D with their concerns about shared space 34-37.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Motorists"
+        },
+        {
+          "letter": "B",
+          "text": "Blind people"
+        },
+        {
+          "letter": "C",
+          "text": "Cyclists"
+        },
+        {
+          "letter": "D",
+          "text": "Supporters of shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture"
+        }
+      ]
     },
     {
       "number": 36,
       "type": "gapFill",
-      "prompt": "experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture",
-      "groupId": "q34-37"
+      "prompt": "Intimidation by motorists",
+      "groupId": "q34-37",
+      "instructions": "Match the groups A-D with their concerns about shared space 34-37.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Motorists"
+        },
+        {
+          "letter": "B",
+          "text": "Blind people"
+        },
+        {
+          "letter": "C",
+          "text": "Cyclists"
+        },
+        {
+          "letter": "D",
+          "text": "Supporters of shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture"
+        }
+      ]
     },
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Questions 34-37 Match the groups A-D with their concerns about shared space 34-37. A Motorists B Blind people C Cyclists D",
-      "groupId": "q34-37"
+      "prompt": "The loss of familiar street furniture",
+      "groupId": "q34-37",
+      "instructions": "Match the groups A-D with their concerns about shared space 34-37.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Motorists"
+        },
+        {
+          "letter": "B",
+          "text": "Blind people"
+        },
+        {
+          "letter": "C",
+          "text": "Cyclists"
+        },
+        {
+          "letter": "D",
+          "text": "Supporters of shared space 34. Insufficient experience amongst planners 35. A lack of important signage 36. Intimidation by motorists 37. The loss of familiar street furniture"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Questions 38 and 39 Choose TWO letters A-D. People will be able to answer the questions A on the internet B at the local",
-      "groupId": "q38-39"
+      "prompt": "Question 38",
+      "groupId": "q38-39",
+      "instructions": "39 Choose TWO letters A-D. People will be able to answer the questions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on the internet"
+        },
+        {
+          "letter": "B",
+          "text": "at the local library"
+        },
+        {
+          "letter": "C",
+          "text": "at the proposed site"
+        },
+        {
+          "letter": "D",
+          "text": "at home"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Questions 38 and 39 Choose TWO letters A-D. People will be able to answer the questions A on the internet B at the local librar",
-      "groupId": "q38-39"
+      "prompt": "Question 39",
+      "groupId": "q38-39",
+      "instructions": "39 Choose TWO letters A-D. People will be able to answer the questions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "on the internet"
+        },
+        {
+          "letter": "B",
+          "text": "at the local library"
+        },
+        {
+          "letter": "C",
+          "text": "at the proposed site"
+        },
+        {
+          "letter": "D",
+          "text": "at home"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "multipleChoice",
-      "stem": "Choose the correct letter A, B or C. 40. Questions must be designed so that they",
+      "stem": "Questions must be designed so that they",
       "options": [
         {
           "letter": "A",
@@ -420,7 +735,8 @@
           "text": "are easy to answer."
         }
       ],
-      "groupId": "q40-40"
+      "groupId": "q40-40",
+      "instructions": "Choose the correct letter A, B or C."
     }
   ],
   "answerKey": {

@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorato",
+      "prompt": "Advice on plumbers and decorators • Don’t call a plumber during the ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorators • Don’t call a plumber during the"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "Questions 1 and 2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorators • D",
+      "prompt": "• Look at trade website: www. ____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q1-2"
+      "groupId": "q1-2",
+      "instructions": "2 Complete the notes below. Write NO MORE THAN ONE WORD for each answer. Advice on plumbers and decorators • Don’t call a plumber during the"
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "e table below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "ble below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "w. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 3-10 Complete the table below. Write NO MORE THAN ONE WORD for each answer. (3) (4) (5) (6) (7) (8) (9) (10) Par",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD",
-      "groupId": "q3-10"
+      "groupId": "q3-10",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD for each answer."
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter A, B or C. 11. On Monday what will be the students’ working day?",
+      "stem": "On Monday what will be the students’ working day?",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "9 am – 4.45 pm"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "their own casual clothes"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "their school placement tutor"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "conducting workshops in the museum"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 15,
@@ -205,167 +219,485 @@
           "text": "notes made by previous work placement students"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter A, B or C."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
-      "groupId": "q16-20"
+      "prompt": "Sign-in office",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 16-20. Where in the museum are the following places?"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q16-20"
+      "prompt": "Gallery 1",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 16-20. Where in the museum are the following places?"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q16-20"
+      "prompt": "Key box",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 16-20. Where in the museum are the following places?"
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q16-20"
+      "prompt": "Kitchen area",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 16-20. Where in the museum are the following places?"
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 16-20 Label the plan below. Write the correct letter A-I next to",
-      "groupId": "q16-20"
+      "prompt": "Staff noticeboard",
+      "groupId": "q16-20",
+      "instructions": "Label the plan below. Write the correct letter A-I next to questions 16-20. Where in the museum are the following places?"
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "Question 21",
-      "groupId": "q21-26"
+      "prompt": "Customer database",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
-      "groupId": "q21-26"
+      "prompt": "Online sales catalogue",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
-      "groupId": "q21-26"
+      "prompt": "Payroll",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
-      "groupId": "q21-26"
+      "prompt": "Stock inventory",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
-      "groupId": "q21-26"
+      "prompt": "Internal security",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Questions 21-26 What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write",
-      "groupId": "q21-26"
+      "prompt": "Customer services",
+      "groupId": "q21-26",
+      "instructions": "What is the tutor’s opinion of the following company projects? Choose FIVE answers from the box, and write the correct letter, A-H, next to questions 21-26. Tutor’s opinion",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "It would be very rewarding for the student."
+        },
+        {
+          "letter": "B",
+          "text": "It is too ambitious."
+        },
+        {
+          "letter": "C",
+          "text": "It would be difficult to evaluate."
+        },
+        {
+          "letter": "D",
+          "text": "It wouldn’t be sufficiently challenging."
+        },
+        {
+          "letter": "E",
+          "text": "It would involve extra costs."
+        },
+        {
+          "letter": "F",
+          "text": "It is beyond the student’s current ability."
+        },
+        {
+          "letter": "G",
+          "text": "It is already being done by another student."
+        },
+        {
+          "letter": "H",
+          "text": "It would probably have the greatest impact on the company."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
       "prompt": "Question 27",
-      "groupId": "q27-28"
+      "groupId": "q27-28",
+      "instructions": "Choose TWO letters, A-E. Which TWO problems do Sam and the tutor identify concerning group assignments?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Personal relationships."
+        },
+        {
+          "letter": "B",
+          "text": "Cultural differences."
+        },
+        {
+          "letter": "C",
+          "text": "Division of labour."
+        },
+        {
+          "letter": "D",
+          "text": "Group leadership."
+        },
+        {
+          "letter": "E",
+          "text": "Group size."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Questions 27-28 Choose TWO letters, A-E. Which TWO problems do Sam and the tutor identify concerning group assignments? A P",
-      "groupId": "q27-28"
+      "prompt": "Question 28",
+      "groupId": "q27-28",
+      "instructions": "Choose TWO letters, A-E. Which TWO problems do Sam and the tutor identify concerning group assignments?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Personal relationships."
+        },
+        {
+          "letter": "B",
+          "text": "Cultural differences."
+        },
+        {
+          "letter": "C",
+          "text": "Division of labour."
+        },
+        {
+          "letter": "D",
+          "text": "Group leadership."
+        },
+        {
+          "letter": "E",
+          "text": "Group size."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q29-30"
+      "groupId": "q29-30",
+      "instructions": "Choose TWO letters, A-E. Which TWO problems does Sam identify concerning the lecturers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Punctuality."
+        },
+        {
+          "letter": "B",
+          "text": "Organisation."
+        },
+        {
+          "letter": "C",
+          "text": "Accessibility."
+        },
+        {
+          "letter": "D",
+          "text": "Helpfulness."
+        },
+        {
+          "letter": "E",
+          "text": "Teaching materials. Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 29-30 Choose TWO letters, A-E. Which TWO problems does Sam identify concerning the lecturers? A Punctuality. B Or",
-      "groupId": "q29-30"
+      "prompt": "Question 30",
+      "groupId": "q29-30",
+      "instructions": "Choose TWO letters, A-E. Which TWO problems does Sam identify concerning the lecturers?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Punctuality."
+        },
+        {
+          "letter": "B",
+          "text": "Organisation."
+        },
+        {
+          "letter": "C",
+          "text": "Accessibility."
+        },
+        {
+          "letter": "D",
+          "text": "Helpfulness."
+        },
+        {
+          "letter": "E",
+          "text": "Teaching materials. Part 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ow. Write ONE WORD ONLY for each answer. The Tawny Owl Most (31) owl species in UK Strongly nocturnal Habitat: Mainly lives in (32) but can also be seen in urban areas, e",
+      "prompt": "The Tawny Owl Most ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "l species in UK Strongly nocturnal Habitat: Mainly lives in (32) but can also be seen in urban areas, e.g. parks. Adaptations: • Short wings and (33) , for navigation • B",
+      "prompt": "owl species in UK Strongly nocturnal Habitat: Mainly lives in ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "in urban areas, e.g. parks. Adaptations: • Short wings and (33) , for navigation • Brown and (34) feathers, for camouflage • Large eyes (more effective than those of (35",
+      "prompt": "but can also be seen in urban areas, e.g. parks. Adaptations: • Short wings and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "ations: • Short wings and (33) , for navigation • Brown and (34) feathers, for camouflage • Large eyes (more effective than those of (35) ), for good night vision • Very",
+      "prompt": "for navigation • Brown and ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": ", for camouflage • Large eyes (more effective than those of (35) ), for good night vision • Very good spatial (36) for predicting where prey might be found • Excellent (3",
+      "prompt": "feathers, for camouflage • Large eyes (more effective than those of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "those of (35) ), for good night vision • Very good spatial (36) for predicting where prey might be found • Excellent (37) for locating prey from a perch Diet Main food i",
+      "prompt": "for good night vision • Very good spatial ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "l (36) for predicting where prey might be found • Excellent (37) for locating prey from a perch Diet Main food is small mammals. Owls in urban areas eat more (38) Surviva",
+      "prompt": "for predicting where prey might be found • Excellent ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "et Main food is small mammals. Owls in urban areas eat more (38) Survival Two thirds of young owls die within a (39) Owls don’t disperse over long distances. Owls seem to",
+      "prompt": "for locating prey from a perch Diet Main food is small mammals. Owls in urban areas eat more ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "at more (38) Survival Two thirds of young owls die within a (39) Owls don’t disperse over long distances. Owls seem to dislike flying over large areas of (40)",
+      "prompt": "Survival Two thirds of young owls die within a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most (31) owl species in UK St",
+      "prompt": "Owls don’t disperse over long distances. Owls seem to dislike flying over large areas of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. The Tawny Owl Most"
     }
   ],
   "answerKey": {

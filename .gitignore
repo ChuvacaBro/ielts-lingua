@@ -9,3 +9,7 @@ public/
 public.zip
 scripts/parse-failures.log
 scripts/fetch-audio-failures.log
+
+# Python
+__pycache__/
+*.pyc

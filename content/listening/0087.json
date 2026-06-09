@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "tableCompletion",
-      "prompt": "w. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 2,
       "type": "tableCompletion",
-      "prompt": "rite NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 3,
       "type": "tableCompletion",
-      "prompt": "NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 4,
       "type": "tableCompletion",
-      "prompt": "MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 5,
       "type": "tableCompletion",
-      "prompt": "THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "Questions 1-6 Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer. (1) (2) (3) (4) (5) (6)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q1-6"
+      "groupId": "q1-6",
+      "instructions": "Complete the table below. Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "e ONE WORD ONLY for each answer. Kangaroo lodge Address: on (7) Lane General information about hostel accommodation • Sheets are provided • Can hire a (8) • (9) is includ",
+      "prompt": "Kangaroo lodge Address: on ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "out hostel accommodation • Sheets are provided • Can hire a (8) • (9) is included • A shared (10) is available Part 2:",
+      "prompt": "Lane General information about hostel accommodation • Sheets are provided • Can hire a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": "stel accommodation • Sheets are provided • Can hire a (8) • (9) is included • A shared (10) is available Part 2:",
+      "prompt": "• ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 7-10 Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on (7) Lane General",
+      "prompt": "is included • A shared ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Kangaroo lodge Address: on"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-16 Choose the correct letter A, B, C or D. Anglia Sculpture Park 11. The land where the Sculpture Park is located was previously",
+      "stem": "The land where the Sculpture Park is located was previously",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "occupied by a factory."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "It only shows contemporary sculptures."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "the violence of nature"
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "is difficult to walk on."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 15,
@@ -205,7 +219,8 @@
           "text": "It was designed by a Canadian architect."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 16,
@@ -225,36 +240,41 @@
           "text": "at the Lower Lake Cafe."
         }
       ],
-      "groupId": "q11-16"
+      "groupId": "q11-16",
+      "instructions": "Choose the correct letter A, B, C or D. Anglia Sculpture Park"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
-      "groupId": "q17-20"
+      "prompt": "Joe Tremain sculptures",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-F next to questions 17-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
-      "groupId": "q17-20"
+      "prompt": "Giorgio catalucci bird sculptures",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-F next to questions 17-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
-      "groupId": "q17-20"
+      "prompt": "Garden gallery",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-F next to questions 17-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Questions 17-20 Label the map below. Write the correct letter A-F next to",
-      "groupId": "q17-20"
+      "prompt": "Long house",
+      "groupId": "q17-20",
+      "instructions": "Label the map below. Write the correct letter A-F next to questions 17-20."
     },
     {
       "number": 21,
       "type": "multipleChoice",
-      "stem": "-26 Choose the correct letter A, B or C. Marketing report 21. Why did Leo choose instant coffee as the topic for his marketing report?",
+      "stem": "Why did Leo choose instant coffee as the topic for his marketing report?",
       "options": [
         {
           "letter": "A",
@@ -269,7 +289,8 @@
           "text": "He had an idea of a brand he wanted to target."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 22,
@@ -289,7 +310,8 @@
           "text": "are improving the quality of instant coffee."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 23,
@@ -309,7 +331,8 @@
           "text": "It would be best to put this in the appendix."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 24,
@@ -329,7 +352,8 @@
           "text": "Leo needs to put it in a different section."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 25,
@@ -349,7 +373,8 @@
           "text": "Reports should contain some original data collected by the student."
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 26,
@@ -369,105 +394,120 @@
           "text": "having to do a great deal of research"
         }
       ],
-      "groupId": "q21-26"
+      "groupId": "q21-26",
+      "instructions": "Choose the correct letter A, B or C. Marketing report"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "ort Executive summary • Give a brief overview including the (27) Problems • Link each problem to a (28) which explains it Implementation • Practical solutions to problems",
+      "prompt": "Notes on specific sections of marketing report Executive summary • Give a brief overview including the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing report Executive summary • Give a brief overview including the"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "erview including the (27) Problems • Link each problem to a (28) which explains it Implementation • Practical solutions to problems • Include details such as participants",
+      "prompt": "Problems • Link each problem to a ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing report Executive summary • Give a brief overview including the"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "lutions to problems • Include details such as participants, (29) and sequence • Section is often poorly done because of lack of (30) Conclusion • Don’t use new material h",
+      "prompt": "which explains it Implementation • Practical solutions to problems • Include details such as participants, ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing report Executive summary • Give a brief overview including the"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 27-30 Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing repo",
+      "prompt": "and sequence • Section is often poorly done because of lack of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q27-30"
+      "groupId": "q27-30",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. Notes on specific sections of marketing report Executive summary • Give a brief overview including the"
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "duced from China • Their use was mainly to do with: o War o (31) (in plays and festivals) 17th century • Various features of (32) were shown in fireworks displays • Scien",
+      "prompt": "in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "(in plays and festivals) 17th century • Various features of (32) were shown in fireworks displays • Scientists were interested in using ideas from fireworks displays: o T",
+      "prompt": "(in plays and festivals) 17th century • Various features of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "ted in using ideas from fireworks displays: o To make human (33) possible o To show the formation of (34) • London: o Scientists were distrustful at first o Later they in",
+      "prompt": "were shown in fireworks displays • Scientists were interested in using ideas from fireworks displays: o To make human ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "s: o To make human (33) possible o To show the formation of (34) • London: o Scientists were distrustful at first o Later they investigated (35) uses of fireworks • St Pe",
+      "prompt": "possible o To show the formation of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "entists were distrustful at first o Later they investigated (35) uses of fireworks • St Petersburg: o Fireworks were seen as a work of (36) for people • Paris: o Displays",
+      "prompt": "• London: o Scientists were distrustful at first o Later they investigated ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "reworks • St Petersburg: o Fireworks were seen as a work of (36) for people • Paris: o Displays emphasized the power of the (37) o Scientists aimed to provide (38) 18th c",
+      "prompt": "uses of fireworks • St Petersburg: o Fireworks were seen as a work of ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "for people • Paris: o Displays emphasized the power of the (37) o Scientists aimed to provide (38) 18th century • Italian fireworks specialists became influential • Serv",
+      "prompt": "for people • Paris: o Displays emphasized the power of the ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "hasized the power of the (37) o Scientists aimed to provide (38) 18th century • Italian fireworks specialists became influential • Servandoni’s fireworks display followed",
+      "prompt": "o Scientists aimed to provide ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "vandoni’s fireworks display followed the same pattern as an (39) • The appeal of fireworks extended to the middle classes • Some displays demonstrated new scientific disc",
+      "prompt": "• Italian fireworks specialists became influential • Servandoni’s fireworks display followed the same pattern as an ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th cen",
+      "prompt": "• The appeal of fireworks extended to the middle classes • Some displays demonstrated new scientific discoveries such as ____",
       "wordLimit": "ONE WORD ONLY",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer. History of fireworks in Europe 13th-16th centuries • Fireworks were introduced from China • Their use was mainly to do with: o War o"
     }
   ],
   "answerKey": {

@@ -40,210 +40,318 @@
     {
       "number": 1,
       "type": "gapFill",
-      "prompt": "for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION (1) (2) (3) (4) (5)",
+      "prompt": "PERSONAL DETAILS FOR HOMESTAY APPLICATION ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION"
     },
     {
       "number": 2,
       "type": "gapFill",
-      "prompt": "each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION"
     },
     {
       "number": 3,
       "type": "gapFill",
-      "prompt": "h answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION"
     },
     {
       "number": 4,
       "type": "gapFill",
-      "prompt": "swer. PERSONAL DETAILS FOR HOMESTAY APPLICATION (1) (2) (3) (4) (5)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION"
     },
     {
       "number": 5,
       "type": "gapFill",
-      "prompt": "Questions 1-5 Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the following form with NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. PERSONAL DETAILS FOR HOMESTAY APPLICATION"
     },
     {
       "number": 6,
       "type": "gapFill",
-      "prompt": "Question 6 Mark TWO letter that represent the correct answer. 6. Which kind of family does the girls prefer? A A big fa",
-      "groupId": "q6-6"
+      "prompt": "Which kind of family does the girls prefer? A A big family with many young children В A family without smoker or drinkers С A family without any pets D A family with many animals or pets",
+      "groupId": "q6-6",
+      "instructions": "Mark TWO letter that represent the correct answer."
     },
     {
       "number": 7,
       "type": "gapFill",
-      "prompt": "n the blanks with NO MORE THAN THREE WORDS for each answer. 7. Although the girl is not a vegetarian, she doesn’t eat a lot of meat. Her favourite food is 8. The girls ha",
+      "prompt": "Although the girl is not a vegetarian, she doesn’t eat a lot of meat. Her favourite food is",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "arian, she doesn’t eat a lot of meat. Her favourite food is 8. The girls has given up playing handball. Now, she just play with her friends at weekends. 9. The girl does",
+      "prompt": "The girls has given up playing handball. Now, she just play with her friends at weekends.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "handball. Now, she just play with her friends at weekends. 9. The girl does not like the bus because they are always late. She would rather 10. The girl can get the info",
+      "prompt": "The girl does not like the bus because they are always late. She would rather",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Questions 7-10 Fill in the blanks with NO MORE THAN THREE WORDS for each answer. 7. Although the girl is not a vegetarian,",
+      "prompt": "The girl can get the information about the homestay family that she wants Section 2:",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q7-10"
+      "groupId": "q7-10",
+      "instructions": "Fill in the blanks with NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 11,
       "type": "noteCompletion",
-      "prompt": "s are needed by almost all nationalities. Normal visas last (11) You need to pay (12) for the visa. Price may change from time to time Some Enzian consulates neighbouring",
+      "prompt": "NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 12,
       "type": "noteCompletion",
-      "prompt": "t all nationalities. Normal visas last (11) You need to pay (12) for the visa. Price may change from time to time Some Enzian consulates neighbouring countries require yo",
+      "prompt": "You need to pay ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 13,
       "type": "noteCompletion",
-      "prompt": "s neighbouring countries require you to provide a letter to (13) You can get information of major embassies on (14) of the student handbook. If you want to re-enter Eznia",
+      "prompt": "Price may change from time to time Some Enzian consulates neighbouring countries require you to provide a letter to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 14,
       "type": "noteCompletion",
-      "prompt": "etter to (13) You can get information of major embassies on (14) of the student handbook. If you want to re-enter Eznia, you must get a multi-entry visa. SOME MISCELLANEO",
+      "prompt": "You can get information of major embassies on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 15,
       "type": "noteCompletion",
-      "prompt": "ADVICE If you carry a lot of money, you need to complete a (15) Remember to declare all your items, especially expensive items, on a (16) You are advised to carry a heal",
+      "prompt": "you must get a multi-entry visa. SOME MISCELLANEOUS GENERAL ADVICE If you carry a lot of money, you need to complete a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 16,
       "type": "noteCompletion",
-      "prompt": "to declare all your items, especially expensive items, on a (16) You are advised to carry a health certificate. The one you need is the (17) NOTES FOR STUDENTS If you wis",
+      "prompt": "Remember to declare all your items, especially expensive items, on a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 17,
       "type": "noteCompletion",
-      "prompt": "ised to carry a health certificate. The one you need is the (17) NOTES FOR STUDENTS If you wish to get a youth fare card, you should show your (18) Due to the bureaucracy",
+      "prompt": "You are advised to carry a health certificate. The one you need is the ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 18,
       "type": "noteCompletion",
-      "prompt": "If you wish to get a youth fare card, you should show your (18) Due to the bureaucracy in Eznia, you are advised to take at least (19) passport photos with you. CURRENCY",
+      "prompt": "NOTES FOR STUDENTS If you wish to get a youth fare card, you should show your ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 19,
       "type": "noteCompletion",
-      "prompt": "the bureaucracy in Eznia, you are advised to take at least (19) passport photos with you. CURRENCY Pounds and US dollars are not very useful now in Eznia, so you should",
+      "prompt": "Due to the bureaucracy in Eznia, you are advised to take at least ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 20,
       "type": "noteCompletion",
-      "prompt": "Questions 11-20 Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NO",
+      "prompt": "passport photos with you. CURRENCY Pounds and US dollars are not very useful now in Eznia, so you should take ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q11-20"
+      "groupId": "q11-20",
+      "instructions": "Complete the notes by filling in the blanks with NO MORE THAN THREE WORDS AND/OR NUMBER for each answer. NOTES VISAS Now Eznina visas are needed by almost all nationalities. Normal visas last"
     },
     {
       "number": 21,
       "type": "sentenceCompletion",
-      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 21. The woman being interviewed is now working in the bank. Her occupation is 22. The woman usually spends abo",
+      "prompt": "The woman being interviewed is now working in the bank. Her occupation is",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "sentenceCompletion",
-      "prompt": "g interviewed is now working in the bank. Her occupation is 22. The woman usually spends about when she goes shopping. 23. The woman often goes to because she finds them",
+      "prompt": "The woman usually spends about when she goes shopping.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "sentenceCompletion",
-      "prompt": "22. The woman usually spends about when she goes shopping. 23. The woman often goes to because she finds them convenient. 24. According to the woman, is/are her most dif",
+      "prompt": "The woman often goes to because she finds them convenient.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "sentenceCompletion",
-      "prompt": "Questions 21-24 Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. 21. The woman",
+      "prompt": "According to the woman, is/are her most difficult thing(s) to buy.",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-24"
+      "groupId": "q21-24",
+      "instructions": "Complete the sentences below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "or each answer. • 50% of the people being interviewed spend (25) a month. • 15% of the people being interviewed spend (26) a month. • 35% of the people being interviewed",
-      "groupId": "q25-27"
+      "prompt": "• 50% of the people being interviewed spend ____",
+      "groupId": "q25-27",
+      "instructions": "Fill in the blanks with ONE WORD AND/OR A NUMBER for each answer. • 50% of the people being interviewed spend"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "d (25) a month. • 15% of the people being interviewed spend (26) a month. • 35% of the people being interviewed spend (27) a month.",
-      "groupId": "q25-27"
+      "prompt": "a month. • 15% of the people being interviewed spend ____",
+      "groupId": "q25-27",
+      "instructions": "Fill in the blanks with ONE WORD AND/OR A NUMBER for each answer. • 50% of the people being interviewed spend"
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Questions 25-27 Fill in the blanks with ONE WORD AND/OR A NUMBER for each answer. • 50% of the people being interviewed spe",
-      "groupId": "q25-27"
+      "prompt": "a month. • 35% of the people being interviewed spend ____",
+      "groupId": "q25-27",
+      "instructions": "Fill in the blanks with ONE WORD AND/OR A NUMBER for each answer. • 50% of the people being interviewed spend"
     },
     {
       "number": 28,
       "type": "gapFill",
       "prompt": "Question 28",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Mark THREE letter that represent the correct answer. Most of the people being interviewed think that________is/are most difficult to buy.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Books"
+        },
+        {
+          "letter": "B",
+          "text": "Study Materials"
+        },
+        {
+          "letter": "C",
+          "text": "Foods"
+        },
+        {
+          "letter": "D",
+          "text": "Trousers"
+        },
+        {
+          "letter": "E",
+          "text": "Shoes"
+        },
+        {
+          "letter": "F",
+          "text": "Sportswear Section 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
       "prompt": "Question 29",
-      "groupId": "q28-30"
+      "groupId": "q28-30",
+      "instructions": "Mark THREE letter that represent the correct answer. Most of the people being interviewed think that________is/are most difficult to buy.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Books"
+        },
+        {
+          "letter": "B",
+          "text": "Study Materials"
+        },
+        {
+          "letter": "C",
+          "text": "Foods"
+        },
+        {
+          "letter": "D",
+          "text": "Trousers"
+        },
+        {
+          "letter": "E",
+          "text": "Shoes"
+        },
+        {
+          "letter": "F",
+          "text": "Sportswear Section 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 28-30 Mark THREE letter that represent the correct answer. Most of the people being interviewed think that_______",
-      "groupId": "q28-30"
+      "prompt": "Question 30",
+      "groupId": "q28-30",
+      "instructions": "Mark THREE letter that represent the correct answer. Most of the people being interviewed think that________is/are most difficult to buy.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Books"
+        },
+        {
+          "letter": "B",
+          "text": "Study Materials"
+        },
+        {
+          "letter": "C",
+          "text": "Foods"
+        },
+        {
+          "letter": "D",
+          "text": "Trousers"
+        },
+        {
+          "letter": "E",
+          "text": "Shoes"
+        },
+        {
+          "letter": "F",
+          "text": "Sportswear Section 4:"
+        }
+      ]
     },
     {
       "number": 31,
       "type": "multipleChoice",
-      "stem": "-40 Choose the correct letter, A, B, or С. 31. What does the lecturer provide for those who are interested in doing extra reading?",
+      "stem": "What does the lecturer provide for those who are interested in doing extra reading?",
       "options": [
         {
           "letter": "A",
@@ -255,10 +363,15 @@
         },
         {
           "letter": "C",
-          "text": "Mid-term examination. D Free glasses."
+          "text": "Mid-term examination."
+        },
+        {
+          "letter": "D",
+          "text": "Free glasses."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 32,
@@ -275,10 +388,15 @@
         },
         {
           "letter": "C",
-          "text": "own a good watch. D set goals and try to achieve these goals."
+          "text": "own a good watch."
+        },
+        {
+          "letter": "D",
+          "text": "set goals and try to achieve these goals."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 33,
@@ -295,10 +413,15 @@
         },
         {
           "letter": "C",
-          "text": "set an overview of your assignment. D make a list, plan for everything and try to stick to this plan."
+          "text": "set an overview of your assignment."
+        },
+        {
+          "letter": "D",
+          "text": "make a list, plan for everything and try to stick to this plan."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 34,
@@ -315,10 +438,15 @@
         },
         {
           "letter": "C",
-          "text": "essays. D time management courses."
+          "text": "essays."
+        },
+        {
+          "letter": "D",
+          "text": "time management courses."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 35,
@@ -335,10 +463,15 @@
         },
         {
           "letter": "C",
-          "text": "lower class attendance rates. D trouble at the library."
+          "text": "lower class attendance rates."
+        },
+        {
+          "letter": "D",
+          "text": "trouble at the library."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 36,
@@ -355,10 +488,15 @@
         },
         {
           "letter": "C",
-          "text": "A regular one-hour session in their personal timetables. D Wearing comfortable shoes."
+          "text": "A regular one-hour session in their personal timetables."
+        },
+        {
+          "letter": "D",
+          "text": "Wearing comfortable shoes."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 37,
@@ -375,10 +513,15 @@
         },
         {
           "letter": "C",
-          "text": "one term planner, one monthly planner and one weekly planner. D one term planner, one weekly and one daily planner."
+          "text": "one term planner, one monthly planner and one weekly planner."
+        },
+        {
+          "letter": "D",
+          "text": "one term planner, one weekly and one daily planner."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 38,
@@ -395,10 +538,15 @@
         },
         {
           "letter": "C",
-          "text": "one month. D one term."
+          "text": "one month."
+        },
+        {
+          "letter": "D",
+          "text": "one term."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 39,
@@ -415,10 +563,15 @@
         },
         {
           "letter": "C",
-          "text": "TV schedules. D an overview of everything you need to do for several days."
+          "text": "TV schedules."
+        },
+        {
+          "letter": "D",
+          "text": "an overview of everything you need to do for several days."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     },
     {
       "number": 40,
@@ -435,10 +588,15 @@
         },
         {
           "letter": "C",
-          "text": "helping you write better essays. D improving your memory."
+          "text": "helping you write better essays."
+        },
+        {
+          "letter": "D",
+          "text": "improving your memory."
         }
       ],
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Choose the correct letter, A, B, or С."
     }
   ],
   "answerKey": {

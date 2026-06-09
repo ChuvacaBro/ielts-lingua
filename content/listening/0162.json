@@ -40,77 +40,87 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "mum joining age: 18 years For registration, must take • two (1) and • two forms of I.D. e.g. driving licence, (2) Cost to join per year (without current student card): (3",
+      "prompt": "Library Information Minimum joining age: 18 years For registration, must take • two ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ake • two (1) and • two forms of I.D. e.g. driving licence, (2) Cost to join per year (without current student card): (3) £ Number of items allowed: (members of public) (",
+      "prompt": "and • two forms of I.D. e.g. driving licence, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": ", (2) Cost to join per year (without current student card): (3) £ Number of items allowed: (members of public) (4) Login times: four weeks Fines start at (5) £ Computers",
+      "prompt": "Cost to join per year (without current student card): ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "t card): (3) £ Number of items allowed: (members of public) (4) Login times: four weeks Fines start at (5) £ Computers can be booked up to (6) hours in advance Library ho",
+      "prompt": "£ Number of items allowed: (members of public) ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "mbers of public) (4) Login times: four weeks Fines start at (5) £ Computers can be booked up to (6) hours in advance Library holds most national papers, (7) , and magazin",
+      "prompt": "Login times: four weeks Fines start at ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 6,
       "type": "noteCompletion",
-      "prompt": "ur weeks Fines start at (5) £ Computers can be booked up to (6) hours in advance Library holds most national papers, (7) , and magazines need (8) to use photocopier Creat",
+      "prompt": "£ Computers can be booked up to ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 7,
       "type": "noteCompletion",
-      "prompt": "to (6) hours in advance Library holds most national papers, (7) , and magazines need (8) to use photocopier Creative Writing class • tutor is John (9) and • held on (10)",
+      "prompt": "hours in advance Library holds most national papers, ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 8,
       "type": "noteCompletion",
-      "prompt": "ibrary holds most national papers, (7) , and magazines need (8) to use photocopier Creative Writing class • tutor is John (9) and • held on (10) evenings Part 2:",
+      "prompt": "and magazines need ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 9,
       "type": "noteCompletion",
-      "prompt": ") to use photocopier Creative Writing class • tutor is John (9) and • held on (10) evenings Part 2:",
+      "prompt": "to use photocopier Creative Writing class • tutor is John ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 10,
       "type": "noteCompletion",
-      "prompt": "Questions 1-10 Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Informatio",
+      "prompt": "and • held on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q1-10"
+      "groupId": "q1-10",
+      "instructions": "Complete the notes below using NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. Library Information Minimum joining age: 18 years For registration, must take • two"
     },
     {
       "number": 11,
       "type": "multipleChoice",
-      "stem": "-15 Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD 11. In 1993 Dan Pearman went to Ecuador",
+      "stem": "In 1993 Dan Pearman went to Ecuador",
       "options": [
         {
           "letter": "A",
@@ -125,7 +135,8 @@
           "text": "as a voluntary worker"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD"
     },
     {
       "number": 12,
@@ -145,7 +156,8 @@
           "text": "found it easy to reach customers"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD"
     },
     {
       "number": 13,
@@ -165,7 +177,8 @@
           "text": "charging for the bicycles it sends abroad"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD"
     },
     {
       "number": 14,
@@ -185,7 +198,8 @@
           "text": "Its economy has been totally transformed"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD"
     },
     {
       "number": 15,
@@ -205,179 +219,295 @@
           "text": "It was criticized in the British media"
         }
       ],
-      "groupId": "q11-15"
+      "groupId": "q11-15",
+      "instructions": "Choose the correct letter, A, B or C. BICYCLES FOR THE WORLD"
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Questions 16 and 17 Write NO MORE THAN ONE WORD OR A NUMBER for each answer. 16. How much money did the charity receive",
+      "prompt": "How much money did the charity receive when it won an award?",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q16-17"
+      "groupId": "q16-17",
+      "instructions": "17 Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Questions 16 and 17 Write NO MORE THAN ONE WORD OR A NUMBER for each answer. 16. How much money did the charity receive when it",
+      "prompt": "What is the charity currently hoping to buy?",
       "wordLimit": "NO MORE THAN ONE WORD OR A NUMBER",
-      "groupId": "q16-17"
+      "groupId": "q16-17",
+      "instructions": "17 Write NO MORE THAN ONE WORD OR A NUMBER for each answer."
     },
     {
       "number": 18,
       "type": "gapFill",
       "prompt": "Question 18",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Which THREE things can the general public do to help the charity Pedal Power?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "organise a bicycle collection"
+        },
+        {
+          "letter": "B",
+          "text": "repair the donated bikes"
+        },
+        {
+          "letter": "C",
+          "text": "donate their unwanted tools"
+        },
+        {
+          "letter": "D",
+          "text": "do voluntary work in its office"
+        },
+        {
+          "letter": "E",
+          "text": "hold an event to raise money"
+        },
+        {
+          "letter": "F",
+          "text": "identify areas that need bikes"
+        },
+        {
+          "letter": "G",
+          "text": "write to the government Part 3:"
+        }
+      ]
     },
     {
       "number": 19,
       "type": "gapFill",
       "prompt": "Question 19",
-      "groupId": "q18-20"
+      "groupId": "q18-20",
+      "instructions": "Which THREE things can the general public do to help the charity Pedal Power?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "organise a bicycle collection"
+        },
+        {
+          "letter": "B",
+          "text": "repair the donated bikes"
+        },
+        {
+          "letter": "C",
+          "text": "donate their unwanted tools"
+        },
+        {
+          "letter": "D",
+          "text": "do voluntary work in its office"
+        },
+        {
+          "letter": "E",
+          "text": "hold an event to raise money"
+        },
+        {
+          "letter": "F",
+          "text": "identify areas that need bikes"
+        },
+        {
+          "letter": "G",
+          "text": "write to the government Part 3:"
+        }
+      ]
     },
     {
       "number": 20,
       "type": "gapFill",
-      "prompt": "Questions 18-20 Which THREE things can the general public do to help the charity Pedal Power? A organise a bicycle collecti",
-      "groupId": "q18-20"
+      "prompt": "Question 20",
+      "groupId": "q18-20",
+      "instructions": "Which THREE things can the general public do to help the charity Pedal Power?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "organise a bicycle collection"
+        },
+        {
+          "letter": "B",
+          "text": "repair the donated bikes"
+        },
+        {
+          "letter": "C",
+          "text": "donate their unwanted tools"
+        },
+        {
+          "letter": "D",
+          "text": "do voluntary work in its office"
+        },
+        {
+          "letter": "E",
+          "text": "hold an event to raise money"
+        },
+        {
+          "letter": "F",
+          "text": "identify areas that need bikes"
+        },
+        {
+          "letter": "G",
+          "text": "write to the government Part 3:"
+        }
+      ]
     },
     {
       "number": 21,
       "type": "gapFill",
-      "prompt": "e NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "S AND/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "/OR A NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "NUMBER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "ER for each answer. (21) (22) (23) (24) (25) (26) (27) (28) (29) (30) Part 4:",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Questions 21-30 Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. (21) (22) (23) (24)",
+      "prompt": "____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Choose the table below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer."
     },
     {
       "number": 31,
       "type": "noteCompletion",
-      "prompt": "ORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than (31) times as big as the UK • most of the area is classified as (32) RESEARCH STATIONS • (33) is integrated wi",
+      "prompt": "GEOGRAPHY • more than ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 32,
       "type": "noteCompletion",
-      "prompt": "times as big as the UK • most of the area is classified as (32) RESEARCH STATIONS • (33) is integrated with technical support • stations contain accommodation, work area",
+      "prompt": "times as big as the UK • most of the area is classified as ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 33,
       "type": "noteCompletion",
-      "prompt": "most of the area is classified as (32) RESEARCH STATIONS • (33) is integrated with technical support • stations contain accommodation, work areas, a kitchen, a (34) and",
+      "prompt": "RESEARCH STATIONS • ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 34,
       "type": "noteCompletion",
-      "prompt": "• stations contain accommodation, work areas, a kitchen, a (34) and a gym • supplies were brought to Zero One station by sledge from a (35) at the edge of the ice 15 km",
+      "prompt": "is integrated with technical support • stations contain accommodation, work areas, a kitchen, a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 35,
       "type": "noteCompletion",
-      "prompt": "supplies were brought to Zero One station by sledge from a (35) at the edge of the ice 15 km away • problem of snow build-ups solved by building stations on (36) with ad",
+      "prompt": "and a gym • supplies were brought to Zero One station by sledge from a ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 36,
       "type": "noteCompletion",
-      "prompt": "• problem of snow build-ups solved by building stations on (36) with adjustable legs FOOD AND DIET • average daily requirement for an adult in Antarctica is approximatel",
+      "prompt": "at the edge of the ice 15 km away • problem of snow build-ups solved by building stations on ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 37,
       "type": "noteCompletion",
-      "prompt": "ily requirement for an adult in Antarctica is approximately (37) kilocalories • rations for field work prepared by process of freeze-drying RESEARCH The most important re",
+      "prompt": "with adjustable legs FOOD AND DIET • average daily requirement for an adult in Antarctica is approximately ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 38,
       "type": "noteCompletion",
-      "prompt": "hanges in the ice-cap (because of effects on sea levels and (38) ) – analysing air from bubbles in ice to measure (39) caused by human activity WORK OPPORTUNITIES Many op",
+      "prompt": "research focuses on climate change, including – measuring changes in the ice-cap (because of effects on sea levels and ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 39,
       "type": "noteCompletion",
-      "prompt": "s and (38) ) – analysing air from bubbles in ice to measure (39) caused by human activity WORK OPPORTUNITIES Many openings for (40) people including – research assistants",
+      "prompt": "– analysing air from bubbles in ice to measure ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     },
     {
       "number": 40,
       "type": "noteCompletion",
-      "prompt": "Questions 31-40 Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more",
+      "prompt": "caused by human activity WORK OPPORTUNITIES Many openings for ____",
       "wordLimit": "NO MORE THAN THREE WORDS",
-      "groupId": "q31-40"
+      "groupId": "q31-40",
+      "instructions": "Complete the notes below. Write NO MORE THAN THREE WORDS AND/OR A NUMBER for each answer. GEOGRAPHY • more than"
     }
   ],
   "answerKey": {

@@ -40,248 +40,339 @@
     {
       "number": 1,
       "type": "noteCompletion",
-      "prompt": "estions: transport from Bayswater • Express train leaves at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leave",
+      "prompt": "Destination: Harbour City Questions: transport from Bayswater • Express train leaves at ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: transport from Bayswater • Express train leaves at"
     },
     {
       "number": 2,
       "type": "noteCompletion",
-      "prompt": "ayswater • Express train leaves at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "prompt": "• Nearest station is ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: transport from Bayswater • Express train leaves at"
     },
     {
       "number": 3,
       "type": "noteCompletion",
-      "prompt": "es at (1) • Nearest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "prompt": "• Number 706 bus goes to ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: transport from Bayswater • Express train leaves at"
     },
     {
       "number": 4,
       "type": "noteCompletion",
-      "prompt": "earest station is (2) • Number 706 bus goes to (3) • Number (4) bus goes to station • Earlier bus leaves at (5)",
+      "prompt": "• Number ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: transport from Bayswater • Express train leaves at"
     },
     {
       "number": 5,
       "type": "noteCompletion",
-      "prompt": "Questions 1-5 Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: tra",
+      "prompt": "bus goes to station • Earlier bus leaves at ____",
       "wordLimit": "NO MORE THAN TWO WORDS OR A NUMBER",
-      "groupId": "q1-5"
+      "groupId": "q1-5",
+      "instructions": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER. Destination: Harbour City Questions: transport from Bayswater • Express train leaves at"
     },
     {
       "number": 6,
       "type": "tableCompletion",
-      "prompt": "rite no more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "no more than one word",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write no more than one word and/or a number for each answer."
     },
     {
       "number": 7,
       "type": "tableCompletion",
-      "prompt": "no more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "no more than one word",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write no more than one word and/or a number for each answer."
     },
     {
       "number": 8,
       "type": "tableCompletion",
-      "prompt": "more than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "no more than one word",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write no more than one word and/or a number for each answer."
     },
     {
       "number": 9,
       "type": "tableCompletion",
-      "prompt": "than one word and/or a number for each answer. (6) (7) (8) (9) (10) Part 2:",
+      "prompt": "____",
       "wordLimit": "no more than one word",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write no more than one word and/or a number for each answer."
     },
     {
       "number": 10,
       "type": "tableCompletion",
-      "prompt": "Questions 6–10 Complete the table below. Write no more than one word and/or a number for each answer. (6) (7) (8) (9) (10)",
+      "prompt": "____",
       "wordLimit": "no more than one word",
-      "groupId": "q6-10"
+      "groupId": "q6-10",
+      "instructions": "Complete the table below. Write no more than one word and/or a number for each answer."
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
-      "groupId": "q11-14"
+      "prompt": "A Louise Bagshaw B Tony Denby C Naomi Flynn ____",
+      "groupId": "q11-14",
+      "instructions": "Which counsellor should you see? Write the correct letter, A, B or C, next to questions 11–14.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Louise Bagshaw"
+        },
+        {
+          "letter": "B",
+          "text": "Tony Denby"
+        },
+        {
+          "letter": "C",
+          "text": "Naomi Flynn (11) if it is your first time seeing a counsellor (12) if you are unable to see a counsellor during normal office hours (13) if you do not have an appointment (14) if y"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
-      "groupId": "q11-14"
+      "prompt": "if it is your first time seeing a counsellor ____",
+      "groupId": "q11-14",
+      "instructions": "Which counsellor should you see? Write the correct letter, A, B or C, next to questions 11–14.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Louise Bagshaw"
+        },
+        {
+          "letter": "B",
+          "text": "Tony Denby"
+        },
+        {
+          "letter": "C",
+          "text": "Naomi Flynn (11) if it is your first time seeing a counsellor (12) if you are unable to see a counsellor during normal office hours (13) if you do not have an appointment (14) if y"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
-      "groupId": "q11-14"
+      "prompt": "if you are unable to see a counsellor during normal office hours ____",
+      "groupId": "q11-14",
+      "instructions": "Which counsellor should you see? Write the correct letter, A, B or C, next to questions 11–14.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Louise Bagshaw"
+        },
+        {
+          "letter": "B",
+          "text": "Tony Denby"
+        },
+        {
+          "letter": "C",
+          "text": "Naomi Flynn (11) if it is your first time seeing a counsellor (12) if you are unable to see a counsellor during normal office hours (13) if you do not have an appointment (14) if y"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Questions 11-14 Which counsellor should you see? Write the correct letter, A, B or C, next to",
-      "groupId": "q11-14"
+      "prompt": "if you do not have an appointment ____",
+      "groupId": "q11-14",
+      "instructions": "Which counsellor should you see? Write the correct letter, A, B or C, next to questions 11–14.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Louise Bagshaw"
+        },
+        {
+          "letter": "B",
+          "text": "Tony Denby"
+        },
+        {
+          "letter": "C",
+          "text": "Naomi Flynn (11) if it is your first time seeing a counsellor (12) if you are unable to see a counsellor during normal office hours (13) if you do not have an appointment (14) if y"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "tableCompletion",
-      "prompt": "table below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 16,
       "type": "tableCompletion",
-      "prompt": "e below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 17,
       "type": "tableCompletion",
-      "prompt": "ow. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 18,
       "type": "tableCompletion",
-      "prompt": "rite no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 19,
       "type": "tableCompletion",
-      "prompt": "no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part 3:",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 20,
       "type": "tableCompletion",
-      "prompt": "Questions 15-20 Complete the table below. Write no more than two words for each answer. (15) (16) (17) (18) (19) (20) Part",
+      "prompt": "____",
       "wordLimit": "no more than two words",
-      "groupId": "q15-20"
+      "groupId": "q15-20",
+      "instructions": "Complete the table below. Write no more than two words for each answer."
     },
     {
       "number": 21,
       "type": "noteCompletion",
-      "prompt": "low. Write no more than three words for each answer. Novel: (21) Protagonists: Mary Lennox; Colin Craven Time period: Early in (22) Mary moves to UK – meets Colin who thi",
+      "prompt": "Novel: ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 22,
       "type": "noteCompletion",
-      "prompt": "otagonists: Mary Lennox; Colin Craven Time period: Early in (22) Mary moves to UK – meets Colin who thinks he’ll never be able to (23) They become friends. Point of view:",
+      "prompt": "Protagonists: Mary Lennox; Colin Craven Time period: Early in ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 23,
       "type": "noteCompletion",
-      "prompt": "moves to UK – meets Colin who thinks he’ll never be able to (23) They become friends. Point of view: “Omniscient” – narrator knows all about characters’ feelings, opinion",
+      "prompt": "Mary moves to UK – meets Colin who thinks he’ll never be able to ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 24,
       "type": "noteCompletion",
-      "prompt": "narrator knows all about characters’ feelings, opinions and (24) Audience: Good for children – story simple to follow Symbols (physical items that represent (25) ): • the",
+      "prompt": "They become friends. Point of view: “Omniscient” – narrator knows all about characters’ feelings, opinions and ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 25,
       "type": "noteCompletion",
-      "prompt": "ory simple to follow Symbols (physical items that represent (25) ): • the robin redbreast • (26) • the portrait of Mistress Craven Motifs (patterns in the story): • the G",
+      "prompt": "Audience: Good for children – story simple to follow Symbols (physical items that represent ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 26,
       "type": "noteCompletion",
-      "prompt": "ysical items that represent (25) ): • the robin redbreast • (26) • the portrait of Mistress Craven Motifs (patterns in the story): • the Garden of Eden • secrecy – metaph",
+      "prompt": "• the robin redbreast • ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 27,
       "type": "noteCompletion",
-      "prompt": "f Eden • secrecy – metaphorical and literal transition from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30)",
+      "prompt": "Craven Motifs (patterns in the story): • the Garden of Eden • secrecy – metaphorical and literal transition from ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 28,
       "type": "noteCompletion",
-      "prompt": "literal transition from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30) Part 4:",
+      "prompt": "Themes: Connections between • ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 29,
       "type": "noteCompletion",
-      "prompt": "from (27) Themes: Connections between • (28) and outlook • (29) and well-being • individuals and the need for (30) Part 4:",
+      "prompt": "and outlook • ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 30,
       "type": "noteCompletion",
-      "prompt": "Questions 21-30 Complete the notes below. Write no more than three words for each answer. Novel: (21) Protagonists: Mary Le",
+      "prompt": "and well-being • individuals and the need for ____",
       "wordLimit": "no more than three words",
-      "groupId": "q21-30"
+      "groupId": "q21-30",
+      "instructions": "Complete the notes below. Write no more than three words for each answer. Novel:"
     },
     {
       "number": 31,
       "type": "tableCompletion",
-      "prompt": "plete the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "one word only",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write one word only for each answer."
     },
     {
       "number": 32,
       "type": "tableCompletion",
-      "prompt": "the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "one word only",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write one word only for each answer."
     },
     {
       "number": 33,
       "type": "tableCompletion",
-      "prompt": "table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "one word only",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write one word only for each answer."
     },
     {
       "number": 34,
       "type": "tableCompletion",
-      "prompt": "below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "one word only",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write one word only for each answer."
     },
     {
       "number": 35,
       "type": "tableCompletion",
-      "prompt": "Questions 31-35 Complete the table below. Write one word only for each answer. (31) (32) (33) (34) (35)",
+      "prompt": "____",
       "wordLimit": "one word only",
-      "groupId": "q31-35"
+      "groupId": "q31-35",
+      "instructions": "Complete the table below. Write one word only for each answer."
     },
     {
       "number": 36,
       "type": "multipleChoice",
-      "stem": "–40 Choose the correct letter, A, B or C. 36. We are all present hedonists",
+      "stem": "We are all present hedonists",
       "options": [
         {
           "letter": "A",
@@ -296,7 +387,8 @@
           "text": "while eating and drinking"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 37,
@@ -316,7 +408,8 @@
           "text": "they are not as intelligent as girls"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 38,
@@ -336,7 +429,8 @@
           "text": "know what could happen if they do something bad, but do it anyway"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 39,
@@ -356,7 +450,8 @@
           "text": "sharing family meals"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter, A, B or C."
     },
     {
       "number": 40,
@@ -376,7 +471,8 @@
           "text": "identify careless or ambitious people"
         }
       ],
-      "groupId": "q36-40"
+      "groupId": "q36-40",
+      "instructions": "Choose the correct letter, A, B or C."
     }
   ],
   "answerKey": {
