@@ -5,6 +5,7 @@ import type { ReadingTest, AnswerValue } from "@/lib/types";
 import { useExamTimer } from "@/components/timer/useExamTimer";
 import { TopTimer } from "@/components/timer/TopTimer";
 import { QuestionView } from "@/components/questions";
+import { ImageWithLoader } from "@/components/ui/ImageWithLoader";
 import { QuestionNav } from "./QuestionNav";
 import { Attempts } from "@/lib/storage/local";
 import {
@@ -164,6 +165,14 @@ export default function ReadingRunner({ test }: { test: ReadingTest }) {
                 className="prose prose-sm max-w-none leading-relaxed"
                 dangerouslySetInnerHTML={{ __html: activePassage.bodyHtml }}
               />
+              {activePassage.images?.map((src, i) => (
+                <ImageWithLoader
+                  key={src}
+                  src={src}
+                  alt={`Passage ${activePassage.number} figure ${i + 1}`}
+                  className="my-3 border border-exam-border max-w-full"
+                />
+              ))}
             </div>
           )}
         </div>

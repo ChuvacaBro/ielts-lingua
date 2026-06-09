@@ -54,6 +54,49 @@ if not (AUDIO_SRC.exists() and any(AUDIO_SRC.glob("*.mp3"))):
             break
 print("AUDIO_SRC", AUDIO_SRC)
 
+PUBLIC = ROOT / "public"
+IMAGE_QTYPES = {"diagramLabel", "mapPlanLabelling", "flowChartCompletion", "tableCompletion"}
+IMAGE_CUE = re.compile(
+    r"label the (diagram|map|plan)|the (diagram|map|plan) below|on the (diagram|map|plan)|"
+    r"map the places|flow[- ]?chart|complete the (diagram|flow)",
+    re.I,
+)
+
+
+def local_images(section: str, tid: str) -> list[str]:
+    """Web paths of any downloaded images for a test, sorted by image_N."""
+    d = PUBLIC / f"{section}-img" / tid
+    if not d.exists():
+        return []
+    files = sorted(p.name for p in d.iterdir()
+                   if p.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp"))
+    return [f"/{section}-img/{tid}/{f}" for f in files]
+
+
+def attach_images(images: list[str], questions: list, groups: list, group_key: str):
+    """Attach every test image to the group (passage/part) that owns an
+    image-type question; fall back to one with an image cue, else the first."""
+    if not images or not groups:
+        return
+
+    def has_image_q(lo, hi):
+        for q in questions:
+            if lo <= q["number"] <= hi:
+                if q.get("type") in IMAGE_QTYPES:
+                    return 2
+                blob = " ".join(str(q.get(k, "")) for k in ("instructions", "prompt", "stem"))
+                if IMAGE_CUE.search(blob):
+                    return 1
+        return 0
+
+    best, best_score = groups[0], -1
+    for g in groups:
+        lo, hi = g[group_key]
+        score = has_image_q(lo, hi)
+        if score > best_score:
+            best, best_score = g, score
+    best["images"] = images
+
 # ---- question classification (shared with the HTML parser) -----------------
 
 INSTRUCTION_CUES = {
@@ -487,6 +530,7 @@ def build_reading(doc, tid):
         passages = [{"number": 1, "title": "Passage 1", "questionRange": [1, max_q],
                      "bodyHtml": "".join(f"<p>{clean(b)}</p>" for b in content)}]
 
+    attach_images(local_images("reading", tid), questions, passages, "questionRange")
     return {
         "id": tid, "variant": "academic", "source": "v2",
         "passages": passages, "questions": questions, "answerKey": answers,
@@ -516,6 +560,7 @@ def build_listening(doc, tid, n):
         })
 
     questions = parse_questions_from_text(text, answer_nums)
+    attach_images(local_images("listening", tid), questions, parts, "questionRange")
     audio_present = (AUDIO_SRC / f"{n}_we.mp3").exists()
     return {
         "id": tid,

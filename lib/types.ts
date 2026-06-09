@@ -119,6 +119,8 @@ export interface ReadingPassage {
   /** HTML for the passage body, ad scripts stripped. */
   bodyHtml: string;
   imageUrl?: string;
+  /** Diagram/map images that belong to this passage's questions. */
+  images?: string[];
 }
 
 export interface ReadingTest {
@@ -135,6 +137,8 @@ export interface ListeningPart {
   instructions: string;
   questionRange: [number, number];
   imageUrl?: string;
+  /** Diagram/map images that belong to this part's questions. */
+  images?: string[];
 }
 
 export interface ListeningTest {

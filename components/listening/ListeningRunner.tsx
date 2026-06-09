@@ -128,13 +128,14 @@ export default function ListeningRunner({ test }: { test: ListeningTest }) {
               Part {p.number} — Questions {p.questionRange[0]}–
               {p.questionRange[1]}
             </h3>
-            {p.imageUrl && (
+            {(p.images ?? (p.imageUrl ? [p.imageUrl] : [])).map((src, i) => (
               <ImageWithLoader
-                src={p.imageUrl}
-                alt={`Part ${p.number}`}
+                key={src}
+                src={src}
+                alt={`Part ${p.number} figure ${i + 1}`}
                 className="my-2 border border-exam-border max-w-xl"
               />
-            )}
+            ))}
             {test.questions
               .filter(
                 (q) =>

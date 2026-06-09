@@ -4,7 +4,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { WRITING_IMG_IDS, LISTENING_IMG_IDS } from "@/lib/r2-assets";
+import { WRITING_IMG_IDS } from "@/lib/r2-assets";
 import type {
   Catalog,
   ListeningTest,
@@ -24,8 +24,21 @@ export function loadCatalog(): Catalog {
   return readJSON<Catalog>("index.json");
 }
 
+/** Prefix asset paths ("/reading-img/…") with the R2 base URL in production. */
+function withAssets(paths: string[] | undefined, assetsUrl: string) {
+  if (!paths || !assetsUrl) return paths;
+  return paths.map((p) => (p.startsWith("/") ? `${assetsUrl}${p}` : p));
+}
+
 export function loadReading(id: string): ReadingTest {
-  return readJSON<ReadingTest>(path.join("reading", `${id}.json`));
+  const test = readJSON<ReadingTest>(path.join("reading", `${id}.json`));
+  const assetsUrl = process.env.NEXT_PUBLIC_ASSETS_URL || "";
+  if (assetsUrl) {
+    for (const p of test.passages || []) {
+      p.images = withAssets(p.images, assetsUrl);
+    }
+  }
+  return test;
 }
 
 export function loadListening(id: string): ListeningTest {
@@ -36,11 +49,8 @@ export function loadListening(id: string): ListeningTest {
       const r2Path = test.localAudioPath.replace(/^\/audio\//, "/listening/");
       test.localAudioPath = `${assetsUrl}${r2Path}`;
     }
-    if (LISTENING_IMG_IDS.has(id)) {
-      const firstPart = test.parts?.[0];
-      if (firstPart && !firstPart.imageUrl) {
-        firstPart.imageUrl = `${assetsUrl}/listening-img/${id}/image_1.png`;
-      }
+    for (const p of test.parts || []) {
+      p.images = withAssets(p.images, assetsUrl);
     }
   }
   return test;
@@ -71,8 +81,12 @@ export function pickFullMockIds(): {
 } {
   const cat = loadCatalog();
   const r = pickRandom(cat.reading.map((x) => x.id));
-  const lWithAudio = cat.listening.filter((x) => x.flags.hasAudioUrl).map((x) => x.id);
-  const l = pickRandom(lWithAudio.length ? lWithAudio : cat.listening.map((x) => x.id));
+  const lWithAudio = cat.listening
+    .filter((x) => x.flags.hasAudioUrl)
+    .map((x) => x.id);
+  const l = pickRandom(
+    lWithAudio.length ? lWithAudio : cat.listening.map((x) => x.id),
+  );
   const w = pickRandom(cat.writing.map((x) => x.id));
   const s = pickRandom(cat.speaking.map((x) => x.id));
   return { reading: r, listening: l, writing: w, speaking: s };
