@@ -259,16 +259,52 @@
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "A study of monkeys has shown that A monkeys are not usually right-handed B monkeys display a capacity for speech C monkey brains are smaller than human brains D monkey brains are asymmetric",
+      "prompt": "Question 11",
       "groupId": "q11-12",
-      "instructions": "12 Choose the appropriate letters A-D and write them in boxes 11 and 12 on your answer sheet."
+      "instructions": "12 Choose the appropriate letters A-D and write them in boxes 11 and 12 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "study of monkeys has shown that A monkeys are not usually right-handed"
+        },
+        {
+          "letter": "B",
+          "text": "monkeys display a capacity for speech"
+        },
+        {
+          "letter": "C",
+          "text": "monkey brains are smaller than human brains"
+        },
+        {
+          "letter": "D",
+          "text": "monkey brains are asymmetric"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
       "prompt": "According to the writer, left-handed people",
       "groupId": "q11-12",
-      "instructions": "12 Choose the appropriate letters A-D and write them in boxes 11 and 12 on your answer sheet."
+      "instructions": "12 Choose the appropriate letters A-D and write them in boxes 11 and 12 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "study of monkeys has shown that A monkeys are not usually right-handed"
+        },
+        {
+          "letter": "B",
+          "text": "monkeys display a capacity for speech"
+        },
+        {
+          "letter": "C",
+          "text": "monkey brains are smaller than human brains"
+        },
+        {
+          "letter": "D",
+          "text": "monkey brains are asymmetric"
+        }
+      ]
     },
     {
       "number": 13,

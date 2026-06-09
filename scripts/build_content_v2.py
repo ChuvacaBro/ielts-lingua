@@ -260,6 +260,37 @@ def _label_tail(text: str, limit: int = 120) -> str:
     return "… " + (cut[sp + 1:] if sp != -1 else cut)
 
 
+def strip_letter_bank(s: str):
+    """A word-bank ('A air B ash C earth …') can leak into the first item's
+    prompt. Split it off: returns (label_without_bank, [options]) when a
+    sequential A,B,C… run of ≥3 short options leads the text, else (s, [])."""
+    t = s.lstrip()
+    expected, idx = 0, 0
+    opts = []
+    while True:
+        letter = chr(ord("A") + expected)
+        m = re.match(rf"{letter}\s+", t[idx:])
+        if not m:
+            break
+        start = idx + m.end()
+        nxt = chr(ord("A") + expected + 1)
+        # option text ends at the next sequential letter, a bullet, or a
+        # capitalised word (the start of the real label)
+        m2 = re.search(rf"\s+(?={nxt}\s)|\s*[•\n]|\s+(?=[A-Z][a-z]{{2,}})", t[start:])
+        end = start + (m2.start() if m2 else len(t) - start)
+        opts.append({"letter": letter, "text": clean(t[start:end])})
+        idx = end
+        expected += 1
+        sk = re.match(r"\s+", t[idx:])
+        if sk:
+            idx += sk.end()
+        if not re.match(rf"{chr(ord('A') + expected)}\s", t[idx:]):
+            break
+    if expected >= 3:
+        return t[idx:].lstrip(" .–-•:"), opts
+    return s, []
+
+
 def trim_tail(s: str) -> str:
     """The last item in a group runs to the chunk end and can absorb the next
     passage's prose. Cut at a lettered-paragraph run ('A … B … C …') and, when
@@ -427,15 +458,27 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
                    if q["number"] in missing]
 
         instruction, opts = group_meta(chunk, lo, hi)
+        # A word-bank ('A air B ash …') that leaked into a prompt: strip it out
+        # and reuse it as the group's bank (covers flow-chart/box completions).
+        inline_bank = []
+        for q in qs:
+            key = "prompt" if "prompt" in q else ("statement" if "statement" in q else None)
+            if not key:
+                continue
+            label, b = strip_letter_bank(q[key])
+            if b:
+                inline_bank = b
+                q[key] = label or f"Question {q['number']}"
+        bank = inline_bank or opts  # inline bank is cleanly delimited; prefer it
         for q in qs:
             q["groupId"] = group_id
             if instruction:
                 q["instructions"] = instruction
-            # Attach the A–J option bank only to types whose answers ARE letters
-            # or that draw from a word list (choose-letters, summary-with-list,
-            # matching) — never to word-completion/diagram types.
-            if opts and q["type"] in BANK_TYPES and "bank" not in q:
-                q["bank"] = opts
+            # Attach the A–J option bank to types whose answers ARE letters / a
+            # word list (choose-letters, summary-with-list, matching, flow-box);
+            # an inline bank is reliable enough to attach to any type.
+            if bank and (inline_bank or q["type"] in BANK_TYPES) and "bank" not in q:
+                q["bank"] = bank
             if 0 < q["number"] and q["number"] not in questions:
                 questions[q["number"]] = q
 
