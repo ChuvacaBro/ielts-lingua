@@ -194,44 +194,44 @@
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
+      "prompt": "New car park",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
+      "prompt": "New cricket pitch",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
+      "prompt": "Children’s playground",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
+      "prompt": "Skateboard ramp",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
+      "prompt": "Pavilion",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Question 20",
+      "prompt": "Notice board",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20. Recreation ground after proposed changes"
     },
     {
       "number": 21,
@@ -264,44 +264,224 @@
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
+      "prompt": "Amsterdam",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
+      "prompt": "Dublin",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
+      "prompt": "London",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
+      "prompt": "Buenos Aires",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
+      "prompt": "New York",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Question 30",
+      "prompt": "Sydney",
       "groupId": "q25-30",
-      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What is the speakers’ opinion of the bike-sharing schemes in each of the following cities? Choose SIX answers from the box and write the correct letter, A-G, next to Questions 25-30. Opinion of bike-sharing scheme",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "They agree it has been disappointing."
+        },
+        {
+          "letter": "B",
+          "text": "They think it should be cheaper."
+        },
+        {
+          "letter": "C",
+          "text": "They are surprised it has been so successful."
+        },
+        {
+          "letter": "D",
+          "text": "They agree that more investment is required."
+        },
+        {
+          "letter": "E",
+          "text": "They think the system has been well designed."
+        },
+        {
+          "letter": "F",
+          "text": "They disagree about the reasons for its success."
+        },
+        {
+          "letter": "G",
+          "text": "They think it has expanded too quickly. Cities 25. Amsterdam 26. Dublin 27. London 28. Buenos Aires 29. New York 30. Sydney Part 4:"
+        }
+      ]
     },
     {
       "number": 31,

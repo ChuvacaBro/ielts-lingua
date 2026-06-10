@@ -184,24 +184,90 @@
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "Colin McGinn",
       "groupId": "q21-23",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 21-23) and the list of statements below. Match each person with the correct statement A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Artificial Intelligence may require something equivalent to feelings in order to succeed."
+        },
+        {
+          "letter": "B",
+          "text": "Different kinds of people use different parts of the brain."
+        },
+        {
+          "letter": "C",
+          "text": "Tests involving fiction have defeated Artificial Intelligence so far."
+        },
+        {
+          "letter": "D",
+          "text": "People have intellectual capacities which do not exist in computers."
+        },
+        {
+          "letter": "E",
+          "text": "People have no reason to be frightened of robots"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Marvin Minsky",
       "groupId": "q21-23",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 21-23) and the list of statements below. Match each person with the correct statement A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Artificial Intelligence may require something equivalent to feelings in order to succeed."
+        },
+        {
+          "letter": "B",
+          "text": "Different kinds of people use different parts of the brain."
+        },
+        {
+          "letter": "C",
+          "text": "Tests involving fiction have defeated Artificial Intelligence so far."
+        },
+        {
+          "letter": "D",
+          "text": "People have intellectual capacities which do not exist in computers."
+        },
+        {
+          "letter": "E",
+          "text": "People have no reason to be frightened of robots"
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Hans Moravec",
       "groupId": "q21-23",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 21-23) and the list of statements below. Match each person with the correct statement A-E",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Artificial Intelligence may require something equivalent to feelings in order to succeed."
+        },
+        {
+          "letter": "B",
+          "text": "Different kinds of people use different parts of the brain."
+        },
+        {
+          "letter": "C",
+          "text": "Tests involving fiction have defeated Artificial Intelligence so far."
+        },
+        {
+          "letter": "D",
+          "text": "People have intellectual capacities which do not exist in computers."
+        },
+        {
+          "letter": "E",
+          "text": "People have no reason to be frightened of robots"
+        }
+      ]
     },
     {
       "number": 24,

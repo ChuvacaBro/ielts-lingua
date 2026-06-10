@@ -58,80 +58,980 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchHeadings",
+      "paragraphLetter": "A",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchHeadings",
+      "paragraphLetter": "B",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchHeadings",
+      "paragraphLetter": "C",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchHeadings",
+      "paragraphLetter": "D",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchHeadings",
+      "paragraphLetter": "E",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchHeadings",
+      "paragraphLetter": "F",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchHeadings",
+      "paragraphLetter": "G",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchHeadings",
+      "paragraphLetter": "H",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchHeadings",
+      "paragraphLetter": "I",
+      "headings": [
+        {
+          "number": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "number": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "number": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "number": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "number": "v",
+          "text": "Water crisis"
+        },
+        {
+          "number": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "number": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "number": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "number": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "number": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "number": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "number": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ],
       "groupId": "q4-12",
-      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to"
+      "instructions": "Reading Passage 1 has ten paragraphs, A – J. Choose the most suitable heading, i – xiii, for each paragraph from the list of the headings below. Write the correct numbers, i – xiii, next to Questions 4-12.",
+      "bank": [
+        {
+          "letter": "i",
+          "text": "Long term solutions"
+        },
+        {
+          "letter": "ii",
+          "text": "A balancing act"
+        },
+        {
+          "letter": "iii",
+          "text": "Killing wildlife"
+        },
+        {
+          "letter": "iv",
+          "text": "Extreme weather"
+        },
+        {
+          "letter": "v",
+          "text": "Water crisis"
+        },
+        {
+          "letter": "vi",
+          "text": "Endangering sea life"
+        },
+        {
+          "letter": "vii",
+          "text": "Sinking cities"
+        },
+        {
+          "letter": "viii",
+          "text": "Intensive farming"
+        },
+        {
+          "letter": "ix",
+          "text": "Trouble at the poles"
+        },
+        {
+          "letter": "x",
+          "text": "Alarming studies"
+        },
+        {
+          "letter": "xi",
+          "text": "Two outlooks"
+        },
+        {
+          "letter": "xii",
+          "text": "Arctic wildlife xii Burning coal"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
+      "prompt": "The Stern Review points out that it is not too late ____",
       "groupId": "q13-14",
-      "instructions": "14 Complete each of the following statements with the best ending, A – H, from the list of endings below. Write the correct letters, A – H, next to"
+      "instructions": "14 Complete each of the following statements with the best ending, A – H, from the list of endings below. Write the correct letters, A – H, next to Questions 13-14."
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
+      "prompt": "More optimistic commentators like Bjorn Lomborg believe that politicians and scientists need ____ List of endings",
       "groupId": "q13-14",
-      "instructions": "14 Complete each of the following statements with the best ending, A – H, from the list of endings below. Write the correct letters, A – H, next to"
+      "instructions": "14 Complete each of the following statements with the best ending, A – H, from the list of endings below. Write the correct letters, A – H, next to Questions 13-14."
     },
     {
       "number": 15,
@@ -236,44 +1136,44 @@
     {
       "number": 19,
       "type": "tfng",
-      "statement": "Statement 19",
+      "statement": "Vitamin supplements bought from health food shops can differ from those available at pharmacies.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 20,
       "type": "tfng",
-      "statement": "Statement 20",
+      "statement": "Antioxidants eliminate free radicals from the body.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 21,
       "type": "tfng",
-      "statement": "Statement 21",
+      "statement": "After the release of Professor Horton’s study the number of people taking vitamin supplements declined.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 22,
       "type": "tfng",
-      "statement": "Statement 22",
+      "statement": "The findings of studies into the effect of pro-vitamin A resulted in some US drug companies going on trial.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 23,
       "type": "tfng",
-      "statement": "Statement 23",
+      "statement": "The FDA and the EMEA have jointly funded research into the safety of certain higher-dose vitamin supplements.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 24,
       "type": "tfng",
-      "statement": "Statement 24",
+      "statement": "Recent research suggests that small amounts of free radicals can help prevent disease.",
       "groupId": "q19-24",
-      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to"
+      "instructions": "Do the following statements agree with the information in Reading Passage 2? Next to Questions 19-24, write TRUE if the statement is true according to the passage FALSE if the statement is false according to the passage NOT GIVEN if the information is not given in the passage"
     },
     {
       "number": 25,

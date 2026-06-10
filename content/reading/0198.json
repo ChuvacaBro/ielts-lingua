@@ -93,38 +93,128 @@
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "Amateur involvement can also be an instructive pastime.",
       "groupId": "q9-13",
-      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion ("
+      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion (Questions 9-13) with the scientists A-D. NB You may use any of the scientists A-D more than once. Name of scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Fienberg"
+        },
+        {
+          "letter": "B",
+          "text": "Adrian Hunt"
+        },
+        {
+          "letter": "C",
+          "text": "Rick Bonney"
+        },
+        {
+          "letter": "D",
+          "text": "Dr Carlson 9."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "Amateur scientists are prone to accidents.",
       "groupId": "q9-13",
-      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion ("
+      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion (Questions 9-13) with the scientists A-D. NB You may use any of the scientists A-D more than once. Name of scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Fienberg"
+        },
+        {
+          "letter": "B",
+          "text": "Adrian Hunt"
+        },
+        {
+          "letter": "C",
+          "text": "Rick Bonney"
+        },
+        {
+          "letter": "D",
+          "text": "Dr Carlson 9."
+        }
+      ]
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "Science does not belong to professional scientists alone.",
       "groupId": "q9-13",
-      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion ("
+      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion (Questions 9-13) with the scientists A-D. NB You may use any of the scientists A-D more than once. Name of scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Fienberg"
+        },
+        {
+          "letter": "B",
+          "text": "Adrian Hunt"
+        },
+        {
+          "letter": "C",
+          "text": "Rick Bonney"
+        },
+        {
+          "letter": "D",
+          "text": "Dr Carlson 9."
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "In certain areas of my work, people are a more valuable resource than technology.",
       "groupId": "q9-13",
-      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion ("
+      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion (Questions 9-13) with the scientists A-D. NB You may use any of the scientists A-D more than once. Name of scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Fienberg"
+        },
+        {
+          "letter": "B",
+          "text": "Adrian Hunt"
+        },
+        {
+          "letter": "C",
+          "text": "Rick Bonney"
+        },
+        {
+          "letter": "D",
+          "text": "Dr Carlson 9."
+        }
+      ]
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "It is important to give amateurs a name which reflects the value of their work.",
       "groupId": "q9-13",
-      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion ("
+      "instructions": "Reading Passage 1 contains a number of opinions provided by four different scientists. Match each opinion (Questions 9-13) with the scientists A-D. NB You may use any of the scientists A-D more than once. Name of scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Fienberg"
+        },
+        {
+          "letter": "B",
+          "text": "Adrian Hunt"
+        },
+        {
+          "letter": "C",
+          "text": "Rick Bonney"
+        },
+        {
+          "letter": "D",
+          "text": "Dr Carlson 9."
+        }
+      ]
     },
     {
       "number": 14,
@@ -953,30 +1043,150 @@
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
+      "prompt": "Maillart designed the hollow-box arch in order to",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending (A-G) from the box below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "prove that local people were wrong."
+        },
+        {
+          "letter": "B",
+          "text": "find work in Switzerland."
+        },
+        {
+          "letter": "C",
+          "text": "win more building commissions."
+        },
+        {
+          "letter": "D",
+          "text": "reduce the amount of raw material required."
+        },
+        {
+          "letter": "E",
+          "text": "recognise his technical skills."
+        },
+        {
+          "letter": "F",
+          "text": "capitalise on the spectacular terrain."
+        },
+        {
+          "letter": "G",
+          "text": "improve the appearance of his bridges."
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
+      "prompt": "Following the construction of the Tavanasa Bridge, Maillart failed to",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending (A-G) from the box below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "prove that local people were wrong."
+        },
+        {
+          "letter": "B",
+          "text": "find work in Switzerland."
+        },
+        {
+          "letter": "C",
+          "text": "win more building commissions."
+        },
+        {
+          "letter": "D",
+          "text": "reduce the amount of raw material required."
+        },
+        {
+          "letter": "E",
+          "text": "recognise his technical skills."
+        },
+        {
+          "letter": "F",
+          "text": "capitalise on the spectacular terrain."
+        },
+        {
+          "letter": "G",
+          "text": "improve the appearance of his bridges."
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
+      "prompt": "The transverse walls of the Flienglibach Bridge allowed Maillart to",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending (A-G) from the box below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "prove that local people were wrong."
+        },
+        {
+          "letter": "B",
+          "text": "find work in Switzerland."
+        },
+        {
+          "letter": "C",
+          "text": "win more building commissions."
+        },
+        {
+          "letter": "D",
+          "text": "reduce the amount of raw material required."
+        },
+        {
+          "letter": "E",
+          "text": "recognise his technical skills."
+        },
+        {
+          "letter": "F",
+          "text": "capitalise on the spectacular terrain."
+        },
+        {
+          "letter": "G",
+          "text": "improve the appearance of his bridges."
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40",
+      "prompt": "Of all his bridges, the Salginatobel enabled Maillart to",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending (A-G) from the box below.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "prove that local people were wrong."
+        },
+        {
+          "letter": "B",
+          "text": "find work in Switzerland."
+        },
+        {
+          "letter": "C",
+          "text": "win more building commissions."
+        },
+        {
+          "letter": "D",
+          "text": "reduce the amount of raw material required."
+        },
+        {
+          "letter": "E",
+          "text": "recognise his technical skills."
+        },
+        {
+          "letter": "F",
+          "text": "capitalise on the spectacular terrain."
+        },
+        {
+          "letter": "G",
+          "text": "improve the appearance of his bridges."
+        }
+      ]
     }
   ],
   "answerKey": {

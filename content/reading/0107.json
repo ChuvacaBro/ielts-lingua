@@ -133,31 +133,87 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "the importance of adults giving babies individual attention when talking to them",
       "groupId": "q14-17",
-      "instructions": "Look at the following ideas ("
+      "instructions": "Look at the following ideas (Questions 14-17) and the list of researchers below. Match each idea with the correct researcher, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mark VanDam"
+        },
+        {
+          "letter": "B",
+          "text": "Nairan Ramirez-Esparza"
+        },
+        {
+          "letter": "C",
+          "text": "Patricia Kuhl"
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "the connection between what babies hear and their own efforts to create speech",
       "groupId": "q14-17",
-      "instructions": "Look at the following ideas ("
+      "instructions": "Look at the following ideas (Questions 14-17) and the list of researchers below. Match each idea with the correct researcher, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mark VanDam"
+        },
+        {
+          "letter": "B",
+          "text": "Nairan Ramirez-Esparza"
+        },
+        {
+          "letter": "C",
+          "text": "Patricia Kuhl"
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "the advantage for the baby of having two parents each speaking in a different way",
       "groupId": "q14-17",
-      "instructions": "Look at the following ideas ("
+      "instructions": "Look at the following ideas (Questions 14-17) and the list of researchers below. Match each idea with the correct researcher, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mark VanDam"
+        },
+        {
+          "letter": "B",
+          "text": "Nairan Ramirez-Esparza"
+        },
+        {
+          "letter": "C",
+          "text": "Patricia Kuhl"
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "the connection between the amount of baby talk babies hear and how much vocalising they do themselves List of researchers",
       "groupId": "q14-17",
-      "instructions": "Look at the following ideas ("
+      "instructions": "Look at the following ideas (Questions 14-17) and the list of researchers below. Match each idea with the correct researcher, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mark VanDam"
+        },
+        {
+          "letter": "B",
+          "text": "Nairan Ramirez-Esparza"
+        },
+        {
+          "letter": "C",
+          "text": "Patricia Kuhl"
+        }
+      ]
     },
     {
       "number": 18,
@@ -305,31 +361,103 @@
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "Finding further information about changes to environmental conditions in the region is vital.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of researchers below. Match each statement with the correct researcher, A. B. C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cameron Petrie"
+        },
+        {
+          "letter": "B",
+          "text": "Ravindanath Singh"
+        },
+        {
+          "letter": "C",
+          "text": "Yama Dixit"
+        },
+        {
+          "letter": "D",
+          "text": "David Hodell"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "Examining previous patterns of behaviour may have long-term benefits.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of researchers below. Match each statement with the correct researcher, A. B. C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cameron Petrie"
+        },
+        {
+          "letter": "B",
+          "text": "Ravindanath Singh"
+        },
+        {
+          "letter": "C",
+          "text": "Yama Dixit"
+        },
+        {
+          "letter": "D",
+          "text": "David Hodell"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "Rough calculations indicate the approximate length of a period of water shortage.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of researchers below. Match each statement with the correct researcher, A. B. C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cameron Petrie"
+        },
+        {
+          "letter": "B",
+          "text": "Ravindanath Singh"
+        },
+        {
+          "letter": "C",
+          "text": "Yama Dixit"
+        },
+        {
+          "letter": "D",
+          "text": "David Hodell"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "Information about the decline of the Harappan Civilisation has been lacking.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of researchers below. Match each statement with the correct researcher, A. B. C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Cameron Petrie"
+        },
+        {
+          "letter": "B",
+          "text": "Ravindanath Singh"
+        },
+        {
+          "letter": "C",
+          "text": "Yama Dixit"
+        },
+        {
+          "letter": "D",
+          "text": "David Hodell"
+        }
+      ]
     }
   ],
   "answerKey": {

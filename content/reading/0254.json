@@ -134,31 +134,119 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Some members of this species have started to contribute more to the care of the young",
       "groupId": "q5-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-8) and the list of solitary bees below. Match each statement with the correct bee, A-E. Write the correct letter. A-E, in boxes 5-8 on your answer sheet. NB: You may use any letter more than once. List of Solitary Bees",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The banded mining bee"
+        },
+        {
+          "letter": "B",
+          "text": "The ivy bee"
+        },
+        {
+          "letter": "C",
+          "text": "Andrena scotica"
+        },
+        {
+          "letter": "D",
+          "text": "Lasrogfossum malachurum"
+        },
+        {
+          "letter": "E",
+          "text": "The red mason bee 5."
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "This species avoids areas covered with vegetation when selecting nest sites.",
       "groupId": "q5-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-8) and the list of solitary bees below. Match each statement with the correct bee, A-E. Write the correct letter. A-E, in boxes 5-8 on your answer sheet. NB: You may use any letter more than once. List of Solitary Bees",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The banded mining bee"
+        },
+        {
+          "letter": "B",
+          "text": "The ivy bee"
+        },
+        {
+          "letter": "C",
+          "text": "Andrena scotica"
+        },
+        {
+          "letter": "D",
+          "text": "Lasrogfossum malachurum"
+        },
+        {
+          "letter": "E",
+          "text": "The red mason bee 5."
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "This species has a favourite flower that it feeds on,",
       "groupId": "q5-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-8) and the list of solitary bees below. Match each statement with the correct bee, A-E. Write the correct letter. A-E, in boxes 5-8 on your answer sheet. NB: You may use any letter more than once. List of Solitary Bees",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The banded mining bee"
+        },
+        {
+          "letter": "B",
+          "text": "The ivy bee"
+        },
+        {
+          "letter": "C",
+          "text": "Andrena scotica"
+        },
+        {
+          "letter": "D",
+          "text": "Lasrogfossum malachurum"
+        },
+        {
+          "letter": "E",
+          "text": "The red mason bee 5."
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "This species has only been found in Britain in the past few years.",
       "groupId": "q5-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-8) and the list of solitary bees below. Match each statement with the correct bee, A-E. Write the correct letter. A-E, in boxes 5-8 on your answer sheet. NB: You may use any letter more than once. List of Solitary Bees",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The banded mining bee"
+        },
+        {
+          "letter": "B",
+          "text": "The ivy bee"
+        },
+        {
+          "letter": "C",
+          "text": "Andrena scotica"
+        },
+        {
+          "letter": "D",
+          "text": "Lasrogfossum malachurum"
+        },
+        {
+          "letter": "E",
+          "text": "The red mason bee 5."
+        }
+      ]
     },
     {
       "number": 9,
@@ -558,30 +646,30 @@
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
+      "prompt": "The suggested names of the new planet started with ____",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with a name from the reading passage. Write your answers in boxes 37-40 on your answer sheet. The suggested names of the new planet started with"
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
+      "prompt": "____ then ____",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with a name from the reading passage. Write your answers in boxes 37-40 on your answer sheet. The suggested names of the new planet started with"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
+      "prompt": "____ before finally settling on Uranus. The first five rings around Uranus were discovered by ____",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with a name from the reading passage. Write your answers in boxes 37-40 on your answer sheet. The suggested names of the new planet started with"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40",
+      "prompt": "____ From 1948 until 1986, the moon ____",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with a name from the reading passage. Write your answers in boxes 37-40 on your answer sheet. The suggested names of the new planet started with"
     }
   ],
   "answerKey": {

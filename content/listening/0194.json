@@ -234,44 +234,44 @@
     {
       "number": 15,
       "type": "mapPlanLabelling",
-      "prompt": "Question 15",
+      "prompt": "School",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
+      "prompt": "Sports centre",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
+      "prompt": "Clinic",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
+      "prompt": "Community centre",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
+      "prompt": "Supermarket",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Question 20",
+      "prompt": "Playground",
       "groupId": "q15-20",
-      "instructions": "Label the map below. Write the correct letter, A-l, next to"
+      "instructions": "Label the map below. Write the correct letter, A-l, next to Questions 15-20."
     },
     {
       "number": 21,
@@ -418,30 +418,134 @@
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
+      "prompt": "Iceland",
       "groupId": "q27-30",
-      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This country suffered the most severe loss of life."
+        },
+        {
+          "letter": "B",
+          "text": "The impact on agriculture was predictable."
+        },
+        {
+          "letter": "C",
+          "text": "There was a significant increase in deaths of young people."
+        },
+        {
+          "letter": "D",
+          "text": "Animals suffered from a sickness."
+        },
+        {
+          "letter": "E",
+          "text": "This country saw the highest rise in food prices in the world."
+        },
+        {
+          "letter": "F",
+          "text": "It caused a particularly harsh winter. Countries 27. Iceland 28. Egypt 29. UK 30. USA Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
+      "prompt": "Egypt",
       "groupId": "q27-30",
-      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This country suffered the most severe loss of life."
+        },
+        {
+          "letter": "B",
+          "text": "The impact on agriculture was predictable."
+        },
+        {
+          "letter": "C",
+          "text": "There was a significant increase in deaths of young people."
+        },
+        {
+          "letter": "D",
+          "text": "Animals suffered from a sickness."
+        },
+        {
+          "letter": "E",
+          "text": "This country saw the highest rise in food prices in the world."
+        },
+        {
+          "letter": "F",
+          "text": "It caused a particularly harsh winter. Countries 27. Iceland 28. Egypt 29. UK 30. USA Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
+      "prompt": "UK",
       "groupId": "q27-30",
-      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This country suffered the most severe loss of life."
+        },
+        {
+          "letter": "B",
+          "text": "The impact on agriculture was predictable."
+        },
+        {
+          "letter": "C",
+          "text": "There was a significant increase in deaths of young people."
+        },
+        {
+          "letter": "D",
+          "text": "Animals suffered from a sickness."
+        },
+        {
+          "letter": "E",
+          "text": "This country saw the highest rise in food prices in the world."
+        },
+        {
+          "letter": "F",
+          "text": "It caused a particularly harsh winter. Countries 27. Iceland 28. Egypt 29. UK 30. USA Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Question 30",
+      "prompt": "USA",
       "groupId": "q27-30",
-      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to"
+      "instructions": "What comment do the students make about the impact of the Laki eruption on the following countries? Choose FOUR answers from the box and write the correct letter, A-F, next to Questions 27-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This country suffered the most severe loss of life."
+        },
+        {
+          "letter": "B",
+          "text": "The impact on agriculture was predictable."
+        },
+        {
+          "letter": "C",
+          "text": "There was a significant increase in deaths of young people."
+        },
+        {
+          "letter": "D",
+          "text": "Animals suffered from a sickness."
+        },
+        {
+          "letter": "E",
+          "text": "This country saw the highest rise in food prices in the world."
+        },
+        {
+          "letter": "F",
+          "text": "It caused a particularly harsh winter. Countries 27. Iceland 28. Egypt 29. UK 30. USA Part 4:"
+        }
+      ]
     },
     {
       "number": 31,

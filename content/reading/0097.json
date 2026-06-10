@@ -83,7 +83,7 @@
     },
     {
       "number": 8,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Destroying bamboo jeopardizes to wildlife.",
       "groupId": "q8-11",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below.",
@@ -108,7 +108,7 @@
     },
     {
       "number": 9,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "People have very confined knowledge of bamboo.",
       "groupId": "q8-11",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below.",
@@ -133,7 +133,7 @@
     },
     {
       "number": 10,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Some people do not think that bamboo is endangered.",
       "groupId": "q8-11",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below.",
@@ -158,7 +158,7 @@
     },
     {
       "number": 11,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Bamboo has loads of commercial potentials.",
       "groupId": "q8-11",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below.",
@@ -361,7 +361,7 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used to prevent foaming.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",
@@ -382,7 +382,7 @@
     },
     {
       "number": 28,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used to prevent stickiness.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",
@@ -403,7 +403,7 @@
     },
     {
       "number": 29,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used to boost production.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",
@@ -424,7 +424,7 @@
     },
     {
       "number": 30,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used as a filler to provide a base.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",
@@ -445,7 +445,7 @@
     },
     {
       "number": 31,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used to prevent sunburn.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",
@@ -466,7 +466,7 @@
     },
     {
       "number": 32,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Talc is used to help increase the size of the product.",
       "groupId": "q27-32",
       "instructions": "Use the information in the passage to match each use of talc power with correct application from A, B or C.",

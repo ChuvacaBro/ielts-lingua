@@ -174,24 +174,66 @@
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Self-driving cars will make urban travel easier for people who find it difficult to drive.",
       "groupId": "q20-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-22) and the list of organisations below. Match each statement with the correct organisation, A-C. Write the correct letter, A-C, in boxes 20-22. NB You can choose any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the International Transport Forum"
+        },
+        {
+          "letter": "B",
+          "text": "the WZB Berlin Social Science Centre"
+        },
+        {
+          "letter": "C",
+          "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "The use of self-driving cars will mean that fewer people own a car.",
       "groupId": "q20-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-22) and the list of organisations below. Match each statement with the correct organisation, A-C. Write the correct letter, A-C, in boxes 20-22. NB You can choose any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the International Transport Forum"
+        },
+        {
+          "letter": "B",
+          "text": "the WZB Berlin Social Science Centre"
+        },
+        {
+          "letter": "C",
+          "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "The use of self-driving cars will mean that fewer people need to park in city centres.",
       "groupId": "q20-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-22) and the list of organisations below. Match each statement with the correct organisation, A-C. Write the correct letter, A-C, in boxes 20-22. NB You can choose any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the International Transport Forum"
+        },
+        {
+          "letter": "B",
+          "text": "the WZB Berlin Social Science Centre"
+        },
+        {
+          "letter": "C",
+          "text": "both the International Transport Forum and the WZB Berlin Social Science Centre"
+        }
+      ]
     },
     {
       "number": 23,

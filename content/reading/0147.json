@@ -134,45 +134,225 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "began producing the first automobiles",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "produced the industrialised cars that common consumers could afford",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "improved the utilisation rate of automobile space",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "upgraded the overall performance of the car continuously",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "maintained leading growth even during an economic recession",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "installed its engine on the front wheel for the first time",
       "groupId": "q14-19",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 14-19) and the list of automobile brands below. Match each description with the correct automobile brand, A-G. List of Automobile Brands",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ford"
+        },
+        {
+          "letter": "B",
+          "text": "the BMC Mini"
+        },
+        {
+          "letter": "C",
+          "text": "Cadillac and Lincoln"
+        },
+        {
+          "letter": "D",
+          "text": "Mercedes Benz"
+        },
+        {
+          "letter": "E",
+          "text": "Mazda"
+        },
+        {
+          "letter": "F",
+          "text": "Jeep"
+        },
+        {
+          "letter": "G",
+          "text": "Maserati, Ferrari, and Lancia 14."
+        }
+      ]
     },
     {
       "number": 20,

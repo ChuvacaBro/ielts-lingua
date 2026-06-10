@@ -34,7 +34,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Found pattern of different sensory memories stored in various zones of a brain.",
       "groupId": "q1-5",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB: you may use any letter more than once",
@@ -55,7 +55,7 @@
     },
     {
       "number": 2,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Smell brings detailed event under a smell of certain substance.",
       "groupId": "q1-5",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB: you may use any letter more than once",
@@ -76,7 +76,7 @@
     },
     {
       "number": 3,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Connection of smell and certain zones of brain is different with that of other senses.",
       "groupId": "q1-5",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB: you may use any letter more than once",
@@ -97,7 +97,7 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Diverse locations of stored information help US keep away the hazard.",
       "groupId": "q1-5",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB: you may use any letter more than once",
@@ -118,7 +118,7 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "There is no necessary correlation between smell and processing zone of brain.",
       "groupId": "q1-5",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB: you may use any letter more than once",
@@ -338,7 +338,7 @@
     },
     {
       "number": 23,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "More complicated than the previous device",
       "groupId": "q23-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-F in boxes 23-26 on your answer sheet. NB You may use any letter more than once",
@@ -383,7 +383,7 @@
     },
     {
       "number": 24,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Anticipate to find more Antikythera Mechanism in the future",
       "groupId": "q23-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-F in boxes 23-26 on your answer sheet. NB You may use any letter more than once",
@@ -428,7 +428,7 @@
     },
     {
       "number": 25,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Antikythera Mechanism was found related to the moon",
       "groupId": "q23-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-F in boxes 23-26 on your answer sheet. NB You may use any letter more than once",
@@ -473,7 +473,7 @@
     },
     {
       "number": 26,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Mechanism assisted ancient people to calculate the movement of stars.",
       "groupId": "q23-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-F in boxes 23-26 on your answer sheet. NB You may use any letter more than once",

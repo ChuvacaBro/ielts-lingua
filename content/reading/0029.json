@@ -853,52 +853,234 @@
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "sports students",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 35,
-      "type": "gapFill",
-      "prompt": "Question 35",
+      "type": "matchFeatures",
+      "prompt": "Olympic athletes",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "airline passengers",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "welfare claimants",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "business employees",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "home owners",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "bank customers List of Biometric Systems",
       "groupId": "q34-40",
-      "instructions": "Look at the following groups of people ("
+      "instructions": "Look at the following groups of people (Questions 34-40) and the list of biometric systems (A-F) below. Match the groups of people to the biometric system associated with them in Reading Passage 3. Write the appropriate letters A-F in boxes 34-40 on your answer sheet. NB You may use any biometric system more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "fingerprint scanner"
+        },
+        {
+          "letter": "B",
+          "text": "hand scanner"
+        },
+        {
+          "letter": "C",
+          "text": "body odour"
+        },
+        {
+          "letter": "D",
+          "text": "voiceprint"
+        },
+        {
+          "letter": "E",
+          "text": "face scanner"
+        },
+        {
+          "letter": "F",
+          "text": "typing pattern"
+        }
+      ]
     }
   ],
   "answerKey": {

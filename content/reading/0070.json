@@ -255,24 +255,78 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "came very close to accurately measuring the distance round the Earth",
       "groupId": "q19-21",
-      "instructions": "Look at the following list of achievements ("
+      "instructions": "Look at the following list of achievements (Questions 19-21) and the list of mapmakers below. Match each achievement with the correct mapmaker, A, B, C or D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mercator"
+        },
+        {
+          "letter": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "letter": "C",
+          "text": "Cassini family"
+        },
+        {
+          "letter": "D",
+          "text": "Eratosthenes"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "produced maps showing man-made landmarks",
       "groupId": "q19-21",
-      "instructions": "Look at the following list of achievements ("
+      "instructions": "Look at the following list of achievements (Questions 19-21) and the list of mapmakers below. Match each achievement with the correct mapmaker, A, B, C or D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mercator"
+        },
+        {
+          "letter": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "letter": "C",
+          "text": "Cassini family"
+        },
+        {
+          "letter": "D",
+          "text": "Eratosthenes"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "laid the foundation for our modern time zones List of Mapmakers",
       "groupId": "q19-21",
-      "instructions": "Look at the following list of achievements ("
+      "instructions": "Look at the following list of achievements (Questions 19-21) and the list of mapmakers below. Match each achievement with the correct mapmaker, A, B, C or D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Mercator"
+        },
+        {
+          "letter": "B",
+          "text": "Ptolemy"
+        },
+        {
+          "letter": "C",
+          "text": "Cassini family"
+        },
+        {
+          "letter": "D",
+          "text": "Eratosthenes"
+        }
+      ]
     },
     {
       "number": 22,

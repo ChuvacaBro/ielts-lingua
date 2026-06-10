@@ -199,31 +199,103 @@
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Communities living in wetland regions must be included in discussions about the future of these areas.",
       "groupId": "q23-26",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 23-26) and the list of experts below. Match each statement with the correct expert, A-D. Write the correct letter, A-D, in boxes 23-26 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Matthew McCartney"
+        },
+        {
+          "letter": "B",
+          "text": "Pieter van Eijk"
+        },
+        {
+          "letter": "C",
+          "text": "Marcel Silvius"
+        },
+        {
+          "letter": "D",
+          "text": "Dave Tickner Is the era of artificial speech translation upon us? Once the stuff of science fiction, technology that enables people to talk using different languages is now here."
+        }
+      ]
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "prompt": "Question 24",
+      "type": "matchFeatures",
+      "prompt": "Official policies towards wetlands vary from one nation to the next.",
       "groupId": "q23-26",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 23-26) and the list of experts below. Match each statement with the correct expert, A-D. Write the correct letter, A-D, in boxes 23-26 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Matthew McCartney"
+        },
+        {
+          "letter": "B",
+          "text": "Pieter van Eijk"
+        },
+        {
+          "letter": "C",
+          "text": "Marcel Silvius"
+        },
+        {
+          "letter": "D",
+          "text": "Dave Tickner Is the era of artificial speech translation upon us? Once the stuff of science fiction, technology that enables people to talk using different languages is now here."
+        }
+      ]
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "prompt": "Question 25",
+      "type": "matchFeatures",
+      "prompt": "People cause harm to wetlands without having any intention to do so.",
       "groupId": "q23-26",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 23-26) and the list of experts below. Match each statement with the correct expert, A-D. Write the correct letter, A-D, in boxes 23-26 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Matthew McCartney"
+        },
+        {
+          "letter": "B",
+          "text": "Pieter van Eijk"
+        },
+        {
+          "letter": "C",
+          "text": "Marcel Silvius"
+        },
+        {
+          "letter": "D",
+          "text": "Dave Tickner Is the era of artificial speech translation upon us? Once the stuff of science fiction, technology that enables people to talk using different languages is now here."
+        }
+      ]
     },
     {
       "number": 26,
-      "type": "gapFill",
-      "prompt": "Question 26",
+      "type": "matchFeatures",
+      "prompt": "Initiatives to reverse environmental damage need not be complex.",
       "groupId": "q23-26",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 23-26) and the list of experts below. Match each statement with the correct expert, A-D. Write the correct letter, A-D, in boxes 23-26 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Matthew McCartney"
+        },
+        {
+          "letter": "B",
+          "text": "Pieter van Eijk"
+        },
+        {
+          "letter": "C",
+          "text": "Marcel Silvius"
+        },
+        {
+          "letter": "D",
+          "text": "Dave Tickner Is the era of artificial speech translation upon us? Once the stuff of science fiction, technology that enables people to talk using different languages is now here."
+        }
+      ]
     },
     {
       "number": 27,

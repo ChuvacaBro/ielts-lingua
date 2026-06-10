@@ -34,7 +34,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "One health insurance Company",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -67,7 +67,7 @@
     },
     {
       "number": 2,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "British Rail",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -100,7 +100,7 @@
     },
     {
       "number": 3,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "IBM",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -133,7 +133,7 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "United Airline",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -166,7 +166,7 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "A financial service company",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -199,7 +199,7 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "A Shoemaking company (Nike)",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",
@@ -232,7 +232,7 @@
     },
     {
       "number": 7,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The Company of (Ford)",
       "groupId": "q1-7",
       "instructions": "Use the information in the passage to match the company (listed A-F) with correct category or deeds below. Write the appropriate letters A-F in boxes 1-7 on your answer sheet. NB You may use any letter more than once",

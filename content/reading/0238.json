@@ -69,31 +69,135 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "Professor Max Leonard",
       "groupId": "q6-9",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 6 -9) and the list of statements below. Match each person with the correct statement, A – F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "We have the ability to change the situation"
+        },
+        {
+          "letter": "B",
+          "text": "Climate Change is Inevitable"
+        },
+        {
+          "letter": "C",
+          "text": "Humans have made the situation much worse"
+        },
+        {
+          "letter": "D",
+          "text": "Climate Change might not be all bad"
+        },
+        {
+          "letter": "E",
+          "text": "Human activity and natural weather phenomena"
+        },
+        {
+          "letter": "F",
+          "text": "While we may not be too late to save our planet, there are bound to be some extreme side-effects of past human activity one way or the other"
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "Dr Michael Crawley",
       "groupId": "q6-9",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 6 -9) and the list of statements below. Match each person with the correct statement, A – F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "We have the ability to change the situation"
+        },
+        {
+          "letter": "B",
+          "text": "Climate Change is Inevitable"
+        },
+        {
+          "letter": "C",
+          "text": "Humans have made the situation much worse"
+        },
+        {
+          "letter": "D",
+          "text": "Climate Change might not be all bad"
+        },
+        {
+          "letter": "E",
+          "text": "Human activity and natural weather phenomena"
+        },
+        {
+          "letter": "F",
+          "text": "While we may not be too late to save our planet, there are bound to be some extreme side-effects of past human activity one way or the other"
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "Professor Mark Halton",
       "groupId": "q6-9",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 6 -9) and the list of statements below. Match each person with the correct statement, A – F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "We have the ability to change the situation"
+        },
+        {
+          "letter": "B",
+          "text": "Climate Change is Inevitable"
+        },
+        {
+          "letter": "C",
+          "text": "Humans have made the situation much worse"
+        },
+        {
+          "letter": "D",
+          "text": "Climate Change might not be all bad"
+        },
+        {
+          "letter": "E",
+          "text": "Human activity and natural weather phenomena"
+        },
+        {
+          "letter": "F",
+          "text": "While we may not be too late to save our planet, there are bound to be some extreme side-effects of past human activity one way or the other"
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "Dr Ray Ellis",
       "groupId": "q6-9",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 6 -9) and the list of statements below. Match each person with the correct statement, A – F.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "We have the ability to change the situation"
+        },
+        {
+          "letter": "B",
+          "text": "Climate Change is Inevitable"
+        },
+        {
+          "letter": "C",
+          "text": "Humans have made the situation much worse"
+        },
+        {
+          "letter": "D",
+          "text": "Climate Change might not be all bad"
+        },
+        {
+          "letter": "E",
+          "text": "Human activity and natural weather phenomena"
+        },
+        {
+          "letter": "F",
+          "text": "While we may not be too late to save our planet, there are bound to be some extreme side-effects of past human activity one way or the other"
+        }
+      ]
     },
     {
       "number": 10,

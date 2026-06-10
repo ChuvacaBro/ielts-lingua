@@ -432,38 +432,148 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "has found fault in geological research procedure.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 36-40 on your answer sheet. ‘",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Colin Campbell"
+        },
+        {
+          "letter": "B",
+          "text": "M. King Hubbert"
+        },
+        {
+          "letter": "C",
+          "text": ". Kenneth Deffeyes"
+        },
+        {
+          "letter": "D",
+          "text": ". Rene Dahan"
+        },
+        {
+          "letter": "E",
+          "text": ". Michael Lynch"
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "has provided the longest-range forecast regarding oil supply.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 36-40 on your answer sheet. ‘",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Colin Campbell"
+        },
+        {
+          "letter": "B",
+          "text": "M. King Hubbert"
+        },
+        {
+          "letter": "C",
+          "text": ". Kenneth Deffeyes"
+        },
+        {
+          "letter": "D",
+          "text": ". Rene Dahan"
+        },
+        {
+          "letter": "E",
+          "text": ". Michael Lynch"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "has convinced others that oil production will follow a particular model.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 36-40 on your answer sheet. ‘",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Colin Campbell"
+        },
+        {
+          "letter": "B",
+          "text": "M. King Hubbert"
+        },
+        {
+          "letter": "C",
+          "text": ". Kenneth Deffeyes"
+        },
+        {
+          "letter": "D",
+          "text": ". Rene Dahan"
+        },
+        {
+          "letter": "E",
+          "text": ". Michael Lynch"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "has accused fellow scientists of refusing to see the truth.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 36-40 on your answer sheet. ‘",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Colin Campbell"
+        },
+        {
+          "letter": "B",
+          "text": "M. King Hubbert"
+        },
+        {
+          "letter": "C",
+          "text": ". Kenneth Deffeyes"
+        },
+        {
+          "letter": "D",
+          "text": ". Rene Dahan"
+        },
+        {
+          "letter": "E",
+          "text": ". Michael Lynch"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "has expressed doubt over whether improved methods of extracting oil are possible",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 36-40 on your answer sheet. ‘",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Colin Campbell"
+        },
+        {
+          "letter": "B",
+          "text": "M. King Hubbert"
+        },
+        {
+          "letter": "C",
+          "text": ". Kenneth Deffeyes"
+        },
+        {
+          "letter": "D",
+          "text": ". Rene Dahan"
+        },
+        {
+          "letter": "E",
+          "text": ". Michael Lynch"
+        }
+      ]
     }
   ],
   "answerKey": {

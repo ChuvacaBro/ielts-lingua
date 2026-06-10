@@ -34,31 +34,167 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "Richard Kovacs",
       "groupId": "q1-4",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 1-4) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "believes that the benefits of the sun are not scientifically provable"
+        },
+        {
+          "letter": "B",
+          "text": "claims to have discovered the vitamin released in the skin by the sun"
+        },
+        {
+          "letter": "C",
+          "text": "suggests that the sun is an excellent healer"
+        },
+        {
+          "letter": "D",
+          "text": "invented the first sun screen"
+        },
+        {
+          "letter": "E",
+          "text": "suggests that the sun assists with common illnesses"
+        },
+        {
+          "letter": "F",
+          "text": "thinks that initially the sun is of great benefit to the body"
+        },
+        {
+          "letter": "G",
+          "text": "is unsure about the benefits of the sun"
+        },
+        {
+          "letter": "H",
+          "text": "was one of the pioneers of sun healing therapy"
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "August Rollier",
       "groupId": "q1-4",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 1-4) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "believes that the benefits of the sun are not scientifically provable"
+        },
+        {
+          "letter": "B",
+          "text": "claims to have discovered the vitamin released in the skin by the sun"
+        },
+        {
+          "letter": "C",
+          "text": "suggests that the sun is an excellent healer"
+        },
+        {
+          "letter": "D",
+          "text": "invented the first sun screen"
+        },
+        {
+          "letter": "E",
+          "text": "suggests that the sun assists with common illnesses"
+        },
+        {
+          "letter": "F",
+          "text": "thinks that initially the sun is of great benefit to the body"
+        },
+        {
+          "letter": "G",
+          "text": "is unsure about the benefits of the sun"
+        },
+        {
+          "letter": "H",
+          "text": "was one of the pioneers of sun healing therapy"
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "W.W. Coblentz",
       "groupId": "q1-4",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 1-4) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "believes that the benefits of the sun are not scientifically provable"
+        },
+        {
+          "letter": "B",
+          "text": "claims to have discovered the vitamin released in the skin by the sun"
+        },
+        {
+          "letter": "C",
+          "text": "suggests that the sun is an excellent healer"
+        },
+        {
+          "letter": "D",
+          "text": "invented the first sun screen"
+        },
+        {
+          "letter": "E",
+          "text": "suggests that the sun assists with common illnesses"
+        },
+        {
+          "letter": "F",
+          "text": "thinks that initially the sun is of great benefit to the body"
+        },
+        {
+          "letter": "G",
+          "text": "is unsure about the benefits of the sun"
+        },
+        {
+          "letter": "H",
+          "text": "was one of the pioneers of sun healing therapy"
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "Leonard Dodds",
       "groupId": "q1-4",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 1-4) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "believes that the benefits of the sun are not scientifically provable"
+        },
+        {
+          "letter": "B",
+          "text": "claims to have discovered the vitamin released in the skin by the sun"
+        },
+        {
+          "letter": "C",
+          "text": "suggests that the sun is an excellent healer"
+        },
+        {
+          "letter": "D",
+          "text": "invented the first sun screen"
+        },
+        {
+          "letter": "E",
+          "text": "suggests that the sun assists with common illnesses"
+        },
+        {
+          "letter": "F",
+          "text": "thinks that initially the sun is of great benefit to the body"
+        },
+        {
+          "letter": "G",
+          "text": "is unsure about the benefits of the sun"
+        },
+        {
+          "letter": "H",
+          "text": "was one of the pioneers of sun healing therapy"
+        }
+      ]
     },
     {
       "number": 5,

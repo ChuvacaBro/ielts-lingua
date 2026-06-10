@@ -171,31 +171,119 @@
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Encouraging shade growing may lead to farmers using the natural forest for their plantations.",
       "groupId": "q20-23",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 20-23) and the list of people below. Match each opinion to the person credited with it. NB You can write any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Alex Munroe"
+        },
+        {
+          "letter": "B",
+          "text": "Paul Donald"
+        },
+        {
+          "letter": "C",
+          "text": "Robert Rice"
+        },
+        {
+          "letter": "D",
+          "text": "John Rappole"
+        },
+        {
+          "letter": "E",
+          "text": "Stacey Philpott"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "If shade-coffee farms match the right criteria, they can be good for wildlife.",
       "groupId": "q20-23",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 20-23) and the list of people below. Match each opinion to the person credited with it. NB You can write any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Alex Munroe"
+        },
+        {
+          "letter": "B",
+          "text": "Paul Donald"
+        },
+        {
+          "letter": "C",
+          "text": "Robert Rice"
+        },
+        {
+          "letter": "D",
+          "text": "John Rappole"
+        },
+        {
+          "letter": "E",
+          "text": "Stacey Philpott"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "There may be as many species of bird found on shade farms in a particular area, as in natural habitats there.",
       "groupId": "q20-23",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 20-23) and the list of people below. Match each opinion to the person credited with it. NB You can write any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Alex Munroe"
+        },
+        {
+          "letter": "B",
+          "text": "Paul Donald"
+        },
+        {
+          "letter": "C",
+          "text": "Robert Rice"
+        },
+        {
+          "letter": "D",
+          "text": "John Rappole"
+        },
+        {
+          "letter": "E",
+          "text": "Stacey Philpott"
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Currently, many shade-coffee farmers earn very little.",
       "groupId": "q20-23",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 20-23) and the list of people below. Match each opinion to the person credited with it. NB You can write any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Alex Munroe"
+        },
+        {
+          "letter": "B",
+          "text": "Paul Donald"
+        },
+        {
+          "letter": "C",
+          "text": "Robert Rice"
+        },
+        {
+          "letter": "D",
+          "text": "John Rappole"
+        },
+        {
+          "letter": "E",
+          "text": "Stacey Philpott"
+        }
+      ]
     },
     {
       "number": 24,

@@ -279,24 +279,150 @@
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "prompt": "Question 25",
+      "type": "matchFeatures",
+      "prompt": "Phil Rasch",
       "groupId": "q25-27",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 25-27) and the list of opinions below. Match each person with the correct opinion, A-E. Write the correct letter, A-E, in boxes 25-27 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+        },
+        {
+          "letter": "B",
+          "text": "Some geoengineering projects are more likely to succeed than others."
+        },
+        {
+          "letter": "C",
+          "text": "Geoengineering only offers a short-term relief."
+        },
+        {
+          "letter": "D",
+          "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+        },
+        {
+          "letter": "E",
+          "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+        },
+        {
+          "letter": "F",
+          "text": "Nandawathie, a widow in the village, has taken full advantage of the opportunities that rainwater harvesting has brought her family."
+        },
+        {
+          "letter": "G",
+          "text": "In the short term, and on a small scale, the project has clearly been a success."
+        },
+        {
+          "letter": "H",
+          "text": "The non-structural elements of the work, especially it’s financial and organizational, present a bigger challenge."
+        },
+        {
+          "letter": "I",
+          "text": "The Muthkandiya initiative was planned as a demonstration project, to show that community-based drought mitigation through rainwater harvesting was feasible."
+        },
+        {
+          "letter": "J",
+          "text": "However, a lot of effort and patience are needed to generate the interest, develop the skills and organize the management structures needed to implement sustainable community-based projects."
+        }
+      ]
     },
     {
       "number": 26,
-      "type": "gapFill",
-      "prompt": "Question 26",
+      "type": "matchFeatures",
+      "prompt": "DanLunt",
       "groupId": "q25-27",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 25-27) and the list of opinions below. Match each person with the correct opinion, A-E. Write the correct letter, A-E, in boxes 25-27 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+        },
+        {
+          "letter": "B",
+          "text": "Some geoengineering projects are more likely to succeed than others."
+        },
+        {
+          "letter": "C",
+          "text": "Geoengineering only offers a short-term relief."
+        },
+        {
+          "letter": "D",
+          "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+        },
+        {
+          "letter": "E",
+          "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+        },
+        {
+          "letter": "F",
+          "text": "Nandawathie, a widow in the village, has taken full advantage of the opportunities that rainwater harvesting has brought her family."
+        },
+        {
+          "letter": "G",
+          "text": "In the short term, and on a small scale, the project has clearly been a success."
+        },
+        {
+          "letter": "H",
+          "text": "The non-structural elements of the work, especially it’s financial and organizational, present a bigger challenge."
+        },
+        {
+          "letter": "I",
+          "text": "The Muthkandiya initiative was planned as a demonstration project, to show that community-based drought mitigation through rainwater harvesting was feasible."
+        },
+        {
+          "letter": "J",
+          "text": "However, a lot of effort and patience are needed to generate the interest, develop the skills and organize the management structures needed to implement sustainable community-based projects."
+        }
+      ]
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Martin Sommerkorn List of opinions",
       "groupId": "q25-27",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 25-27) and the list of opinions below. Match each person with the correct opinion, A-E. Write the correct letter, A-E, in boxes 25-27 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+        },
+        {
+          "letter": "B",
+          "text": "Some geoengineering projects are more likely to succeed than others."
+        },
+        {
+          "letter": "C",
+          "text": "Geoengineering only offers a short-term relief."
+        },
+        {
+          "letter": "D",
+          "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+        },
+        {
+          "letter": "E",
+          "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+        },
+        {
+          "letter": "F",
+          "text": "Nandawathie, a widow in the village, has taken full advantage of the opportunities that rainwater harvesting has brought her family."
+        },
+        {
+          "letter": "G",
+          "text": "In the short term, and on a small scale, the project has clearly been a success."
+        },
+        {
+          "letter": "H",
+          "text": "The non-structural elements of the work, especially it’s financial and organizational, present a bigger challenge."
+        },
+        {
+          "letter": "I",
+          "text": "The Muthkandiya initiative was planned as a demonstration project, to show that community-based drought mitigation through rainwater harvesting was feasible."
+        },
+        {
+          "letter": "J",
+          "text": "However, a lot of effort and patience are needed to generate the interest, develop the skills and organize the management structures needed to implement sustainable community-based projects."
+        }
+      ]
     },
     {
       "number": 28,

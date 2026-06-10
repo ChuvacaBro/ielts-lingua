@@ -137,38 +137,108 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "Once lived in Europe and Asia.",
       "groupId": "q14-18",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 14-18) and the list of species below. Match each feature with the correct species, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Homo neanderthalensis"
+        },
+        {
+          "letter": "B",
+          "text": "Homo sapiens"
+        },
+        {
+          "letter": "C",
+          "text": "both Homo neanderthalensis and Homo sapiens"
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "Originated in Africa.",
       "groupId": "q14-18",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 14-18) and the list of species below. Match each feature with the correct species, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Homo neanderthalensis"
+        },
+        {
+          "letter": "B",
+          "text": "Homo sapiens"
+        },
+        {
+          "letter": "C",
+          "text": "both Homo neanderthalensis and Homo sapiens"
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "Did not survive long after the arrival of immigrants.",
       "groupId": "q14-18",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 14-18) and the list of species below. Match each feature with the correct species, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Homo neanderthalensis"
+        },
+        {
+          "letter": "B",
+          "text": "Homo sapiens"
+        },
+        {
+          "letter": "C",
+          "text": "both Homo neanderthalensis and Homo sapiens"
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "Interbred with another species.",
       "groupId": "q14-18",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 14-18) and the list of species below. Match each feature with the correct species, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Homo neanderthalensis"
+        },
+        {
+          "letter": "B",
+          "text": "Homo sapiens"
+        },
+        {
+          "letter": "C",
+          "text": "both Homo neanderthalensis and Homo sapiens"
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "Appears not to have passed on mitochondrial DNA to another species.",
       "groupId": "q14-18",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 14-18) and the list of species below. Match each feature with the correct species, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Homo neanderthalensis"
+        },
+        {
+          "letter": "B",
+          "text": "Homo sapiens"
+        },
+        {
+          "letter": "C",
+          "text": "both Homo neanderthalensis and Homo sapiens"
+        }
+      ]
     },
     {
       "number": 19,

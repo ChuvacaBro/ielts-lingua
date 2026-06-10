@@ -162,24 +162,102 @@
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "People are more trusting when affected by oxytocin.",
       "groupId": "q18-20",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 18-20) and the list of researchers below. Match each research finding with the correct researcher, A-F Write the correct letter, A-F, in boxes 18-20 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Markus Heinrichs"
+        },
+        {
+          "letter": "B",
+          "text": "Simone Shamay-Tsoory"
+        },
+        {
+          "letter": "C",
+          "text": "Jennifer Bartz"
+        },
+        {
+          "letter": "D",
+          "text": "Carolyn DeClerck"
+        },
+        {
+          "letter": "E",
+          "text": "Carsten De Dreu"
+        },
+        {
+          "letter": "F",
+          "text": "Sue Carter"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "Oxytocin increases people’s feelings of jealousy.",
       "groupId": "q18-20",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 18-20) and the list of researchers below. Match each research finding with the correct researcher, A-F Write the correct letter, A-F, in boxes 18-20 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Markus Heinrichs"
+        },
+        {
+          "letter": "B",
+          "text": "Simone Shamay-Tsoory"
+        },
+        {
+          "letter": "C",
+          "text": "Jennifer Bartz"
+        },
+        {
+          "letter": "D",
+          "text": "Carolyn DeClerck"
+        },
+        {
+          "letter": "E",
+          "text": "Carsten De Dreu"
+        },
+        {
+          "letter": "F",
+          "text": "Sue Carter"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "The effect of oxytocin varies from one type of person to another.",
       "groupId": "q18-20",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 18-20) and the list of researchers below. Match each research finding with the correct researcher, A-F Write the correct letter, A-F, in boxes 18-20 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Markus Heinrichs"
+        },
+        {
+          "letter": "B",
+          "text": "Simone Shamay-Tsoory"
+        },
+        {
+          "letter": "C",
+          "text": "Jennifer Bartz"
+        },
+        {
+          "letter": "D",
+          "text": "Carolyn DeClerck"
+        },
+        {
+          "letter": "E",
+          "text": "Carsten De Dreu"
+        },
+        {
+          "letter": "F",
+          "text": "Sue Carter"
+        }
+      ]
     },
     {
       "number": 21,

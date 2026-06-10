@@ -1050,45 +1050,129 @@
     },
     {
       "number": 35,
-      "type": "gapFill",
-      "prompt": "Question 35",
+      "type": "matchFeatures",
+      "prompt": "Greater levels of automation will not result in lower employment.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "There are several reasons why Al is appealing to businesses.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "Al’s potential to transform people’s lives has parallels with major cultural shifts which occurred in previous eras.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "It is important to be aware of the range of problems that Al causes.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "People are going to follow a less conventional career path than in the past.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "Authorities should take measures to ensure that there will be adequately paid work for everyone.",
       "groupId": "q35-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 35-40) and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 35-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stella Pachidi"
+        },
+        {
+          "letter": "B",
+          "text": "Hamish Low"
+        },
+        {
+          "letter": "C",
+          "text": "Ewan McGaughey"
+        }
+      ]
     }
   ],
   "answerKey": {

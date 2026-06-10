@@ -128,38 +128,188 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "The first description of citrus ants is traded in the marketplace.",
       "groupId": "q14-18",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 14-18) and the list of dates below. Match each event with the correct time A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1888"
+        },
+        {
+          "letter": "B",
+          "text": "AD 890"
+        },
+        {
+          "letter": "C",
+          "text": "AD 304"
+        },
+        {
+          "letter": "D",
+          "text": "1950s"
+        },
+        {
+          "letter": "E",
+          "text": "1960s"
+        },
+        {
+          "letter": "F",
+          "text": "1915"
+        },
+        {
+          "letter": "G",
+          "text": "1130"
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "Swingle came to Asia for research.",
       "groupId": "q14-18",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 14-18) and the list of dates below. Match each event with the correct time A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1888"
+        },
+        {
+          "letter": "B",
+          "text": "AD 890"
+        },
+        {
+          "letter": "C",
+          "text": "AD 304"
+        },
+        {
+          "letter": "D",
+          "text": "1950s"
+        },
+        {
+          "letter": "E",
+          "text": "1960s"
+        },
+        {
+          "letter": "F",
+          "text": "1915"
+        },
+        {
+          "letter": "G",
+          "text": "1130"
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "The first record of one insect is used to tackle other insects in the western world.",
       "groupId": "q14-18",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 14-18) and the list of dates below. Match each event with the correct time A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1888"
+        },
+        {
+          "letter": "B",
+          "text": "AD 890"
+        },
+        {
+          "letter": "C",
+          "text": "AD 304"
+        },
+        {
+          "letter": "D",
+          "text": "1950s"
+        },
+        {
+          "letter": "E",
+          "text": "1960s"
+        },
+        {
+          "letter": "F",
+          "text": "1915"
+        },
+        {
+          "letter": "G",
+          "text": "1130"
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "Chinese fruit growers started to use pesticides in place of citrus ants.",
       "groupId": "q14-18",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 14-18) and the list of dates below. Match each event with the correct time A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1888"
+        },
+        {
+          "letter": "B",
+          "text": "AD 890"
+        },
+        {
+          "letter": "C",
+          "text": "AD 304"
+        },
+        {
+          "letter": "D",
+          "text": "1950s"
+        },
+        {
+          "letter": "E",
+          "text": "1960s"
+        },
+        {
+          "letter": "F",
+          "text": "1915"
+        },
+        {
+          "letter": "G",
+          "text": "1130"
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "Some Chinese farmers returned to the traditional bio-method List of Dates",
       "groupId": "q14-18",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 14-18) and the list of dates below. Match each event with the correct time A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1888"
+        },
+        {
+          "letter": "B",
+          "text": "AD 890"
+        },
+        {
+          "letter": "C",
+          "text": "AD 304"
+        },
+        {
+          "letter": "D",
+          "text": "1950s"
+        },
+        {
+          "letter": "E",
+          "text": "1960s"
+        },
+        {
+          "letter": "F",
+          "text": "1915"
+        },
+        {
+          "letter": "G",
+          "text": "1130"
+        }
+      ]
     },
     {
       "number": 19,
@@ -594,52 +744,262 @@
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "Steven Pinker",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 33,
-      "type": "gapFill",
-      "prompt": "Question 33",
+      "type": "matchFeatures",
+      "prompt": "Musicologists",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "Greek philosopher Pythagoras",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 35,
-      "type": "gapFill",
-      "prompt": "Question 35",
+      "type": "matchFeatures",
+      "prompt": "Schwartz, Howe, and Purves",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "Marc Hauser and Josh McDermott",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "Charles Rosen",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "Sandra Trehub List of Statements",
       "groupId": "q32-38",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 32-38) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Music exists outside of the world it is created in."
+        },
+        {
+          "letter": "B",
+          "text": "Music has a universal character despite cultural influences on it."
+        },
+        {
+          "letter": "C",
+          "text": "Music is a necessity for humans."
+        },
+        {
+          "letter": "D",
+          "text": "Music preference is related to the surrounding influences."
+        },
+        {
+          "letter": "E",
+          "text": "He discovered the mathematical basis of music."
+        },
+        {
+          "letter": "F",
+          "text": "Music doesn’t enjoy the same status of research interest as language."
+        },
+        {
+          "letter": "G",
+          "text": "Humans and monkeys have similar traits in perceiving sound."
+        }
+      ]
     },
     {
       "number": 39,

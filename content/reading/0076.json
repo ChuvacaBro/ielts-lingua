@@ -1132,24 +1132,114 @@
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "Koestler",
       "groupId": "q28-30",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 28-30) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Americans use their jaw more to enunciate"
+        },
+        {
+          "letter": "B",
+          "text": "immigrants acquire physiognomical features common among the indigenous population"
+        },
+        {
+          "letter": "C",
+          "text": "facial expression and physical features are hereditary"
+        },
+        {
+          "letter": "D",
+          "text": "lifestyle affects physiognomy"
+        },
+        {
+          "letter": "E",
+          "text": "Americans have a broadened jaw"
+        },
+        {
+          "letter": "F",
+          "text": "His friend’s appearance had changed since they moved to the United States."
+        },
+        {
+          "letter": "G",
+          "text": "the change of countenance was unremarkable"
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Fishberg",
       "groupId": "q28-30",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 28-30) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Americans use their jaw more to enunciate"
+        },
+        {
+          "letter": "B",
+          "text": "immigrants acquire physiognomical features common among the indigenous population"
+        },
+        {
+          "letter": "C",
+          "text": "facial expression and physical features are hereditary"
+        },
+        {
+          "letter": "D",
+          "text": "lifestyle affects physiognomy"
+        },
+        {
+          "letter": "E",
+          "text": "Americans have a broadened jaw"
+        },
+        {
+          "letter": "F",
+          "text": "His friend’s appearance had changed since they moved to the United States."
+        },
+        {
+          "letter": "G",
+          "text": "the change of countenance was unremarkable"
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "Emerson",
       "groupId": "q28-30",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 28-30) and the list of statements below. Match each person with the correct statement.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Americans use their jaw more to enunciate"
+        },
+        {
+          "letter": "B",
+          "text": "immigrants acquire physiognomical features common among the indigenous population"
+        },
+        {
+          "letter": "C",
+          "text": "facial expression and physical features are hereditary"
+        },
+        {
+          "letter": "D",
+          "text": "lifestyle affects physiognomy"
+        },
+        {
+          "letter": "E",
+          "text": "Americans have a broadened jaw"
+        },
+        {
+          "letter": "F",
+          "text": "His friend’s appearance had changed since they moved to the United States."
+        },
+        {
+          "letter": "G",
+          "text": "the change of countenance was unremarkable"
+        }
+      ]
     },
     {
       "number": 31,
@@ -1196,30 +1286,182 @@
     {
       "number": 37,
       "type": "gapFill",
-      "prompt": "Question 37",
+      "prompt": "Voice coaches",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending A-I from the box below. Write the appropriate letters A-I in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "can be achieved by using mental aid"
+        },
+        {
+          "letter": "B",
+          "text": "is irrelevant"
+        },
+        {
+          "letter": "C",
+          "text": "is worth investing"
+        },
+        {
+          "letter": "D",
+          "text": "use images to assist students with the desired pronunciation"
+        },
+        {
+          "letter": "E",
+          "text": "is a chicken and egg conundrum"
+        },
+        {
+          "letter": "F",
+          "text": "get the target"
+        },
+        {
+          "letter": "G",
+          "text": "can affect appearance"
+        },
+        {
+          "letter": "H",
+          "text": "is not as easy as a Belfast one"
+        },
+        {
+          "letter": "I",
+          "text": "makes you smile"
+        }
+      ]
     },
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
+      "prompt": "The Scouse accent",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending A-I from the box below. Write the appropriate letters A-I in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "can be achieved by using mental aid"
+        },
+        {
+          "letter": "B",
+          "text": "is irrelevant"
+        },
+        {
+          "letter": "C",
+          "text": "is worth investing"
+        },
+        {
+          "letter": "D",
+          "text": "use images to assist students with the desired pronunciation"
+        },
+        {
+          "letter": "E",
+          "text": "is a chicken and egg conundrum"
+        },
+        {
+          "letter": "F",
+          "text": "get the target"
+        },
+        {
+          "letter": "G",
+          "text": "can affect appearance"
+        },
+        {
+          "letter": "H",
+          "text": "is not as easy as a Belfast one"
+        },
+        {
+          "letter": "I",
+          "text": "makes you smile"
+        }
+      ]
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
+      "prompt": "Whether the way we look affects the way we speak or the other way round",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending A-I from the box below. Write the appropriate letters A-I in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "can be achieved by using mental aid"
+        },
+        {
+          "letter": "B",
+          "text": "is irrelevant"
+        },
+        {
+          "letter": "C",
+          "text": "is worth investing"
+        },
+        {
+          "letter": "D",
+          "text": "use images to assist students with the desired pronunciation"
+        },
+        {
+          "letter": "E",
+          "text": "is a chicken and egg conundrum"
+        },
+        {
+          "letter": "F",
+          "text": "get the target"
+        },
+        {
+          "letter": "G",
+          "text": "can affect appearance"
+        },
+        {
+          "letter": "H",
+          "text": "is not as easy as a Belfast one"
+        },
+        {
+          "letter": "I",
+          "text": "makes you smile"
+        }
+      ]
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40",
+      "prompt": "It is important to prove that pronunciation",
       "groupId": "q37-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 37-40) with the best ending A-I from the box below. Write the appropriate letters A-I in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "can be achieved by using mental aid"
+        },
+        {
+          "letter": "B",
+          "text": "is irrelevant"
+        },
+        {
+          "letter": "C",
+          "text": "is worth investing"
+        },
+        {
+          "letter": "D",
+          "text": "use images to assist students with the desired pronunciation"
+        },
+        {
+          "letter": "E",
+          "text": "is a chicken and egg conundrum"
+        },
+        {
+          "letter": "F",
+          "text": "get the target"
+        },
+        {
+          "letter": "G",
+          "text": "can affect appearance"
+        },
+        {
+          "letter": "H",
+          "text": "is not as easy as a Belfast one"
+        },
+        {
+          "letter": "I",
+          "text": "makes you smile"
+        }
+      ]
     }
   ],
   "answerKey": {

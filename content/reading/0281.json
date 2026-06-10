@@ -529,28 +529,28 @@
     },
     {
       "number": 11,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Discovered the moons of Jupiter",
       "groupId": "q11-14",
       "instructions": "Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet. NB You may use any researcher more than once."
     },
     {
       "number": 12,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Distracted experimental calculation on refraction",
       "groupId": "q11-14",
       "instructions": "Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet. NB You may use any researcher more than once."
     },
     {
       "number": 13,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The discovery of sunspots",
       "groupId": "q11-14",
       "instructions": "Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet. NB You may use any researcher more than once."
     },
     {
       "number": 14,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The person whose name the sin law was attributed to Crisis!",
       "groupId": "q11-14",
       "instructions": "Look at the following researchers (listed A-D) and findings. Match each researcher with the correct finding. Write your answers in boxes 11-14 on your answer sheet. NB You may use any researcher more than once."
@@ -711,38 +711,108 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "It has seen the return of native tree species.",
       "groupId": "q36-40",
-      "instructions": "Look at the following features ("
+      "instructions": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. Write the correct letter, A, B or C, in boxes 36-40 on your answer sheet. List of Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "B"
+        },
+        {
+          "letter": "C",
+          "text": "C 36."
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "It supports only one species of native monkey.",
       "groupId": "q36-40",
-      "instructions": "Look at the following features ("
+      "instructions": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. Write the correct letter, A, B or C, in boxes 36-40 on your answer sheet. List of Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "B"
+        },
+        {
+          "letter": "C",
+          "text": "C 36."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "Its monkey population helps the agriculture of the area.",
       "groupId": "q36-40",
-      "instructions": "Look at the following features ("
+      "instructions": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. Write the correct letter, A, B or C, in boxes 36-40 on your answer sheet. List of Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "B"
+        },
+        {
+          "letter": "C",
+          "text": "C 36."
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "It is home to populations of all three local monkey species.",
       "groupId": "q36-40",
-      "instructions": "Look at the following features ("
+      "instructions": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. Write the correct letter, A, B or C, in boxes 36-40 on your answer sheet. List of Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "B"
+        },
+        {
+          "letter": "C",
+          "text": "C 36."
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "Its landscape was altered by the construction of a transport link.",
       "groupId": "q36-40",
-      "instructions": "Look at the following features ("
+      "instructions": "Look at the following features (Questions 36-40) and the list of locations below. Match each feature with the correct location, A, B or C. Write the correct letter, A, B or C, in boxes 36-40 on your answer sheet. List of Locations",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "A"
+        },
+        {
+          "letter": "B",
+          "text": "B"
+        },
+        {
+          "letter": "C",
+          "text": "C 36."
+        }
+      ]
     }
   ],
   "answerKey": {

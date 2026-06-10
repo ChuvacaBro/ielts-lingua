@@ -69,38 +69,208 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "Byron Reeves and Esther Thorson",
       "groupId": "q6-10",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 6-10) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 6-10 on your answer sheets.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Audiences would get hypnotized from viewing too much television."
+        },
+        {
+          "letter": "B",
+          "text": "People have been sensitive to the TV signals since a younger age."
+        },
+        {
+          "letter": "C",
+          "text": "People are less likely to accomplish their work with television."
+        },
+        {
+          "letter": "D",
+          "text": "A handful of studies have attempted to study other types of media addiction."
+        },
+        {
+          "letter": "E",
+          "text": "The addictive power of television could probably minimize the problems."
+        },
+        {
+          "letter": "F",
+          "text": "Various media formal characters stimulate people’s reaction on the screen."
+        },
+        {
+          "letter": "G",
+          "text": "People who believe themselves to be TV addicts are less likely to join in the group activities."
+        },
+        {
+          "letter": "H",
+          "text": "It is hard for people to accept life without a TV at the beginning."
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "Dafna Lemish",
       "groupId": "q6-10",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 6-10) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 6-10 on your answer sheets.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Audiences would get hypnotized from viewing too much television."
+        },
+        {
+          "letter": "B",
+          "text": "People have been sensitive to the TV signals since a younger age."
+        },
+        {
+          "letter": "C",
+          "text": "People are less likely to accomplish their work with television."
+        },
+        {
+          "letter": "D",
+          "text": "A handful of studies have attempted to study other types of media addiction."
+        },
+        {
+          "letter": "E",
+          "text": "The addictive power of television could probably minimize the problems."
+        },
+        {
+          "letter": "F",
+          "text": "Various media formal characters stimulate people’s reaction on the screen."
+        },
+        {
+          "letter": "G",
+          "text": "People who believe themselves to be TV addicts are less likely to join in the group activities."
+        },
+        {
+          "letter": "H",
+          "text": "It is hard for people to accept life without a TV at the beginning."
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "Robert D. McIlwraith",
       "groupId": "q6-10",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 6-10) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 6-10 on your answer sheets.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Audiences would get hypnotized from viewing too much television."
+        },
+        {
+          "letter": "B",
+          "text": "People have been sensitive to the TV signals since a younger age."
+        },
+        {
+          "letter": "C",
+          "text": "People are less likely to accomplish their work with television."
+        },
+        {
+          "letter": "D",
+          "text": "A handful of studies have attempted to study other types of media addiction."
+        },
+        {
+          "letter": "E",
+          "text": "The addictive power of television could probably minimize the problems."
+        },
+        {
+          "letter": "F",
+          "text": "Various media formal characters stimulate people’s reaction on the screen."
+        },
+        {
+          "letter": "G",
+          "text": "People who believe themselves to be TV addicts are less likely to join in the group activities."
+        },
+        {
+          "letter": "H",
+          "text": "It is hard for people to accept life without a TV at the beginning."
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "Tannis M. MacBeth Williams",
       "groupId": "q6-10",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 6-10) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 6-10 on your answer sheets.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Audiences would get hypnotized from viewing too much television."
+        },
+        {
+          "letter": "B",
+          "text": "People have been sensitive to the TV signals since a younger age."
+        },
+        {
+          "letter": "C",
+          "text": "People are less likely to accomplish their work with television."
+        },
+        {
+          "letter": "D",
+          "text": "A handful of studies have attempted to study other types of media addiction."
+        },
+        {
+          "letter": "E",
+          "text": "The addictive power of television could probably minimize the problems."
+        },
+        {
+          "letter": "F",
+          "text": "Various media formal characters stimulate people’s reaction on the screen."
+        },
+        {
+          "letter": "G",
+          "text": "People who believe themselves to be TV addicts are less likely to join in the group activities."
+        },
+        {
+          "letter": "H",
+          "text": "It is hard for people to accept life without a TV at the beginning."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "Charles Winick",
       "groupId": "q6-10",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 6-10) and the list of statements below. Match each researcher with the correct statements. Write the correct letter A-H in boxes 6-10 on your answer sheets.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Audiences would get hypnotized from viewing too much television."
+        },
+        {
+          "letter": "B",
+          "text": "People have been sensitive to the TV signals since a younger age."
+        },
+        {
+          "letter": "C",
+          "text": "People are less likely to accomplish their work with television."
+        },
+        {
+          "letter": "D",
+          "text": "A handful of studies have attempted to study other types of media addiction."
+        },
+        {
+          "letter": "E",
+          "text": "The addictive power of television could probably minimize the problems."
+        },
+        {
+          "letter": "F",
+          "text": "Various media formal characters stimulate people’s reaction on the screen."
+        },
+        {
+          "letter": "G",
+          "text": "People who believe themselves to be TV addicts are less likely to join in the group activities."
+        },
+        {
+          "letter": "H",
+          "text": "It is hard for people to accept life without a TV at the beginning."
+        }
+      ]
     },
     {
       "number": 11,
@@ -203,7 +373,7 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Use of chemical fertilizer can be optimised by combining weather information.",
       "groupId": "q14-17",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below. Write the appropriate letters A-D in boxes 14-17 on your answer sheet.",
@@ -228,7 +398,7 @@
     },
     {
       "number": 15,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Organic framing yield is nearly equal to traditional ones.",
       "groupId": "q14-17",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below. Write the appropriate letters A-D in boxes 14-17 on your answer sheet.",
@@ -253,7 +423,7 @@
     },
     {
       "number": 16,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Better agricultural setting is a significant key to solve environmental tough nut.",
       "groupId": "q14-17",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below. Write the appropriate letters A-D in boxes 14-17 on your answer sheet.",
@@ -278,7 +448,7 @@
     },
     {
       "number": 17,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Substantial production loss would happen in case all farmers shifted from using synthetic fertiliser.",
       "groupId": "q14-17",
       "instructions": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below. Write the appropriate letters A-D in boxes 14-17 on your answer sheet.",

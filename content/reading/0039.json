@@ -171,31 +171,151 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "People must accept that they do not know much when first trying something new.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of people below. Match each statement with the correct person, A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Christopher Peterson"
+        },
+        {
+          "letter": "B",
+          "text": "David Fajgenbaum"
+        },
+        {
+          "letter": "C",
+          "text": "Suzanne Segerstrom"
+        },
+        {
+          "letter": "D",
+          "text": "Tanya Streeter"
+        },
+        {
+          "letter": "E",
+          "text": "Todd Kashdan"
+        },
+        {
+          "letter": "F",
+          "text": "Kenneth Pedeleose"
+        },
+        {
+          "letter": "G",
+          "text": "Cynthia Pury"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "It is important for people to actively notice when good things happen.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of people below. Match each statement with the correct person, A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Christopher Peterson"
+        },
+        {
+          "letter": "B",
+          "text": "David Fajgenbaum"
+        },
+        {
+          "letter": "C",
+          "text": "Suzanne Segerstrom"
+        },
+        {
+          "letter": "D",
+          "text": "Tanya Streeter"
+        },
+        {
+          "letter": "E",
+          "text": "Todd Kashdan"
+        },
+        {
+          "letter": "F",
+          "text": "Kenneth Pedeleose"
+        },
+        {
+          "letter": "G",
+          "text": "Cynthia Pury"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "Courage can be learned once its origins in a sense of responsibility are understood.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of people below. Match each statement with the correct person, A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Christopher Peterson"
+        },
+        {
+          "letter": "B",
+          "text": "David Fajgenbaum"
+        },
+        {
+          "letter": "C",
+          "text": "Suzanne Segerstrom"
+        },
+        {
+          "letter": "D",
+          "text": "Tanya Streeter"
+        },
+        {
+          "letter": "E",
+          "text": "Todd Kashdan"
+        },
+        {
+          "letter": "F",
+          "text": "Kenneth Pedeleose"
+        },
+        {
+          "letter": "G",
+          "text": "Cynthia Pury"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "It is possible to overcome shyness when faced with the need to speak in public.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of people below. Match each statement with the correct person, A-G.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Christopher Peterson"
+        },
+        {
+          "letter": "B",
+          "text": "David Fajgenbaum"
+        },
+        {
+          "letter": "C",
+          "text": "Suzanne Segerstrom"
+        },
+        {
+          "letter": "D",
+          "text": "Tanya Streeter"
+        },
+        {
+          "letter": "E",
+          "text": "Todd Kashdan"
+        },
+        {
+          "letter": "F",
+          "text": "Kenneth Pedeleose"
+        },
+        {
+          "letter": "G",
+          "text": "Cynthia Pury"
+        }
+      ]
     },
     {
       "number": 23,

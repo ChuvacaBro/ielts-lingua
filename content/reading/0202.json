@@ -34,52 +34,206 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "Children take pleasure in giving books to each other.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "Reading in public is an activity that children have not always felt comfortable about doing.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "Some well-known writers of adult literature regret that they earn less than popular children’s writers.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "Children are quick to decide whether they like or dislike a book.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Children will read many books by an author that they like.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "The public do not realise how much children read today.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "We are experiencing a rise in the popularity of children’s literature.",
       "groupId": "q1-7",
-      "instructions": "Look at the following list of people A-E and the list of statements ("
+      "instructions": "Look at the following list of people A-E and the list of statements (Questions 1-7). Match each statement with one of the people listed.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Wendy Cooling"
+        },
+        {
+          "letter": "B",
+          "text": "David Almond"
+        },
+        {
+          "letter": "C",
+          "text": "Julia Eccleshare"
+        },
+        {
+          "letter": "D",
+          "text": "Jacqueline Wilson"
+        },
+        {
+          "letter": "E",
+          "text": "Anne Fine 1."
+        }
+      ]
     },
     {
       "number": 8,
@@ -108,30 +262,182 @@
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
+      "prompt": "the fact that children are able to identify and discuss the important elements of fiction",
       "groupId": "q11-14",
-      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following ("
+      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following (Questions 11-14)?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Are you better off than you used to be? Even after six years of sustained economic growth, Americans worry about that question."
+        },
+        {
+          "letter": "B",
+          "text": "A recent paper by Dora Costa, an economist at the Massachusetts Institute of Technology, looks at the living-standards debate from an unusual direction."
+        },
+        {
+          "letter": "C",
+          "text": "Ms Costa bases her research on consumption surveys dating back as far as 1888."
+        },
+        {
+          "letter": "D",
+          "text": "Since those days, leisure has steadily become less of a luxury."
+        },
+        {
+          "letter": "E",
+          "text": "One obvious cause is that real income overall has risen."
+        },
+        {
+          "letter": "F",
+          "text": "Conveniently, Americans have had an increasing number of recreational possibilities to choose from."
+        },
+        {
+          "letter": "G",
+          "text": "At a time when many economists are pointing accusing fingers at technology for causing a widening inequality in the wages of skilled and unskilled workers, Ms Costa’s research gives it a much more egalitarian face."
+        },
+        {
+          "letter": "H",
+          "text": "These findings are not water-tight."
+        },
+        {
+          "letter": "I",
+          "text": "Although Ms Costa tries to address this problem by showing that her results still hold even when tricky categories, such as books, are removed from the sample, the difficulty is not entirely eliminated."
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
+      "prompt": "the undervaluing of children’s society",
       "groupId": "q11-14",
-      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following ("
+      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following (Questions 11-14)?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Are you better off than you used to be? Even after six years of sustained economic growth, Americans worry about that question."
+        },
+        {
+          "letter": "B",
+          "text": "A recent paper by Dora Costa, an economist at the Massachusetts Institute of Technology, looks at the living-standards debate from an unusual direction."
+        },
+        {
+          "letter": "C",
+          "text": "Ms Costa bases her research on consumption surveys dating back as far as 1888."
+        },
+        {
+          "letter": "D",
+          "text": "Since those days, leisure has steadily become less of a luxury."
+        },
+        {
+          "letter": "E",
+          "text": "One obvious cause is that real income overall has risen."
+        },
+        {
+          "letter": "F",
+          "text": "Conveniently, Americans have had an increasing number of recreational possibilities to choose from."
+        },
+        {
+          "letter": "G",
+          "text": "At a time when many economists are pointing accusing fingers at technology for causing a widening inequality in the wages of skilled and unskilled workers, Ms Costa’s research gives it a much more egalitarian face."
+        },
+        {
+          "letter": "H",
+          "text": "These findings are not water-tight."
+        },
+        {
+          "letter": "I",
+          "text": "Although Ms Costa tries to address this problem by showing that her results still hold even when tricky categories, such as books, are removed from the sample, the difficulty is not entirely eliminated."
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
+      "prompt": "the impact of a particular fictional character on the sales of children’s books",
       "groupId": "q11-14",
-      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following ("
+      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following (Questions 11-14)?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Are you better off than you used to be? Even after six years of sustained economic growth, Americans worry about that question."
+        },
+        {
+          "letter": "B",
+          "text": "A recent paper by Dora Costa, an economist at the Massachusetts Institute of Technology, looks at the living-standards debate from an unusual direction."
+        },
+        {
+          "letter": "C",
+          "text": "Ms Costa bases her research on consumption surveys dating back as far as 1888."
+        },
+        {
+          "letter": "D",
+          "text": "Since those days, leisure has steadily become less of a luxury."
+        },
+        {
+          "letter": "E",
+          "text": "One obvious cause is that real income overall has risen."
+        },
+        {
+          "letter": "F",
+          "text": "Conveniently, Americans have had an increasing number of recreational possibilities to choose from."
+        },
+        {
+          "letter": "G",
+          "text": "At a time when many economists are pointing accusing fingers at technology for causing a widening inequality in the wages of skilled and unskilled workers, Ms Costa’s research gives it a much more egalitarian face."
+        },
+        {
+          "letter": "H",
+          "text": "These findings are not water-tight."
+        },
+        {
+          "letter": "I",
+          "text": "Although Ms Costa tries to address this problem by showing that her results still hold even when tricky categories, such as books, are removed from the sample, the difficulty is not entirely eliminated."
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
+      "prompt": "an inaccurate forecast regarding the reading habits of children Fun for the Masses",
       "groupId": "q11-14",
-      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following ("
+      "instructions": "Reading Passage 1 has ten paragraphs A-J. Which paragraph mentions the following (Questions 11-14)?",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Are you better off than you used to be? Even after six years of sustained economic growth, Americans worry about that question."
+        },
+        {
+          "letter": "B",
+          "text": "A recent paper by Dora Costa, an economist at the Massachusetts Institute of Technology, looks at the living-standards debate from an unusual direction."
+        },
+        {
+          "letter": "C",
+          "text": "Ms Costa bases her research on consumption surveys dating back as far as 1888."
+        },
+        {
+          "letter": "D",
+          "text": "Since those days, leisure has steadily become less of a luxury."
+        },
+        {
+          "letter": "E",
+          "text": "One obvious cause is that real income overall has risen."
+        },
+        {
+          "letter": "F",
+          "text": "Conveniently, Americans have had an increasing number of recreational possibilities to choose from."
+        },
+        {
+          "letter": "G",
+          "text": "At a time when many economists are pointing accusing fingers at technology for causing a widening inequality in the wages of skilled and unskilled workers, Ms Costa’s research gives it a much more egalitarian face."
+        },
+        {
+          "letter": "H",
+          "text": "These findings are not water-tight."
+        },
+        {
+          "letter": "I",
+          "text": "Although Ms Costa tries to address this problem by showing that her results still hold even when tricky categories, such as books, are removed from the sample, the difficulty is not entirely eliminated."
+        }
+      ]
     },
     {
       "number": 15,
@@ -829,37 +1135,37 @@
     {
       "number": 22,
       "type": "gapFill",
-      "prompt": "Question 22",
+      "prompt": "recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine ____",
       "groupId": "q22-26",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 22-26) using words from the box. List of words holiday time recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine"
     },
     {
       "number": 23,
       "type": "gapFill",
-      "prompt": "Question 23",
+      "prompt": "____than living standards. A decrease in ____",
       "groupId": "q22-26",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 22-26) using words from the box. List of words holiday time recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine"
     },
     {
       "number": 24,
       "type": "gapFill",
-      "prompt": "Question 24",
+      "prompt": "in leisure. According to Ms Costa, how much Americans spend on leisure has been directly affected by salaries and ____",
       "groupId": "q22-26",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 22-26) using words from the box. List of words holiday time recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine"
     },
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
+      "prompt": "____ The writer notes both positive and negative influences of ____",
       "groupId": "q22-26",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 22-26) using words from the box. List of words holiday time recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine"
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
+      "prompt": "____ According to the writer, the way Ms Costa defined ____",
       "groupId": "q22-26",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 22-26) using words from the box. List of words holiday time recreational activities income levels non-luxury spending computer technology cash incomes It is easier to determine"
     },
     {
       "number": 27,

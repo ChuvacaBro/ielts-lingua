@@ -239,31 +239,103 @@
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "He calculated the distance of the Sun from the Earth based on observations of Venus with a fair degree of accuracy.",
       "groupId": "q18-21",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-21) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Edmond Halley"
+        },
+        {
+          "letter": "B",
+          "text": "Johannes Kepler"
+        },
+        {
+          "letter": "C",
+          "text": "Guillaume Le Gentil"
+        },
+        {
+          "letter": "D",
+          "text": "Johann Franz Encke"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "He understood that the distance of the Sun from the Earth could be worked out by comparing observations of a transit.",
       "groupId": "q18-21",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-21) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Edmond Halley"
+        },
+        {
+          "letter": "B",
+          "text": "Johannes Kepler"
+        },
+        {
+          "letter": "C",
+          "text": "Guillaume Le Gentil"
+        },
+        {
+          "letter": "D",
+          "text": "Johann Franz Encke"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "He realised that the time taken by a planet to go round the Sun depends on its distance from the Sun.",
       "groupId": "q18-21",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-21) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Edmond Halley"
+        },
+        {
+          "letter": "B",
+          "text": "Johannes Kepler"
+        },
+        {
+          "letter": "C",
+          "text": "Guillaume Le Gentil"
+        },
+        {
+          "letter": "D",
+          "text": "Johann Franz Encke"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "He witnessed a Venus transit but was unable to make any calculations.",
       "groupId": "q18-21",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-21) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 18-21 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Edmond Halley"
+        },
+        {
+          "letter": "B",
+          "text": "Johannes Kepler"
+        },
+        {
+          "letter": "C",
+          "text": "Guillaume Le Gentil"
+        },
+        {
+          "letter": "D",
+          "text": "Johann Franz Encke"
+        }
+      ]
     },
     {
       "number": 22,

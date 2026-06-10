@@ -76,52 +76,52 @@
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "It is desirable for the same possibilities to be open to everyone.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "No section of society should have preferential treatment at the expense of another.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "People should only gain benefits on the basis of what they actually achieve.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "Variation in intelligence begins at birth.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "The more intelligent people should be in positions of power.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "Everyone can develop the same abilities.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "People of low intelligence are likely to lead uncontrolled lives.",
       "groupId": "q7-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 7-13) and the list of theories below. Match each statement with the correct theory, A, B, or C. Write the correct letter, A, B, or C, in boxes 7-13 on your answer sheet. NB You may use any letter more than once."
     },
     {
       "number": 14,
@@ -264,38 +264,188 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Play can be divided into a number of separate categories.",
       "groupId": "q27-31",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Elkind"
+        },
+        {
+          "letter": "B",
+          "text": "Miller &Almon"
+        },
+        {
+          "letter": "C",
+          "text": "Rubin et al."
+        },
+        {
+          "letter": "D",
+          "text": "Stuart Brown"
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini"
+        },
+        {
+          "letter": "F",
+          "text": "Joan Goodman"
+        },
+        {
+          "letter": "G",
+          "text": "Hirsch-Pasek et al."
+        }
+      ]
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "Adults’ intended goals affect how they play with children.",
       "groupId": "q27-31",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Elkind"
+        },
+        {
+          "letter": "B",
+          "text": "Miller &Almon"
+        },
+        {
+          "letter": "C",
+          "text": "Rubin et al."
+        },
+        {
+          "letter": "D",
+          "text": "Stuart Brown"
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini"
+        },
+        {
+          "letter": "F",
+          "text": "Joan Goodman"
+        },
+        {
+          "letter": "G",
+          "text": "Hirsch-Pasek et al."
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Combining work with play may be the best way for children to learn.",
       "groupId": "q27-31",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Elkind"
+        },
+        {
+          "letter": "B",
+          "text": "Miller &Almon"
+        },
+        {
+          "letter": "C",
+          "text": "Rubin et al."
+        },
+        {
+          "letter": "D",
+          "text": "Stuart Brown"
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini"
+        },
+        {
+          "letter": "F",
+          "text": "Joan Goodman"
+        },
+        {
+          "letter": "G",
+          "text": "Hirsch-Pasek et al."
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "Certain elements of play are more significant than others.",
       "groupId": "q27-31",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Elkind"
+        },
+        {
+          "letter": "B",
+          "text": "Miller &Almon"
+        },
+        {
+          "letter": "C",
+          "text": "Rubin et al."
+        },
+        {
+          "letter": "D",
+          "text": "Stuart Brown"
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini"
+        },
+        {
+          "letter": "F",
+          "text": "Joan Goodman"
+        },
+        {
+          "letter": "G",
+          "text": "Hirsch-Pasek et al."
+        }
+      ]
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "Activities can be classified on a scale of playfulness.",
       "groupId": "q27-31",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-31) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Elkind"
+        },
+        {
+          "letter": "B",
+          "text": "Miller &Almon"
+        },
+        {
+          "letter": "C",
+          "text": "Rubin et al."
+        },
+        {
+          "letter": "D",
+          "text": "Stuart Brown"
+        },
+        {
+          "letter": "E",
+          "text": "Pellegrini"
+        },
+        {
+          "letter": "F",
+          "text": "Joan Goodman"
+        },
+        {
+          "letter": "G",
+          "text": "Hirsch-Pasek et al."
+        }
+      ]
     },
     {
       "number": 32,

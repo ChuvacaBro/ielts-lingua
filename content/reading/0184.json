@@ -137,45 +137,177 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "Complementary medicine provides something that conventional medicine no longer does.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "It is hard for people to know whether they are being told the truth or nor.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "Certain kinds of complementary and alternative medicine are taken seriously because of the number of people making money from them.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "Nothing can be considered a form of medicine unless it has been proved effective.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "It seems likely that some forms of alternative medicine do work.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "One particular kind of alternative medicine is a deliberate attempt to cheat the public.",
       "groupId": "q14-19",
-      "instructions": "Look at the following views ("
+      "instructions": "Look at the following views (Questions 14—19) and the list of people below them. Match each view with the person expressing it in the passage. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Dr Romke Bron"
+        },
+        {
+          "letter": "B",
+          "text": "a molecular biologist from the University of Warwick"
+        },
+        {
+          "letter": "C",
+          "text": "Dr Stephen Nurrish"
+        },
+        {
+          "letter": "D",
+          "text": "a neuroscientist at King’s College London"
+        },
+        {
+          "letter": "E",
+          "text": "Professor David Moore"
+        }
+      ]
     },
     {
       "number": 20,

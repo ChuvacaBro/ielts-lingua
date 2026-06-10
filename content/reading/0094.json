@@ -232,31 +232,151 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "Marian Annett",
       "groupId": "q19-22",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 19-22) and the list of findings below. Match each researcher with the correct finding. Write the correct letter A-G in boxes 19-22 on your answer sheet. List of Findings",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Early language evolution is correlated to body movement and thus affecting the preference of use of one hand."
+        },
+        {
+          "letter": "B",
+          "text": "No single biological component determines the handedness of a child."
+        },
+        {
+          "letter": "C",
+          "text": "Each hemisphere of the brain is in charge of different body functions."
+        },
+        {
+          "letter": "D",
+          "text": "Language process is mainly centered in the left-hemisphere of the brain."
+        },
+        {
+          "letter": "E",
+          "text": "Speech difficulties are often caused by brain damage."
+        },
+        {
+          "letter": "F",
+          "text": "The rate of development of one side of the body has influence on hemisphere preference in fetus."
+        },
+        {
+          "letter": "G",
+          "text": "Brain function already matures by the end of the fetal stage. 19 Marian Annett 20 Peter Hepper 21 Brenda Milner & Theodore Rasmussen 22 Michael Corballis"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Peter Hepper",
       "groupId": "q19-22",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 19-22) and the list of findings below. Match each researcher with the correct finding. Write the correct letter A-G in boxes 19-22 on your answer sheet. List of Findings",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Early language evolution is correlated to body movement and thus affecting the preference of use of one hand."
+        },
+        {
+          "letter": "B",
+          "text": "No single biological component determines the handedness of a child."
+        },
+        {
+          "letter": "C",
+          "text": "Each hemisphere of the brain is in charge of different body functions."
+        },
+        {
+          "letter": "D",
+          "text": "Language process is mainly centered in the left-hemisphere of the brain."
+        },
+        {
+          "letter": "E",
+          "text": "Speech difficulties are often caused by brain damage."
+        },
+        {
+          "letter": "F",
+          "text": "The rate of development of one side of the body has influence on hemisphere preference in fetus."
+        },
+        {
+          "letter": "G",
+          "text": "Brain function already matures by the end of the fetal stage. 19 Marian Annett 20 Peter Hepper 21 Brenda Milner & Theodore Rasmussen 22 Michael Corballis"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "Brenda Milner & Theodore Rasmussen",
       "groupId": "q19-22",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 19-22) and the list of findings below. Match each researcher with the correct finding. Write the correct letter A-G in boxes 19-22 on your answer sheet. List of Findings",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Early language evolution is correlated to body movement and thus affecting the preference of use of one hand."
+        },
+        {
+          "letter": "B",
+          "text": "No single biological component determines the handedness of a child."
+        },
+        {
+          "letter": "C",
+          "text": "Each hemisphere of the brain is in charge of different body functions."
+        },
+        {
+          "letter": "D",
+          "text": "Language process is mainly centered in the left-hemisphere of the brain."
+        },
+        {
+          "letter": "E",
+          "text": "Speech difficulties are often caused by brain damage."
+        },
+        {
+          "letter": "F",
+          "text": "The rate of development of one side of the body has influence on hemisphere preference in fetus."
+        },
+        {
+          "letter": "G",
+          "text": "Brain function already matures by the end of the fetal stage. 19 Marian Annett 20 Peter Hepper 21 Brenda Milner & Theodore Rasmussen 22 Michael Corballis"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Michael Corballis",
       "groupId": "q19-22",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 19-22) and the list of findings below. Match each researcher with the correct finding. Write the correct letter A-G in boxes 19-22 on your answer sheet. List of Findings",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Early language evolution is correlated to body movement and thus affecting the preference of use of one hand."
+        },
+        {
+          "letter": "B",
+          "text": "No single biological component determines the handedness of a child."
+        },
+        {
+          "letter": "C",
+          "text": "Each hemisphere of the brain is in charge of different body functions."
+        },
+        {
+          "letter": "D",
+          "text": "Language process is mainly centered in the left-hemisphere of the brain."
+        },
+        {
+          "letter": "E",
+          "text": "Speech difficulties are often caused by brain damage."
+        },
+        {
+          "letter": "F",
+          "text": "The rate of development of one side of the body has influence on hemisphere preference in fetus."
+        },
+        {
+          "letter": "G",
+          "text": "Brain function already matures by the end of the fetal stage. 19 Marian Annett 20 Peter Hepper 21 Brenda Milner & Theodore Rasmussen 22 Michael Corballis"
+        }
+      ]
     },
     {
       "number": 23,

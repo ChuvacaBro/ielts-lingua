@@ -1050,31 +1050,103 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Mushroom",
       "groupId": "q27-30",
-      "instructions": "Look at the following organisms ("
+      "instructions": "Look at the following organisms (Questions 27-30) and the list of features below. Match each organism with the correct feature, A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too fast to be perceived"
+        },
+        {
+          "letter": "B",
+          "text": "film at the place where the animal will pass"
+        },
+        {
+          "letter": "C",
+          "text": "too slow to be visible to human eyes"
+        },
+        {
+          "letter": "D",
+          "text": "adjust the filming speed to make it interesting"
+        }
+      ]
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "Hummingbird",
       "groupId": "q27-30",
-      "instructions": "Look at the following organisms ("
+      "instructions": "Look at the following organisms (Questions 27-30) and the list of features below. Match each organism with the correct feature, A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too fast to be perceived"
+        },
+        {
+          "letter": "B",
+          "text": "film at the place where the animal will pass"
+        },
+        {
+          "letter": "C",
+          "text": "too slow to be visible to human eyes"
+        },
+        {
+          "letter": "D",
+          "text": "adjust the filming speed to make it interesting"
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Frog",
       "groupId": "q27-30",
-      "instructions": "Look at the following organisms ("
+      "instructions": "Look at the following organisms (Questions 27-30) and the list of features below. Match each organism with the correct feature, A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too fast to be perceived"
+        },
+        {
+          "letter": "B",
+          "text": "film at the place where the animal will pass"
+        },
+        {
+          "letter": "C",
+          "text": "too slow to be visible to human eyes"
+        },
+        {
+          "letter": "D",
+          "text": "adjust the filming speed to make it interesting"
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "Bat",
       "groupId": "q27-30",
-      "instructions": "Look at the following organisms ("
+      "instructions": "Look at the following organisms (Questions 27-30) and the list of features below. Match each organism with the correct feature, A-D.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "too fast to be perceived"
+        },
+        {
+          "letter": "B",
+          "text": "film at the place where the animal will pass"
+        },
+        {
+          "letter": "C",
+          "text": "too slow to be visible to human eyes"
+        },
+        {
+          "letter": "D",
+          "text": "adjust the filming speed to make it interesting"
+        }
+      ]
     },
     {
       "number": 31,

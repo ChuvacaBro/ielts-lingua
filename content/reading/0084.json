@@ -275,38 +275,208 @@
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Simon Blackmore",
       "groupId": "q22-26",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 22-26) and the list of statements below. Match each researcher with the correct statement, A-H.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". The use of automation might impact on the development of particular animal and plant species."
+        },
+        {
+          "letter": "B",
+          "text": ". We need to consider the effect on employment that increased automation will have."
+        },
+        {
+          "letter": "C",
+          "text": ". We need machines of the future to be exact, not more powerful."
+        },
+        {
+          "letter": "D",
+          "text": ". As farming becomes more automated the appearance of farmland will change."
+        },
+        {
+          "letter": "E",
+          "text": ". New machinery may require more investment than certain farmers can afford."
+        },
+        {
+          "letter": "F",
+          "text": ". There is a shortage of employees in the farming industry."
+        },
+        {
+          "letter": "G",
+          "text": ". There are limits to the environmental benefits of automation."
+        },
+        {
+          "letter": "H",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Eldert van Henten",
       "groupId": "q22-26",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 22-26) and the list of statements below. Match each researcher with the correct statement, A-H.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". The use of automation might impact on the development of particular animal and plant species."
+        },
+        {
+          "letter": "B",
+          "text": ". We need to consider the effect on employment that increased automation will have."
+        },
+        {
+          "letter": "C",
+          "text": ". We need machines of the future to be exact, not more powerful."
+        },
+        {
+          "letter": "D",
+          "text": ". As farming becomes more automated the appearance of farmland will change."
+        },
+        {
+          "letter": "E",
+          "text": ". New machinery may require more investment than certain farmers can afford."
+        },
+        {
+          "letter": "F",
+          "text": ". There is a shortage of employees in the farming industry."
+        },
+        {
+          "letter": "G",
+          "text": ". There are limits to the environmental benefits of automation."
+        },
+        {
+          "letter": "H",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "prompt": "Question 24",
+      "type": "matchFeatures",
+      "prompt": "Linda Calvin and Philip Martin",
       "groupId": "q22-26",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 22-26) and the list of statements below. Match each researcher with the correct statement, A-H.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". The use of automation might impact on the development of particular animal and plant species."
+        },
+        {
+          "letter": "B",
+          "text": ". We need to consider the effect on employment that increased automation will have."
+        },
+        {
+          "letter": "C",
+          "text": ". We need machines of the future to be exact, not more powerful."
+        },
+        {
+          "letter": "D",
+          "text": ". As farming becomes more automated the appearance of farmland will change."
+        },
+        {
+          "letter": "E",
+          "text": ". New machinery may require more investment than certain farmers can afford."
+        },
+        {
+          "letter": "F",
+          "text": ". There is a shortage of employees in the farming industry."
+        },
+        {
+          "letter": "G",
+          "text": ". There are limits to the environmental benefits of automation."
+        },
+        {
+          "letter": "H",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "prompt": "Question 25",
+      "type": "matchFeatures",
+      "prompt": "Lewis Holloway",
       "groupId": "q22-26",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 22-26) and the list of statements below. Match each researcher with the correct statement, A-H.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". The use of automation might impact on the development of particular animal and plant species."
+        },
+        {
+          "letter": "B",
+          "text": ". We need to consider the effect on employment that increased automation will have."
+        },
+        {
+          "letter": "C",
+          "text": ". We need machines of the future to be exact, not more powerful."
+        },
+        {
+          "letter": "D",
+          "text": ". As farming becomes more automated the appearance of farmland will change."
+        },
+        {
+          "letter": "E",
+          "text": ". New machinery may require more investment than certain farmers can afford."
+        },
+        {
+          "letter": "F",
+          "text": ". There is a shortage of employees in the farming industry."
+        },
+        {
+          "letter": "G",
+          "text": ". There are limits to the environmental benefits of automation."
+        },
+        {
+          "letter": "H",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 26,
-      "type": "gapFill",
-      "prompt": "Question 26",
+      "type": "matchFeatures",
+      "prompt": "Salah Sukkarieh List of Findings",
       "groupId": "q22-26",
-      "instructions": "Look at the following researchers ("
+      "instructions": "Look at the following researchers (Questions 22-26) and the list of statements below. Match each researcher with the correct statement, A-H.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". The use of automation might impact on the development of particular animal and plant species."
+        },
+        {
+          "letter": "B",
+          "text": ". We need to consider the effect on employment that increased automation will have."
+        },
+        {
+          "letter": "C",
+          "text": ". We need machines of the future to be exact, not more powerful."
+        },
+        {
+          "letter": "D",
+          "text": ". As farming becomes more automated the appearance of farmland will change."
+        },
+        {
+          "letter": "E",
+          "text": ". New machinery may require more investment than certain farmers can afford."
+        },
+        {
+          "letter": "F",
+          "text": ". There is a shortage of employees in the farming industry."
+        },
+        {
+          "letter": "G",
+          "text": ". There are limits to the environmental benefits of automation."
+        },
+        {
+          "letter": "H",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 27,

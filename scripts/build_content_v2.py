@@ -151,7 +151,9 @@ INSTRUCTION_CUES = {
     "multipleChoice": re.compile(r"Choose the correct letter|Choose .{0,20}FIVE.{0,20}etters", re.I),
     "matchHeadings": re.compile(r"Choose the correct heading|list\s+of\s+headings", re.I),
     "matchInfo": re.compile(r"Which paragraph contains|Which section (mentions|contains)", re.I),
-    "matchFeatures": re.compile(r"Match (each|the)\s+(statement|person|sentence|item|theory|study|claim)", re.I),
+    "matchFeatures": re.compile(
+        r"Match (?:each|the)\b.{0,60}?\bwith\b|"
+        r"Match (each|the)\s+(statement|person|sentence|item|theory|study|claim)", re.I),
     "summaryCompletion": re.compile(r"Complete the summary", re.I),
     "noteCompletion": re.compile(r"Complete the notes?\b", re.I),
     "tableCompletion": re.compile(r"Complete the table", re.I),
@@ -575,6 +577,17 @@ def parse_questions_from_text(text: str, answer_nums: set[int]):
     # Real group headers are capitalised ("Questions 11-15"); lowercase
     # "…next to questions 11-15" is a back-reference and must not split items.
     headers = [h for h in HEADER_RE.finditer(text) if h.group(0)[:1] == "Q"]
+    # Drop duplicate-range headers — a repeat is a back-reference, e.g.
+    # "Look at the following events (Questions 1-5)" — which would otherwise
+    # split the group's real content (list/items) off the first header.
+    seen_ranges, deduped = set(), []
+    for h in headers:
+        key = (int(h.group(3)),) if h.group(3) else (int(h.group(1)), int(h.group(2)))
+        if key in seen_ranges:
+            continue
+        seen_ranges.add(key)
+        deduped.append(h)
+    headers = deduped
     questions: dict[int, dict] = {}
     for i, h in enumerate(headers):
         if h.group(3):  # single "Question N"

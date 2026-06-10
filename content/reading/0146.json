@@ -305,66 +305,292 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "the need for children to work",
       "groupId": "q5-8",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 5-8) and the list of dates below. Match each event with the correct date, A, B or C. NB You may use any letter more than once. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the 18th century (1700-1799)"
+        },
+        {
+          "letter": "B",
+          "text": "the 19th century (1800-1899)"
+        },
+        {
+          "letter": "C",
+          "text": "the 20th century (1900-1999) 5. the need for children to work 6. the rise of the middle class 7. the emergence of a kindergarten 8. the spread of kindergartens around the U.S."
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "the rise of the middle class",
       "groupId": "q5-8",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 5-8) and the list of dates below. Match each event with the correct date, A, B or C. NB You may use any letter more than once. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the 18th century (1700-1799)"
+        },
+        {
+          "letter": "B",
+          "text": "the 19th century (1800-1899)"
+        },
+        {
+          "letter": "C",
+          "text": "the 20th century (1900-1999) 5. the need for children to work 6. the rise of the middle class 7. the emergence of a kindergarten 8. the spread of kindergartens around the U.S."
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "the emergence of a kindergarten",
       "groupId": "q5-8",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 5-8) and the list of dates below. Match each event with the correct date, A, B or C. NB You may use any letter more than once. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the 18th century (1700-1799)"
+        },
+        {
+          "letter": "B",
+          "text": "the 19th century (1800-1899)"
+        },
+        {
+          "letter": "C",
+          "text": "the 20th century (1900-1999) 5. the need for children to work 6. the rise of the middle class 7. the emergence of a kindergarten 8. the spread of kindergartens around the U.S."
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "the spread of kindergartens around the U.S.",
       "groupId": "q5-8",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 5-8) and the list of dates below. Match each event with the correct date, A, B or C. NB You may use any letter more than once. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "the 18th century (1700-1799)"
+        },
+        {
+          "letter": "B",
+          "text": "the 19th century (1800-1899)"
+        },
+        {
+          "letter": "C",
+          "text": "the 20th century (1900-1999) 5. the need for children to work 6. the rise of the middle class 7. the emergence of a kindergarten 8. the spread of kindergartens around the U.S."
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "was not successful in proving a theory",
       "groupId": "q9-13",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 9-13) and the list of people below. Match each opinion or deed with the correct person, A, B, C or D. NB You may use any letter more than once. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jean Jacques Rousseau"
+        },
+        {
+          "letter": "B",
+          "text": "Johan Heinrich Pestalozzi"
+        },
+        {
+          "letter": "C",
+          "text": "Jean Marc Gaspard Itard"
+        },
+        {
+          "letter": "D",
+          "text": "Friedrich Froebel 9."
+        },
+        {
+          "letter": "E",
+          "text": "Trees are of great importance when it comes to maintaining topsoil and slowing down the wind speed."
+        },
+        {
+          "letter": "F",
+          "text": "What’s worse, even political conflicts and wars can also contribute to desertification."
+        },
+        {
+          "letter": "G",
+          "text": "In the 20th century, one of the states of America had a large section of farmland that had turned into desert."
+        },
+        {
+          "letter": "H",
+          "text": "In society nowadays, new technologies are serving as a method to resolve the problems brought by desertification."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "observed children’s records",
       "groupId": "q9-13",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 9-13) and the list of people below. Match each opinion or deed with the correct person, A, B, C or D. NB You may use any letter more than once. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jean Jacques Rousseau"
+        },
+        {
+          "letter": "B",
+          "text": "Johan Heinrich Pestalozzi"
+        },
+        {
+          "letter": "C",
+          "text": "Jean Marc Gaspard Itard"
+        },
+        {
+          "letter": "D",
+          "text": "Friedrich Froebel 9."
+        },
+        {
+          "letter": "E",
+          "text": "Trees are of great importance when it comes to maintaining topsoil and slowing down the wind speed."
+        },
+        {
+          "letter": "F",
+          "text": "What’s worse, even political conflicts and wars can also contribute to desertification."
+        },
+        {
+          "letter": "G",
+          "text": "In the 20th century, one of the states of America had a large section of farmland that had turned into desert."
+        },
+        {
+          "letter": "H",
+          "text": "In society nowadays, new technologies are serving as a method to resolve the problems brought by desertification."
+        }
+      ]
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "suggested a setting for study which prioritized emotional comfort",
       "groupId": "q9-13",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 9-13) and the list of people below. Match each opinion or deed with the correct person, A, B, C or D. NB You may use any letter more than once. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jean Jacques Rousseau"
+        },
+        {
+          "letter": "B",
+          "text": "Johan Heinrich Pestalozzi"
+        },
+        {
+          "letter": "C",
+          "text": "Jean Marc Gaspard Itard"
+        },
+        {
+          "letter": "D",
+          "text": "Friedrich Froebel 9."
+        },
+        {
+          "letter": "E",
+          "text": "Trees are of great importance when it comes to maintaining topsoil and slowing down the wind speed."
+        },
+        {
+          "letter": "F",
+          "text": "What’s worse, even political conflicts and wars can also contribute to desertification."
+        },
+        {
+          "letter": "G",
+          "text": "In the 20th century, one of the states of America had a large section of farmland that had turned into desert."
+        },
+        {
+          "letter": "H",
+          "text": "In society nowadays, new technologies are serving as a method to resolve the problems brought by desertification."
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "proposed that corruption was not a characteristic of people’s nature",
       "groupId": "q9-13",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 9-13) and the list of people below. Match each opinion or deed with the correct person, A, B, C or D. NB You may use any letter more than once. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jean Jacques Rousseau"
+        },
+        {
+          "letter": "B",
+          "text": "Johan Heinrich Pestalozzi"
+        },
+        {
+          "letter": "C",
+          "text": "Jean Marc Gaspard Itard"
+        },
+        {
+          "letter": "D",
+          "text": "Friedrich Froebel 9."
+        },
+        {
+          "letter": "E",
+          "text": "Trees are of great importance when it comes to maintaining topsoil and slowing down the wind speed."
+        },
+        {
+          "letter": "F",
+          "text": "What’s worse, even political conflicts and wars can also contribute to desertification."
+        },
+        {
+          "letter": "G",
+          "text": "In the 20th century, one of the states of America had a large section of farmland that had turned into desert."
+        },
+        {
+          "letter": "H",
+          "text": "In society nowadays, new technologies are serving as a method to resolve the problems brought by desertification."
+        }
+      ]
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "was responsible for an increase in the number of a type of school How are deserts formed?",
       "groupId": "q9-13",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 9-13) and the list of people below. Match each opinion or deed with the correct person, A, B, C or D. NB You may use any letter more than once. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Jean Jacques Rousseau"
+        },
+        {
+          "letter": "B",
+          "text": "Johan Heinrich Pestalozzi"
+        },
+        {
+          "letter": "C",
+          "text": "Jean Marc Gaspard Itard"
+        },
+        {
+          "letter": "D",
+          "text": "Friedrich Froebel 9."
+        },
+        {
+          "letter": "E",
+          "text": "Trees are of great importance when it comes to maintaining topsoil and slowing down the wind speed."
+        },
+        {
+          "letter": "F",
+          "text": "What’s worse, even political conflicts and wars can also contribute to desertification."
+        },
+        {
+          "letter": "G",
+          "text": "In the 20th century, one of the states of America had a large section of farmland that had turned into desert."
+        },
+        {
+          "letter": "H",
+          "text": "In society nowadays, new technologies are serving as a method to resolve the problems brought by desertification."
+        }
+      ]
     },
     {
       "number": 14,
@@ -483,45 +709,249 @@
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "first liquid fuel",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "not environmentally friendly",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "beginning to record the runners’ name",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 33,
-      "type": "gapFill",
-      "prompt": "Question 33",
+      "type": "matchFeatures",
+      "prompt": "potentially risky as it burnt the runner’s arms",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "specially designed for a theme of ‘Light’",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 35,
-      "type": "gapFill",
-      "prompt": "Question 35",
+      "type": "matchFeatures",
+      "prompt": "not lit in Greece",
       "groupId": "q30-35",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 30-35) and the list of Olympic torches below. Match each statement with the correct Olympic torch, A-H. List of Olympic Torches",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "ancient Greek Olympic flames"
+        },
+        {
+          "letter": "B",
+          "text": "Berlin Games torch (1936)"
+        },
+        {
+          "letter": "C",
+          "text": "1952 Winter Games flame"
+        },
+        {
+          "letter": "D",
+          "text": "1956 Games torch"
+        },
+        {
+          "letter": "E",
+          "text": "Munich Games torch (1972)"
+        },
+        {
+          "letter": "F",
+          "text": "1996 torch (Atlanta)"
+        },
+        {
+          "letter": "G",
+          "text": "2000 torch (Sydney)"
+        },
+        {
+          "letter": "H",
+          "text": "2002 torch (Salt Lake City) 30."
+        }
+      ]
     },
     {
       "number": 36,

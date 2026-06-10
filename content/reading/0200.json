@@ -184,52 +184,346 @@
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "Industrialised nations use a lot of energy.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "Oil spills into the sea.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "The researchers publish their findings.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "Water is brought to a high temperature.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "People fear pollutants in tap water.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "Air conditioning systems are inadequate.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "Toxic chemicals are abundant in new cars.",
       "groupId": "q7-13",
-      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause ("
+      "instructions": "Reading Passage 1 describes a number of cause and effect relationships. Match each Cause (Questions 7-13) in List A with its Effect (A-J) in List B. List A: CAUSES",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The focus of pollution moves to the home."
+        },
+        {
+          "letter": "B",
+          "text": "The levels of carbon monoxide rise."
+        },
+        {
+          "letter": "C",
+          "text": "The world’s natural resources are unequally shared."
+        },
+        {
+          "letter": "D",
+          "text": "People demand an explanation."
+        },
+        {
+          "letter": "E",
+          "text": "Environmentalists look elsewhere for an explanation."
+        },
+        {
+          "letter": "F",
+          "text": "Chemicals are effectively stripped from the water."
+        },
+        {
+          "letter": "G",
+          "text": "A clean odour is produced."
+        },
+        {
+          "letter": "H",
+          "text": "Sales of bottled water increase."
+        },
+        {
+          "letter": "I",
+          "text": "The levels of carbon dioxide rise."
+        },
+        {
+          "letter": "J",
+          "text": "The chlorine content of drinking water increased ROBOTS Since the dawn of human ingenuity, people have devised ever more cunning tools to cope with work that is dangerous, boring, onerous, or just plain nasty."
+        }
+      ]
     },
     {
       "number": 14,
@@ -984,38 +1278,168 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "The region in which the language was spoken gained increased independence.",
       "groupId": "q36-40",
-      "instructions": "Match the languages A-F with the statements below ("
+      "instructions": "Match the languages A-F with the statements below (Questions 36-40) which describe how a language was saved.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Welsh"
+        },
+        {
+          "letter": "B",
+          "text": "Maori"
+        },
+        {
+          "letter": "C",
+          "text": "Faroese"
+        },
+        {
+          "letter": "D",
+          "text": "Romansch"
+        },
+        {
+          "letter": "E",
+          "text": "Ainu"
+        },
+        {
+          "letter": "F",
+          "text": "Kaurna 36."
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "People were encouraged to view the language with less prejudice.",
       "groupId": "q36-40",
-      "instructions": "Match the languages A-F with the statements below ("
+      "instructions": "Match the languages A-F with the statements below (Questions 36-40) which describe how a language was saved.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Welsh"
+        },
+        {
+          "letter": "B",
+          "text": "Maori"
+        },
+        {
+          "letter": "C",
+          "text": "Faroese"
+        },
+        {
+          "letter": "D",
+          "text": "Romansch"
+        },
+        {
+          "letter": "E",
+          "text": "Ainu"
+        },
+        {
+          "letter": "F",
+          "text": "Kaurna 36."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "Language immersion programmes were set up for sectors of the population.",
       "groupId": "q36-40",
-      "instructions": "Match the languages A-F with the statements below ("
+      "instructions": "Match the languages A-F with the statements below (Questions 36-40) which describe how a language was saved.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Welsh"
+        },
+        {
+          "letter": "B",
+          "text": "Maori"
+        },
+        {
+          "letter": "C",
+          "text": "Faroese"
+        },
+        {
+          "letter": "D",
+          "text": "Romansch"
+        },
+        {
+          "letter": "E",
+          "text": "Ainu"
+        },
+        {
+          "letter": "F",
+          "text": "Kaurna 36."
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "A merger of different varieties of the language took place.",
       "groupId": "q36-40",
-      "instructions": "Match the languages A-F with the statements below ("
+      "instructions": "Match the languages A-F with the statements below (Questions 36-40) which describe how a language was saved.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Welsh"
+        },
+        {
+          "letter": "B",
+          "text": "Maori"
+        },
+        {
+          "letter": "C",
+          "text": "Faroese"
+        },
+        {
+          "letter": "D",
+          "text": "Romansch"
+        },
+        {
+          "letter": "E",
+          "text": "Ainu"
+        },
+        {
+          "letter": "F",
+          "text": "Kaurna 36."
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "Written samples of the language permitted its revitalisation.",
       "groupId": "q36-40",
-      "instructions": "Match the languages A-F with the statements below ("
+      "instructions": "Match the languages A-F with the statements below (Questions 36-40) which describe how a language was saved.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Welsh"
+        },
+        {
+          "letter": "B",
+          "text": "Maori"
+        },
+        {
+          "letter": "C",
+          "text": "Faroese"
+        },
+        {
+          "letter": "D",
+          "text": "Romansch"
+        },
+        {
+          "letter": "E",
+          "text": "Ainu"
+        },
+        {
+          "letter": "F",
+          "text": "Kaurna 36."
+        }
+      ]
     }
   ],
   "answerKey": {

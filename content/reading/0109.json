@@ -83,7 +83,7 @@
     },
     {
       "number": 8,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Darwin",
       "groupId": "q8-11",
       "instructions": "Look at the following researchers (listed 8-11) and findings (listed A-F). Match each researcher with the correct finding(s).",
@@ -116,7 +116,7 @@
     },
     {
       "number": 9,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Christenfeld and Harris",
       "groupId": "q8-11",
       "instructions": "Look at the following researchers (listed 8-11) and findings (listed A-F). Match each researcher with the correct finding(s).",
@@ -149,7 +149,7 @@
     },
     {
       "number": 10,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Ygve Zotterman",
       "groupId": "q8-11",
       "instructions": "Look at the following researchers (listed 8-11) and findings (listed A-F). Match each researcher with the correct finding(s).",
@@ -182,7 +182,7 @@
     },
     {
       "number": 11,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Peter Derks",
       "groupId": "q8-11",
       "instructions": "Look at the following researchers (listed 8-11) and findings (listed A-F). Match each researcher with the correct finding(s).",
@@ -307,7 +307,7 @@
     },
     {
       "number": 24,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Product became worse as wrong aspect focused.",
       "groupId": "q24-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 24-26 on your answer sheet. NB you may use any letter more than once",
@@ -352,7 +352,7 @@
     },
     {
       "number": 25,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "An unprecedented statement made by Farmers in New Zealand.",
       "groupId": "q24-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 24-26 on your answer sheet. NB you may use any letter more than once",
@@ -397,7 +397,7 @@
     },
     {
       "number": 26,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Character of the company was changed.",
       "groupId": "q24-26",
       "instructions": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 24-26 on your answer sheet. NB you may use any letter more than once",

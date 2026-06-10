@@ -34,7 +34,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The Environment Agency",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -71,7 +71,7 @@
     },
     {
       "number": 2,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Transport for London",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -108,7 +108,7 @@
     },
     {
       "number": 3,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The Greater London Council",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -145,7 +145,7 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Thames Water",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -182,7 +182,7 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Port of London",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -219,7 +219,7 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Local Boroughs",
       "groupId": "q1-6",
       "instructions": "Some of the actions taken to clean up the River Thames are listed below. The writer gives these actions as examples of things that have been done by various agencies connected with the River Thames. Match each action with the agency responsible for doing it. Actions to clean up the river Thames",
@@ -819,23 +819,26 @@
     {
       "number": 38,
       "type": "gapFill",
-      "prompt": "Question 38",
+      "prompt": "– 40 on your answer sheet. 38 A stringent ____allows the Australian deer industry to maintain their excellence of product.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q38-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 38 – 40) with words taken from Reading Passage 3. Write NO MORE THAN THREE WORDS for each answer. Write your answers in boxes"
     },
     {
       "number": 39,
       "type": "gapFill",
-      "prompt": "Question 39",
+      "prompt": "Herd stock expansion was made difficult by the killing of ____ to continue product supply.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q38-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 38 – 40) with words taken from Reading Passage 3. Write NO MORE THAN THREE WORDS for each answer. Write your answers in boxes"
     },
     {
       "number": 40,
       "type": "gapFill",
-      "prompt": "Question 40",
+      "prompt": "Foreign and home markets for Australian venison increased due to the ____",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q38-40",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 38 – 40) with words taken from Reading Passage 3. Write NO MORE THAN THREE WORDS for each answer. Write your answers in boxes"
     }
   ],
   "answerKey": {

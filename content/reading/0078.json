@@ -296,31 +296,103 @@
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "The effects of geo-engineering may not be long-lasting.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of scientists below. Match each statement with the correct scientist, A-D. Write the correct letter, A-D, in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Angel"
+        },
+        {
+          "letter": "B",
+          "text": "Phil Rasch"
+        },
+        {
+          "letter": "C",
+          "text": "Dan Lunt"
+        },
+        {
+          "letter": "D",
+          "text": "Martin Sommerkorn"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "Geo-engineering is a topic worth exploring.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of scientists below. Match each statement with the correct scientist, A-D. Write the correct letter, A-D, in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Angel"
+        },
+        {
+          "letter": "B",
+          "text": "Phil Rasch"
+        },
+        {
+          "letter": "C",
+          "text": "Dan Lunt"
+        },
+        {
+          "letter": "D",
+          "text": "Martin Sommerkorn"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "It may be necessary to limit the effectiveness of geo-engineering projects.",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of scientists below. Match each statement with the correct scientist, A-D. Write the correct letter, A-D, in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Angel"
+        },
+        {
+          "letter": "B",
+          "text": "Phil Rasch"
+        },
+        {
+          "letter": "C",
+          "text": "Dan Lunt"
+        },
+        {
+          "letter": "D",
+          "text": "Martin Sommerkorn"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "Research into non-fossil-based fuels cannot be replaced List of Scientists",
       "groupId": "q37-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 37-40) and the list of scientists below. Match each statement with the correct scientist, A-D. Write the correct letter, A-D, in boxes 37-40 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Angel"
+        },
+        {
+          "letter": "B",
+          "text": "Phil Rasch"
+        },
+        {
+          "letter": "C",
+          "text": "Dan Lunt"
+        },
+        {
+          "letter": "D",
+          "text": "Martin Sommerkorn"
+        }
+      ]
     }
   ],
   "answerKey": {

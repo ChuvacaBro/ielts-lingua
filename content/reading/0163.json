@@ -507,38 +507,128 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "Comparison of two approaches to packaging revealed an interesting result.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement to the correct person A-D. Write the correct letter, A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Tim Lang"
+        },
+        {
+          "letter": "B",
+          "text": "Dick Seatle"
+        },
+        {
+          "letter": "C",
+          "text": "Helene Roberts"
+        },
+        {
+          "letter": "D",
+          "text": "Steve Kelsey"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "People are expected to do the right thing.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement to the correct person A-D. Write the correct letter, A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Tim Lang"
+        },
+        {
+          "letter": "B",
+          "text": "Dick Seatle"
+        },
+        {
+          "letter": "C",
+          "text": "Helene Roberts"
+        },
+        {
+          "letter": "D",
+          "text": "Steve Kelsey"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "Most food roaches UK shops in good condition.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement to the correct person A-D. Write the correct letter, A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Tim Lang"
+        },
+        {
+          "letter": "B",
+          "text": "Dick Seatle"
+        },
+        {
+          "letter": "C",
+          "text": "Helene Roberts"
+        },
+        {
+          "letter": "D",
+          "text": "Steve Kelsey"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Complex issues are ignored in the search for speedy solutions.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement to the correct person A-D. Write the correct letter, A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Tim Lang"
+        },
+        {
+          "letter": "B",
+          "text": "Dick Seatle"
+        },
+        {
+          "letter": "C",
+          "text": "Helene Roberts"
+        },
+        {
+          "letter": "D",
+          "text": "Steve Kelsey"
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "It is merely because of the way societies operate that using plastic seems valid.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of people below. Match each statement to the correct person A-D. Write the correct letter, A-D in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Tim Lang"
+        },
+        {
+          "letter": "B",
+          "text": "Dick Seatle"
+        },
+        {
+          "letter": "C",
+          "text": "Helene Roberts"
+        },
+        {
+          "letter": "D",
+          "text": "Steve Kelsey"
+        }
+      ]
     },
     {
       "number": 24,

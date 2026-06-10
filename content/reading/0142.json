@@ -34,31 +34,103 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "rated to the Maximization Scale of making choice",
       "groupId": "q1-4",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-4) and the list of catego­ries below. Match each description or deed with the correct category, A-D. Write the correct letter, A-D, in boxes 1-4 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "maximizers"
+        },
+        {
+          "letter": "B",
+          "text": "satisficers"
+        },
+        {
+          "letter": "C",
+          "text": "neither “maximizers” nor “satisficers”"
+        },
+        {
+          "letter": "D",
+          "text": "both “maximizers” and “satisficers” 1."
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "don’t take much time before making a decision",
       "groupId": "q1-4",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-4) and the list of catego­ries below. Match each description or deed with the correct category, A-D. Write the correct letter, A-D, in boxes 1-4 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "maximizers"
+        },
+        {
+          "letter": "B",
+          "text": "satisficers"
+        },
+        {
+          "letter": "C",
+          "text": "neither “maximizers” nor “satisficers”"
+        },
+        {
+          "letter": "D",
+          "text": "both “maximizers” and “satisficers” 1."
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "are likely to regret about the choice in the future",
       "groupId": "q1-4",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-4) and the list of catego­ries below. Match each description or deed with the correct category, A-D. Write the correct letter, A-D, in boxes 1-4 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "maximizers"
+        },
+        {
+          "letter": "B",
+          "text": "satisficers"
+        },
+        {
+          "letter": "C",
+          "text": "neither “maximizers” nor “satisficers”"
+        },
+        {
+          "letter": "D",
+          "text": "both “maximizers” and “satisficers” 1."
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "choose the highest price in the range of purchase",
       "groupId": "q1-4",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-4) and the list of catego­ries below. Match each description or deed with the correct category, A-D. Write the correct letter, A-D, in boxes 1-4 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "maximizers"
+        },
+        {
+          "letter": "B",
+          "text": "satisficers"
+        },
+        {
+          "letter": "C",
+          "text": "neither “maximizers” nor “satisficers”"
+        },
+        {
+          "letter": "D",
+          "text": "both “maximizers” and “satisficers” 1."
+        }
+      ]
     },
     {
       "number": 5,
@@ -235,52 +307,262 @@
     },
     {
       "number": 14,
-      "type": "gapFill",
-      "prompt": "Question 14",
+      "type": "matchFeatures",
+      "prompt": "gave an alternative explanation that children may not be understanding other’s belief",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "found that children under certain age can tell difference between reality and mentality",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "conducted a well-known experiment and drew conclusion that young children were unable to comprehend the real state of the world",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "found that children who get along with adults often comparatively got through the test more easily",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "revised an easier experiment to rule out the possibility that children might be influenced by sophisticated reasoning",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "related social factor such as mother-child communication to capability act in TOM",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "explained children are less likely to tell something interactive to their mother than to their friends",
       "groupId": "q14-20",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 14-20) and the list of researchers below. Match each statement with the correct researcher, A-G. Write the correct letter. A-G. in boxes 14-20 on your answer sheet. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Baron-Cohen"
+        },
+        {
+          "letter": "B",
+          "text": "Meins"
+        },
+        {
+          "letter": "C",
+          "text": "Wimmer and Pemer"
+        },
+        {
+          "letter": "D",
+          "text": "Lewis"
+        },
+        {
+          "letter": "E",
+          "text": "Dunn"
+        },
+        {
+          "letter": "F",
+          "text": "Schatz"
+        },
+        {
+          "letter": "G",
+          "text": "Harris E Dunn F Schatz G Harris 14."
+        }
+      ]
     },
     {
       "number": 21,

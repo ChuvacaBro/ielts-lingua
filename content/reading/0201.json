@@ -512,38 +512,148 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "Absolute pitch is not a clear-cut issue.",
       "groupId": "q36-40",
-      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion ("
+      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion (Questions 36-40) with one of the scientists (A-E).",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Levitin"
+        },
+        {
+          "letter": "B",
+          "text": "Deutsch"
+        },
+        {
+          "letter": "C",
+          "text": "Gregersen"
+        },
+        {
+          "letter": "D",
+          "text": "Marvin"
+        },
+        {
+          "letter": "E",
+          "text": "Freimer You may use any of the people A-E more than once."
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "Anyone can learn how to acquire perfect pitch.",
       "groupId": "q36-40",
-      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion ("
+      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion (Questions 36-40) with one of the scientists (A-E).",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Levitin"
+        },
+        {
+          "letter": "B",
+          "text": "Deutsch"
+        },
+        {
+          "letter": "C",
+          "text": "Gregersen"
+        },
+        {
+          "letter": "D",
+          "text": "Marvin"
+        },
+        {
+          "letter": "E",
+          "text": "Freimer You may use any of the people A-E more than once."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "It’s actually surprising that not everyone has absolute pitch.",
       "groupId": "q36-40",
-      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion ("
+      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion (Questions 36-40) with one of the scientists (A-E).",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Levitin"
+        },
+        {
+          "letter": "B",
+          "text": "Deutsch"
+        },
+        {
+          "letter": "C",
+          "text": "Gregersen"
+        },
+        {
+          "letter": "D",
+          "text": "Marvin"
+        },
+        {
+          "letter": "E",
+          "text": "Freimer You may use any of the people A-E more than once."
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "The perfect pitch ability is genetic.",
       "groupId": "q36-40",
-      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion ("
+      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion (Questions 36-40) with one of the scientists (A-E).",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Levitin"
+        },
+        {
+          "letter": "B",
+          "text": "Deutsch"
+        },
+        {
+          "letter": "C",
+          "text": "Gregersen"
+        },
+        {
+          "letter": "D",
+          "text": "Marvin"
+        },
+        {
+          "letter": "E",
+          "text": "Freimer You may use any of the people A-E more than once."
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "The important thing is the age at which music lessons are started.",
       "groupId": "q36-40",
-      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion ("
+      "instructions": "Reading Passage 3 contains a number of opinions provided by five different scientists. Match each opinion (Questions 36-40) with one of the scientists (A-E).",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Levitin"
+        },
+        {
+          "letter": "B",
+          "text": "Deutsch"
+        },
+        {
+          "letter": "C",
+          "text": "Gregersen"
+        },
+        {
+          "letter": "D",
+          "text": "Marvin"
+        },
+        {
+          "letter": "E",
+          "text": "Freimer You may use any of the people A-E more than once."
+        }
+      ]
     }
   ],
   "answerKey": {

@@ -34,45 +34,129 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "the development of business scheme",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "presiding at formal events",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "using employees and funds",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "getting and passing message on to related persons",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "relating the information to employees and organisation",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "recruiting the staff",
       "groupId": "q1-6",
-      "instructions": "Look at the following descriptions or deeds ("
+      "instructions": "Look at the following descriptions or deeds (Questions 1-6) and the list of categories below. Match each description or deed with the correct category, A, B or C. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "INTERPERSONAL ROLES"
+        },
+        {
+          "letter": "B",
+          "text": "INFORMATIONAL ROLES"
+        },
+        {
+          "letter": "C",
+          "text": "DECISIONAL ROLES 1."
+        }
+      ]
     },
     {
       "number": 7,
@@ -204,38 +288,148 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "When faced multiple visual stimulants, one can only concentrate on one of them.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of scientists below. Match each statement with the correct scientist, A-E. Write the correct letter, A-E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Lehman"
+        },
+        {
+          "letter": "B",
+          "text": "Earl Miller"
+        },
+        {
+          "letter": "C",
+          "text": "David Meyer"
+        },
+        {
+          "letter": "D",
+          "text": "Gloria Mark"
+        },
+        {
+          "letter": "E",
+          "text": "Edward Hallowell 19."
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Doing two things together may be faster but not better.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of scientists below. Match each statement with the correct scientist, A-E. Write the correct letter, A-E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Lehman"
+        },
+        {
+          "letter": "B",
+          "text": "Earl Miller"
+        },
+        {
+          "letter": "C",
+          "text": "David Meyer"
+        },
+        {
+          "letter": "D",
+          "text": "Gloria Mark"
+        },
+        {
+          "letter": "E",
+          "text": "Edward Hallowell 19."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "People never really do two things together even if you think you do.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of scientists below. Match each statement with the correct scientist, A-E. Write the correct letter, A-E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Lehman"
+        },
+        {
+          "letter": "B",
+          "text": "Earl Miller"
+        },
+        {
+          "letter": "C",
+          "text": "David Meyer"
+        },
+        {
+          "letter": "D",
+          "text": "Gloria Mark"
+        },
+        {
+          "letter": "E",
+          "text": "Edward Hallowell 19."
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "The causes of multitask lie in the environment.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of scientists below. Match each statement with the correct scientist, A-E. Write the correct letter, A-E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Lehman"
+        },
+        {
+          "letter": "B",
+          "text": "Earl Miller"
+        },
+        {
+          "letter": "C",
+          "text": "David Meyer"
+        },
+        {
+          "letter": "D",
+          "text": "Gloria Mark"
+        },
+        {
+          "letter": "E",
+          "text": "Edward Hallowell 19."
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Even minor changes in the workplace will improve work efficiency.",
       "groupId": "q19-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-23) and the list of scientists below. Match each statement with the correct scientist, A-E. Write the correct letter, A-E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once. List of Scientists",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Lehman"
+        },
+        {
+          "letter": "B",
+          "text": "Earl Miller"
+        },
+        {
+          "letter": "C",
+          "text": "David Meyer"
+        },
+        {
+          "letter": "D",
+          "text": "Gloria Mark"
+        },
+        {
+          "letter": "E",
+          "text": "Edward Hallowell 19."
+        }
+      ]
     },
     {
       "number": 24,
@@ -263,45 +457,153 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Elderly people may have the same problem with children if the lids of containers require too much strength to open.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "Adapting packaging for the blind may disadvantage the sighted people.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Specially designed lids cannot eliminate the possibility of children swallowing pills accidentally.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "Container design should consider situations, such as drug used at home.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "Governing bodies should investigate many different container cases rather than individual ones.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "Information on the list of a leaflet hasn’t been in the right order.",
       "groupId": "q27-32",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 27-32) and the list of people or organisation below. Match each statement with the correct person or organisation, A-D. Write the correct letter, A-D, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thea Swayne"
+        },
+        {
+          "letter": "B",
+          "text": "Children Accident Prevention Trust"
+        },
+        {
+          "letter": "C",
+          "text": "Richard Mawle"
+        },
+        {
+          "letter": "D",
+          "text": "Karel van der Waarde 27."
+        }
+      ]
     },
     {
       "number": 33,

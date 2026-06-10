@@ -166,31 +166,87 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "Their research involved innovative methods of measuring practice among participants.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 19-22 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ericsson and colleagues"
+        },
+        {
+          "letter": "B",
+          "text": "Malcolm Gladwell"
+        },
+        {
+          "letter": "C",
+          "text": "Brooke Macnamara and colleagues 19."
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "They made claims about the significance of practice which were not justified.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 19-22 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ericsson and colleagues"
+        },
+        {
+          "letter": "B",
+          "text": "Malcolm Gladwell"
+        },
+        {
+          "letter": "C",
+          "text": "Brooke Macnamara and colleagues 19."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "They devised a sophisticated way of measuring the development of expertise.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 19-22 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ericsson and colleagues"
+        },
+        {
+          "letter": "B",
+          "text": "Malcolm Gladwell"
+        },
+        {
+          "letter": "C",
+          "text": "Brooke Macnamara and colleagues 19."
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Their research generated an unexpected result.",
       "groupId": "q19-22",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 19-22) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 19-22 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Ericsson and colleagues"
+        },
+        {
+          "letter": "B",
+          "text": "Malcolm Gladwell"
+        },
+        {
+          "letter": "C",
+          "text": "Brooke Macnamara and colleagues 19."
+        }
+      ]
     },
     {
       "number": 23,

@@ -34,38 +34,128 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "Animals could use objects to locate food.",
       "groupId": "q1-5",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-5) and the list of people in the box below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Nigel Franks"
+        },
+        {
+          "letter": "B",
+          "text": "Marc Hauser"
+        },
+        {
+          "letter": "C",
+          "text": "Tim Caro"
+        },
+        {
+          "letter": "D",
+          "text": "Bennett Galef Jr."
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "Ants show two-way, interactive teaching behaviors.",
       "groupId": "q1-5",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-5) and the list of people in the box below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Nigel Franks"
+        },
+        {
+          "letter": "B",
+          "text": "Marc Hauser"
+        },
+        {
+          "letter": "C",
+          "text": "Tim Caro"
+        },
+        {
+          "letter": "D",
+          "text": "Bennett Galef Jr."
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "It is risky to say ants can teach other ants like human beings do.",
       "groupId": "q1-5",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-5) and the list of people in the box below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Nigel Franks"
+        },
+        {
+          "letter": "B",
+          "text": "Marc Hauser"
+        },
+        {
+          "letter": "C",
+          "text": "Tim Caro"
+        },
+        {
+          "letter": "D",
+          "text": "Bennett Galef Jr."
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "Ant leadership makes finding food faster.",
       "groupId": "q1-5",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-5) and the list of people in the box below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Nigel Franks"
+        },
+        {
+          "letter": "B",
+          "text": "Marc Hauser"
+        },
+        {
+          "letter": "C",
+          "text": "Tim Caro"
+        },
+        {
+          "letter": "D",
+          "text": "Bennett Galef Jr."
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Communication between ants is not entirely teaching.",
       "groupId": "q1-5",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-5) and the list of people in the box below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Nigel Franks"
+        },
+        {
+          "letter": "B",
+          "text": "Marc Hauser"
+        },
+        {
+          "letter": "C",
+          "text": "Tim Caro"
+        },
+        {
+          "letter": "D",
+          "text": "Bennett Galef Jr."
+        }
+      ]
     },
     {
       "number": 6,

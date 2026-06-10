@@ -163,45 +163,153 @@
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "His report of seeing a live thylacine in the wild attracted international interest.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "Many eyewitnesses’ reports are not trustworthy.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "It doesn’t require a certain number of animals to ensure the survival of a species.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "There is no hope of finding a surviving Tasmanian tiger.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Do not disturb them if there are any Tasmanian tigers still living today.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "The interpretation of evidence can be affected by people’s beliefs.",
       "groupId": "q18-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 18-23) and the list of people below. Match each statement with the correct person, A, B, C or D. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Hans Naarding"
+        },
+        {
+          "letter": "B",
+          "text": "Randolph Rose"
+        },
+        {
+          "letter": "C",
+          "text": "David Pemberton"
+        },
+        {
+          "letter": "D",
+          "text": "Nick Mooney"
+        }
+      ]
     },
     {
       "number": 24,

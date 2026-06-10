@@ -34,73 +34,353 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "Vehicles with refrigerator were used to transport on the road.",
       "groupId": "q1-5",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 1-5) and the list of dates below. Match each event with the correct date, A-F. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1550"
+        },
+        {
+          "letter": "B",
+          "text": "1799"
+        },
+        {
+          "letter": "C",
+          "text": "1803"
+        },
+        {
+          "letter": "D",
+          "text": "1840"
+        },
+        {
+          "letter": "E",
+          "text": "1949"
+        },
+        {
+          "letter": "F",
+          "text": "1973 1."
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "Ice was sold around the United States for the first time.",
       "groupId": "q1-5",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 1-5) and the list of dates below. Match each event with the correct date, A-F. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1550"
+        },
+        {
+          "letter": "B",
+          "text": "1799"
+        },
+        {
+          "letter": "C",
+          "text": "1803"
+        },
+        {
+          "letter": "D",
+          "text": "1840"
+        },
+        {
+          "letter": "E",
+          "text": "1949"
+        },
+        {
+          "letter": "F",
+          "text": "1973 1."
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "Some kind of chemical refrigerant was found harmful to the atmosphere.",
       "groupId": "q1-5",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 1-5) and the list of dates below. Match each event with the correct date, A-F. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1550"
+        },
+        {
+          "letter": "B",
+          "text": "1799"
+        },
+        {
+          "letter": "C",
+          "text": "1803"
+        },
+        {
+          "letter": "D",
+          "text": "1840"
+        },
+        {
+          "letter": "E",
+          "text": "1949"
+        },
+        {
+          "letter": "F",
+          "text": "1973 1."
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "The term ‘refrigerator’ was firstly introduced.",
       "groupId": "q1-5",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 1-5) and the list of dates below. Match each event with the correct date, A-F. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1550"
+        },
+        {
+          "letter": "B",
+          "text": "1799"
+        },
+        {
+          "letter": "C",
+          "text": "1803"
+        },
+        {
+          "letter": "D",
+          "text": "1840"
+        },
+        {
+          "letter": "E",
+          "text": "1949"
+        },
+        {
+          "letter": "F",
+          "text": "1973 1."
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Some chemicals were added to refrigerate wine.",
       "groupId": "q1-5",
-      "instructions": "Look at the following events ("
+      "instructions": "Look at the following events (Questions 1-5) and the list of dates below. Match each event with the correct date, A-F. List of Dates",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "1550"
+        },
+        {
+          "letter": "B",
+          "text": "1799"
+        },
+        {
+          "letter": "C",
+          "text": "1803"
+        },
+        {
+          "letter": "D",
+          "text": "1840"
+        },
+        {
+          "letter": "E",
+          "text": "1949"
+        },
+        {
+          "letter": "F",
+          "text": "1973 1."
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "patented the idea that refrigerating system can be installed on tramcars",
       "groupId": "q6-10",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 6-10) and the list of people below. Match each opinion or deed with the correct person, A-G. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "letter": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "letter": "C",
+          "text": "Carl Von Linde"
+        },
+        {
+          "letter": "D",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "letter": "E",
+          "text": "J.B. Sutherland"
+        },
+        {
+          "letter": "F",
+          "text": "Fred Jones"
+        },
+        {
+          "letter": "G",
+          "text": "Parker Earle 6."
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "invented an ice-cutting technical method that could save money and time",
       "groupId": "q6-10",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 6-10) and the list of people below. Match each opinion or deed with the correct person, A-G. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "letter": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "letter": "C",
+          "text": "Carl Von Linde"
+        },
+        {
+          "letter": "D",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "letter": "E",
+          "text": "J.B. Sutherland"
+        },
+        {
+          "letter": "F",
+          "text": "Fred Jones"
+        },
+        {
+          "letter": "G",
+          "text": "Parker Earle 6."
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "enabled the cold storage technology to be applied in fruit",
       "groupId": "q6-10",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 6-10) and the list of people below. Match each opinion or deed with the correct person, A-G. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "letter": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "letter": "C",
+          "text": "Carl Von Linde"
+        },
+        {
+          "letter": "D",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "letter": "E",
+          "text": "J.B. Sutherland"
+        },
+        {
+          "letter": "F",
+          "text": "Fred Jones"
+        },
+        {
+          "letter": "G",
+          "text": "Parker Earle 6."
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "invented a cooling device applied into the trucking industry",
       "groupId": "q6-10",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 6-10) and the list of people below. Match each opinion or deed with the correct person, A-G. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "letter": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "letter": "C",
+          "text": "Carl Von Linde"
+        },
+        {
+          "letter": "D",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "letter": "E",
+          "text": "J.B. Sutherland"
+        },
+        {
+          "letter": "F",
+          "text": "Fred Jones"
+        },
+        {
+          "letter": "G",
+          "text": "Parker Earle 6."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "created a new technique to liquefy the air",
       "groupId": "q6-10",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 6-10) and the list of people below. Match each opinion or deed with the correct person, A-G. List of People",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "letter": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "letter": "C",
+          "text": "Carl Von Linde"
+        },
+        {
+          "letter": "D",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "letter": "E",
+          "text": "J.B. Sutherland"
+        },
+        {
+          "letter": "F",
+          "text": "Fred Jones"
+        },
+        {
+          "letter": "G",
+          "text": "Parker Earle 6."
+        }
+      ]
     },
     {
       "number": 11,
@@ -810,38 +1090,168 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "offered mobile phone message technology",
       "groupId": "q36-40",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 36-40) and the list of companies below. Match each description with the correct company, A-F. List of Companies",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Flytxt"
+        },
+        {
+          "letter": "B",
+          "text": "Analysys"
+        },
+        {
+          "letter": "C",
+          "text": "Endemol"
+        },
+        {
+          "letter": "D",
+          "text": "CMG"
+        },
+        {
+          "letter": "E",
+          "text": "Mm02"
+        },
+        {
+          "letter": "F",
+          "text": "Gartner 36."
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "earned considerable amount of money through a famous programme",
       "groupId": "q36-40",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 36-40) and the list of companies below. Match each description with the correct company, A-F. List of Companies",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Flytxt"
+        },
+        {
+          "letter": "B",
+          "text": "Analysys"
+        },
+        {
+          "letter": "C",
+          "text": "Endemol"
+        },
+        {
+          "letter": "D",
+          "text": "CMG"
+        },
+        {
+          "letter": "E",
+          "text": "Mm02"
+        },
+        {
+          "letter": "F",
+          "text": "Gartner 36."
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "expressed the view that short codes are convenient to remember when turning up",
       "groupId": "q36-40",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 36-40) and the list of companies below. Match each description with the correct company, A-F. List of Companies",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Flytxt"
+        },
+        {
+          "letter": "B",
+          "text": "Analysys"
+        },
+        {
+          "letter": "C",
+          "text": "Endemol"
+        },
+        {
+          "letter": "D",
+          "text": "CMG"
+        },
+        {
+          "letter": "E",
+          "text": "Mm02"
+        },
+        {
+          "letter": "F",
+          "text": "Gartner 36."
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "built their own mobile phone operating applications",
       "groupId": "q36-40",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 36-40) and the list of companies below. Match each description with the correct company, A-F. List of Companies",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Flytxt"
+        },
+        {
+          "letter": "B",
+          "text": "Analysys"
+        },
+        {
+          "letter": "C",
+          "text": "Endemol"
+        },
+        {
+          "letter": "D",
+          "text": "CMG"
+        },
+        {
+          "letter": "E",
+          "text": "Mm02"
+        },
+        {
+          "letter": "F",
+          "text": "Gartner 36."
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "indicated that it is easy for people to send message in an interactive TV",
       "groupId": "q36-40",
-      "instructions": "Look at the following descriptions ("
+      "instructions": "Look at the following descriptions (Questions 36-40) and the list of companies below. Match each description with the correct company, A-F. List of Companies",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Flytxt"
+        },
+        {
+          "letter": "B",
+          "text": "Analysys"
+        },
+        {
+          "letter": "C",
+          "text": "Endemol"
+        },
+        {
+          "letter": "D",
+          "text": "CMG"
+        },
+        {
+          "letter": "E",
+          "text": "Mm02"
+        },
+        {
+          "letter": "F",
+          "text": "Gartner 36."
+        }
+      ]
     }
   ],
   "answerKey": {

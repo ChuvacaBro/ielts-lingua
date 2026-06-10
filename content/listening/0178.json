@@ -89,65 +89,311 @@
     {
       "number": 8,
       "type": "gapFill",
-      "prompt": "Question 8",
+      "prompt": "outdoor swimming pool",
       "groupId": "q8-10",
-      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to Questions 8-10. Availability",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "included in cost of hiring room"
+        },
+        {
+          "letter": "B",
+          "text": "available at extra charge"
+        },
+        {
+          "letter": "C",
+          "text": "not available Hotel facilities 8. outdoor swimming pool 9. gym 10. tennis courts Part 2:"
+        }
+      ]
     },
     {
       "number": 9,
       "type": "gapFill",
-      "prompt": "Question 9",
+      "prompt": "gym",
       "groupId": "q8-10",
-      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to Questions 8-10. Availability",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "included in cost of hiring room"
+        },
+        {
+          "letter": "B",
+          "text": "available at extra charge"
+        },
+        {
+          "letter": "C",
+          "text": "not available Hotel facilities 8. outdoor swimming pool 9. gym 10. tennis courts Part 2:"
+        }
+      ]
     },
     {
       "number": 10,
       "type": "gapFill",
-      "prompt": "Question 10",
+      "prompt": "tennis courts",
       "groupId": "q8-10",
-      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to"
+      "instructions": "What is said about using each of the following hotel facilities? Choose THREE answers from the box and write the correct letter, A, B or C, next to Questions 8-10. Availability",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "included in cost of hiring room"
+        },
+        {
+          "letter": "B",
+          "text": "available at extra charge"
+        },
+        {
+          "letter": "C",
+          "text": "not available Hotel facilities 8. outdoor swimming pool 9. gym 10. tennis courts Part 2:"
+        }
+      ]
     },
     {
       "number": 11,
       "type": "gapFill",
-      "prompt": "Question 11",
+      "prompt": "dolphin watching",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 12,
       "type": "gapFill",
-      "prompt": "Question 12",
+      "prompt": "forest walk",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 13,
       "type": "gapFill",
-      "prompt": "Question 13",
+      "prompt": "cycle trip",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
+      "prompt": "local craft tour",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
+      "prompt": "observatory trip",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
+      "prompt": "horse riding",
       "groupId": "q11-16",
-      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What information does the speaker give about each of the following excursions? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 11-16. Information",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "all downhill"
+        },
+        {
+          "letter": "B",
+          "text": "suitable for beginners"
+        },
+        {
+          "letter": "C",
+          "text": "only in good weather"
+        },
+        {
+          "letter": "D",
+          "text": "food included"
+        },
+        {
+          "letter": "E",
+          "text": "no charge"
+        },
+        {
+          "letter": "F",
+          "text": "swimming possible"
+        },
+        {
+          "letter": "G",
+          "text": "fully booked today"
+        },
+        {
+          "letter": "H",
+          "text": "transport not included Excursions 11. dolphin watching 12. forest walk 13. cycle trip 14. local craft tour 15. observatory trip 16. horse riding"
+        }
+      ]
     },
     {
       "number": 17,
@@ -373,37 +619,187 @@
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
+      "prompt": "Perrault’s fairy tales",
       "groupId": "q26-30",
-      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "translated into many other languages"
+        },
+        {
+          "letter": "B",
+          "text": "hard to read"
+        },
+        {
+          "letter": "C",
+          "text": "inspired a work in a different area of art"
+        },
+        {
+          "letter": "D",
+          "text": "more popular than the author’s other works"
+        },
+        {
+          "letter": "E",
+          "text": "original title refers to another book"
+        },
+        {
+          "letter": "F",
+          "text": "started a new genre"
+        },
+        {
+          "letter": "G",
+          "text": "unlikely topic Stories 26. Perrault’s fairy tales 27. The Swiss Family Robinson 28. The Nutcracker and The Mouse King 29. The Lord of the Rings 30. War Horse Part 4:"
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
+      "prompt": "The Swiss Family Robinson",
       "groupId": "q26-30",
-      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "translated into many other languages"
+        },
+        {
+          "letter": "B",
+          "text": "hard to read"
+        },
+        {
+          "letter": "C",
+          "text": "inspired a work in a different area of art"
+        },
+        {
+          "letter": "D",
+          "text": "more popular than the author’s other works"
+        },
+        {
+          "letter": "E",
+          "text": "original title refers to another book"
+        },
+        {
+          "letter": "F",
+          "text": "started a new genre"
+        },
+        {
+          "letter": "G",
+          "text": "unlikely topic Stories 26. Perrault’s fairy tales 27. The Swiss Family Robinson 28. The Nutcracker and The Mouse King 29. The Lord of the Rings 30. War Horse Part 4:"
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
+      "prompt": "The Nutcracker and The Mouse King",
       "groupId": "q26-30",
-      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "translated into many other languages"
+        },
+        {
+          "letter": "B",
+          "text": "hard to read"
+        },
+        {
+          "letter": "C",
+          "text": "inspired a work in a different area of art"
+        },
+        {
+          "letter": "D",
+          "text": "more popular than the author’s other works"
+        },
+        {
+          "letter": "E",
+          "text": "original title refers to another book"
+        },
+        {
+          "letter": "F",
+          "text": "started a new genre"
+        },
+        {
+          "letter": "G",
+          "text": "unlikely topic Stories 26. Perrault’s fairy tales 27. The Swiss Family Robinson 28. The Nutcracker and The Mouse King 29. The Lord of the Rings 30. War Horse Part 4:"
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
+      "prompt": "The Lord of the Rings",
       "groupId": "q26-30",
-      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "translated into many other languages"
+        },
+        {
+          "letter": "B",
+          "text": "hard to read"
+        },
+        {
+          "letter": "C",
+          "text": "inspired a work in a different area of art"
+        },
+        {
+          "letter": "D",
+          "text": "more popular than the author’s other works"
+        },
+        {
+          "letter": "E",
+          "text": "original title refers to another book"
+        },
+        {
+          "letter": "F",
+          "text": "started a new genre"
+        },
+        {
+          "letter": "G",
+          "text": "unlikely topic Stories 26. Perrault’s fairy tales 27. The Swiss Family Robinson 28. The Nutcracker and The Mouse King 29. The Lord of the Rings 30. War Horse Part 4:"
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Question 30",
+      "prompt": "War Horse",
       "groupId": "q26-30",
-      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to"
+      "instructions": "What comment is made about each of these stories? Choose FIVE answers from the box and write the correct letter, A-G, next to Questions 26-30. Comments",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "translated into many other languages"
+        },
+        {
+          "letter": "B",
+          "text": "hard to read"
+        },
+        {
+          "letter": "C",
+          "text": "inspired a work in a different area of art"
+        },
+        {
+          "letter": "D",
+          "text": "more popular than the author’s other works"
+        },
+        {
+          "letter": "E",
+          "text": "original title refers to another book"
+        },
+        {
+          "letter": "F",
+          "text": "started a new genre"
+        },
+        {
+          "letter": "G",
+          "text": "unlikely topic Stories 26. Perrault’s fairy tales 27. The Swiss Family Robinson 28. The Nutcracker and The Mouse King 29. The Lord of the Rings 30. War Horse Part 4:"
+        }
+      ]
     },
     {
       "number": 31,

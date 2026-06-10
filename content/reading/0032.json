@@ -34,7 +34,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Human beings started to show a preference for right-handedness when they first developed language.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -63,7 +63,7 @@
     },
     {
       "number": 2,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Society is prejudiced against left-handed people.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -92,7 +92,7 @@
     },
     {
       "number": 3,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Boys are more likely to be left-handed.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -121,7 +121,7 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "After a stroke, left-handed people recover their speech more quickly than right-handed people.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -150,7 +150,7 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "People who suffer strokes on the left side of the brain usually lose their power of speech.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -179,7 +179,7 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The two sides of the brain develop different functions before birth.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",
@@ -208,7 +208,7 @@
     },
     {
       "number": 7,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Asymmetry is a common feature of the human body.",
       "groupId": "q1-7",
       "instructions": "Use the information in the text to match the people (listed A-E) with the opinions (listed 1-7) below. Write the appropriate letter (A-E) in boxes 1-7 on your answer sheet. Some people match more than one opinion.",

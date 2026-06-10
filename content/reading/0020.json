@@ -444,24 +444,102 @@
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "Perth",
       "groupId": "q11-13",
-      "instructions": "Look at the following cities ("
+      "instructions": "Look at the following cities (Questions 11-13) and the list of descriptions below. Match each city with the correct description, A-F. Write the correct letter, A-F, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "successfully uses a light rail transport system in hilly environment"
+        },
+        {
+          "letter": "B",
+          "text": "successful public transport system despite cold winters"
+        },
+        {
+          "letter": "C",
+          "text": "profitably moved from road to light rail transport system"
+        },
+        {
+          "letter": "D",
+          "text": "hilly and inappropriate for rail transport system"
+        },
+        {
+          "letter": "E",
+          "text": "heavily dependent on cars despite widespread poverty"
+        },
+        {
+          "letter": "F",
+          "text": "inefficient due to a limited public transport system Cambridge IELTS Test 1 to 17 GREYING POPULATION STAYS IN THE PINK Elderly people are growing healthier, happier and more independent, say American scientists."
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "Auckland",
       "groupId": "q11-13",
-      "instructions": "Look at the following cities ("
+      "instructions": "Look at the following cities (Questions 11-13) and the list of descriptions below. Match each city with the correct description, A-F. Write the correct letter, A-F, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "successfully uses a light rail transport system in hilly environment"
+        },
+        {
+          "letter": "B",
+          "text": "successful public transport system despite cold winters"
+        },
+        {
+          "letter": "C",
+          "text": "profitably moved from road to light rail transport system"
+        },
+        {
+          "letter": "D",
+          "text": "hilly and inappropriate for rail transport system"
+        },
+        {
+          "letter": "E",
+          "text": "heavily dependent on cars despite widespread poverty"
+        },
+        {
+          "letter": "F",
+          "text": "inefficient due to a limited public transport system Cambridge IELTS Test 1 to 17 GREYING POPULATION STAYS IN THE PINK Elderly people are growing healthier, happier and more independent, say American scientists."
+        }
+      ]
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "Portland List of Descriptions",
       "groupId": "q11-13",
-      "instructions": "Look at the following cities ("
+      "instructions": "Look at the following cities (Questions 11-13) and the list of descriptions below. Match each city with the correct description, A-F. Write the correct letter, A-F, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "successfully uses a light rail transport system in hilly environment"
+        },
+        {
+          "letter": "B",
+          "text": "successful public transport system despite cold winters"
+        },
+        {
+          "letter": "C",
+          "text": "profitably moved from road to light rail transport system"
+        },
+        {
+          "letter": "D",
+          "text": "hilly and inappropriate for rail transport system"
+        },
+        {
+          "letter": "E",
+          "text": "heavily dependent on cars despite widespread poverty"
+        },
+        {
+          "letter": "F",
+          "text": "inefficient due to a limited public transport system Cambridge IELTS Test 1 to 17 GREYING POPULATION STAYS IN THE PINK Elderly people are growing healthier, happier and more independent, say American scientists."
+        }
+      ]
     },
     {
       "number": 14,
@@ -906,31 +984,183 @@
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Home medical aids",
       "groupId": "q23-26",
-      "instructions": "Look at the following"
+      "instructions": "Look at the following Questions 23-26 and the list of descriptions below. Match each question with the correct description, A-H. Write the correct letter, A-H, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "may cause heart disease."
+        },
+        {
+          "letter": "B",
+          "text": "can be helped by hormone treatment."
+        },
+        {
+          "letter": "C",
+          "text": "may cause rises in levels of stress hormones."
+        },
+        {
+          "letter": "D",
+          "text": "have cost the United States government more than $200 billion."
+        },
+        {
+          "letter": "E",
+          "text": "may help prevent mental decline."
+        },
+        {
+          "letter": "F",
+          "text": "may get stronger at night."
+        },
+        {
+          "letter": "G",
+          "text": "allow old people to be more independent."
+        },
+        {
+          "letter": "H",
+          "text": "can reduce stress in difficult situations."
+        },
+        {
+          "letter": "I",
+          "text": "am showing you."
+        }
+      ]
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "prompt": "Question 24",
+      "type": "matchFeatures",
+      "prompt": "Regular amounts of exercise",
       "groupId": "q23-26",
-      "instructions": "Look at the following"
+      "instructions": "Look at the following Questions 23-26 and the list of descriptions below. Match each question with the correct description, A-H. Write the correct letter, A-H, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "may cause heart disease."
+        },
+        {
+          "letter": "B",
+          "text": "can be helped by hormone treatment."
+        },
+        {
+          "letter": "C",
+          "text": "may cause rises in levels of stress hormones."
+        },
+        {
+          "letter": "D",
+          "text": "have cost the United States government more than $200 billion."
+        },
+        {
+          "letter": "E",
+          "text": "may help prevent mental decline."
+        },
+        {
+          "letter": "F",
+          "text": "may get stronger at night."
+        },
+        {
+          "letter": "G",
+          "text": "allow old people to be more independent."
+        },
+        {
+          "letter": "H",
+          "text": "can reduce stress in difficult situations."
+        },
+        {
+          "letter": "I",
+          "text": "am showing you."
+        }
+      ]
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "prompt": "Question 25",
+      "type": "matchFeatures",
+      "prompt": "Feelings of control over life",
       "groupId": "q23-26",
-      "instructions": "Look at the following"
+      "instructions": "Look at the following Questions 23-26 and the list of descriptions below. Match each question with the correct description, A-H. Write the correct letter, A-H, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "may cause heart disease."
+        },
+        {
+          "letter": "B",
+          "text": "can be helped by hormone treatment."
+        },
+        {
+          "letter": "C",
+          "text": "may cause rises in levels of stress hormones."
+        },
+        {
+          "letter": "D",
+          "text": "have cost the United States government more than $200 billion."
+        },
+        {
+          "letter": "E",
+          "text": "may help prevent mental decline."
+        },
+        {
+          "letter": "F",
+          "text": "may get stronger at night."
+        },
+        {
+          "letter": "G",
+          "text": "allow old people to be more independent."
+        },
+        {
+          "letter": "H",
+          "text": "can reduce stress in difficult situations."
+        },
+        {
+          "letter": "I",
+          "text": "am showing you."
+        }
+      ]
     },
     {
       "number": 26,
-      "type": "gapFill",
-      "prompt": "Question 26",
+      "type": "matchFeatures",
+      "prompt": "Feelings of loneliness List of Descriptions",
       "groupId": "q23-26",
-      "instructions": "Look at the following"
+      "instructions": "Look at the following Questions 23-26 and the list of descriptions below. Match each question with the correct description, A-H. Write the correct letter, A-H, in boxes 11-13 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "may cause heart disease."
+        },
+        {
+          "letter": "B",
+          "text": "can be helped by hormone treatment."
+        },
+        {
+          "letter": "C",
+          "text": "may cause rises in levels of stress hormones."
+        },
+        {
+          "letter": "D",
+          "text": "have cost the United States government more than $200 billion."
+        },
+        {
+          "letter": "E",
+          "text": "may help prevent mental decline."
+        },
+        {
+          "letter": "F",
+          "text": "may get stronger at night."
+        },
+        {
+          "letter": "G",
+          "text": "allow old people to be more independent."
+        },
+        {
+          "letter": "H",
+          "text": "can reduce stress in difficult situations."
+        },
+        {
+          "letter": "I",
+          "text": "am showing you."
+        }
+      ]
     },
     {
       "number": 27,

@@ -914,38 +914,128 @@
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "The ISS should be available for business-related ventures.",
       "groupId": "q31-35",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 31-35) and the list of people below. Match each opinion with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 31-35 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Laurence Young"
+        },
+        {
+          "letter": "B",
+          "text": "Authors of the US National Academy of Sciences report"
+        },
+        {
+          "letter": "C",
+          "text": "Mark Uhran"
+        },
+        {
+          "letter": "D",
+          "text": "Jeanne DiFrancesco"
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "There is general ignorance about what kinds of projects are possible on the ISS.",
       "groupId": "q31-35",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 31-35) and the list of people below. Match each opinion with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 31-35 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Laurence Young"
+        },
+        {
+          "letter": "B",
+          "text": "Authors of the US National Academy of Sciences report"
+        },
+        {
+          "letter": "C",
+          "text": "Mark Uhran"
+        },
+        {
+          "letter": "D",
+          "text": "Jeanne DiFrancesco"
+        }
+      ]
     },
     {
       "number": 33,
-      "type": "gapFill",
-      "prompt": "Question 33",
+      "type": "matchFeatures",
+      "prompt": "The process of getting accepted projects onto the ISS should be speeded up.",
       "groupId": "q31-35",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 31-35) and the list of people below. Match each opinion with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 31-35 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Laurence Young"
+        },
+        {
+          "letter": "B",
+          "text": "Authors of the US National Academy of Sciences report"
+        },
+        {
+          "letter": "C",
+          "text": "Mark Uhran"
+        },
+        {
+          "letter": "D",
+          "text": "Jeanne DiFrancesco"
+        }
+      ]
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "Some achievements of the ISS are underrated.",
       "groupId": "q31-35",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 31-35) and the list of people below. Match each opinion with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 31-35 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Laurence Young"
+        },
+        {
+          "letter": "B",
+          "text": "Authors of the US National Academy of Sciences report"
+        },
+        {
+          "letter": "C",
+          "text": "Mark Uhran"
+        },
+        {
+          "letter": "D",
+          "text": "Jeanne DiFrancesco"
+        }
+      ]
     },
     {
       "number": 35,
-      "type": "gapFill",
-      "prompt": "Question 35",
+      "type": "matchFeatures",
+      "prompt": "To properly assess new space technology, there has to be an absence of gravity.",
       "groupId": "q31-35",
-      "instructions": "Look at the following opinions ("
+      "instructions": "Look at the following opinions (Questions 31-35) and the list of people below. Match each opinion with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 31-35 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Laurence Young"
+        },
+        {
+          "letter": "B",
+          "text": "Authors of the US National Academy of Sciences report"
+        },
+        {
+          "letter": "C",
+          "text": "Mark Uhran"
+        },
+        {
+          "letter": "D",
+          "text": "Jeanne DiFrancesco"
+        }
+      ]
     },
     {
       "number": 36,

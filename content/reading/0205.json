@@ -109,31 +109,135 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "The memorable nature of some tunes can help other learning processes.",
       "groupId": "q4-7",
-      "instructions": "Look at the following theories ("
+      "instructions": "Look at the following theories (Questions 4-7) and the list of people below. Match each theory with the person it is credited to.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Chaffin"
+        },
+        {
+          "letter": "B",
+          "text": "Susan Ball"
+        },
+        {
+          "letter": "C",
+          "text": "Steven Brown"
+        },
+        {
+          "letter": "D",
+          "text": "Caroline Palmer"
+        },
+        {
+          "letter": "E",
+          "text": "Sandra Calvert"
+        },
+        {
+          "letter": "F",
+          "text": "Leon James"
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Music may not always be stored in the memory in the form of separate notes.",
       "groupId": "q4-7",
-      "instructions": "Look at the following theories ("
+      "instructions": "Look at the following theories (Questions 4-7) and the list of people below. Match each theory with the person it is credited to.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Chaffin"
+        },
+        {
+          "letter": "B",
+          "text": "Susan Ball"
+        },
+        {
+          "letter": "C",
+          "text": "Steven Brown"
+        },
+        {
+          "letter": "D",
+          "text": "Caroline Palmer"
+        },
+        {
+          "letter": "E",
+          "text": "Sandra Calvert"
+        },
+        {
+          "letter": "F",
+          "text": "Leon James"
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "People may have started to make music because of their need to remember things.",
       "groupId": "q4-7",
-      "instructions": "Look at the following theories ("
+      "instructions": "Look at the following theories (Questions 4-7) and the list of people below. Match each theory with the person it is credited to.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Chaffin"
+        },
+        {
+          "letter": "B",
+          "text": "Susan Ball"
+        },
+        {
+          "letter": "C",
+          "text": "Steven Brown"
+        },
+        {
+          "letter": "D",
+          "text": "Caroline Palmer"
+        },
+        {
+          "letter": "E",
+          "text": "Sandra Calvert"
+        },
+        {
+          "letter": "F",
+          "text": "Leon James"
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "Having a song going round your head may happen to you more often when one part of the brain is tired.",
       "groupId": "q4-7",
-      "instructions": "Look at the following theories ("
+      "instructions": "Look at the following theories (Questions 4-7) and the list of people below. Match each theory with the person it is credited to.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Roger Chaffin"
+        },
+        {
+          "letter": "B",
+          "text": "Susan Ball"
+        },
+        {
+          "letter": "C",
+          "text": "Steven Brown"
+        },
+        {
+          "letter": "D",
+          "text": "Caroline Palmer"
+        },
+        {
+          "letter": "E",
+          "text": "Sandra Calvert"
+        },
+        {
+          "letter": "F",
+          "text": "Leon James"
+        }
+      ]
     },
     {
       "number": 8,

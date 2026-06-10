@@ -636,31 +636,87 @@
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "An important concern for scientists is to ensure that robots do not seem frightening.",
       "groupId": "q20-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-23) and the list of people below. Match each statement with the correct person, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill Gates"
+        },
+        {
+          "letter": "B",
+          "text": "Nello Cristianini"
+        },
+        {
+          "letter": "C",
+          "text": "Ron Chrisley 20."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "We have stopped trying to enable robots to perceive objects as humans do.",
       "groupId": "q20-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-23) and the list of people below. Match each statement with the correct person, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill Gates"
+        },
+        {
+          "letter": "B",
+          "text": "Nello Cristianini"
+        },
+        {
+          "letter": "C",
+          "text": "Ron Chrisley 20."
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "It will take considerable time for modern robots to match the ones we have created in films and books.",
       "groupId": "q20-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-23) and the list of people below. Match each statement with the correct person, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill Gates"
+        },
+        {
+          "letter": "B",
+          "text": "Nello Cristianini"
+        },
+        {
+          "letter": "C",
+          "text": "Ron Chrisley 20."
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "We need to enable robots to move freely before we think about trying to communicate with them.",
       "groupId": "q20-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 20-23) and the list of people below. Match each statement with the correct person, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Bill Gates"
+        },
+        {
+          "letter": "B",
+          "text": "Nello Cristianini"
+        },
+        {
+          "letter": "C",
+          "text": "Ron Chrisley 20."
+        }
+      ]
     },
     {
       "number": 24,

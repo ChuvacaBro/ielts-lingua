@@ -62,38 +62,108 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "invented a term used to distinguish two factors affecting human characteristics",
       "groupId": "q5-9",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-9) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 5-9 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "letter": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "letter": "C",
+          "text": "Danielle Reed 5 invented a term used to distinguish two factors affecting human characteristics 6 expressed the view that the study of epigenetics will increase our knowledge 7 dev"
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "expressed the view that the study of epigenetics will increase our knowledge",
       "groupId": "q5-9",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-9) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 5-9 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "letter": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "letter": "C",
+          "text": "Danielle Reed 5 invented a term used to distinguish two factors affecting human characteristics 6 expressed the view that the study of epigenetics will increase our knowledge 7 dev"
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "developed a mathematical method of measuring genetic influences",
       "groupId": "q5-9",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-9) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 5-9 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "letter": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "letter": "C",
+          "text": "Danielle Reed 5 invented a term used to distinguish two factors affecting human characteristics 6 expressed the view that the study of epigenetics will increase our knowledge 7 dev"
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "pioneered research into genetics using twins",
       "groupId": "q5-9",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-9) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 5-9 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "letter": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "letter": "C",
+          "text": "Danielle Reed 5 invented a term used to distinguish two factors affecting human characteristics 6 expressed the view that the study of epigenetics will increase our knowledge 7 dev"
+        }
+      ]
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "carried out research into twins who had lived apart",
       "groupId": "q5-9",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 5-9) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 5-9 on your answer sheet. NB You may use any letter more than once. List of Researchers",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "letter": "B",
+          "text": "Thomas Bouchard"
+        },
+        {
+          "letter": "C",
+          "text": "Danielle Reed 5 invented a term used to distinguish two factors affecting human characteristics 6 expressed the view that the study of epigenetics will increase our knowledge 7 dev"
+        }
+      ]
     },
     {
       "number": 10,

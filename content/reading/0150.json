@@ -672,31 +672,87 @@
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "The disposable waste",
       "groupId": "q23-26",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 23-26) and the list of companies below. Match each opinion or deed with the correct company, A, B or C. NB You may use any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "General Electronics"
+        },
+        {
+          "letter": "B",
+          "text": "Microsoft"
+        },
+        {
+          "letter": "C",
+          "text": "Whole Foods Market The Significant Role of Mother Tongue in Education One consequence of population mobility is an increasing diversity within schools."
+        }
+      ]
     },
     {
       "number": 24,
-      "type": "gapFill",
-      "prompt": "Question 24",
+      "type": "matchFeatures",
+      "prompt": "The way company purchases as goods",
       "groupId": "q23-26",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 23-26) and the list of companies below. Match each opinion or deed with the correct company, A, B or C. NB You may use any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "General Electronics"
+        },
+        {
+          "letter": "B",
+          "text": "Microsoft"
+        },
+        {
+          "letter": "C",
+          "text": "Whole Foods Market The Significant Role of Mother Tongue in Education One consequence of population mobility is an increasing diversity within schools."
+        }
+      ]
     },
     {
       "number": 25,
-      "type": "gapFill",
-      "prompt": "Question 25",
+      "type": "matchFeatures",
+      "prompt": "Helping the undeveloped",
       "groupId": "q23-26",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 23-26) and the list of companies below. Match each opinion or deed with the correct company, A, B or C. NB You may use any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "General Electronics"
+        },
+        {
+          "letter": "B",
+          "text": "Microsoft"
+        },
+        {
+          "letter": "C",
+          "text": "Whole Foods Market The Significant Role of Mother Tongue in Education One consequence of population mobility is an increasing diversity within schools."
+        }
+      ]
     },
     {
       "number": 26,
-      "type": "gapFill",
-      "prompt": "Question 26",
+      "type": "matchFeatures",
+      "prompt": "Ensuring the people have the latest information",
       "groupId": "q23-26",
-      "instructions": "Look at the following opinions or deeds ("
+      "instructions": "Look at the following opinions or deeds (Questions 23-26) and the list of companies below. Match each opinion or deed with the correct company, A, B or C. NB You may use any letter more than once",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "General Electronics"
+        },
+        {
+          "letter": "B",
+          "text": "Microsoft"
+        },
+        {
+          "letter": "C",
+          "text": "Whole Foods Market The Significant Role of Mother Tongue in Education One consequence of population mobility is an increasing diversity within schools."
+        }
+      ]
     },
     {
       "number": 27,

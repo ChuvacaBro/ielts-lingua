@@ -34,59 +34,203 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "The emphasis is on students directing the learning process.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "The teacher shows the class how to do something, then students try it on their own.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "Student-teacher interaction and student-student interaction is limited.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "The emphasis is on the process of solving problems together.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Students are expected to adjust to the teacher’s way of presenting information.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "The teacher designs group activities that encourage constructive interaction.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 7,
-      "type": "gapFill",
-      "prompt": "Question 7",
+      "type": "matchFeatures",
+      "prompt": "Time is set aside for one-on-one instruction between teacher and student.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 8,
-      "type": "gapFill",
-      "prompt": "Question 8",
+      "type": "matchFeatures",
+      "prompt": "Group and individual work is encouraged independently of the teacher.",
       "groupId": "q1-8",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 1-8) and the styles of teaching below. Match each statement with the correct teaching style, A -D. Write the correct letter, A-D, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Formal authority"
+        },
+        {
+          "letter": "B",
+          "text": "Demonstrator"
+        },
+        {
+          "letter": "C",
+          "text": "Delegator"
+        },
+        {
+          "letter": "D",
+          "text": "Facilitator"
+        }
+      ]
     },
     {
       "number": 9,

@@ -710,59 +710,395 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Rothschild",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "Alper",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Woodfield",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "Turkle",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "Angrist",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "Shade",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 33,
-      "type": "gapFill",
-      "prompt": "Question 33",
+      "type": "matchFeatures",
+      "prompt": "Kirkup",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "Li List of Reported Findings",
       "groupId": "q27-34",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 27 – 34) and the list of reported findings below. Match each person with the correct finding, A-K. Write the correct letter A – K in boxes 27 – 34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Men and women perceive their environment differently."
+        },
+        {
+          "letter": "B",
+          "text": "The advantages of ICTs in schools are difficult to specify."
+        },
+        {
+          "letter": "C",
+          "text": "Men see ICT as an exciting new area of employment."
+        },
+        {
+          "letter": "D",
+          "text": "Female students find working on their own unappealing."
+        },
+        {
+          "letter": "E",
+          "text": "A greater female representation in scientific and technical posts would have enormous benefits."
+        },
+        {
+          "letter": "F",
+          "text": "Women can be seen as both passive and active users of ICTs."
+        },
+        {
+          "letter": "G",
+          "text": "Female students can benefit most from ICTs and distance learning."
+        },
+        {
+          "letter": "H",
+          "text": "In Higher Education, men use a wider range of ICT skills than women."
+        },
+        {
+          "letter": "I",
+          "text": "A considerable number of women give up ICT posts to work in different fields."
+        },
+        {
+          "letter": "J",
+          "text": "The way the two genders regard computers reflects the differences in the way they develop their sense of self."
+        }
+      ]
     },
     {
       "number": 35,

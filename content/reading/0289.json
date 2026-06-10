@@ -712,38 +712,128 @@
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "can endure very harsh environments",
       "groupId": "q17-21",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 17-21) and the list of sub-families below. Match each characteristic with the correct sub-family, A, B, C or D. List of sub-families",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Antelope"
+        },
+        {
+          "letter": "B",
+          "text": ". Bovinae"
+        },
+        {
+          "letter": "C",
+          "text": ". Caprinae"
+        },
+        {
+          "letter": "D",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "includes the ox and the cow",
       "groupId": "q17-21",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 17-21) and the list of sub-families below. Match each characteristic with the correct sub-family, A, B, C or D. List of sub-families",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Antelope"
+        },
+        {
+          "letter": "B",
+          "text": ". Bovinae"
+        },
+        {
+          "letter": "C",
+          "text": ". Caprinae"
+        },
+        {
+          "letter": "D",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "may supplement its diet with meat",
       "groupId": "q17-21",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 17-21) and the list of sub-families below. Match each characteristic with the correct sub-family, A, B, C or D. List of sub-families",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Antelope"
+        },
+        {
+          "letter": "B",
+          "text": ". Bovinae"
+        },
+        {
+          "letter": "C",
+          "text": ". Caprinae"
+        },
+        {
+          "letter": "D",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "can usually move a speed",
       "groupId": "q17-21",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 17-21) and the list of sub-families below. Match each characteristic with the correct sub-family, A, B, C or D. List of sub-families",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Antelope"
+        },
+        {
+          "letter": "B",
+          "text": ". Bovinae"
+        },
+        {
+          "letter": "C",
+          "text": ". Caprinae"
+        },
+        {
+          "letter": "D",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "does not defend a particular area of land",
       "groupId": "q17-21",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 17-21) and the list of sub-families below. Match each characteristic with the correct sub-family, A, B, C or D. List of sub-families",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Antelope"
+        },
+        {
+          "letter": "B",
+          "text": ". Bovinae"
+        },
+        {
+          "letter": "C",
+          "text": ". Caprinae"
+        },
+        {
+          "letter": "D",
+          "text": "."
+        }
+      ]
     },
     {
       "number": 22,

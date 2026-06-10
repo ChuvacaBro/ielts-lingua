@@ -34,7 +34,7 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "He was searching for ancient lakes and came across the charred remains of Mungo Lady, who had been cremated.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -67,7 +67,7 @@
     },
     {
       "number": 2,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Professor who hold a skeptical attitude towards reliability for DNA analysis on some fossils.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -100,7 +100,7 @@
     },
     {
       "number": 3,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Professor whose determination of the age of Mungo Man to be much younger than the former result which is older than the 62,000 years.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -133,7 +133,7 @@
     },
     {
       "number": 4,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Determining the age of Mungo Man has little to do with controversy for the origins of Australians.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -166,7 +166,7 @@
     },
     {
       "number": 5,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Research group who recovered a biological proof of the first Neanderthal found in Europe.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -199,7 +199,7 @@
     },
     {
       "number": 6,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "A supporter of the idea that Australia’s megafauna was extinct due to the hunting by the ancient human beings.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -232,7 +232,7 @@
     },
     {
       "number": 7,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Instead of keep arguing a single source origin, multi-regional explanation has been raised.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
@@ -265,7 +265,7 @@
     },
     {
       "number": 8,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Climate change rather than prehistoric human activities resulted in megafauna’s extinction.",
       "groupId": "q1-8",
       "instructions": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",

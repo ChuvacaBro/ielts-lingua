@@ -383,52 +383,234 @@
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "A Pest invasion may seriously damage banana industry.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "The effect of fungal infection in soil is often long-lasting.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "A commercial manufacturer gave up on breeding bananas for disease resistant species.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Banana disease may develop resistance to chemical sprays.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "A banana disease has destroyed a large number of banana plantations.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Consumers would not accept genetically altered crop.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "Lessons can be learned from bananas for other crops.",
       "groupId": "q17-23",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 17-23) and the list of people below. Match each statement with the correct person, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Pest invasion may seriously damage banana industry."
+        },
+        {
+          "letter": "B",
+          "text": "David Mclaughlin"
+        },
+        {
+          "letter": "C",
+          "text": "Emile Frison"
+        },
+        {
+          "letter": "D",
+          "text": "Ronald Romero"
+        },
+        {
+          "letter": "E",
+          "text": "Luadir Gasparotto"
+        },
+        {
+          "letter": "F",
+          "text": "Geoff Hawtin"
+        }
+      ]
     },
     {
       "number": 24,

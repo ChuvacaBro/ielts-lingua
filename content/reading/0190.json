@@ -470,7 +470,7 @@
     },
     {
       "number": 18,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Oil prices rise.",
       "groupId": "q18-22",
       "instructions": "Look at the following causes and the list of results below. Match each cause with the appropriate result.",
@@ -515,7 +515,7 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The price of potatoes goes up.",
       "groupId": "q18-22",
       "instructions": "Look at the following causes and the list of results below. Match each cause with the appropriate result.",
@@ -560,7 +560,7 @@
     },
     {
       "number": 20,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Gold was the unit of account.",
       "groupId": "q18-22",
       "instructions": "Look at the following causes and the list of results below. Match each cause with the appropriate result.",
@@ -605,7 +605,7 @@
     },
     {
       "number": 21,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "The amount of gold available went down.",
       "groupId": "q18-22",
       "instructions": "Look at the following causes and the list of results below. Match each cause with the appropriate result.",
@@ -650,7 +650,7 @@
     },
     {
       "number": 22,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "Meat in Australia was cheaper than elsewhere.",
       "groupId": "q18-22",
       "instructions": "Look at the following causes and the list of results below. Match each cause with the appropriate result.",

@@ -132,45 +132,201 @@
     },
     {
       "number": 15,
-      "type": "gapFill",
-      "prompt": "Question 15",
+      "type": "matchFeatures",
+      "prompt": "The cost implications of fitting plants with the necessary equipment.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 16,
-      "type": "gapFill",
-      "prompt": "Question 16",
+      "type": "matchFeatures",
+      "prompt": "The effects of sequestration could have on sea creatures.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 17,
-      "type": "gapFill",
-      "prompt": "Question 17",
+      "type": "matchFeatures",
+      "prompt": "The reasons why products such as oil and gas continue to be popular energy sources.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 18,
-      "type": "gapFill",
-      "prompt": "Question 18",
+      "type": "matchFeatures",
+      "prompt": "The need for industrialised countries to give aid to less wealthy countries.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "The significant increase in carbon dioxide concentrations in the air over the last 100 years.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "The potential for sequestration to harm human life.",
       "groupId": "q15-20",
-      "instructions": "Look at the following issues ("
+      "instructions": "Look at the following issues (Questions 15-20) and the list of people and organisations below. Match each issue with the correct person or organization, A-F. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": ". Scott Klara"
+        },
+        {
+          "letter": "B",
+          "text": ". Intergovernmental Panel on Climate Change"
+        },
+        {
+          "letter": "C",
+          "text": ". International Energy Agency"
+        },
+        {
+          "letter": "D",
+          "text": ". Klaus Lackner"
+        },
+        {
+          "letter": "E",
+          "text": ". David Hawkins"
+        },
+        {
+          "letter": "F",
+          "text": ". World Wide Fund for Nature Australia"
+        }
+      ]
     },
     {
       "number": 21,

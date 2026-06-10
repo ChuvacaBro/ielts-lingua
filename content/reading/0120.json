@@ -34,38 +34,188 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "can be positive in small doses but is generally associated with pressure",
       "groupId": "q1-5",
-      "instructions": "Look at the statements ("
+      "instructions": "Look at the statements (Questions 1 – 5) and the list of disorders (A – G) below. Match each statement with the correct disorder A – G. NB There are more disorders than descriptions, so you will not use them all.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stress"
+        },
+        {
+          "letter": "B",
+          "text": "Autistic Spectrum Disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Attention Deficit Disorder"
+        },
+        {
+          "letter": "D",
+          "text": "Schizophrenia"
+        },
+        {
+          "letter": "E",
+          "text": "Attention Deficit Hyperactivity Disorder"
+        },
+        {
+          "letter": "F",
+          "text": "Depression"
+        },
+        {
+          "letter": "G",
+          "text": "Obsessive Compulsive Disorder"
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "feeling that there is danger constantly present",
       "groupId": "q1-5",
-      "instructions": "Look at the statements ("
+      "instructions": "Look at the statements (Questions 1 – 5) and the list of disorders (A – G) below. Match each statement with the correct disorder A – G. NB There are more disorders than descriptions, so you will not use them all.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stress"
+        },
+        {
+          "letter": "B",
+          "text": "Autistic Spectrum Disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Attention Deficit Disorder"
+        },
+        {
+          "letter": "D",
+          "text": "Schizophrenia"
+        },
+        {
+          "letter": "E",
+          "text": "Attention Deficit Hyperactivity Disorder"
+        },
+        {
+          "letter": "F",
+          "text": "Depression"
+        },
+        {
+          "letter": "G",
+          "text": "Obsessive Compulsive Disorder"
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "has experiences that may or may not be part of the ‘real’ world",
       "groupId": "q1-5",
-      "instructions": "Look at the statements ("
+      "instructions": "Look at the statements (Questions 1 – 5) and the list of disorders (A – G) below. Match each statement with the correct disorder A – G. NB There are more disorders than descriptions, so you will not use them all.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stress"
+        },
+        {
+          "letter": "B",
+          "text": "Autistic Spectrum Disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Attention Deficit Disorder"
+        },
+        {
+          "letter": "D",
+          "text": "Schizophrenia"
+        },
+        {
+          "letter": "E",
+          "text": "Attention Deficit Hyperactivity Disorder"
+        },
+        {
+          "letter": "F",
+          "text": "Depression"
+        },
+        {
+          "letter": "G",
+          "text": "Obsessive Compulsive Disorder"
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "active to the point of losing concentration and becoming disruptive",
       "groupId": "q1-5",
-      "instructions": "Look at the statements ("
+      "instructions": "Look at the statements (Questions 1 – 5) and the list of disorders (A – G) below. Match each statement with the correct disorder A – G. NB There are more disorders than descriptions, so you will not use them all.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stress"
+        },
+        {
+          "letter": "B",
+          "text": "Autistic Spectrum Disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Attention Deficit Disorder"
+        },
+        {
+          "letter": "D",
+          "text": "Schizophrenia"
+        },
+        {
+          "letter": "E",
+          "text": "Attention Deficit Hyperactivity Disorder"
+        },
+        {
+          "letter": "F",
+          "text": "Depression"
+        },
+        {
+          "letter": "G",
+          "text": "Obsessive Compulsive Disorder"
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "good at art but not at communicating Types of Disorders",
       "groupId": "q1-5",
-      "instructions": "Look at the statements ("
+      "instructions": "Look at the statements (Questions 1 – 5) and the list of disorders (A – G) below. Match each statement with the correct disorder A – G. NB There are more disorders than descriptions, so you will not use them all.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Stress"
+        },
+        {
+          "letter": "B",
+          "text": "Autistic Spectrum Disorder"
+        },
+        {
+          "letter": "C",
+          "text": "Attention Deficit Disorder"
+        },
+        {
+          "letter": "D",
+          "text": "Schizophrenia"
+        },
+        {
+          "letter": "E",
+          "text": "Attention Deficit Hyperactivity Disorder"
+        },
+        {
+          "letter": "F",
+          "text": "Depression"
+        },
+        {
+          "letter": "G",
+          "text": "Obsessive Compulsive Disorder"
+        }
+      ]
     },
     {
       "number": 6,

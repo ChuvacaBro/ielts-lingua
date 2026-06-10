@@ -216,30 +216,34 @@
     {
       "number": 14,
       "type": "gapFill",
-      "prompt": "Question 14",
+      "prompt": "Language problems may come to the attention of the public when they have ____ such as fatal accidents or social problems.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q14-17",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 14-17) with words taken from Reading Passage 2. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 15,
       "type": "gapFill",
-      "prompt": "Question 15",
+      "prompt": "Evidence of the extent of the language barrier has been gained from ____of materials used by scientists such as books and periodicals.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q14-17",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 14-17) with words taken from Reading Passage 2. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 16,
       "type": "gapFill",
-      "prompt": "Question 16",
+      "prompt": "An example of British linguistic insularity is the use of English for materials such as ____",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q14-17",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 14-17) with words taken from Reading Passage 2. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 17,
       "type": "gapFill",
-      "prompt": "Question 17",
+      "prompt": "An example of a part of the world where people may have difficulty in negotiating English is ____",
+      "wordLimit": "NO MORE THAN THREE WORDS",
       "groupId": "q14-17",
-      "instructions": "Complete each of the following statements ("
+      "instructions": "Complete each of the following statements (Questions 14-17) with words taken from Reading Passage 2. Write NO MORE THAN THREE WORDS for each answer."
     },
     {
       "number": 18,
@@ -700,7 +704,7 @@
     },
     {
       "number": 31,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "required considerable harbor development",
       "groupId": "q31-34",
       "instructions": "Look at the following descriptions of some port cities mentioned in the passage. Match the pairs of cities (A-H) listed below with the descriptions. Write the appropriate letters A-H in boxes 31-34. NB There are more pairs of port cities than descriptions so you will not use them all.",
@@ -741,7 +745,7 @@
     },
     {
       "number": 32,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "began as ports but other facilities later dominated",
       "groupId": "q31-34",
       "instructions": "Look at the following descriptions of some port cities mentioned in the passage. Match the pairs of cities (A-H) listed below with the descriptions. Write the appropriate letters A-H in boxes 31-34. NB There are more pairs of port cities than descriptions so you will not use them all.",
@@ -782,7 +786,7 @@
     },
     {
       "number": 33,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "lost their prominence when large ships could not be accommodated",
       "groupId": "q31-34",
       "instructions": "Look at the following descriptions of some port cities mentioned in the passage. Match the pairs of cities (A-H) listed below with the descriptions. Write the appropriate letters A-H in boxes 31-34. NB There are more pairs of port cities than descriptions so you will not use them all.",
@@ -823,7 +827,7 @@
     },
     {
       "number": 34,
-      "type": "gapFill",
+      "type": "matchFeatures",
       "prompt": "maintain their business centres near the port waterfront",
       "groupId": "q31-34",
       "instructions": "Look at the following descriptions of some port cities mentioned in the passage. Match the pairs of cities (A-H) listed below with the descriptions. Write the appropriate letters A-H in boxes 31-34. NB There are more pairs of port cities than descriptions so you will not use them all.",

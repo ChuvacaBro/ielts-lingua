@@ -8,16 +8,30 @@
       "missing": []
     },
     {
-      "id": "0009",
+      "id": "0016",
+      "reasons": [
+        "missing-image"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0021",
       "reasons": [
         "no-options"
       ],
       "missing": []
     },
     {
-      "id": "0016",
+      "id": "0025",
       "reasons": [
-        "missing-image"
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0026",
+      "reasons": [
+        "no-options"
       ],
       "missing": []
     },
@@ -54,6 +68,20 @@
       ]
     },
     {
+      "id": "0041",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0042",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
       "id": "0044",
       "reasons": [
         "source-missing-questions"
@@ -61,6 +89,34 @@
       "missing": [
         26
       ]
+    },
+    {
+      "id": "0048",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0051",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0053",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0054",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
     },
     {
       "id": "0058",
@@ -86,9 +142,17 @@
       ]
     },
     {
+      "id": "0062",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
       "id": "0063",
       "reasons": [
-        "source-missing-questions"
+        "source-missing-questions",
+        "no-options"
       ],
       "missing": [
         6,
@@ -193,7 +257,8 @@
     {
       "id": "0095",
       "reasons": [
-        "source-missing-questions"
+        "source-missing-questions",
+        "no-options"
       ],
       "missing": [
         23,
@@ -233,17 +298,18 @@
       "missing": []
     },
     {
-      "id": "0127",
+      "id": "0111",
       "reasons": [
-        "source-missing-questions"
+        "no-options"
       ],
-      "missing": [
-        10,
-        11,
-        12,
-        13,
-        14
-      ]
+      "missing": []
+    },
+    {
+      "id": "0130",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
     },
     {
       "id": "0136",
@@ -280,6 +346,20 @@
       ]
     },
     {
+      "id": "0165",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0167",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
       "id": "0169",
       "reasons": [
         "source-missing-questions"
@@ -294,6 +374,27 @@
     },
     {
       "id": "0189",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0241",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0267",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0281",
       "reasons": [
         "no-options"
       ],
@@ -558,7 +659,8 @@
     {
       "id": "0111",
       "reasons": [
-        "missing-image"
+        "missing-image",
+        "no-options"
       ],
       "missing": []
     },
@@ -676,5 +778,5 @@
       "missing": []
     }
   ],
-  "generatedAt": "2026-06-10T13:38:02.329277+00:00"
+  "generatedAt": "2026-06-10T19:21:33.829349+00:00"
 }

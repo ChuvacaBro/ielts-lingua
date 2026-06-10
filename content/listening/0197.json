@@ -215,37 +215,37 @@
     {
       "number": 16,
       "type": "mapPlanLabelling",
-      "prompt": "Question 16",
+      "prompt": "Farm shop",
       "groupId": "q16-20",
-      "instructions": "Label the map below. Write the correct letter, A-H, next to"
+      "instructions": "Label the map below. Write the correct letter, A-H, next to Questions 16-20."
     },
     {
       "number": 17,
       "type": "mapPlanLabelling",
-      "prompt": "Question 17",
+      "prompt": "Disabled entry",
       "groupId": "q16-20",
-      "instructions": "Label the map below. Write the correct letter, A-H, next to"
+      "instructions": "Label the map below. Write the correct letter, A-H, next to Questions 16-20."
     },
     {
       "number": 18,
       "type": "mapPlanLabelling",
-      "prompt": "Question 18",
+      "prompt": "Adventure playground",
       "groupId": "q16-20",
-      "instructions": "Label the map below. Write the correct letter, A-H, next to"
+      "instructions": "Label the map below. Write the correct letter, A-H, next to Questions 16-20."
     },
     {
       "number": 19,
       "type": "mapPlanLabelling",
-      "prompt": "Question 19",
+      "prompt": "Kitchen gardens",
       "groupId": "q16-20",
-      "instructions": "Label the map below. Write the correct letter, A-H, next to"
+      "instructions": "Label the map below. Write the correct letter, A-H, next to Questions 16-20."
     },
     {
       "number": 20,
       "type": "mapPlanLabelling",
-      "prompt": "Question 20",
+      "prompt": "The Temple of the Four Winds",
       "groupId": "q16-20",
-      "instructions": "Label the map below. Write the correct letter, A-H, next to"
+      "instructions": "Label the map below. Write the correct letter, A-H, next to Questions 16-20."
     },
     {
       "number": 21,
@@ -366,44 +366,248 @@
     {
       "number": 25,
       "type": "gapFill",
-      "prompt": "Question 25",
+      "prompt": "Use of local products",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 26,
       "type": "gapFill",
-      "prompt": "Question 26",
+      "prompt": "Reduction in unnecessary packaging",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 27,
       "type": "gapFill",
-      "prompt": "Question 27",
+      "prompt": "Gluten-free and lactose-free food",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 28,
       "type": "gapFill",
-      "prompt": "Question 28",
+      "prompt": "Use of branded products related to celebrity chefs",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 29,
       "type": "gapFill",
-      "prompt": "Question 29",
+      "prompt": "Development of ‘ghost kitchens’ for takeaway food",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 30,
       "type": "gapFill",
-      "prompt": "Question 30",
+      "prompt": "Use of mushrooms for common health concerns",
       "groupId": "q25-30",
-      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to"
+      "instructions": "What is the students’ opinion about each of the following food trends? Choose SIX answers from the box and write the correct letter, A-H, next to Questions 25-30. Opinions",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "This is only relevant to young people."
+        },
+        {
+          "letter": "B",
+          "text": "This may have disappointing results."
+        },
+        {
+          "letter": "C",
+          "text": "This already seems to be widespread."
+        },
+        {
+          "letter": "D",
+          "text": "Retailers should do more to encourage this."
+        },
+        {
+          "letter": "E",
+          "text": "More financial support is needed for this."
+        },
+        {
+          "letter": "F",
+          "text": "Most people know little about this."
+        },
+        {
+          "letter": "G",
+          "text": "There should be stricter regulations about this."
+        },
+        {
+          "letter": "H",
+          "text": "This could be dangerous."
+        }
+      ]
     },
     {
       "number": 31,

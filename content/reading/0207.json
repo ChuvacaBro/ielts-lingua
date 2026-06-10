@@ -769,24 +769,102 @@
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "Steven Quartz",
       "groupId": "q20-22",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 20-22) and the list of opinions below. Match each person with the opinion credited to him.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+        },
+        {
+          "letter": "B",
+          "text": "Neuromarketing could use introspection as a tool in marketing research."
+        },
+        {
+          "letter": "C",
+          "text": "Neuromarketing could be a means of treating medical problems."
+        },
+        {
+          "letter": "D",
+          "text": "Neuromarketing could make an existing problem worse."
+        },
+        {
+          "letter": "E",
+          "text": "Neuromarketing could lead to the misuse of medical equipment."
+        },
+        {
+          "letter": "F",
+          "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "Gary Ruskin",
       "groupId": "q20-22",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 20-22) and the list of opinions below. Match each person with the opinion credited to him.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+        },
+        {
+          "letter": "B",
+          "text": "Neuromarketing could use introspection as a tool in marketing research."
+        },
+        {
+          "letter": "C",
+          "text": "Neuromarketing could be a means of treating medical problems."
+        },
+        {
+          "letter": "D",
+          "text": "Neuromarketing could make an existing problem worse."
+        },
+        {
+          "letter": "E",
+          "text": "Neuromarketing could lead to the misuse of medical equipment."
+        },
+        {
+          "letter": "F",
+          "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "Tim Ambler List of opinions",
       "groupId": "q20-22",
-      "instructions": "Look at the following people ("
+      "instructions": "Look at the following people (Questions 20-22) and the list of opinions below. Match each person with the opinion credited to him.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+        },
+        {
+          "letter": "B",
+          "text": "Neuromarketing could use introspection as a tool in marketing research."
+        },
+        {
+          "letter": "C",
+          "text": "Neuromarketing could be a means of treating medical problems."
+        },
+        {
+          "letter": "D",
+          "text": "Neuromarketing could make an existing problem worse."
+        },
+        {
+          "letter": "E",
+          "text": "Neuromarketing could lead to the misuse of medical equipment."
+        },
+        {
+          "letter": "F",
+          "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+        }
+      ]
     },
     {
       "number": 23,

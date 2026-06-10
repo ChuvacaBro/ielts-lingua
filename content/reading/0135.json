@@ -34,45 +34,153 @@
   "questions": [
     {
       "number": 1,
-      "type": "gapFill",
-      "prompt": "Question 1",
+      "type": "matchFeatures",
+      "prompt": "Babies and some animals produce laughter which sounds similar.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 2,
-      "type": "gapFill",
-      "prompt": "Question 2",
+      "type": "matchFeatures",
+      "prompt": "Primates are not the only animals who produce laughter.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 3,
-      "type": "gapFill",
-      "prompt": "Question 3",
+      "type": "matchFeatures",
+      "prompt": "Laughter can be used to show that we feel safe and secure with others.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 4,
-      "type": "gapFill",
-      "prompt": "Question 4",
+      "type": "matchFeatures",
+      "prompt": "Most human laughter is not a response to a humorous situation.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 5,
-      "type": "gapFill",
-      "prompt": "Question 5",
+      "type": "matchFeatures",
+      "prompt": "Animal laughter evolved before human laughter.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 6,
-      "type": "gapFill",
-      "prompt": "Question 6",
+      "type": "matchFeatures",
+      "prompt": "Laughter is a social activity.",
       "groupId": "q1-6",
-      "instructions": "Look at the following research findings ("
+      "instructions": "Look at the following research findings (Questions 1-6) and the list of people below. Match each finding with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Provine"
+        },
+        {
+          "letter": "B",
+          "text": "Zimmerman"
+        },
+        {
+          "letter": "C",
+          "text": "Panksepp"
+        },
+        {
+          "letter": "D",
+          "text": "Flamson"
+        }
+      ]
     },
     {
       "number": 7,

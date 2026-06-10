@@ -167,24 +167,66 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "to remove trees that are diseased",
       "groupId": "q19-21",
-      "instructions": "Look at the following purposes ("
+      "instructions": "Look at the following purposes (Questions 19-21) and the list of timber cuts below. Match each purpose with the correct timber cut, A, B or C. Write the correct letter, A, B or C, in boxes 19-21 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a TSI Cut"
+        },
+        {
+          "letter": "B",
+          "text": "a Salvage Cut"
+        },
+        {
+          "letter": "C",
+          "text": "a Shelterwood Cut"
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "to generate income across a number of years",
       "groupId": "q19-21",
-      "instructions": "Look at the following purposes ("
+      "instructions": "Look at the following purposes (Questions 19-21) and the list of timber cuts below. Match each purpose with the correct timber cut, A, B or C. Write the correct letter, A, B or C, in boxes 19-21 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a TSI Cut"
+        },
+        {
+          "letter": "B",
+          "text": "a Salvage Cut"
+        },
+        {
+          "letter": "C",
+          "text": "a Shelterwood Cut"
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "to create a forest whose trees are close in age List of Timber Cuts",
       "groupId": "q19-21",
-      "instructions": "Look at the following purposes ("
+      "instructions": "Look at the following purposes (Questions 19-21) and the list of timber cuts below. Match each purpose with the correct timber cut, A, B or C. Write the correct letter, A, B or C, in boxes 19-21 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "a TSI Cut"
+        },
+        {
+          "letter": "B",
+          "text": "a Salvage Cut"
+        },
+        {
+          "letter": "C",
+          "text": "a Shelterwood Cut"
+        }
+      ]
     },
     {
       "number": 22,
@@ -295,38 +337,128 @@
     },
     {
       "number": 36,
-      "type": "gapFill",
-      "prompt": "Question 36",
+      "type": "matchFeatures",
+      "prompt": "Knowing the exact location of space junk would help prevent any possible danger.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "recommendation regarding satellites is widely ignored."
+        },
+        {
+          "letter": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "letter": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "letter": "D",
+          "text": "Moriba Jah"
+        }
+      ]
     },
     {
       "number": 37,
-      "type": "gapFill",
-      "prompt": "Question 37",
+      "type": "matchFeatures",
+      "prompt": "Space should be available to everyone and should be preserved for the future.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "recommendation regarding satellites is widely ignored."
+        },
+        {
+          "letter": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "letter": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "letter": "D",
+          "text": "Moriba Jah"
+        }
+      ]
     },
     {
       "number": 38,
-      "type": "gapFill",
-      "prompt": "Question 38",
+      "type": "matchFeatures",
+      "prompt": "A recommendation regarding satellites is widely ignored.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "recommendation regarding satellites is widely ignored."
+        },
+        {
+          "letter": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "letter": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "letter": "D",
+          "text": "Moriba Jah"
+        }
+      ]
     },
     {
       "number": 39,
-      "type": "gapFill",
-      "prompt": "Question 39",
+      "type": "matchFeatures",
+      "prompt": "There is conflicting information about where some satellites are in space.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "recommendation regarding satellites is widely ignored."
+        },
+        {
+          "letter": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "letter": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "letter": "D",
+          "text": "Moriba Jah"
+        }
+      ]
     },
     {
       "number": 40,
-      "type": "gapFill",
-      "prompt": "Question 40",
+      "type": "matchFeatures",
+      "prompt": "There is a risk we will not be able to undo the damage that occurs in space.",
       "groupId": "q36-40",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 36-40) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "recommendation regarding satellites is widely ignored."
+        },
+        {
+          "letter": "B",
+          "text": "Holger Krag"
+        },
+        {
+          "letter": "C",
+          "text": "Marlon Sorge"
+        },
+        {
+          "letter": "D",
+          "text": "Moriba Jah"
+        }
+      ]
     }
   ],
   "answerKey": {

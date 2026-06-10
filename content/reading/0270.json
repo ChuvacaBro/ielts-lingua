@@ -94,38 +94,188 @@
     },
     {
       "number": 9,
-      "type": "gapFill",
-      "prompt": "Question 9",
+      "type": "matchFeatures",
+      "prompt": "The environmental advantage of cement alternatives may not be as great as initially assumed.",
       "groupId": "q9-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 9-13 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "letter": "B",
+          "text": "Markus Mannstrom"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "letter": "D",
+          "text": "Felix Preston and Johanna Lehne The steam car A When primitive automobiles first began to appear in the 1800s, their engines were based on steam power."
+        },
+        {
+          "letter": "E",
+          "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modem new cars."
+        },
+        {
+          "letter": "F",
+          "text": "The brothers made one final attempt to produce a viable steam automobile."
+        },
+        {
+          "letter": "G",
+          "text": "Sadly, the Dobles’ brilliant steam car never was a financial success."
+        }
+      ]
     },
     {
       "number": 10,
-      "type": "gapFill",
-      "prompt": "Question 10",
+      "type": "matchFeatures",
+      "prompt": "It would be hard to create a construction alternative to concrete that offers so many comparable benefits.",
       "groupId": "q9-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 9-13 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "letter": "B",
+          "text": "Markus Mannstrom"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "letter": "D",
+          "text": "Felix Preston and Johanna Lehne The steam car A When primitive automobiles first began to appear in the 1800s, their engines were based on steam power."
+        },
+        {
+          "letter": "E",
+          "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modem new cars."
+        },
+        {
+          "letter": "F",
+          "text": "The brothers made one final attempt to produce a viable steam automobile."
+        },
+        {
+          "letter": "G",
+          "text": "Sadly, the Dobles’ brilliant steam car never was a financial success."
+        }
+      ]
     },
     {
       "number": 11,
-      "type": "gapFill",
-      "prompt": "Question 11",
+      "type": "matchFeatures",
+      "prompt": "Worries about the environment have led to increased interest in wood as a construction material.",
       "groupId": "q9-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 9-13 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "letter": "B",
+          "text": "Markus Mannstrom"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "letter": "D",
+          "text": "Felix Preston and Johanna Lehne The steam car A When primitive automobiles first began to appear in the 1800s, their engines were based on steam power."
+        },
+        {
+          "letter": "E",
+          "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modem new cars."
+        },
+        {
+          "letter": "F",
+          "text": "The brothers made one final attempt to produce a viable steam automobile."
+        },
+        {
+          "letter": "G",
+          "text": "Sadly, the Dobles’ brilliant steam car never was a financial success."
+        }
+      ]
     },
     {
       "number": 12,
-      "type": "gapFill",
-      "prompt": "Question 12",
+      "type": "matchFeatures",
+      "prompt": "Expense has been a factor in the negative response to the development of new cements.",
       "groupId": "q9-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 9-13 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "letter": "B",
+          "text": "Markus Mannstrom"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "letter": "D",
+          "text": "Felix Preston and Johanna Lehne The steam car A When primitive automobiles first began to appear in the 1800s, their engines were based on steam power."
+        },
+        {
+          "letter": "E",
+          "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modem new cars."
+        },
+        {
+          "letter": "F",
+          "text": "The brothers made one final attempt to produce a viable steam automobile."
+        },
+        {
+          "letter": "G",
+          "text": "Sadly, the Dobles’ brilliant steam car never was a financial success."
+        }
+      ]
     },
     {
       "number": 13,
-      "type": "gapFill",
-      "prompt": "Question 13",
+      "type": "matchFeatures",
+      "prompt": "The environmental damage caused by concrete is due to it being produced in large quantities.",
       "groupId": "q9-13",
-      "instructions": "Look at the following statements ("
+      "instructions": "Look at the following statements (Questions 9-13) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 9-13 on your answer sheet. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Chris Cheeseman"
+        },
+        {
+          "letter": "B",
+          "text": "Markus Mannstrom"
+        },
+        {
+          "letter": "C",
+          "text": "Anna Surgenor"
+        },
+        {
+          "letter": "D",
+          "text": "Felix Preston and Johanna Lehne The steam car A When primitive automobiles first began to appear in the 1800s, their engines were based on steam power."
+        },
+        {
+          "letter": "E",
+          "text": "Later that year Abner Doble delivered unhappy news to those eagerly awaiting the delivery of their modem new cars."
+        },
+        {
+          "letter": "F",
+          "text": "The brothers made one final attempt to produce a viable steam automobile."
+        },
+        {
+          "letter": "G",
+          "text": "Sadly, the Dobles’ brilliant steam car never was a financial success."
+        }
+      ]
     },
     {
       "number": 14,

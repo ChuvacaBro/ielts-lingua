@@ -721,31 +721,103 @@
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "Segmentation",
       "groupId": "q31-34",
-      "instructions": "Look at the following list of theories ("
+      "instructions": "Look at the following list of theories (Questions 31-34) and the list of definitions below. Match each theory with the correct definition. Write the correct letter A-D in boxes 31-34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "work and family are totally unrelated"
+        },
+        {
+          "letter": "B",
+          "text": "the relationship between work and family is always varying"
+        },
+        {
+          "letter": "C",
+          "text": "high work involvement results in family neglect"
+        },
+        {
+          "letter": "D",
+          "text": "positive support in work and home leads to success in both"
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "Self-determination",
       "groupId": "q31-34",
-      "instructions": "Look at the following list of theories ("
+      "instructions": "Look at the following list of theories (Questions 31-34) and the list of definitions below. Match each theory with the correct definition. Write the correct letter A-D in boxes 31-34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "work and family are totally unrelated"
+        },
+        {
+          "letter": "B",
+          "text": "the relationship between work and family is always varying"
+        },
+        {
+          "letter": "C",
+          "text": "high work involvement results in family neglect"
+        },
+        {
+          "letter": "D",
+          "text": "positive support in work and home leads to success in both"
+        }
+      ]
     },
     {
       "number": 33,
-      "type": "gapFill",
-      "prompt": "Question 33",
+      "type": "matchFeatures",
+      "prompt": "Compensation",
       "groupId": "q31-34",
-      "instructions": "Look at the following list of theories ("
+      "instructions": "Look at the following list of theories (Questions 31-34) and the list of definitions below. Match each theory with the correct definition. Write the correct letter A-D in boxes 31-34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "work and family are totally unrelated"
+        },
+        {
+          "letter": "B",
+          "text": "the relationship between work and family is always varying"
+        },
+        {
+          "letter": "C",
+          "text": "high work involvement results in family neglect"
+        },
+        {
+          "letter": "D",
+          "text": "positive support in work and home leads to success in both"
+        }
+      ]
     },
     {
       "number": 34,
-      "type": "gapFill",
-      "prompt": "Question 34",
+      "type": "matchFeatures",
+      "prompt": "Developmental",
       "groupId": "q31-34",
-      "instructions": "Look at the following list of theories ("
+      "instructions": "Look at the following list of theories (Questions 31-34) and the list of definitions below. Match each theory with the correct definition. Write the correct letter A-D in boxes 31-34 on your answer sheet.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "work and family are totally unrelated"
+        },
+        {
+          "letter": "B",
+          "text": "the relationship between work and family is always varying"
+        },
+        {
+          "letter": "C",
+          "text": "high work involvement results in family neglect"
+        },
+        {
+          "letter": "D",
+          "text": "positive support in work and home leads to success in both"
+        }
+      ]
     },
     {
       "number": 35,

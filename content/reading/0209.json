@@ -167,38 +167,108 @@
     },
     {
       "number": 19,
-      "type": "gapFill",
-      "prompt": "Question 19",
+      "type": "matchFeatures",
+      "prompt": "a surplus of goods.",
       "groupId": "q19-23",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The agricultural age."
+        },
+        {
+          "letter": "B",
+          "text": "The industrial age."
+        },
+        {
+          "letter": "C",
+          "text": "The neo-industrial age."
+        }
+      ]
     },
     {
       "number": 20,
-      "type": "gapFill",
-      "prompt": "Question 20",
+      "type": "matchFeatures",
+      "prompt": "an emphasis on production quantity.",
       "groupId": "q19-23",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The agricultural age."
+        },
+        {
+          "letter": "B",
+          "text": "The industrial age."
+        },
+        {
+          "letter": "C",
+          "text": "The neo-industrial age."
+        }
+      ]
     },
     {
       "number": 21,
-      "type": "gapFill",
-      "prompt": "Question 21",
+      "type": "matchFeatures",
+      "prompt": "the proximity of consumers to workplaces.",
       "groupId": "q19-23",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The agricultural age."
+        },
+        {
+          "letter": "B",
+          "text": "The industrial age."
+        },
+        {
+          "letter": "C",
+          "text": "The neo-industrial age."
+        }
+      ]
     },
     {
       "number": 22,
-      "type": "gapFill",
-      "prompt": "Question 22",
+      "type": "matchFeatures",
+      "prompt": "a focus on the quality of goods.",
       "groupId": "q19-23",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The agricultural age."
+        },
+        {
+          "letter": "B",
+          "text": "The industrial age."
+        },
+        {
+          "letter": "C",
+          "text": "The neo-industrial age."
+        }
+      ]
     },
     {
       "number": 23,
-      "type": "gapFill",
-      "prompt": "Question 23",
+      "type": "matchFeatures",
+      "prompt": "new products and new ways of working.",
       "groupId": "q19-23",
-      "instructions": "Look at the following characteristics ("
+      "instructions": "Look at the following characteristics (Questions 19-23) and the list of periods below. Match each characteristic with the correct period, A, B or C. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "The agricultural age."
+        },
+        {
+          "letter": "B",
+          "text": "The industrial age."
+        },
+        {
+          "letter": "C",
+          "text": "The neo-industrial age."
+        }
+      ]
     },
     {
       "number": 24,

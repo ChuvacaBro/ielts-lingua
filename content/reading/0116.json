@@ -720,45 +720,177 @@
     },
     {
       "number": 27,
-      "type": "gapFill",
-      "prompt": "Question 27",
+      "type": "matchFeatures",
+      "prompt": "Mistakes should be corrected on the basis of common sense.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 28,
-      "type": "gapFill",
-      "prompt": "Question 28",
+      "type": "matchFeatures",
+      "prompt": "No one has legitimacy as an ultimate authority on punctuation use.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 29,
-      "type": "gapFill",
-      "prompt": "Question 29",
+      "type": "matchFeatures",
+      "prompt": "Eats, Shoots and Leaves is not the type of book it claims to be.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 30,
-      "type": "gapFill",
-      "prompt": "Question 30",
+      "type": "matchFeatures",
+      "prompt": "The idea that some forms of language can be better than others is wrong.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 31,
-      "type": "gapFill",
-      "prompt": "Question 31",
+      "type": "matchFeatures",
+      "prompt": "The semicolon has no real purpose.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 32,
-      "type": "gapFill",
-      "prompt": "Question 32",
+      "type": "matchFeatures",
+      "prompt": "We can ask whether rules are helpful without undermining the need for rules.",
       "groupId": "q27-32",
-      "instructions": "Look as the following statements ("
+      "instructions": "Look as the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person A-E. NB You may use any letter more than once.",
+      "bank": [
+        {
+          "letter": "A",
+          "text": "Kurt Vonnegut Jr"
+        },
+        {
+          "letter": "B",
+          "text": "Louis Menand"
+        },
+        {
+          "letter": "C",
+          "text": "David Chrystal"
+        },
+        {
+          "letter": "D",
+          "text": "Geoffrey K. Pullum"
+        },
+        {
+          "letter": "E",
+          "text": "Charles Gaulke"
+        }
+      ]
     },
     {
       "number": 33,
