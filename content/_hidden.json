@@ -8,6 +8,13 @@
       "missing": []
     },
     {
+      "id": "0009",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
       "id": "0016",
       "reasons": [
         "missing-image"
@@ -286,6 +293,13 @@
       ]
     },
     {
+      "id": "0189",
+      "reasons": [
+        "no-options"
+      ],
+      "missing": []
+    },
+    {
       "id": "0282",
       "reasons": [
         "missing-image"
@@ -551,7 +565,8 @@
     {
       "id": "0114",
       "reasons": [
-        "missing-image"
+        "missing-image",
+        "no-options"
       ],
       "missing": []
     },
@@ -566,6 +581,13 @@
       "id": "0127",
       "reasons": [
         "no-audio"
+      ],
+      "missing": []
+    },
+    {
+      "id": "0128",
+      "reasons": [
+        "no-options"
       ],
       "missing": []
     },
@@ -601,7 +623,8 @@
     {
       "id": "0174",
       "reasons": [
-        "missing-image"
+        "missing-image",
+        "no-options"
       ],
       "missing": []
     },
@@ -653,5 +676,5 @@
       "missing": []
     }
   ],
-  "generatedAt": "2026-06-10T03:55:12.311920+00:00"
+  "generatedAt": "2026-06-10T12:18:05.779048+00:00"
 }

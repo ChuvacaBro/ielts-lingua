@@ -312,10 +312,15 @@ def strip_letter_bank(s: str):
             break
         start = idx + m.end()
         nxt = chr(ord("A") + expected + 1)
-        # option text ends at the next sequential letter, a bullet, or a
-        # capitalised word (the start of the real label)
-        m2 = re.search(rf"\s+(?={nxt}\s)|\s*[•\n]|\s+(?=[A-Z][a-z]{{2,}})", t[start:])
-        end = start + (m2.start() if m2 else len(t) - start)
+        # Prefer the next sequential letter as the delimiter (handles multi-word
+        # capitalised options like names); only for the LAST option fall back to
+        # a bullet / blank / capitalised label start.
+        mn = re.search(rf"\s+(?={nxt}\s)", t[start:])
+        if mn:
+            end = start + mn.start()
+        else:
+            m2 = re.search(r"\s*[•\n]|\s+____|\s+(?=[A-Z][a-z]{2,}\s)", t[start:])
+            end = start + (m2.start() if m2 else len(t) - start)
         opts.append({"letter": letter, "text": clean(t[start:end])})
         idx = end
         expected += 1
@@ -397,20 +402,44 @@ _IMG_NEED_CUE = re.compile(r"label the (map|diagram|plan)|the (map|diagram|plan)
                            r"map the places", re.I)
 
 
-def missing_image(out: dict, group_key: str) -> bool:
-    """True if a group has a diagram/map/plan-labelling question but no image,
-    so those questions can't actually be answered."""
+def missing_options(out: dict, group_key: str) -> bool:
+    """True if a question can't be answered because its options aren't shown: a
+    match-features/endings question with no bank, or a multiple-choice question
+    with image-less, mostly-blank options."""
     questions = out["questions"]
     for g in out[group_key]:
         lo, hi = g["questionRange"]
-        needs = any(
-            q.get("type") in ("mapPlanLabelling", "diagramLabel")
-            or _IMG_NEED_CUE.search(" ".join(str(q.get(k, ""))
-                                             for k in ("instructions", "prompt", "stem")))
-            for q in questions if lo <= q["number"] <= hi
-        )
-        if needs and not g.get("images"):
-            return True
+        for q in questions:
+            if not (lo <= q["number"] <= hi):
+                continue
+            if q.get("type") in ("matchFeatures", "matchEndings") and not q.get("bank"):
+                return True
+            opts = q.get("options") or []
+            if (q.get("type") == "multipleChoice" and opts and not g.get("images")
+                    and sum(1 for o in opts if not o.get("text", "").strip()) >= max(2, len(opts) // 2)):
+                return True
+    return False
+
+
+def missing_image(out: dict, group_key: str) -> bool:
+    """True if a group needs an image but has none, so its questions can't be
+    answered: a diagram/map/plan-labelling question, or a multiple-choice
+    question whose options are images (all option texts blank)."""
+    questions = out["questions"]
+    for g in out[group_key]:
+        lo, hi = g["questionRange"]
+        if g.get("images"):
+            continue
+        for q in questions:
+            if not (lo <= q["number"] <= hi):
+                continue
+            blob = " ".join(str(q.get(k, "")) for k in ("instructions", "prompt", "stem"))
+            if q.get("type") in ("mapPlanLabelling", "diagramLabel") or _IMG_NEED_CUE.search(blob):
+                return True
+            opts = q.get("options")
+            if (q.get("type") == "multipleChoice" and opts
+                    and all(not o.get("text", "").strip() for o in opts)):
+                return True
     return False
 
 
@@ -794,7 +823,7 @@ def main():
 
     stats = {"reading": 0, "listening": 0, "audio": 0,
              "hidden_no_audio": 0, "hidden_incomplete": 0,
-             "hidden_missing_image": 0, "skipped": []}
+             "hidden_missing_image": 0, "hidden_no_options": 0, "skipped": []}
     hidden = {"reading": [], "listening": []}  # {id, reasons, missing} report
 
     # READING
@@ -820,6 +849,8 @@ def main():
             reasons.append("source-missing-questions"); stats["hidden_incomplete"] += 1
         if missing_image(out, "passages"):
             reasons.append("missing-image"); stats["hidden_missing_image"] += 1
+        if missing_options(out, "passages"):
+            reasons.append("no-options"); stats["hidden_no_options"] += 1
         if reasons:
             missing = [q["number"] for q in out["questions"]
                        if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
@@ -852,6 +883,8 @@ def main():
             reasons.append("source-missing-questions"); stats["hidden_incomplete"] += 1
         if missing_image(out, "parts"):
             reasons.append("missing-image"); stats["hidden_missing_image"] += 1
+        if missing_options(out, "parts"):
+            reasons.append("no-options"); stats["hidden_no_options"] += 1
         if reasons:
             missing = [q["number"] for q in out["questions"]
                        if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
@@ -888,7 +921,8 @@ def main():
     print(f"Audio copied:      {stats['audio']}")
     print(f"Hidden — no audio: {stats['hidden_no_audio']}, "
           f"incomplete (source-missing): {stats['hidden_incomplete']}, "
-          f"missing-image: {stats['hidden_missing_image']}")
+          f"missing-image: {stats['hidden_missing_image']}, "
+          f"no-options: {stats['hidden_no_options']}")
     print(f"Hidden tests: reading {len(hidden['reading'])}, "
           f"listening {len(hidden['listening'])} → content/_hidden.json")
     print(f"Catalog: reading {len(cat_reading)}, listening {len(cat_listening)}, "
