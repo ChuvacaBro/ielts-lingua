@@ -463,14 +463,37 @@ ROMANS = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x",
           "xi", "xii", "xiii", "xiv", "xv", "xvi", "xvii", "xviii"]
 
 
+def _cut_heading_junk(text: str) -> str:
+    """Trim example/paragraph-item text that leaks into a heading."""
+    text = re.split(
+        r"\s+Example\b|"
+        r"\s+(?:\d{1,2}[.)]?\s+)?(?:Section|Paragraph)\s+(?:[A-Z](?![a-z])|\d{1,2})\b",
+        text, flags=re.I)[0]
+    if len(text) > 140:
+        cut = re.search(r"[.?!]\s", text)
+        text = text[: cut.start() + 1] if cut else text[:140]
+    return re.sub(r"\s+\d+\.?\s*$", "", text).strip()
+
+
 def parse_roman_headings(chunk: str):
     """Parse a 'List of Headings: i … ii … iii …' block into [{number, text}]."""
-    m = re.search(r"List of Headings", chunk, re.I)
-    seg = chunk[m.end():] if m else chunk
+    # Pick the heading-list anchor that actually starts the list (immediately
+    # followed by 'i'), not the rubric phrase "from the list of headings below".
+    anchors = list(re.finditer(r"(?:list of|paragraph)\s+headings", chunk, re.I))
+    seg = chunk
+    for a in anchors:
+        if re.match(r"\s*[:\-–—]?\s*i[.)\s]", chunk[a.end():], re.I):
+            seg = chunk[a.end():]
+            break
+    else:
+        if anchors:
+            seg = chunk[anchors[-1].end():]
     marks = []
     pos = 0
     for rom in ROMANS:
-        mm = re.compile(rf"(?<![A-Za-z]){rom}(?![A-Za-z])[.)]?\s+", re.I).search(seg, pos)
+        # the trailing lookahead rejects range references like "i – ix" / "i to ix"
+        mm = re.compile(rf"(?<![A-Za-z]){rom}(?![A-Za-z])[.)]?\s+(?![–\-]|(?:to|or)\s)",
+                        re.I).search(seg, pos)
         if not mm:
             break
         marks.append((rom, mm.start(), mm.end()))
@@ -478,12 +501,7 @@ def parse_roman_headings(chunk: str):
     headings = []
     for j, (rom, _s, e) in enumerate(marks):
         nxt = marks[j + 1][1] if j + 1 < len(marks) else len(seg)
-        text = clean(seg[e:nxt])
-        if len(text) > 140:  # last heading may run into following prose
-            cut = re.search(r"[.?!]\s", text)
-            text = text[: cut.start() + 1] if cut else text[:140]
-        text = re.sub(r"\s+\d+\.?\s*$", "", text)  # trailing paragraph number
-        headings.append({"number": rom, "text": text})
+        headings.append({"number": rom, "text": _cut_heading_junk(clean(seg[e:nxt]))})
     return headings
 
 
@@ -494,7 +512,7 @@ def parse_match_headings(chunk: str, lo: int, hi: int):
              or re.search(r"List of Headings", chunk, re.I))
         seg = chunk[m.end():] if m else chunk
         opts, _ = parse_letter_options(seg)
-        headings = [{"number": o["letter"], "text": o["text"]} for o in opts]
+        headings = [{"number": o["letter"], "text": _cut_heading_junk(o["text"])} for o in opts]
     # Paragraph labels can be letters (A-H) or numbers (1-7).
     m = re.search(r"paragraphs?\s+([A-Za-z]|\d+)\s*[-–—]\s*([A-Za-z]|\d+)", chunk)
     labels = None
