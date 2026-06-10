@@ -73,29 +73,67 @@ def local_images(section: str, tid: str) -> list[str]:
     return [f"/{section}-img/{tid}/{f}" for f in files]
 
 
-def attach_images(images: list[str], questions: list, groups: list, group_key: str):
-    """Attach every test image to the group (passage/part) that owns an
-    image-type question; fall back to one with an image cue, else the first."""
+# Authoritative image→question-range placement scraped from the archive.
+IMG_PLACEMENT = {}
+_pl_path = ROOT / "scripts" / "image_placement.json"
+if _pl_path.exists():
+    IMG_PLACEMENT = json.loads(_pl_path.read_text())
+
+
+def attach_images(section: str, tid: str, questions: list, groups: list, group_key: str):
+    """Attach a test's images to the right passage/part. Prefer the archive
+    placement (each image's true question range); fall back to an order-based
+    heuristic across the image-needing groups."""
+    images = local_images(section, tid)
     if not images or not groups:
         return
 
-    def has_image_q(lo, hi):
+    placement = (IMG_PLACEMENT.get(section, {}).get(tid) or {}).get("placement")
+    if placement:
+        have = {p.rsplit("/", 1)[-1]: p for p in images}
+        for fname, rng in placement:
+            path = have.get(fname)
+            if not path:
+                continue
+            if rng:
+                tgt = next((g for g in groups
+                            if g[group_key][0] <= rng[0] <= g[group_key][1]), None)
+            else:
+                tgt = None
+            tgt = tgt or groups[0]
+            tgt.setdefault("images", []).append(path)
+        return
+
+    def score(g):
+        lo, hi = g[group_key]
+        best = 0
         for q in questions:
             if lo <= q["number"] <= hi:
-                if q.get("type") in IMAGE_QTYPES:
+                if q.get("type") in ("mapPlanLabelling", "diagramLabel"):
                     return 2
                 blob = " ".join(str(q.get(k, "")) for k in ("instructions", "prompt", "stem"))
-                if IMAGE_CUE.search(blob):
-                    return 1
-        return 0
+                if re.search(r"label the (map|diagram|plan)|the (map|diagram|plan) below",
+                             blob, re.I):
+                    best = 2
+                elif q.get("type") in IMAGE_QTYPES:
+                    best = max(best, 1)
+        return best
 
-    best, best_score = groups[0], -1
-    for g in groups:
-        lo, hi = g[group_key]
-        score = has_image_q(lo, hi)
-        if score > best_score:
-            best, best_score = g, score
-    best["images"] = images
+    scored = [(g, score(g)) for g in groups]
+    targets = [g for g, s in scored if s >= 2] or [g for g, s in scored if s >= 1]
+    if not targets:
+        targets = [max(groups, key=score)]
+
+    if len(targets) == 1:
+        targets[0]["images"] = list(images)
+        return
+    # one image per target in order; any extras append to the last target
+    buckets = {id(g): [] for g in targets}
+    for i, img in enumerate(images):
+        buckets[id(targets[min(i, len(targets) - 1)])].append(img)
+    for g in targets:
+        if buckets[id(g)]:
+            g["images"] = buckets[id(g)]
 
 # ---- question classification (shared with the HTML parser) -----------------
 
@@ -673,7 +711,7 @@ def build_reading(doc, tid):
         if t and t != (q.get(key) or ""):
             q[key] = t
 
-    attach_images(local_images("reading", tid), questions, passages, "questionRange")
+    attach_images("reading", tid, questions, passages, "questionRange")
     return {
         "id": tid, "variant": "academic", "source": "v2",
         "passages": passages, "questions": questions, "answerKey": answers,
@@ -703,7 +741,7 @@ def build_listening(doc, tid, n):
         })
 
     questions = parse_questions_from_text(text, answer_nums)
-    attach_images(local_images("listening", tid), questions, parts, "questionRange")
+    attach_images("listening", tid, questions, parts, "questionRange")
     audio_present = (AUDIO_SRC / f"{n}_we.mp3").exists()
     return {
         "id": tid,
