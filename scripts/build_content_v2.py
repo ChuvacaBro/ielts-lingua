@@ -393,6 +393,27 @@ def is_incomplete(out: dict) -> bool:
     )
 
 
+_IMG_NEED_CUE = re.compile(r"label the (map|diagram|plan)|the (map|diagram|plan) below|"
+                           r"map the places", re.I)
+
+
+def missing_image(out: dict, group_key: str) -> bool:
+    """True if a group has a diagram/map/plan-labelling question but no image,
+    so those questions can't actually be answered."""
+    questions = out["questions"]
+    for g in out[group_key]:
+        lo, hi = g["questionRange"]
+        needs = any(
+            q.get("type") in ("mapPlanLabelling", "diagramLabel")
+            or _IMG_NEED_CUE.search(" ".join(str(q.get(k, ""))
+                                             for k in ("instructions", "prompt", "stem")))
+            for q in questions if lo <= q["number"] <= hi
+        )
+        if needs and not g.get("images"):
+            return True
+    return False
+
+
 def parse_letter_options(text: str):
     """Parse a sequential 'A … B … C …' option list. Returns (options, start)
     where start is the char offset of 'A' (or -1 if there is no real list)."""
@@ -772,7 +793,8 @@ def main():
         d.mkdir(parents=True, exist_ok=True)
 
     stats = {"reading": 0, "listening": 0, "audio": 0,
-             "hidden_no_audio": 0, "hidden_incomplete": 0, "skipped": []}
+             "hidden_no_audio": 0, "hidden_incomplete": 0,
+             "hidden_missing_image": 0, "skipped": []}
     hidden = {"reading": [], "listening": []}  # {id, reasons, missing} report
 
     # READING
@@ -791,14 +813,17 @@ def main():
         json.dump(out, open(CONTENT / "reading" / f"{tid}.json", "w"),
                   ensure_ascii=False, indent=2)
         stats["reading"] += 1
-        # Hide tests with question groups missing from the source. The JSON stays
-        # on disk, so they reappear automatically if the source is ever recovered.
+        # Hide tests with source-missing questions or a diagram/map question whose
+        # image we can't serve. JSON stays on disk so they return once fixed.
+        reasons = []
         if is_incomplete(out):
+            reasons.append("source-missing-questions"); stats["hidden_incomplete"] += 1
+        if missing_image(out, "passages"):
+            reasons.append("missing-image"); stats["hidden_missing_image"] += 1
+        if reasons:
             missing = [q["number"] for q in out["questions"]
                        if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
-            hidden["reading"].append({"id": tid, "reasons": ["source-missing-questions"],
-                                      "missing": missing})
-            stats["hidden_incomplete"] += 1
+            hidden["reading"].append({"id": tid, "reasons": reasons, "missing": missing})
             continue
         cat_reading.append({"id": tid, "flags": {"questions": len(out["questions"])}})
 
@@ -825,6 +850,8 @@ def main():
             reasons.append("no-audio"); stats["hidden_no_audio"] += 1
         if is_incomplete(out):
             reasons.append("source-missing-questions"); stats["hidden_incomplete"] += 1
+        if missing_image(out, "parts"):
+            reasons.append("missing-image"); stats["hidden_missing_image"] += 1
         if reasons:
             missing = [q["number"] for q in out["questions"]
                        if (q.get("instructions") or "") == SOURCE_MISSING_NOTE]
@@ -860,7 +887,8 @@ def main():
     print(f"Listening written: {stats['listening']}")
     print(f"Audio copied:      {stats['audio']}")
     print(f"Hidden — no audio: {stats['hidden_no_audio']}, "
-          f"incomplete (source-missing): {stats['hidden_incomplete']}")
+          f"incomplete (source-missing): {stats['hidden_incomplete']}, "
+          f"missing-image: {stats['hidden_missing_image']}")
     print(f"Hidden tests: reading {len(hidden['reading'])}, "
           f"listening {len(hidden['listening'])} → content/_hidden.json")
     print(f"Catalog: reading {len(cat_reading)}, listening {len(cat_listening)}, "
